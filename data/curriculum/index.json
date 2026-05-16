@@ -1,26 +1,32 @@
-[
-  {
-    "key": "primary",
-    "name": "Primary School",
-    "description": "P1 - P6",
-    "icon": "P",
-    "accent": "#43A96F",
-    "file": "primary.json"
-  },
-  {
-    "key": "high_school",
-    "name": "High School",
-    "description": "S1 - S6 + TVET",
-    "icon": "HS",
-    "accent": "#367BC9",
-    "file": "high_school.json"
-  },
-  {
-    "key": "college",
-    "name": "College",
-    "description": "University & Higher Education",
-    "icon": "C",
-    "accent": "#8B68C8",
-    "file": "college.json"
-  }
-]
+{
+  "schema_version": 2,
+  "nodes": [
+    {
+      "id": "o-level",
+      "name": "O Level",
+      "node_type": "level",
+      "description": "Senior 1 to Senior 3 books and syllabi",
+      "icon": "O",
+      "accent": "#367BC9",
+      "children_ref": "manifests/o_level.json"
+    },
+    {
+      "id": "a-level",
+      "name": "A Level",
+      "node_type": "level",
+      "description": "Senior 4 to Senior 6 core and subsidiary subjects",
+      "icon": "A",
+      "accent": "#8B68C8",
+      "children_ref": "manifests/a_level.json"
+    },
+    {
+      "id": "tvet",
+      "name": "TVET",
+      "node_type": "level",
+      "description": "RQF Level 2 to Level 5 competency-based programmes",
+      "icon": "T",
+      "accent": "#43A96F",
+      "children_ref": "manifests/tvet.json"
+    }
+  ]
+}

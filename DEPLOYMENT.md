@@ -1,107 +1,56 @@
-# Rahura AI Rina — Deployment Guide (Rwanda Schools)
+# SuperTeacher school deployment
 
-## What this app is
+## Runtime
 
-**Rahura AI Rina** is a **Windows desktop** Python app for Rwandan students. It is **not** a cloud web platform. Each computer stores profiles and progress locally.
+- Windows 10/11
+- Python 3.11 or 3.12
+- 4 GB RAM minimum; 8 GB recommended
+- Internet only for AI tutoring and learner-requested official resources
 
-- Voice tutor: Google **Gemini Live** (internet required)
-- Text tools: **OpenRouter** free-tier models (internet required)
-- Curriculum: local **REB-aligned JSON** (works offline for browsing lessons)
+Install and start:
 
-## Requirements
-
-| Item | Details |
-|------|---------|
-| OS | Windows 10/11 (primary target) |
-| Python | 3.11 or 3.12 |
-| RAM | 4 GB minimum, 8 GB recommended |
-| Microphone | Required for voice mode |
-| Internet | Required for AI voice and search |
-| Disk | ~2 GB with Playwright browsers |
-
-### System binaries (optional but recommended)
-
-- **ffmpeg** — video/audio processing in file uploads (`ffmpeg -version` to check)
-- **Playwright browsers** — run `playwright install` after pip install
-
-### Windows-only Python packages
-
-These are in `requirements.txt` and fail on macOS/Linux:
-
-- `comtypes`, `pycaw`, `win10toast`, `pywinauto`, `pygetwindow`
-
-For non-Windows testing, use a trimmed requirements file without those packages.
-
-## First-time setup
-
-```bash
-python setup.py
-copy config\api_keys.example.json config\api_keys.json
-```
-
-Edit `config\api_keys.json` and add:
-
-1. **Gemini API key** — [Google AI Studio](https://aistudio.google.com/apikey)
-2. **OpenRouter API key** — [OpenRouter](https://openrouter.ai/keys)
-
-Then run:
-
-```bash
+```powershell
+python -m pip install -r requirements.txt
 python main.py
 ```
 
-On first launch, **create a local account** (username + password). Data stays on that PC only.
+The Learn catalog and reviewed lesson JSON work offline. No Playwright browser,
+system-control package, installer script, or bulk PDF download is required.
 
-## API costs for schools
+## On-demand resource policy
 
-| Service | Cost model | Notes |
-|---------|------------|-------|
-| Gemini Live | Google free tier + paid overage | Voice uses more quota than text |
-| OpenRouter | Free `:free` models + paid tiers | Free models can rate-limit in class |
-| DuckDuckGo search | Free | Fallback when Gemini search fails |
+Curriculum navigation reads only small JSON manifests. Opening one lesson reads
+that lesson's JSON file and places it in a three-entry, 4 MB bounded cache.
+Official REB/RTB URLs are launched only from a learner click. This avoids loading
+all books, images, diagrams, and PDFs at startup.
 
-**Plan for 30 students:** this desktop app does **not** share one API pool safely. Each PC needs its own keys, or a school IT policy for key rotation. Budget for paid tiers if free limits fail mid-lesson.
+For school networks, allow official HTTPS resources from:
+
+- `elearning.reb.rw`
+- `www.elearning.rtb.gov.rw`
+
+Do not mirror or redistribute official books until the school has confirmed the
+applicable permissions. Keep source attribution and distinguish official
+material from SuperTeacher's extra explanations and exercises.
 
 ## Security checklist
 
-1. **Never commit** `config/api_keys.json` or `config/accounts.json` (see `.gitignore`)
-2. **Rotate keys** if they were ever shared or committed
-3. **Student mode** is on by default — blocks games, messaging, desktop control, flights
-4. Sign out when sharing a lab computer (Settings → Sign out)
+1. Keep API keys out of Git and use separate keys per deployment.
+2. Keep the removed shell, computer-control, shutdown, download, and browser
+   automation modules disabled.
+3. Use standard student Windows accounts without administrator rights.
+4. Patch Python and dependencies regularly.
+5. Review new curriculum JSON and source domains before release.
+6. Back up `config/student_profile.json` according to the school's privacy
+   policy.
 
-## Assets folder
+## Content release checklist
 
-UI images live in `assets/rahura/`. If missing, the app shows gradient placeholders.
+Before changing a catalog node from `catalogued` to `ready`:
 
-Generate simple placeholders:
-
-```bash
-python scripts/generate_assets.py
-```
-
-Replace with official Rahura branding images when available.
-
-## Authentication model
-
-This is **local single-machine auth**, not cloud SSO:
-
-- Accounts in `config/accounts.json` (hashed passwords)
-- Roles: `student` (default), `teacher` (manual edit in accounts file)
-- No server, no email verification, no multi-school sync
-
-For multi-school deployment, plan a future backend or MDM packaging — not included in this release.
-
-## Offline limitations
-
-- Lesson tree, quizzes UI, and profile work offline
-- **Rina voice and AI tools require internet**
-- No offline LLM is bundled
-
-## Support links
-
-- REB publications: https://www.reb.gov.rw/publications
-- REB e-learning: https://elearning.reb.rw/
-
-## License
-
-Personal and non-commercial use (CC BY-NC 4.0). Confirm with Rahura before commercial school licensing.
+1. Verify its official REB or RTB source and syllabus.
+2. Check every unit and module is represented in official order.
+3. Review explanations for factual accuracy and clear source distinction.
+4. Verify practice answers, experiments, assignments, and CheckBox answers.
+5. Render every declared diagram type in the desktop app.
+6. Run the curriculum validation and desktop smoke tests.
