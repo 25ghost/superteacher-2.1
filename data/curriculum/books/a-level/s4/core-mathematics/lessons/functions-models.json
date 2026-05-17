@@ -1,0 +1,20 @@
+{
+  "content": {
+    "objectives": "Distinguish linear, quadratic and exponential patterns and use residuals to critique model fit.",
+    "reading": "Different growing functions encode different mechanisms. Constant first differences suggest a linear model. Constant second differences suggest a quadratic. Constant ratios suggest exponential change.",
+    "deep_explanation": "A visually close curve does not guarantee a valid model. Residuals should scatter without a systematic pattern. Extrapolation is especially risky when mechanisms or constraints change beyond the observed domain.",
+    "examples": "3,8,15,24,35 has first differences 5,7,9,11 and constant second difference 2, suggesting a quadratic.\n5,10,20,40 has constant ratio 2, suggesting exponential growth.",
+    "practice": "1. Classify 7,11,15,19.\n2. Classify 1,4,9,16.\n3. Explain what a curved residual pattern indicates.\n4. Give two reasons a six-month model may fail over ten years.",
+    "practice_answers": "1. Linear.\n2. Quadratic.\n3. The model misses a systematic part of the pattern.\n4. Parameters may change, resources may become limiting, or the model is extrapolated far beyond observed data.",
+    "summary": "Use change patterns to propose models and residuals to challenge them.",
+    "quiz": {
+      "question": "Which pattern most strongly suggests exponential change?",
+      "options": {"A": "Constant values", "B": "Constant first differences", "C": "Constant ratios", "D": "Constant second differences"},
+      "answer": "C"
+    },
+    "checkbox_answers": "☐ I calculated differences or ratios.\n☐ I inspected residual patterns.\n☐ I limited my conclusion to a defensible domain.",
+    "experiment": "Fit linear and multiplicative-decay models to cooling data. Plot residuals and defend the better model.",
+    "assignment": "Find a Rwandan data context, compare two model families and write a one-page model critique.",
+    "diagrams": [{"type": "cartesian", "params": {"x_label": "time", "y_label": "quantity"}, "caption": "Curvature and changing slope distinguish model families."}]
+  }
+}

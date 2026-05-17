@@ -24,23 +24,36 @@ from memory.memory_manager import (
     should_extract_memory, extract_memory
 )
 
-from actions.file_processor import file_processor
-from actions.flight_finder     import flight_finder
-from actions.open_app          import open_app
-from actions.weather_report    import weather_action
-from actions.send_message      import send_message
-from actions.reminder          import reminder
-from actions.computer_settings import computer_settings
-from actions.screen_processor  import screen_process
-from actions.youtube_video     import youtube_video
-from actions.desktop           import desktop_control
-from actions.browser_control   import browser_control
-from actions.file_controller   import file_controller
-from actions.code_helper       import code_helper
-from actions.dev_agent         import dev_agent
-from actions.web_search        import web_search as web_search_action
-from actions.computer_control  import computer_control
-from actions.game_updater      import game_updater
+ACTION_TOOLS_AVAILABLE = False
+
+
+def _disabled_action(*_args, **_kwargs):
+    return (
+        "This computer-control tool is not installed in the safe learning build. "
+        "Learn, local curriculum, quizzes, and Rina tutoring remain available."
+    )
+
+
+# Learn must start without importing OS-control modules. A separately reviewed
+# action pack may replace these stubs in a teacher deployment; the default
+# student build never imports or advertises those capabilities.
+file_processor = _disabled_action
+flight_finder = _disabled_action
+open_app = _disabled_action
+weather_action = _disabled_action
+send_message = _disabled_action
+reminder = _disabled_action
+computer_settings = _disabled_action
+screen_process = _disabled_action
+youtube_video = _disabled_action
+desktop_control = _disabled_action
+browser_control = _disabled_action
+file_controller = _disabled_action
+code_helper = _disabled_action
+dev_agent = _disabled_action
+web_search_action = _disabled_action
+computer_control = _disabled_action
+game_updater = _disabled_action
 
 
 def get_base_dir():
@@ -598,7 +611,14 @@ class JarvisLive:
             output_audio_transcription={},
             input_audio_transcription={},
             system_instruction="\n".join(parts),
-            tools=[{"function_declarations": filter_tool_declarations(TOOL_DECLARATIONS)}],
+            tools=[{
+                "function_declarations": filter_tool_declarations(
+                    TOOL_DECLARATIONS if ACTION_TOOLS_AVAILABLE else [
+                        declaration for declaration in TOOL_DECLARATIONS
+                        if declaration.get("name") in {"save_memory", "shutdown_rina"}
+                    ]
+                )
+            }],
             session_resumption=types.SessionResumptionConfig(),
             speech_config=types.SpeechConfig(
                 voice_config=types.VoiceConfig(

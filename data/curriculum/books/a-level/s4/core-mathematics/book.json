@@ -1,0 +1,5 @@
+{
+  "nodes": [
+    {"id": "unit-functions", "name": "Functions as models", "node_type": "unit", "description": "Domain, range, representations and model choice", "children_ref": "books/a-level/s4/core-mathematics/units/functions.json"}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "competence": "Analyse functions through algebraic, graphical and contextual representations and justify a suitable model.",
+    "source_pages": "Official Senior 4 Core Mathematics functions strand",
+    "estimated_minutes": 110
+  },
+  "nodes": [
+    {"id": "domain-range", "name": "Domain, range and assumptions", "node_type": "lesson", "description": "Define what a model is allowed to represent", "content_ref": "books/a-level/s4/core-mathematics/lessons/functions-domain.json"},
+    {"id": "model-choice", "name": "Choosing a model from change", "node_type": "lesson", "description": "Use differences, ratios and residuals", "content_ref": "books/a-level/s4/core-mathematics/lessons/functions-models.json"}
+  ]
+}

@@ -11,12 +11,14 @@ import time
 import traceback
 from pathlib import Path
 
-from PyQt6.QtCore import QPointF, QRectF, QSize, Qt, QTimer, pyqtSignal
+from PyQt6.QtCore import QPointF, QRectF, QSize, Qt, QTimer, QUrl, pyqtSignal
 from PyQt6.QtGui import (
     QBrush,
     QColor,
+    QDesktopServices,
     QFont,
     QIcon,
+    QImage,
     QKeySequence,
     QLinearGradient,
     QPainter,
@@ -43,6 +45,7 @@ from PyQt6.QtWidgets import (
     QPushButton,
     QScrollArea,
     QSizePolicy,
+    QSpinBox,
     QStackedWidget,
     QTextEdit,
     QTreeWidget,
@@ -52,12 +55,32 @@ from PyQt6.QtWidgets import (
 )
 
 try:
-    from core.curriculum_loader import get_children, get_levels, get_node_by_path, get_reb_level_summaries
+    from core.curriculum_loader import (
+        get_children,
+        get_lesson_content,
+        get_levels,
+        get_node_by_path,
+        get_reb_level_summaries,
+        get_source_links,
+        get_unit_metadata,
+    )
 except Exception:
     get_children = None
+    get_lesson_content = None
     get_levels = None
     get_node_by_path = None
     get_reb_level_summaries = None
+    get_source_links = None
+    get_unit_metadata = None
+
+try:
+    from core.illustration_loader import (
+        IllustrationLoadError,
+        get_cached_official_pdf,
+    )
+except Exception:
+    IllustrationLoadError = RuntimeError
+    get_cached_official_pdf = None
 
 try:
     from core.local_auth import authenticate, has_accounts
@@ -1294,6 +1317,433 @@ class MathDiagramWidget(QWidget):
             p.setPen(QColor(self.t["muted"]))
             p.drawText(QPointF(pad, 14), "Vertical angles are equal")
 
+    def _draw_api_flow(self, p: QPainter):
+        """Render a compact request pipeline for TVET software lessons."""
+        w, h = self.width(), self.height()
+        labels = self.params.get(
+            "labels",
+            ["Request", "Validate", "Authorise", "Service", "Response"],
+        )
+        if not isinstance(labels, list) or not labels:
+            labels = ["Request", "Validate", "Service", "Response"]
+
+        pad = 18
+        gap = 12
+        count = len(labels)
+        box_w = max(54.0, (w - pad * 2 - gap * (count - 1)) / count)
+        box_h = min(64.0, h * 0.34)
+        y = (h - box_h) / 2
+        font = QFont("Consolas", 8, QFont.Weight.Bold)
+        p.setFont(font)
+
+        for index, label in enumerate(labels):
+            x = pad + index * (box_w + gap)
+            rect = QRectF(x, y, box_w, box_h)
+            fill = self.t["surface2"] if index % 2 == 0 else self.t["card"]
+            p.setPen(QPen(QColor(self.t["primary"]), 1.5))
+            p.setBrush(QBrush(QColor(fill)))
+            p.drawRoundedRect(rect, 8, 8)
+            p.setPen(QColor(self.t["text"]))
+            p.drawText(
+                rect.adjusted(5, 4, -5, -4),
+                Qt.AlignmentFlag.AlignCenter | Qt.TextFlag.TextWordWrap,
+                str(label),
+            )
+
+            if index < count - 1:
+                start = QPointF(rect.right() + 2, rect.center().y())
+                end = QPointF(rect.right() + gap - 2, rect.center().y())
+                p.setPen(QPen(QColor(self.t["muted"]), 1.5))
+                p.drawLine(start, end)
+                p.drawLine(end, QPointF(end.x() - 5, end.y() - 4))
+                p.drawLine(end, QPointF(end.x() - 5, end.y() + 4))
+
+        p.setPen(QColor(self.t["muted"]))
+        p.setFont(QFont("Consolas", 8))
+        p.drawText(
+            QRectF(pad, y + box_h + 15, w - pad * 2, 22),
+            Qt.AlignmentFlag.AlignCenter,
+            "Data crosses each boundary deliberately.",
+        )
+
+    def _draw_process_flow(self, p: QPainter):
+        labels = self.params.get("labels", ["Observe", "Explain", "Apply", "Check"])
+        original = self.params
+        self.params = {"labels": labels}
+        try:
+            self._draw_api_flow(p)
+        finally:
+            self.params = original
+
+    def _draw_concept_map(self, p: QPainter):
+        w, h = self.width(), self.height()
+        center_text = str(self.params.get("center", "Main idea"))
+        nodes = self.params.get("nodes", ["Key terms", "How it works", "Example", "Check"])
+        if not isinstance(nodes, list):
+            nodes = ["Key terms", "How it works", "Example", "Check"]
+        nodes = [str(item) for item in nodes[:4]]
+        positions = [
+            QRectF(18, 18, 145, 52),
+            QRectF(w - 163, 18, 145, 52),
+            QRectF(18, h - 70, 145, 52),
+            QRectF(w - 163, h - 70, 145, 52),
+        ]
+        center = QRectF(w / 2 - 88, h / 2 - 34, 176, 68)
+
+        p.setFont(QFont("Consolas", 8, QFont.Weight.Bold))
+        for index, label in enumerate(nodes):
+            rect = positions[index]
+            p.setPen(QPen(QColor(self.t["line2"]), 1.5))
+            p.drawLine(center.center(), rect.center())
+            p.setBrush(QBrush(QColor(self.t["surface2"])))
+            p.setPen(QPen(QColor(self.t["primary"]), 1.3))
+            p.drawRoundedRect(rect, 8, 8)
+            p.setPen(QColor(self.t["text"]))
+            p.drawText(
+                rect.adjusted(6, 4, -6, -4),
+                Qt.AlignmentFlag.AlignCenter | Qt.TextFlag.TextWordWrap,
+                label,
+            )
+
+        p.setBrush(QBrush(QColor(self.t["primary"])))
+        p.setPen(Qt.PenStyle.NoPen)
+        p.drawRoundedRect(center, 12, 12)
+        p.setPen(QColor("#FFFFFF"))
+        p.drawText(
+            center.adjusted(8, 6, -8, -6),
+            Qt.AlignmentFlag.AlignCenter | Qt.TextFlag.TextWordWrap,
+            center_text,
+        )
+
+    def _draw_bar_chart(self, p: QPainter):
+        w, h = self.width(), self.height()
+        labels = self.params.get("labels", ["A", "B", "C", "D"])
+        values = self.params.get("values", [3, 7, 5, 9])
+        if not isinstance(labels, list) or not isinstance(values, list) or not values:
+            labels, values = ["A", "B", "C", "D"], [3, 7, 5, 9]
+        count = min(len(labels), len(values), 8)
+        numeric = [max(0.0, float(values[index])) for index in range(count)]
+        maximum = max(numeric, default=1.0) or 1.0
+        left, top, bottom = 42.0, 20.0, 38.0
+        chart_w, chart_h = w - left - 18, h - top - bottom
+        p.setPen(QPen(QColor(self.t["line2"]), 1.5))
+        p.drawLine(QPointF(left, top), QPointF(left, top + chart_h))
+        p.drawLine(QPointF(left, top + chart_h), QPointF(left + chart_w, top + chart_h))
+        slot = chart_w / max(count, 1)
+        colors = [self.t["primary"], self.t["teal"], self.t["purple"], self.t["secondary"]]
+        p.setFont(QFont("Consolas", 8))
+        for index in range(count):
+            bar_h = numeric[index] / maximum * (chart_h - 18)
+            rect = QRectF(left + index * slot + slot * 0.2, top + chart_h - bar_h, slot * 0.6, bar_h)
+            p.setBrush(QBrush(QColor(colors[index % len(colors)])))
+            p.setPen(Qt.PenStyle.NoPen)
+            p.drawRoundedRect(rect, 4, 4)
+            p.setPen(QColor(self.t["text"]))
+            p.drawText(
+                QRectF(left + index * slot, top + chart_h + 4, slot, 24),
+                Qt.AlignmentFlag.AlignCenter,
+                str(labels[index]),
+            )
+            p.drawText(
+                QRectF(rect.left(), max(top, rect.top() - 18), rect.width(), 16),
+                Qt.AlignmentFlag.AlignCenter,
+                str(values[index]),
+            )
+
+    def _draw_timeline(self, p: QPainter):
+        w, h = self.width(), self.height()
+        labels = self.params.get("labels", ["Earlier", "Change", "Later", "Impact"])
+        if not isinstance(labels, list) or not labels:
+            labels = ["Earlier", "Change", "Later", "Impact"]
+        labels = [str(item) for item in labels[:6]]
+        y = h / 2
+        pad = 42
+        p.setPen(QPen(QColor(self.t["line2"]), 3))
+        p.drawLine(QPointF(pad, y), QPointF(w - pad, y))
+        p.setFont(QFont("Consolas", 8, QFont.Weight.Bold))
+        for index, label in enumerate(labels):
+            x = pad + index * (w - pad * 2) / max(len(labels) - 1, 1)
+            p.setBrush(QBrush(QColor(self.t["primary"])))
+            p.setPen(Qt.PenStyle.NoPen)
+            p.drawEllipse(QPointF(x, y), 7, 7)
+            rect_y = y - 58 if index % 2 == 0 else y + 16
+            p.setPen(QColor(self.t["text"]))
+            p.drawText(
+                QRectF(x - 58, rect_y, 116, 42),
+                Qt.AlignmentFlag.AlignCenter | Qt.TextFlag.TextWordWrap,
+                label,
+            )
+
+    def _draw_circuit(self, p: QPainter):
+        w, h = self.width(), self.height()
+        left, right = 55.0, w - 55.0
+        top, bottom = 55.0, h - 55.0
+        p.setPen(QPen(QColor(self.t["text"]), 2))
+        p.drawLine(QPointF(left, top), QPointF(right, top))
+        p.drawLine(QPointF(right, top), QPointF(right, bottom))
+        p.drawLine(QPointF(right, bottom), QPointF(left, bottom))
+        p.drawLine(QPointF(left, bottom), QPointF(left, top))
+        # Cell
+        cx = left
+        p.setPen(QPen(QColor(self.t["primary"]), 2))
+        p.drawLine(QPointF(cx - 12, h / 2 - 14), QPointF(cx + 12, h / 2 - 14))
+        p.drawLine(QPointF(cx - 7, h / 2 + 14), QPointF(cx + 7, h / 2 + 14))
+        # Lamp
+        lamp = QPointF(right, h / 2)
+        p.drawEllipse(lamp, 20, 20)
+        p.drawLine(QPointF(lamp.x() - 13, lamp.y() - 13), QPointF(lamp.x() + 13, lamp.y() + 13))
+        p.drawLine(QPointF(lamp.x() - 13, lamp.y() + 13), QPointF(lamp.x() + 13, lamp.y() - 13))
+        # Resistor
+        rx = w / 2
+        p.setPen(QPen(QColor(self.t["teal"]), 2))
+        p.drawRect(QRectF(rx - 34, top - 10, 68, 20))
+        p.setFont(QFont("Consolas", 8))
+        p.setPen(QColor(self.t["muted"]))
+        p.drawText(QRectF(rx - 45, top + 15, 90, 18), Qt.AlignmentFlag.AlignCenter, "resistor")
+        p.drawText(QRectF(right - 38, h / 2 + 25, 76, 18), Qt.AlignmentFlag.AlignCenter, "lamp")
+
+    def _draw_force_diagram(self, p: QPainter):
+        w, h = self.width(), self.height()
+        cx, cy = w / 2, h / 2
+        body = QRectF(cx - 42, cy - 28, 84, 56)
+        p.setBrush(QBrush(QColor(self.t["surface2"])))
+        p.setPen(QPen(QColor(self.t["text"]), 2))
+        p.drawRoundedRect(body, 7, 7)
+        arrows = [
+            (QPointF(cx, body.top()), QPointF(cx, 24), "normal"),
+            (QPointF(cx, body.bottom()), QPointF(cx, h - 24), "weight"),
+            (QPointF(body.right(), cy), QPointF(w - 28, cy), "applied"),
+            (QPointF(body.left(), cy), QPointF(28, cy), "friction"),
+        ]
+        p.setFont(QFont("Consolas", 8))
+        for start, end, label in arrows:
+            p.setPen(QPen(QColor(self.t["primary"]), 2))
+            p.drawLine(start, end)
+            direction = 1 if end.x() >= start.x() else -1
+            if abs(end.y() - start.y()) > abs(end.x() - start.x()):
+                direction_y = 1 if end.y() >= start.y() else -1
+                p.drawLine(end, QPointF(end.x() - 5, end.y() - 8 * direction_y))
+                p.drawLine(end, QPointF(end.x() + 5, end.y() - 8 * direction_y))
+            else:
+                p.drawLine(end, QPointF(end.x() - 8 * direction, end.y() - 5))
+                p.drawLine(end, QPointF(end.x() - 8 * direction, end.y() + 5))
+            p.setPen(QColor(self.t["muted"]))
+            midpoint = QPointF((start.x() + end.x()) / 2, (start.y() + end.y()) / 2)
+            p.drawText(QPointF(midpoint.x() + 5, midpoint.y() - 5), label)
+
+    def _draw_wave(self, p: QPainter):
+        w, h = self.width(), self.height()
+        mid = h / 2
+        amplitude = h * 0.28
+        cycles = float(self.params.get("cycles", 2.5))
+        p.setPen(QPen(QColor(self.t["line2"]), 1))
+        p.drawLine(QPointF(20, mid), QPointF(w - 20, mid))
+        path = QPainterPath(QPointF(20, mid))
+        for x in range(21, max(22, int(w - 19))):
+            phase = (x - 20) / max(w - 40, 1) * cycles * math.tau
+            path.lineTo(QPointF(x, mid - math.sin(phase) * amplitude))
+        p.setPen(QPen(QColor(self.t["primary"]), 2.5))
+        p.drawPath(path)
+        p.setPen(QColor(self.t["muted"]))
+        p.setFont(QFont("Consolas", 8))
+        p.drawText(QPointF(24, mid - amplitude - 7), "crest")
+        p.drawText(QPointF(w * 0.35, mid + amplitude + 16), "trough")
+
+    def _draw_cycle(self, p: QPainter):
+        w, h = self.width(), self.height()
+        labels = self.params.get("labels", ["Input", "Process", "Output", "Feedback"])
+        if not isinstance(labels, list) or not labels:
+            labels = ["Input", "Process", "Output", "Feedback"]
+        labels = [str(item) for item in labels[:6]]
+        cx, cy = w / 2, h / 2
+        radius = min(w, h) * 0.31
+        p.setFont(QFont("Consolas", 8, QFont.Weight.Bold))
+        points: list[QPointF] = []
+        for index, label in enumerate(labels):
+            angle = -math.pi / 2 + index * math.tau / len(labels)
+            point = QPointF(cx + radius * math.cos(angle), cy + radius * math.sin(angle))
+            points.append(point)
+            rect = QRectF(point.x() - 48, point.y() - 20, 96, 40)
+            p.setBrush(QBrush(QColor(self.t["surface2"])))
+            p.setPen(QPen(QColor(self.t["primary"]), 1.5))
+            p.drawRoundedRect(rect, 8, 8)
+            p.setPen(QColor(self.t["text"]))
+            p.drawText(rect.adjusted(4, 3, -4, -3), Qt.AlignmentFlag.AlignCenter | Qt.TextFlag.TextWordWrap, label)
+        p.setPen(QPen(QColor(self.t["teal"]), 2))
+        for index, start in enumerate(points):
+            end = points[(index + 1) % len(points)]
+            p.drawLine(start, end)
+
+    def _draw_tree(self, p: QPainter):
+        w, h = self.width(), self.height()
+        root = QPointF(42, h / 2)
+        first = [QPointF(w * 0.42, h * 0.28), QPointF(w * 0.42, h * 0.72)]
+        leaves = [
+            QPointF(w - 42, h * 0.14),
+            QPointF(w - 42, h * 0.38),
+            QPointF(w - 42, h * 0.62),
+            QPointF(w - 42, h * 0.86),
+        ]
+        p.setPen(QPen(QColor(self.t["primary"]), 2))
+        for point in first:
+            p.drawLine(root, point)
+        p.drawLine(first[0], leaves[0])
+        p.drawLine(first[0], leaves[1])
+        p.drawLine(first[1], leaves[2])
+        p.drawLine(first[1], leaves[3])
+        p.setBrush(QBrush(QColor(self.t["secondary"])))
+        p.setPen(Qt.PenStyle.NoPen)
+        for point in [root, *first, *leaves]:
+            p.drawEllipse(point, 5, 5)
+        p.setFont(QFont("Consolas", 8))
+        p.setPen(QColor(self.t["text"]))
+        labels = self.params.get("labels", ["Start", "A", "B", "AA", "AB", "BA", "BB"])
+        for point, label in zip([root, *first, *leaves], labels):
+            p.drawText(QPointF(point.x() + 7, point.y() - 7), str(label))
+
+
+class OfficialTextbookViewer(Card):
+    """Click-to-load official PDF pages without touching them during startup."""
+
+    _loaded = pyqtSignal(str, str)
+
+    def __init__(self, t: dict, url: str, title: str, start_page: int = 1, parent=None):
+        super().__init__(t, "OfficialTextbookViewer", True, parent)
+        self.t = t
+        self.url = url
+        self.title = title
+        self.start_page = max(1, int(start_page or 1))
+        self._document = None
+        self._loaded.connect(self._finish_load)
+
+        layout = QVBoxLayout(self)
+        layout.setContentsMargins(22, 18, 22, 18)
+        layout.setSpacing(10)
+        heading = QLabel("Official book visuals")
+        heading.setFont(app_font(15, QFont.Weight.Bold))
+        layout.addWidget(heading)
+        explanation = QLabel(
+            "The official source stays unloaded until requested. Once loaded, use the page control to view its original graphs, drawings and images."
+        )
+        explanation.setWordWrap(True)
+        explanation.setStyleSheet(f"color: {t['muted']};")
+        layout.addWidget(explanation)
+
+        controls = QHBoxLayout()
+        self.load_button = PrimaryButton(t, "Load official visuals", "book", t["primary"])
+        self.load_button.clicked.connect(self._start_load)
+        controls.addWidget(self.load_button)
+        self.previous_button = PrimaryButton(t, "Previous", "play", t["secondary"])
+        self.previous_button.clicked.connect(lambda: self._change_page(-1))
+        self.previous_button.setVisible(False)
+        controls.addWidget(self.previous_button)
+        self.page_input = QSpinBox()
+        self.page_input.setMinimum(1)
+        self.page_input.setMaximum(1)
+        self.page_input.setValue(self.start_page)
+        self.page_input.setVisible(False)
+        self.page_input.valueChanged.connect(self._render_page)
+        controls.addWidget(self.page_input)
+        self.next_button = PrimaryButton(t, "Next", "play", t["secondary"])
+        self.next_button.clicked.connect(lambda: self._change_page(1))
+        self.next_button.setVisible(False)
+        controls.addWidget(self.next_button)
+        controls.addStretch(1)
+        layout.addLayout(controls)
+
+        self.status = QLabel("Not loaded")
+        self.status.setStyleSheet(f"color: {t['muted']};")
+        layout.addWidget(self.status)
+        self.page_image = QLabel()
+        self.page_image.setAlignment(Qt.AlignmentFlag.AlignCenter)
+        self.page_image.setVisible(False)
+        layout.addWidget(self.page_image)
+
+    def _start_load(self):
+        if not get_cached_official_pdf:
+            self.status.setText("Textbook loading support is unavailable.")
+            return
+        self.load_button.setEnabled(False)
+        self.status.setText("Downloading the official source on demand…")
+
+        def worker():
+            try:
+                path = get_cached_official_pdf(self.url)
+                self._loaded.emit(str(path), "")
+            except IllustrationLoadError as exc:
+                self._loaded.emit("", str(exc))
+            except Exception as exc:
+                self._loaded.emit("", f"Could not load textbook visuals: {exc}")
+
+        threading.Thread(target=worker, daemon=True).start()
+
+    def _finish_load(self, path: str, error: str):
+        if error:
+            self.status.setText(error)
+            self.load_button.setEnabled(True)
+            return
+        try:
+            import pymupdf
+            document = pymupdf.open(path)
+        except Exception as exc:
+            self.status.setText(f"The PDF could not be rendered: {exc}")
+            self.load_button.setEnabled(True)
+            return
+        self._document = document
+        page_count = max(1, len(document))
+        self.page_input.blockSignals(True)
+        self.page_input.setRange(1, page_count)
+        self.page_input.setValue(min(self.start_page, page_count))
+        self.page_input.blockSignals(False)
+        self.load_button.setVisible(False)
+        self.previous_button.setVisible(True)
+        self.page_input.setVisible(True)
+        self.next_button.setVisible(True)
+        self.page_image.setVisible(True)
+        self._render_page(self.page_input.value())
+
+    def _change_page(self, delta: int):
+        self.page_input.setValue(self.page_input.value() + delta)
+
+    def _render_page(self, displayed_page: int):
+        if not self._document:
+            return
+        page_count = len(self._document)
+        page_index = max(0, min(displayed_page - 1, page_count - 1))
+        page = self._document.load_page(page_index)
+        target_width = 1050
+        scale = target_width / max(float(page.rect.width), 1.0)
+        try:
+            import pymupdf
+            pixmap = page.get_pixmap(
+                matrix=pymupdf.Matrix(scale, scale),
+                colorspace=pymupdf.csRGB,
+                alpha=False,
+            )
+        except Exception as exc:
+            self.status.setText(f"Page {displayed_page} could not be rendered: {exc}")
+            return
+        image = QImage(
+            pixmap.samples,
+            pixmap.width,
+            pixmap.height,
+            pixmap.stride,
+            QImage.Format.Format_RGB888,
+        ).copy()
+        if image.isNull():
+            self.status.setText(f"Page {displayed_page} could not be rendered.")
+            return
+        self.page_image.setPixmap(QPixmap.fromImage(image))
+        self.status.setText(f"{self.title} — page {displayed_page} of {page_count}")
+
+    def closeEvent(self, event):
+        try:
+            if self._document is not None:
+                self._document.close()
+        except Exception:
+            pass
+        super().closeEvent(event)
+
 
 class ChatBubble(QWidget):
     def __init__(self, t: dict, role: str, text: str, parent=None):
@@ -2375,7 +2825,10 @@ class MainWindow(QMainWindow):
         if not hasattr(self, "_learn_root"):
             return
         clear_layout(self._learn_root)
-        self._learn_root.addWidget(self._headline("Learn", "Follow a clear REB order from P4-P6 and S1-S6: read, practice, check, revise, then ask Rina."))
+        self._learn_root.addWidget(self._headline(
+            "Learn",
+            "Choose O Level, A Level, or TVET; open one reviewed lesson at a time, practise, use CheckBox, then ask Rina.",
+        ))
         self._learn_root.addWidget(self._daily_study_structure(compact=True))
         self._learn_root.addWidget(self._breadcrumb_widget())
 
@@ -2399,22 +2852,6 @@ class MainWindow(QMainWindow):
         for idx, node in enumerate(children):
             grid.addWidget(self._curriculum_card(node), idx // 3, idx % 3)
         self._learn_root.addLayout(grid)
-
-        if not self._learn_path:
-            self._learn_root.addWidget(self._section_header("Subject Categories"))
-            subjects = QGridLayout()
-            subjects.setHorizontalSpacing(14)
-            subjects.setVerticalSpacing(14)
-            for idx, item in enumerate([
-                ("Mathematics", "Problem solving and numeracy", 72, self.t["purple"], asset("rahura", "s-calculator-b.jpg")),
-                ("Physics", "Motion, energy and systems", 46, self.t["primary"], asset("rahura", "g-box-a.jpg")),
-                ("Chemistry", "Matter, reactions and lab safety", 58, self.t["teal"], asset("rahura", "exercise-book-green.jpg")),
-                ("Biology", "Life science and ecosystems", 64, self.t["green"], asset("rahura", "eb-blue-48-a.jpg")),
-                ("ICT", "Digital skills and coding", 50, self.t["secondary"], asset("rahura", "colored-pencils.jpg")),
-                ("TVET Courses", "Future-ready trade pathways", 35, self.t["gold"], asset("rahura", "1.jpg")),
-            ]):
-                subjects.addWidget(self._subject_card(*item), idx // 3, idx % 3)
-            self._learn_root.addLayout(subjects)
 
     def _breadcrumb_widget(self) -> QWidget:
         box = QWidget()
@@ -2471,14 +2908,18 @@ class MainWindow(QMainWindow):
         desc.setStyleSheet(f"color: {self.t['muted']};")
         lay.addWidget(desc, stretch=1)
         foot = QHBoxLayout()
-        diff = QLabel(self._difficulty_for(node.node_type))
+        status_label = "Study-ready" if node.status == "ready" else "Official source catalogued"
+        diff = QLabel(status_label)
         diff.setFont(app_font(8, QFont.Weight.Bold))
         diff.setStyleSheet(f"color: {accent};")
         foot.addWidget(diff)
         foot.addStretch(1)
-        foot.addWidget(QLabel("Open"))
+        foot.addWidget(QLabel("Open" if node.children_ref else "Pending review"))
         lay.addLayout(foot)
-        card.mousePressEvent = lambda _e, p=node.path[:]: self._set_learn_path(p)
+        if node.children_ref:
+            card.mousePressEvent = lambda _e, p=node.path[:]: self._set_learn_path(p)
+        else:
+            card.setCursor(Qt.CursorShape.ArrowCursor)
         return card
 
     def _unit_lesson_view(self, node) -> QWidget:
@@ -2493,31 +2934,60 @@ class MainWindow(QMainWindow):
         title = QLabel(node.name)
         title.setWordWrap(True)
         title.setFont(app_font(23, QFont.Weight.Bold))
-        note = QLabel("Objectives, examples, practice, summary, and knowledge checks are organized lesson by lesson.")
+        lessons = get_children(node) if get_children else []
+        unit_meta = get_unit_metadata(node.path) if get_unit_metadata else {}
+        competence = unit_meta.get(
+            "competence",
+            "Objectives, examples, practice, summary, and knowledge checks are organized lesson by lesson.",
+        )
+        note = QLabel(competence)
         note.setWordWrap(True)
         note.setFont(app_font(10))
         note.setStyleSheet(f"color: {self.t['muted']};")
         hl.addWidget(title, 0, 0)
         hl.addWidget(note, 1, 0)
+        source_links = get_source_links(node.path) if get_source_links else {}
+        if source_links:
+            source_row = QWidget()
+            source_row.setStyleSheet("background: transparent;")
+            source_layout = QHBoxLayout(source_row)
+            source_layout.setContentsMargins(0, 6, 0, 0)
+            source_layout.setSpacing(8)
+            if source_links.get("source_url"):
+                source_button = PrimaryButton(
+                    self.t, "Open official book", "book", self.t["primary"]
+                )
+                source_button.clicked.connect(
+                    lambda _=False, url=source_links["source_url"]:
+                    QDesktopServices.openUrl(QUrl(url))
+                )
+                source_layout.addWidget(source_button)
+            if source_links.get("syllabus_url"):
+                syllabus_button = PrimaryButton(
+                    self.t, "Open syllabus", "learn", self.t["purple"]
+                )
+                syllabus_button.clicked.connect(
+                    lambda _=False, url=source_links["syllabus_url"]:
+                    QDesktopServices.openUrl(QUrl(url))
+                )
+                source_layout.addWidget(syllabus_button)
+            source_layout.addStretch(1)
+            hl.addWidget(source_row, 2, 0)
         ring = ProgressRing(self.t, 48, "unit mastery", self._accent_for(node.name))
-        hl.addWidget(ring, 0, 1, 2, 1)
+        hl.addWidget(ring, 0, 1, 3, 1)
         lay.addWidget(hero)
 
-        lessons = node.lessons or [
-            "Lesson introduction",
-            "Core concepts",
-            "Worked examples",
-            "Practice and knowledge check",
-        ]
         grid = QGridLayout()
         grid.setHorizontalSpacing(14)
         grid.setVerticalSpacing(14)
-        for idx, lesson in enumerate(lessons):
-            grid.addWidget(self._lesson_card(node, lesson, idx), idx // 2, idx % 2)
+        for idx, lesson_node in enumerate(lessons):
+            grid.addWidget(self._lesson_card(node, lesson_node, idx), idx // 2, idx % 2)
+        if not lessons:
+            lay.addWidget(self._empty_card("This unit has no verified lesson files yet."))
         lay.addLayout(grid)
         return wrap
 
-    def _lesson_card(self, node, lesson: str, idx: int) -> QWidget:
+    def _lesson_card(self, node, lesson_node, idx: int) -> QWidget:
         accent = self._accent_for(node.name)
         card = Card(self.t, "LessonCard", True)
         card.setMinimumHeight(180)
@@ -2527,17 +2997,17 @@ class MainWindow(QMainWindow):
         label.setFont(app_font(8, QFont.Weight.Bold))
         label.setStyleSheet(f"color: {accent};")
         lay.addWidget(label)
-        title = QLabel(lesson)
+        title = QLabel(lesson_node.name)
         title.setWordWrap(True)
         title.setFont(app_font(14, QFont.Weight.Bold))
         lay.addWidget(title)
-        meta = QLabel("Objectives | Visual content | Examples | Practice | Summary")
+        meta = QLabel(lesson_node.description or "Objectives | Visual content | Examples | Practice | Summary")
         meta.setWordWrap(True)
         meta.setFont(app_font(9))
         meta.setStyleSheet(f"color: {self.t['muted']};")
         lay.addWidget(meta, stretch=1)
         btn = PrimaryButton(self.t, "Start lesson", "play", accent)
-        btn.clicked.connect(lambda: self._open_lesson(node.path + [lesson]))
+        btn.clicked.connect(lambda _=False, p=lesson_node.path[:]: self._open_lesson(p))
         lay.addWidget(btn)
         return card
 
@@ -2545,52 +3015,21 @@ class MainWindow(QMainWindow):
         self.sound.play("click")
         self._lesson_detail_path = path[:]
         clear_layout(self._learn_root)
-        title = path[-1]
-        subject = next((part for part in reversed(path[:-1]) if part), "Lesson")
+        lesson_node = get_node_by_path(path) if get_node_by_path else None
+        title = lesson_node.name if lesson_node else path[-1]
+        subject = "Lesson"
+        for index in range(1, len(path)):
+            parent = get_node_by_path(path[:index]) if get_node_by_path else None
+            if parent and parent.node_type in {"subject", "trade"}:
+                subject = parent.name
         self._learn_root.addWidget(self._breadcrumb_widget())
         self._learn_root.addWidget(self._lesson_detail(path, title, subject))
 
     def _get_lesson_content(self, path: list[str]) -> dict | None:
-        lesson_name = path[-1]
-        unit_name = path[-2] if len(path) >= 2 else ""
-        subject_name = path[-3] if len(path) >= 3 else ""
-        level_key = path[0] if path else ""
-
-        # Try per-unit math files first
-        if subject_name.lower() == "mathematics":
-            unit_idx = self._find_math_unit_index(level_key, unit_name)
-            if unit_idx is not None:
-                prefix = self._math_level_prefix(level_key, path)
-                unit_file = CURRICULUM_DIR / "math" / f"{prefix}_unit{unit_idx + 1}.json"
-                try:
-                    with open(unit_file, "r", encoding="utf-8") as f:
-                        unit_data = json.load(f)
-                except Exception:
-                    pass
-                else:
-                    lessons = unit_data.get("lessons", [])
-                    contents = unit_data.get("lessons_content", [])
-                    for i, lname in enumerate(lessons):
-                        if lname == lesson_name and i < len(contents) and contents[i]:
-                            return self._normalize_lesson_content(dict(contents[i]))
-
-        # Fallback: try high_school.json sections
-        try:
-            with open(CURRICULUM_DIR / "high_school.json", "r", encoding="utf-8") as f:
-                data = json.load(f)
-        except Exception:
-            return self._auto_lesson_content(lesson_name, unit_name)
-        for sl in data.get("sub_levels", []):
-            for subj in sl.get("subjects", []):
-                if subj.get("name") == subject_name:
-                    for unit in subj.get("units", []):
-                        if unit.get("name") == unit_name:
-                            lessons = unit.get("lessons", [])
-                            contents = unit.get("lessons_content", [])
-                            for i, lname in enumerate(lessons):
-                                if lname == lesson_name and i < len(contents) and contents[i]:
-                                    return self._normalize_lesson_content(dict(contents[i]))
-        return self._auto_lesson_content(lesson_name, unit_name)
+        if not get_lesson_content:
+            return None
+        content = get_lesson_content(path)
+        return self._normalize_lesson_content(content) if content else None
 
     @staticmethod
     def _normalize_lesson_content(data: dict) -> dict:
@@ -2827,6 +3266,7 @@ class MainWindow(QMainWindow):
         lay.addWidget(hero)
 
         content = self._get_lesson_content(path)
+        source_links = get_source_links(path) if get_source_links else {}
 
         # Progress stepper — visual guide to lesson structure
         lay.addWidget(self._build_section_stepper(
@@ -2837,7 +3277,7 @@ class MainWindow(QMainWindow):
         toggle_row.setStyleSheet("background: transparent;")
         tr = QHBoxLayout(toggle_row)
         tr.setContentsMargins(0, 0, 0, 0)
-        show_sol = QCheckBox("Show Solutions")
+        show_sol = QCheckBox("CheckBox — review answers")
         show_sol.setFont(app_font(10, QFont.Weight.Bold))
         show_sol.setStyleSheet(f"color: {self.t['text']}; padding: 8px;")
         tr.addWidget(show_sol)
@@ -2927,11 +3367,76 @@ class MainWindow(QMainWindow):
                     cl.addWidget(cap)
                 lay.addWidget(card)
 
+        # Local illustrations are resolved only after this lesson is opened.
+        images_data = content.get("images", []) if content else []
+        if isinstance(images_data, list):
+            for image_spec in images_data:
+                if isinstance(image_spec, str):
+                    image_spec = {"path": image_spec}
+                if not isinstance(image_spec, dict):
+                    continue
+                reference = str(image_spec.get("path", "")).strip()
+                if not reference:
+                    continue
+                image_path = None
+                for root in (ASSET_DIR, CURRICULUM_DIR / "media"):
+                    candidate = (root / reference).resolve()
+                    try:
+                        candidate.relative_to(root.resolve())
+                    except ValueError:
+                        continue
+                    if candidate.is_file():
+                        image_path = candidate
+                        break
+                if not image_path:
+                    continue
+                pixmap = QPixmap(str(image_path))
+                if pixmap.isNull():
+                    continue
+                image_card = Card(self.t, "LessonImageCard", True)
+                image_layout = QVBoxLayout(image_card)
+                image_layout.setContentsMargins(22, 18, 22, 18)
+                heading = QLabel(str(image_spec.get("title", "Illustration")))
+                heading.setFont(app_font(15, QFont.Weight.Bold))
+                image_layout.addWidget(heading)
+                image_label = QLabel()
+                image_label.setAlignment(Qt.AlignmentFlag.AlignCenter)
+                image_label.setPixmap(
+                    pixmap.scaled(
+                        1040,
+                        720,
+                        Qt.AspectRatioMode.KeepAspectRatio,
+                        Qt.TransformationMode.SmoothTransformation,
+                    )
+                )
+                image_layout.addWidget(image_label)
+                caption_text = str(image_spec.get("caption", "")).strip()
+                if caption_text:
+                    caption = QLabel(caption_text)
+                    caption.setWordWrap(True)
+                    caption.setStyleSheet(f"color: {self.t['muted']};")
+                    image_layout.addWidget(caption)
+                lay.addWidget(image_card)
+
+        official_url = str(source_links.get("source_url", ""))
+        if official_url and ".pdf" in official_url.lower():
+            start_page = content.get("source_page", 1) if content else 1
+            lay.addWidget(
+                OfficialTextbookViewer(
+                    self.t,
+                    official_url,
+                    title,
+                    start_page=start_page if isinstance(start_page, int) else 1,
+                )
+            )
+
         sections = [
             ("Objectives", content.get("objectives", "") if content else "", "objectives"),
             ("Reading Material", content.get("reading", "") if content else "", "reading"),
             ("Worked Examples", content.get("examples", "") if content else "", "examples"),
             ("Practice Questions", content.get("practice", "") if content else "", "practice"),
+            ("Applied Experiment / Investigation", content.get("experiment", "") if content else "", "examples"),
+            ("End-of-unit Assignment", content.get("assignment", "") if content else "", "practice"),
             ("Summary", content.get("summary", "") if content else "", "summary"),
             ("Deep Explanation", content.get("deep_explanation", "") if content else "", "deep"),
             ("Knowledge Check", self._format_quiz(content.get("quiz", "")) if content else "", "quiz"),

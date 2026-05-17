@@ -1,0 +1,20 @@
+{
+  "content": {
+    "objectives": "Determine algebraic and practical domains, derive ranges on restricted domains, and interpret model parameters with units.",
+    "reading": "A formula becomes a model only after inputs, outputs and assumptions are stated. Algebra may allow inputs that the real situation does not. Domain restrictions can come from denominators, roots, logarithms or context.",
+    "deep_explanation": "For f(x)=x² on −2≤x≤3, the range is 0≤f(x)≤9. The domain restriction changes the range.\n\nIn y=a·bˣ, a is the initial value and b is the factor per period. If b=1.08, growth is 8% per period, not 1.08%.",
+    "examples": "For f(x)=√(5−2x), require 5−2x≥0, so x≤2.5.\nA population model may accept t=−3 algebraically even when the study begins at t=0.",
+    "practice": "1. Find the real domain of 1/(x−4).\n2. Find the range of x² for −1≤x≤4.\n3. Interpret the parameters in P(t)=250(1.06)^t.\n4. Give a practical restriction for a transport-cost model.",
+    "practice_answers": "1. x≠4.\n2. 0≤y≤16.\n3. Initial value 250 and 6% growth per period.\n4. Distance should be non-negative and limited to the service area.",
+    "summary": "State variables, units, domain and assumptions before trusting a model.",
+    "quiz": {
+      "question": "What is the real domain of f(x)=√(5−2x)?",
+      "options": {"A": "x≥2.5", "B": "x≤2.5", "C": "x≠2.5", "D": "All real x"},
+      "answer": "B"
+    },
+    "checkbox_answers": "☐ I checked denominators, roots and logarithms.\n☐ I separated algebraic and practical restrictions.\n☐ My parameter interpretation includes units.",
+    "experiment": "Measure cooling water every two minutes. Define the practical time and temperature domains before fitting a model.",
+    "assignment": "Build a function model for savings, crop yield or transport cost. State domain, units, assumptions and limitations.",
+    "diagrams": [{"type": "cartesian", "params": {"x_label": "input", "y_label": "output"}, "caption": "Endpoints and gaps communicate domain restrictions."}]
+  }
+}
