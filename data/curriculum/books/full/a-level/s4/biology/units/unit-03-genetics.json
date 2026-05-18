@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Genetics.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-dna-and-protein-synthesis",
+      "name": "DNA and protein synthesis",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/biology/lessons/03-lesson-01-dna-and-protein-synthesis.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-inheritance",
+      "name": "Inheritance",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/biology/lessons/03-lesson-02-inheritance.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-variation",
+      "name": "Variation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/biology/lessons/03-lesson-03-variation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-biotechnology",
+      "name": "Biotechnology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/biology/lessons/03-lesson-04-biotechnology.json",
+      "status": "ready"
+    }
+  ]
+}

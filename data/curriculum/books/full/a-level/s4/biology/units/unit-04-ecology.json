@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Ecology.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-energy-flow",
+      "name": "Energy flow",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/biology/lessons/04-lesson-01-energy-flow.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-nutrient-cycles",
+      "name": "Nutrient cycles",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/biology/lessons/04-lesson-02-nutrient-cycles.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-population-ecology",
+      "name": "Population ecology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/biology/lessons/04-lesson-03-population-ecology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-conservation",
+      "name": "Conservation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/biology/lessons/04-lesson-04-conservation.json",
+      "status": "ready"
+    }
+  ]
+}

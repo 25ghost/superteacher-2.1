@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Inorganic chemistry.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-periodicity",
+      "name": "Periodicity",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/chemistry/lessons/02-lesson-01-periodicity.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-main-group-chemistry",
+      "name": "Main-group chemistry",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/chemistry/lessons/02-lesson-02-main-group-chemistry.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-transition-elements",
+      "name": "Transition elements",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/chemistry/lessons/02-lesson-03-transition-elements.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-qualitative-analysis",
+      "name": "Qualitative analysis",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/chemistry/lessons/02-lesson-04-qualitative-analysis.json",
+      "status": "ready"
+    }
+  ]
+}
