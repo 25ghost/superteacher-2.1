@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Computational thinking.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-algorithms",
+      "name": "Algorithms",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/computer-science/lessons/01-lesson-01-algorithms.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-abstraction",
+      "name": "Abstraction",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/computer-science/lessons/01-lesson-02-abstraction.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-decomposition",
+      "name": "Decomposition",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/computer-science/lessons/01-lesson-03-decomposition.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-complexity",
+      "name": "Complexity",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/computer-science/lessons/01-lesson-04-complexity.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "book": "Core Mathematics",
+    "level": "S4",
+    "unit_count": 7,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-algebra",
+      "name": "Algebra",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s4/core-mathematics/units/unit-01-algebra.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-functions",
+      "name": "Functions",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s4/core-mathematics/units/unit-02-functions.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-trigonometry",
+      "name": "Trigonometry",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s4/core-mathematics/units/unit-03-trigonometry.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-coordinate-geometry",
+      "name": "Coordinate geometry",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s4/core-mathematics/units/unit-04-coordinate-geometry.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-calculus",
+      "name": "Calculus",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s4/core-mathematics/units/unit-05-calculus.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-06-vectors-and-matrices",
+      "name": "Vectors and matrices",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s4/core-mathematics/units/unit-06-vectors-and-matrices.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-07-probability-and-statistics",
+      "name": "Probability and statistics",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s4/core-mathematics/units/unit-07-probability-and-statistics.json",
+      "status": "ready"
+    }
+  ]
+}

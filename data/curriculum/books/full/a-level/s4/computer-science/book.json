@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "Computer Science",
+    "level": "S4",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-computational-thinking",
+      "name": "Computational thinking",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s4/computer-science/units/unit-01-computational-thinking.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-programming",
+      "name": "Programming",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s4/computer-science/units/unit-02-programming.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-computer-systems",
+      "name": "Computer systems",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s4/computer-science/units/unit-03-computer-systems.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-data-and-networks",
+      "name": "Data and networks",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s4/computer-science/units/unit-04-data-and-networks.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-software-projects",
+      "name": "Software projects",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s4/computer-science/units/unit-05-software-projects.json",
+      "status": "ready"
+    }
+  ]
+}

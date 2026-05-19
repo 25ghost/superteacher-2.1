@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Computer systems.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-architecture",
+      "name": "Architecture",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/computer-science/lessons/03-lesson-01-architecture.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-operating-systems",
+      "name": "Operating systems",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/computer-science/lessons/03-lesson-02-operating-systems.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-data-representation",
+      "name": "Data representation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/computer-science/lessons/03-lesson-03-data-representation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-logic",
+      "name": "Logic",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/computer-science/lessons/03-lesson-04-logic.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Data and networks.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-databases",
+      "name": "Databases",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/computer-science/lessons/04-lesson-01-databases.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-networking",
+      "name": "Networking",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/computer-science/lessons/04-lesson-02-networking.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-web-systems",
+      "name": "Web systems",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/computer-science/lessons/04-lesson-03-web-systems.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-cybersecurity",
+      "name": "Cybersecurity",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/computer-science/lessons/04-lesson-04-cybersecurity.json",
+      "status": "ready"
+    }
+  ]
+}

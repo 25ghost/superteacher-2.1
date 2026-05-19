@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Programming.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-data-types-and-control-flow",
+      "name": "Data types and control flow",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/computer-science/lessons/02-lesson-01-data-types-and-control-flow.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-functions-and-modules",
+      "name": "Functions and modules",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/computer-science/lessons/02-lesson-02-functions-and-modules.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-data-structures",
+      "name": "Data structures",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/computer-science/lessons/02-lesson-03-data-structures.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-testing",
+      "name": "Testing",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/computer-science/lessons/02-lesson-04-testing.json",
+      "status": "ready"
+    }
+  ]
+}
