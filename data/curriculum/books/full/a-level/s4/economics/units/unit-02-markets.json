@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Markets.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-demand-and-supply",
+      "name": "Demand and supply",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/economics/lessons/02-lesson-01-demand-and-supply.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-elasticity",
+      "name": "Elasticity",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/economics/lessons/02-lesson-02-elasticity.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-market-structures",
+      "name": "Market structures",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/economics/lessons/02-lesson-03-market-structures.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-market-failure",
+      "name": "Market failure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/economics/lessons/02-lesson-04-market-failure.json",
+      "status": "ready"
+    }
+  ]
+}
