@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Citizenship and governance.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-constitutionalism",
+      "name": "Constitutionalism",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/history/lessons/05-lesson-01-constitutionalism.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-human-rights",
+      "name": "Human rights",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/history/lessons/05-lesson-02-human-rights.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-peacebuilding",
+      "name": "Peacebuilding",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/history/lessons/05-lesson-03-peacebuilding.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-development-policy",
+      "name": "Development policy",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/history/lessons/05-lesson-04-development-policy.json",
+      "status": "ready"
+    }
+  ]
+}

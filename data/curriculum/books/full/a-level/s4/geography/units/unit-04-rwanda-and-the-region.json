@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Rwanda and the region.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-regional-geography",
+      "name": "Regional geography",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/geography/lessons/04-lesson-01-regional-geography.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-urban-change",
+      "name": "Urban change",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/geography/lessons/04-lesson-02-urban-change.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-rural-transformation",
+      "name": "Rural transformation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/geography/lessons/04-lesson-03-rural-transformation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-environmental-management",
+      "name": "Environmental management",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/geography/lessons/04-lesson-04-environmental-management.json",
+      "status": "ready"
+    }
+  ]
+}

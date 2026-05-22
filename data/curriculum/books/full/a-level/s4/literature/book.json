@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "Literature in English",
+    "level": "S4",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-reading-literature",
+      "name": "Reading literature",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s4/literature/units/unit-01-reading-literature.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-prose",
+      "name": "Prose",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s4/literature/units/unit-02-prose.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-drama",
+      "name": "Drama",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s4/literature/units/unit-03-drama.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-poetry",
+      "name": "Poetry",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s4/literature/units/unit-04-poetry.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-writing-about-texts",
+      "name": "Writing about texts",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s4/literature/units/unit-05-writing-about-texts.json",
+      "status": "ready"
+    }
+  ]
+}

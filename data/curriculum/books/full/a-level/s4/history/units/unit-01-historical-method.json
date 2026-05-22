@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Historical method.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-source-criticism",
+      "name": "Source criticism",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/history/lessons/01-lesson-01-source-criticism.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-competing-interpretations",
+      "name": "Competing interpretations",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/history/lessons/01-lesson-02-competing-interpretations.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-causation",
+      "name": "Causation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/history/lessons/01-lesson-03-causation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-essay-argument",
+      "name": "Essay argument",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/history/lessons/01-lesson-04-essay-argument.json",
+      "status": "ready"
+    }
+  ]
+}

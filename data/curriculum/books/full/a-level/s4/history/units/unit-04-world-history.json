@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of World history.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-revolutions",
+      "name": "Revolutions",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/history/lessons/04-lesson-01-revolutions.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-world-wars",
+      "name": "World wars",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/history/lessons/04-lesson-02-world-wars.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-cold-war",
+      "name": "Cold War",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/history/lessons/04-lesson-03-cold-war.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-international-institutions",
+      "name": "International institutions",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/history/lessons/04-lesson-04-international-institutions.json",
+      "status": "ready"
+    }
+  ]
+}

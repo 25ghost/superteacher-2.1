@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Physical systems.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-geomorphology",
+      "name": "Geomorphology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/geography/lessons/01-lesson-01-geomorphology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-weather-and-climate",
+      "name": "Weather and climate",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/geography/lessons/01-lesson-02-weather-and-climate.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-hydrology",
+      "name": "Hydrology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/geography/lessons/01-lesson-03-hydrology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-ecosystems",
+      "name": "Ecosystems",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/geography/lessons/01-lesson-04-ecosystems.json",
+      "status": "ready"
+    }
+  ]
+}
