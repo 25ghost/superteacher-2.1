@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Prose.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-narrative-voice",
+      "name": "Narrative voice",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/literature/lessons/02-lesson-01-narrative-voice.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-characterisation",
+      "name": "Characterisation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/literature/lessons/02-lesson-02-characterisation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-structure",
+      "name": "Structure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/literature/lessons/02-lesson-03-structure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-theme",
+      "name": "Theme",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/literature/lessons/02-lesson-04-theme.json",
+      "status": "ready"
+    }
+  ]
+}

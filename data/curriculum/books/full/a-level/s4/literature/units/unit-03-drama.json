@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Drama.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-dramatic-form",
+      "name": "Dramatic form",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/literature/lessons/03-lesson-01-dramatic-form.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-dialogue-and-stagecraft",
+      "name": "Dialogue and stagecraft",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/literature/lessons/03-lesson-02-dialogue-and-stagecraft.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-conflict",
+      "name": "Conflict",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/literature/lessons/03-lesson-03-conflict.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-performance-interpretation",
+      "name": "Performance interpretation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/literature/lessons/03-lesson-04-performance-interpretation.json",
+      "status": "ready"
+    }
+  ]
+}

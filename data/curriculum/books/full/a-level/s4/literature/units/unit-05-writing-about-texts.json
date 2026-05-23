@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Writing about texts.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-thesis-statements",
+      "name": "Thesis statements",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/literature/lessons/05-lesson-01-thesis-statements.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-using-evidence",
+      "name": "Using evidence",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/literature/lessons/05-lesson-02-using-evidence.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-analytical-paragraphs",
+      "name": "Analytical paragraphs",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/literature/lessons/05-lesson-03-analytical-paragraphs.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-editing-literary-essays",
+      "name": "Editing literary essays",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/literature/lessons/05-lesson-04-editing-literary-essays.json",
+      "status": "ready"
+    }
+  ]
+}

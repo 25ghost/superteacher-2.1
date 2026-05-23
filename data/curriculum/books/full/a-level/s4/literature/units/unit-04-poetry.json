@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Poetry.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-voice-and-tone",
+      "name": "Voice and tone",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/literature/lessons/04-lesson-01-voice-and-tone.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-imagery",
+      "name": "Imagery",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/literature/lessons/04-lesson-02-imagery.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-sound-and-rhythm",
+      "name": "Sound and rhythm",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/literature/lessons/04-lesson-03-sound-and-rhythm.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-comparative-analysis",
+      "name": "Comparative analysis",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/literature/lessons/04-lesson-04-comparative-analysis.json",
+      "status": "ready"
+    }
+  ]
+}
