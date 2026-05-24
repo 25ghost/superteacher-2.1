@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Mechanics.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-kinematics",
+      "name": "Kinematics",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/physics/lessons/01-lesson-01-kinematics.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-dynamics",
+      "name": "Dynamics",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/physics/lessons/01-lesson-02-dynamics.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-momentum",
+      "name": "Momentum",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/physics/lessons/01-lesson-03-momentum.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-circular-motion",
+      "name": "Circular motion",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s4/physics/lessons/01-lesson-04-circular-motion.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "Biology",
+    "level": "S5",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-cell-biology",
+      "name": "Cell biology",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s5/biology/units/unit-01-cell-biology.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-physiology",
+      "name": "Physiology",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s5/biology/units/unit-02-physiology.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-genetics",
+      "name": "Genetics",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s5/biology/units/unit-03-genetics.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-ecology",
+      "name": "Ecology",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s5/biology/units/unit-04-ecology.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-evolution-and-investigation",
+      "name": "Evolution and investigation",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s5/biology/units/unit-05-evolution-and-investigation.json",
+      "status": "ready"
+    }
+  ]
+}
