@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Physiology.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-gas-exchange",
+      "name": "Gas exchange",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/biology/lessons/02-lesson-01-gas-exchange.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-transport-systems",
+      "name": "Transport systems",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/biology/lessons/02-lesson-02-transport-systems.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-homeostasis",
+      "name": "Homeostasis",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/biology/lessons/02-lesson-03-homeostasis.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-coordination",
+      "name": "Coordination",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/biology/lessons/02-lesson-04-coordination.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Evolution and investigation.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-natural-selection",
+      "name": "Natural selection",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/biology/lessons/05-lesson-01-natural-selection.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-classification",
+      "name": "Classification",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/biology/lessons/05-lesson-02-classification.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-experimental-design",
+      "name": "Experimental design",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/biology/lessons/05-lesson-03-experimental-design.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-biological-data",
+      "name": "Biological data",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/biology/lessons/05-lesson-04-biological-data.json",
+      "status": "ready"
+    }
+  ]
+}

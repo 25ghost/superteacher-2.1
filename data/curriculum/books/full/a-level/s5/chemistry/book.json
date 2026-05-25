@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "Chemistry",
+    "level": "S5",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-physical-chemistry",
+      "name": "Physical chemistry",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s5/chemistry/units/unit-01-physical-chemistry.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-inorganic-chemistry",
+      "name": "Inorganic chemistry",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s5/chemistry/units/unit-02-inorganic-chemistry.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-organic-chemistry",
+      "name": "Organic chemistry",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s5/chemistry/units/unit-03-organic-chemistry.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-analytical-chemistry",
+      "name": "Analytical chemistry",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s5/chemistry/units/unit-04-analytical-chemistry.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-applied-chemistry",
+      "name": "Applied chemistry",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s5/chemistry/units/unit-05-applied-chemistry.json",
+      "status": "ready"
+    }
+  ]
+}

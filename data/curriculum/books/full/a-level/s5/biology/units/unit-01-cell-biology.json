@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Cell biology.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-cell-ultrastructure",
+      "name": "Cell ultrastructure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/biology/lessons/01-lesson-01-cell-ultrastructure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-biological-molecules",
+      "name": "Biological molecules",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/biology/lessons/01-lesson-02-biological-molecules.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-enzymes",
+      "name": "Enzymes",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/biology/lessons/01-lesson-03-enzymes.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-membrane-transport",
+      "name": "Membrane transport",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/biology/lessons/01-lesson-04-membrane-transport.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Applied chemistry.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-industrial-processes",
+      "name": "Industrial processes",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/chemistry/lessons/05-lesson-01-industrial-processes.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-environmental-chemistry",
+      "name": "Environmental chemistry",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/chemistry/lessons/05-lesson-02-environmental-chemistry.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-materials",
+      "name": "Materials",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/chemistry/lessons/05-lesson-03-materials.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-practical-investigation",
+      "name": "Practical investigation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/chemistry/lessons/05-lesson-04-practical-investigation.json",
+      "status": "ready"
+    }
+  ]
+}
