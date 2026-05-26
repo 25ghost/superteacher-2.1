@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Trigonometry.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-radian-measure",
+      "name": "Radian measure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/core-mathematics/lessons/03-lesson-01-radian-measure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-trigonometric-identities",
+      "name": "Trigonometric identities",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/core-mathematics/lessons/03-lesson-02-trigonometric-identities.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-equations",
+      "name": "Equations",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/core-mathematics/lessons/03-lesson-03-equations.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-applications",
+      "name": "Applications",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/core-mathematics/lessons/03-lesson-04-applications.json",
+      "status": "ready"
+    }
+  ]
+}

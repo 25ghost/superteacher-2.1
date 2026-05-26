@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Calculus.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-limits-and-continuity",
+      "name": "Limits and continuity",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/core-mathematics/lessons/05-lesson-01-limits-and-continuity.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-differentiation",
+      "name": "Differentiation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/core-mathematics/lessons/05-lesson-02-differentiation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-applications-of-derivatives",
+      "name": "Applications of derivatives",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/core-mathematics/lessons/05-lesson-03-applications-of-derivatives.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-integration",
+      "name": "Integration",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/core-mathematics/lessons/05-lesson-04-integration.json",
+      "status": "ready"
+    }
+  ]
+}

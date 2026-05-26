@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Algebra.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-indices-and-surds",
+      "name": "Indices and surds",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/core-mathematics/lessons/01-lesson-01-indices-and-surds.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-polynomials",
+      "name": "Polynomials",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/core-mathematics/lessons/01-lesson-02-polynomials.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-equations-and-inequalities",
+      "name": "Equations and inequalities",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/core-mathematics/lessons/01-lesson-03-equations-and-inequalities.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-sequences-and-series",
+      "name": "Sequences and series",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/core-mathematics/lessons/01-lesson-04-sequences-and-series.json",
+      "status": "ready"
+    }
+  ]
+}
