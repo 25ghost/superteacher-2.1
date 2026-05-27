@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Foundations.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-scarcity-and-choice",
+      "name": "Scarcity and choice",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/economics/lessons/01-lesson-01-scarcity-and-choice.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-production-possibility-curves",
+      "name": "Production possibility curves",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/economics/lessons/01-lesson-02-production-possibility-curves.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-economic-systems",
+      "name": "Economic systems",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/economics/lessons/01-lesson-03-economic-systems.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-specialisation",
+      "name": "Specialisation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/economics/lessons/01-lesson-04-specialisation.json",
+      "status": "ready"
+    }
+  ]
+}

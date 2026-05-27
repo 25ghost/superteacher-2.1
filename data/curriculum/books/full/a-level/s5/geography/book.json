@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "Geography",
+    "level": "S5",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-physical-systems",
+      "name": "Physical systems",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s5/geography/units/unit-01-physical-systems.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-human-systems",
+      "name": "Human systems",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s5/geography/units/unit-02-human-systems.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-resources",
+      "name": "Resources",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s5/geography/units/unit-03-resources.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-rwanda-and-the-region",
+      "name": "Rwanda and the region",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s5/geography/units/unit-04-rwanda-and-the-region.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-geographical-investigation",
+      "name": "Geographical investigation",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s5/geography/units/unit-05-geographical-investigation.json",
+      "status": "ready"
+    }
+  ]
+}

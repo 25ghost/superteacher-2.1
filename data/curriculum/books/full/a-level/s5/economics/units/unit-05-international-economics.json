@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of International economics.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-trade",
+      "name": "Trade",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/economics/lessons/05-lesson-01-trade.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-exchange-rates",
+      "name": "Exchange rates",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/economics/lessons/05-lesson-02-exchange-rates.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-balance-of-payments",
+      "name": "Balance of payments",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/economics/lessons/05-lesson-03-balance-of-payments.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-regional-integration",
+      "name": "Regional integration",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/economics/lessons/05-lesson-04-regional-integration.json",
+      "status": "ready"
+    }
+  ]
+}
