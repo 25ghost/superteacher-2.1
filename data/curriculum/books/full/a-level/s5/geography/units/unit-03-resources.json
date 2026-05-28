@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Resources.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-agriculture",
+      "name": "Agriculture",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/geography/lessons/03-lesson-01-agriculture.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-energy",
+      "name": "Energy",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/geography/lessons/03-lesson-02-energy.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-industry",
+      "name": "Industry",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/geography/lessons/03-lesson-03-industry.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-transport",
+      "name": "Transport",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/geography/lessons/03-lesson-04-transport.json",
+      "status": "ready"
+    }
+  ]
+}
