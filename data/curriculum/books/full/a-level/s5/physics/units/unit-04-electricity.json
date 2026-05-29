@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Electricity.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-electric-fields",
+      "name": "Electric fields",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/physics/lessons/04-lesson-01-electric-fields.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-dc-circuits",
+      "name": "DC circuits",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/physics/lessons/04-lesson-02-dc-circuits.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-capacitance",
+      "name": "Capacitance",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/physics/lessons/04-lesson-03-capacitance.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-electromagnetic-induction",
+      "name": "Electromagnetic induction",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/physics/lessons/04-lesson-04-electromagnetic-induction.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "book": "Physics",
+    "level": "S5",
+    "unit_count": 6,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-mechanics",
+      "name": "Mechanics",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s5/physics/units/unit-01-mechanics.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-matter-and-energy",
+      "name": "Matter and energy",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s5/physics/units/unit-02-matter-and-energy.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-waves",
+      "name": "Waves",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s5/physics/units/unit-03-waves.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-electricity",
+      "name": "Electricity",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s5/physics/units/unit-04-electricity.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-modern-physics",
+      "name": "Modern physics",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s5/physics/units/unit-05-modern-physics.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-06-practical-physics",
+      "name": "Practical physics",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s5/physics/units/unit-06-practical-physics.json",
+      "status": "ready"
+    }
+  ]
+}

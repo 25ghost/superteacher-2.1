@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Modern physics.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-quantum-ideas",
+      "name": "Quantum ideas",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/physics/lessons/05-lesson-01-quantum-ideas.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-atomic-physics",
+      "name": "Atomic physics",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/physics/lessons/05-lesson-02-atomic-physics.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-nuclear-physics",
+      "name": "Nuclear physics",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/physics/lessons/05-lesson-03-nuclear-physics.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-applications-and-safety",
+      "name": "Applications and safety",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s5/physics/lessons/05-lesson-04-applications-and-safety.json",
+      "status": "ready"
+    }
+  ]
+}
