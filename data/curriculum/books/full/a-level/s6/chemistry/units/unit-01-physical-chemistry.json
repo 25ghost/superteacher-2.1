@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Physical chemistry.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-atomic-structure",
+      "name": "Atomic structure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/chemistry/lessons/01-lesson-01-atomic-structure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-bonding",
+      "name": "Bonding",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/chemistry/lessons/01-lesson-02-bonding.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-energetics",
+      "name": "Energetics",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/chemistry/lessons/01-lesson-03-energetics.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-equilibrium",
+      "name": "Equilibrium",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/chemistry/lessons/01-lesson-04-equilibrium.json",
+      "status": "ready"
+    }
+  ]
+}
