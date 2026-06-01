@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "Economics",
+    "level": "S6",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-foundations",
+      "name": "Foundations",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s6/economics/units/unit-01-foundations.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-markets",
+      "name": "Markets",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s6/economics/units/unit-02-markets.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-macroeconomics",
+      "name": "Macroeconomics",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s6/economics/units/unit-03-macroeconomics.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-development",
+      "name": "Development",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s6/economics/units/unit-04-development.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-international-economics",
+      "name": "International economics",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s6/economics/units/unit-05-international-economics.json",
+      "status": "ready"
+    }
+  ]
+}

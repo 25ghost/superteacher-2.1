@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Vectors and matrices.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-vectors",
+      "name": "Vectors",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/core-mathematics/lessons/06-lesson-01-vectors.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-vector-geometry",
+      "name": "Vector geometry",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/core-mathematics/lessons/06-lesson-02-vector-geometry.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-matrices",
+      "name": "Matrices",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/core-mathematics/lessons/06-lesson-03-matrices.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-linear-transformations",
+      "name": "Linear transformations",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/core-mathematics/lessons/06-lesson-04-linear-transformations.json",
+      "status": "ready"
+    }
+  ]
+}
