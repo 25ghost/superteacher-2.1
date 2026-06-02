@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "History",
+    "level": "S6",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-historical-method",
+      "name": "Historical method",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s6/history/units/unit-01-historical-method.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-rwanda-and-the-great-lakes",
+      "name": "Rwanda and the Great Lakes",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s6/history/units/unit-02-rwanda-and-the-great-lakes.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-africa",
+      "name": "Africa",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s6/history/units/unit-03-africa.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-world-history",
+      "name": "World history",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s6/history/units/unit-04-world-history.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-citizenship-and-governance",
+      "name": "Citizenship and governance",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/a-level/s6/history/units/unit-05-citizenship-and-governance.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Human systems.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-population",
+      "name": "Population",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/geography/lessons/02-lesson-01-population.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-settlement",
+      "name": "Settlement",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/geography/lessons/02-lesson-02-settlement.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-development",
+      "name": "Development",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/geography/lessons/02-lesson-03-development.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-globalisation",
+      "name": "Globalisation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/geography/lessons/02-lesson-04-globalisation.json",
+      "status": "ready"
+    }
+  ]
+}

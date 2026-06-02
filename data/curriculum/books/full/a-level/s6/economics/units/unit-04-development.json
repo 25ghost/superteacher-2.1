@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Development.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-growth-and-development",
+      "name": "Growth and development",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/economics/lessons/04-lesson-01-growth-and-development.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-poverty-and-inequality",
+      "name": "Poverty and inequality",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/economics/lessons/04-lesson-02-poverty-and-inequality.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-population-and-labour",
+      "name": "Population and labour",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/economics/lessons/04-lesson-03-population-and-labour.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-sustainable-development",
+      "name": "Sustainable development",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/economics/lessons/04-lesson-04-sustainable-development.json",
+      "status": "ready"
+    }
+  ]
+}

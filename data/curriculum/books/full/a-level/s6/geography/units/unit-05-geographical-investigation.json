@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Geographical investigation.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-gis-and-maps",
+      "name": "GIS and maps",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/geography/lessons/05-lesson-01-gis-and-maps.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-fieldwork-design",
+      "name": "Fieldwork design",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/geography/lessons/05-lesson-02-fieldwork-design.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-data-presentation",
+      "name": "Data presentation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/geography/lessons/05-lesson-03-data-presentation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-evaluation",
+      "name": "Evaluation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/geography/lessons/05-lesson-04-evaluation.json",
+      "status": "ready"
+    }
+  ]
+}

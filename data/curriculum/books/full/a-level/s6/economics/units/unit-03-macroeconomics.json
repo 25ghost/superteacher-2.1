@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Macroeconomics.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-national-income",
+      "name": "National income",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/economics/lessons/03-lesson-01-national-income.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-inflation-and-unemployment",
+      "name": "Inflation and unemployment",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/economics/lessons/03-lesson-02-inflation-and-unemployment.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-money-and-banking",
+      "name": "Money and banking",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/economics/lessons/03-lesson-03-money-and-banking.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-fiscal-and-monetary-policy",
+      "name": "Fiscal and monetary policy",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/economics/lessons/03-lesson-04-fiscal-and-monetary-policy.json",
+      "status": "ready"
+    }
+  ]
+}
