@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Rwanda and the Great Lakes.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-state-formation",
+      "name": "State formation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/history/lessons/02-lesson-01-state-formation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-colonial-encounters",
+      "name": "Colonial encounters",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/history/lessons/02-lesson-02-colonial-encounters.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-independence",
+      "name": "Independence",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/history/lessons/02-lesson-03-independence.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-post-conflict-reconstruction",
+      "name": "Post-conflict reconstruction",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/history/lessons/02-lesson-04-post-conflict-reconstruction.json",
+      "status": "ready"
+    }
+  ]
+}

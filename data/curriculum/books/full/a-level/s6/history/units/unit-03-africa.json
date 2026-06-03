@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Africa.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-pre-colonial-states",
+      "name": "Pre-colonial states",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/history/lessons/03-lesson-01-pre-colonial-states.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-colonialism",
+      "name": "Colonialism",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/history/lessons/03-lesson-02-colonialism.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-nationalism",
+      "name": "Nationalism",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/history/lessons/03-lesson-03-nationalism.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-contemporary-integration",
+      "name": "Contemporary integration",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/history/lessons/03-lesson-04-contemporary-integration.json",
+      "status": "ready"
+    }
+  ]
+}
