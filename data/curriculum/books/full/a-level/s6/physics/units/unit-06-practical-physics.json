@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Practical physics.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-measurement-uncertainty",
+      "name": "Measurement uncertainty",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/physics/lessons/06-lesson-01-measurement-uncertainty.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-experimental-design",
+      "name": "Experimental design",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/physics/lessons/06-lesson-02-experimental-design.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-data-analysis",
+      "name": "Data analysis",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/physics/lessons/06-lesson-03-data-analysis.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-evaluation",
+      "name": "Evaluation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/physics/lessons/06-lesson-04-evaluation.json",
+      "status": "ready"
+    }
+  ]
+}

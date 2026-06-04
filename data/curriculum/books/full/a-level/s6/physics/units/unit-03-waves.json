@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Waves.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-wave-theory",
+      "name": "Wave theory",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/physics/lessons/03-lesson-01-wave-theory.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-superposition",
+      "name": "Superposition",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/physics/lessons/03-lesson-02-superposition.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-optics",
+      "name": "Optics",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/physics/lessons/03-lesson-03-optics.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-sound",
+      "name": "Sound",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/physics/lessons/03-lesson-04-sound.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "book": "Biology",
+    "level": "S1",
+    "unit_count": 8,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-unit-1-cell-biology",
+      "name": "Unit 1: Cell Biology",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/biology/units/unit-01-unit-1-cell-biology.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-unit-2-classification-of-living-things",
+      "name": "Unit 2: Classification of Living Things",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/biology/units/unit-02-unit-2-classification-of-living-things.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-unit-3-human-body-systems",
+      "name": "Unit 3: Human Body Systems",
+      "node_type": "unit",
+      "description": "6 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/biology/units/unit-03-unit-3-human-body-systems.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-unit-4-reproduction",
+      "name": "Unit 4: Reproduction",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/biology/units/unit-04-unit-4-reproduction.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-unit-5-genetics",
+      "name": "Unit 5: Genetics",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/biology/units/unit-05-unit-5-genetics.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-06-unit-6-ecology",
+      "name": "Unit 6: Ecology",
+      "node_type": "unit",
+      "description": "6 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/biology/units/unit-06-unit-6-ecology.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-07-unit-7-health-and-diseases",
+      "name": "Unit 7: Health and Diseases",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/biology/units/unit-07-unit-7-health-and-diseases.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-08-unit-8-nutrition",
+      "name": "Unit 8: Nutrition",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/biology/units/unit-08-unit-8-nutrition.json",
+      "status": "ready"
+    }
+  ]
+}

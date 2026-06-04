@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Matter and energy.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-properties-of-matter",
+      "name": "Properties of matter",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/physics/lessons/02-lesson-01-properties-of-matter.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-thermal-physics",
+      "name": "Thermal physics",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/physics/lessons/02-lesson-02-thermal-physics.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-oscillations",
+      "name": "Oscillations",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/physics/lessons/02-lesson-03-oscillations.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-energy-systems",
+      "name": "Energy systems",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/a-level/s6/physics/lessons/02-lesson-04-energy-systems.json",
+      "status": "ready"
+    }
+  ]
+}
