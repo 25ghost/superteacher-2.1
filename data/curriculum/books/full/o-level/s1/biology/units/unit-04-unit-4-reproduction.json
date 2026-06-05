@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 4: Reproduction.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-asexual-reproduction",
+      "name": "Asexual reproduction",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/04-lesson-01-asexual-reproduction.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-sexual-reproduction-in-plants",
+      "name": "Sexual reproduction in plants",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/04-lesson-02-sexual-reproduction-in-plants.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-sexual-reproduction-in-animals",
+      "name": "Sexual reproduction in animals",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/04-lesson-03-sexual-reproduction-in-animals.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-human-reproductive-system",
+      "name": "Human reproductive system",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/04-lesson-04-human-reproductive-system.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-growth-and-development",
+      "name": "Growth and development",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/04-lesson-05-growth-and-development.json",
+      "status": "ready"
+    }
+  ]
+}

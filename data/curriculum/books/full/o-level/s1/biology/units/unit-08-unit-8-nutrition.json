@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 8: Nutrition.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-nutrients-and-their-functions",
+      "name": "Nutrients and their functions",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/08-lesson-01-nutrients-and-their-functions.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-balanced-diet",
+      "name": "Balanced diet",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/08-lesson-02-balanced-diet.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-food-tests",
+      "name": "Food tests",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/08-lesson-03-food-tests.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-digestion-and-absorption",
+      "name": "Digestion and absorption",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/08-lesson-04-digestion-and-absorption.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-malnutrition-and-deficiency-diseases",
+      "name": "Malnutrition and deficiency diseases",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/08-lesson-05-malnutrition-and-deficiency-diseases.json",
+      "status": "ready"
+    }
+  ]
+}

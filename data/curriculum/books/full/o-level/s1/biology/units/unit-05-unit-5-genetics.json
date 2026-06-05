@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 5: Genetics.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-introduction-to-genetics",
+      "name": "Introduction to genetics",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/05-lesson-01-introduction-to-genetics.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-dna-and-genes",
+      "name": "DNA and genes",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/05-lesson-02-dna-and-genes.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-inheritance-patterns",
+      "name": "Inheritance patterns",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/05-lesson-03-inheritance-patterns.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-punnett-squares",
+      "name": "Punnett squares",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/05-lesson-04-punnett-squares.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-genetic-variation",
+      "name": "Genetic variation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/05-lesson-05-genetic-variation.json",
+      "status": "ready"
+    }
+  ]
+}

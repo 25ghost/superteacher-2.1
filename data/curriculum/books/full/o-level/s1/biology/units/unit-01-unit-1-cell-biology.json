@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 1: Cell Biology.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-cell-theory",
+      "name": "Cell theory",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/01-lesson-01-cell-theory.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-plant-and-animal-cells",
+      "name": "Plant and animal cells",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/01-lesson-02-plant-and-animal-cells.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-cell-organelles-and-functions",
+      "name": "Cell organelles and functions",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/01-lesson-03-cell-organelles-and-functions.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-cell-division-mitosis-and-meiosis",
+      "name": "Cell division (mitosis and meiosis)",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/01-lesson-04-cell-division-mitosis-and-meiosis.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-specialized-cells",
+      "name": "Specialized cells",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/01-lesson-05-specialized-cells.json",
+      "status": "ready"
+    }
+  ]
+}

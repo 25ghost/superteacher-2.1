@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 2: Classification of Living Things.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-principles-of-classification",
+      "name": "Principles of classification",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/02-lesson-01-principles-of-classification.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-five-kingdoms-of-life",
+      "name": "Five kingdoms of life",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/02-lesson-02-five-kingdoms-of-life.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-classification-of-plants",
+      "name": "Classification of plants",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/02-lesson-03-classification-of-plants.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-classification-of-animals",
+      "name": "Classification of animals",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/02-lesson-04-classification-of-animals.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-binomial-nomenclature",
+      "name": "Binomial nomenclature",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/02-lesson-05-binomial-nomenclature.json",
+      "status": "ready"
+    }
+  ]
+}

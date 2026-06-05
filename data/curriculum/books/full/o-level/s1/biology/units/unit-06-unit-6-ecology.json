@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 6: Ecology.",
+    "lesson_count": 6
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-ecosystems-and-habitats",
+      "name": "Ecosystems and habitats",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/06-lesson-01-ecosystems-and-habitats.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-food-chains-and-food-webs",
+      "name": "Food chains and food webs",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/06-lesson-02-food-chains-and-food-webs.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-energy-flow-in-ecosystems",
+      "name": "Energy flow in ecosystems",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/06-lesson-03-energy-flow-in-ecosystems.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-nutrient-cycles-carbon-nitrogen",
+      "name": "Nutrient cycles (carbon, nitrogen)",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/06-lesson-04-nutrient-cycles-carbon-nitrogen.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-population-ecology",
+      "name": "Population ecology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/06-lesson-05-population-ecology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-06-conservation-and-biodiversity",
+      "name": "Conservation and biodiversity",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/06-lesson-06-conservation-and-biodiversity.json",
+      "status": "ready"
+    }
+  ]
+}

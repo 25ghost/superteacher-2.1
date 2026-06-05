@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 7: Health and Diseases.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-types-of-diseases-infectious-non-infectious",
+      "name": "Types of diseases (infectious, non-infectious)",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/07-lesson-01-types-of-diseases-infectious-non-infectious.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-common-diseases-in-rwanda",
+      "name": "Common diseases in Rwanda",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/07-lesson-02-common-diseases-in-rwanda.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-immunity-and-vaccination",
+      "name": "Immunity and vaccination",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/07-lesson-03-immunity-and-vaccination.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-hiv-aids-and-stis",
+      "name": "HIV/AIDS and STIs",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/07-lesson-04-hiv-aids-and-stis.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-preventive-healthcare",
+      "name": "Preventive healthcare",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/07-lesson-05-preventive-healthcare.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 3: Human Body Systems.",
+    "lesson_count": 6
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-skeletal-and-muscular-systems",
+      "name": "Skeletal and muscular systems",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/03-lesson-01-skeletal-and-muscular-systems.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-digestive-system",
+      "name": "Digestive system",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/03-lesson-02-digestive-system.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-respiratory-system",
+      "name": "Respiratory system",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/03-lesson-03-respiratory-system.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-circulatory-system",
+      "name": "Circulatory system",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/03-lesson-04-circulatory-system.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-excretory-system",
+      "name": "Excretory system",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/03-lesson-05-excretory-system.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-06-nervous-system",
+      "name": "Nervous system",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/biology/lessons/03-lesson-06-nervous-system.json",
+      "status": "ready"
+    }
+  ]
+}
