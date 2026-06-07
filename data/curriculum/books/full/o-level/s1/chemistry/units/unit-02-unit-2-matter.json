@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 2: Matter.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-states-of-matter",
+      "name": "States of matter",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/02-lesson-01-states-of-matter.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-changes-of-state",
+      "name": "Changes of state",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/02-lesson-02-changes-of-state.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-physical-and-chemical-properties",
+      "name": "Physical and chemical properties",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/02-lesson-03-physical-and-chemical-properties.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-physical-and-chemical-changes",
+      "name": "Physical and chemical changes",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/02-lesson-04-physical-and-chemical-changes.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-diffusion-and-osmosis",
+      "name": "Diffusion and osmosis",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/02-lesson-05-diffusion-and-osmosis.json",
+      "status": "ready"
+    }
+  ]
+}

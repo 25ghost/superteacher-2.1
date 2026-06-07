@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 10: Environmental Chemistry.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-air-and-water-composition",
+      "name": "Air and water composition",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/10-lesson-01-air-and-water-composition.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-oxygen-and-carbon-dioxide-cycles",
+      "name": "Oxygen and carbon dioxide cycles",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/10-lesson-02-oxygen-and-carbon-dioxide-cycles.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-water-treatment-and-purification",
+      "name": "Water treatment and purification",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/10-lesson-03-water-treatment-and-purification.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-pollution-air-water-land",
+      "name": "Pollution (air, water, land)",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/10-lesson-04-pollution-air-water-land.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-green-chemistry-principles",
+      "name": "Green chemistry principles",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/10-lesson-05-green-chemistry-principles.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 6: Chemical Reactions.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-types-of-chemical-reactions",
+      "name": "Types of chemical reactions",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/06-lesson-01-types-of-chemical-reactions.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-writing-chemical-equations",
+      "name": "Writing chemical equations",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/06-lesson-02-writing-chemical-equations.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-balancing-equations",
+      "name": "Balancing equations",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/06-lesson-03-balancing-equations.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-combination-and-decomposition",
+      "name": "Combination and decomposition",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/06-lesson-04-combination-and-decomposition.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-combustion-reactions",
+      "name": "Combustion reactions",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/06-lesson-05-combustion-reactions.json",
+      "status": "ready"
+    }
+  ]
+}

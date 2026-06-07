@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "book": "English",
+    "level": "S1",
+    "unit_count": 6,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-unit-1-grammar",
+      "name": "Unit 1: Grammar",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/english/units/unit-01-unit-1-grammar.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-unit-2-reading-comprehension",
+      "name": "Unit 2: Reading Comprehension",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/english/units/unit-02-unit-2-reading-comprehension.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-unit-3-vocabulary",
+      "name": "Unit 3: Vocabulary",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/english/units/unit-03-unit-3-vocabulary.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-unit-4-writing-skills",
+      "name": "Unit 4: Writing Skills",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/english/units/unit-04-unit-4-writing-skills.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-unit-5-literature",
+      "name": "Unit 5: Literature",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/english/units/unit-05-unit-5-literature.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-06-unit-6-speaking-and-listening",
+      "name": "Unit 6: Speaking and Listening",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/english/units/unit-06-unit-6-speaking-and-listening.json",
+      "status": "ready"
+    }
+  ]
+}

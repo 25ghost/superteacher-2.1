@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 7: Acids, Bases and Salts.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-properties-of-acids-and-bases",
+      "name": "Properties of acids and bases",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/07-lesson-01-properties-of-acids-and-bases.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-ph-scale",
+      "name": "pH scale",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/07-lesson-02-ph-scale.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-neutralization-reactions",
+      "name": "Neutralization reactions",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/07-lesson-03-neutralization-reactions.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-preparation-of-salts",
+      "name": "Preparation of salts",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/07-lesson-04-preparation-of-salts.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-uses-of-acids-bases-and-salts",
+      "name": "Uses of acids, bases and salts",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/07-lesson-05-uses-of-acids-bases-and-salts.json",
+      "status": "ready"
+    }
+  ]
+}

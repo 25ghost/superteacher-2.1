@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 8: Metals and Non-metals.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-properties-of-metals",
+      "name": "Properties of metals",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/08-lesson-01-properties-of-metals.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-reactivity-series",
+      "name": "Reactivity series",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/08-lesson-02-reactivity-series.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-extraction-of-metals",
+      "name": "Extraction of metals",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/08-lesson-03-extraction-of-metals.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-corrosion-and-rusting",
+      "name": "Corrosion and rusting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/08-lesson-04-corrosion-and-rusting.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-properties-and-uses-of-non-metals",
+      "name": "Properties and uses of non-metals",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/08-lesson-05-properties-and-uses-of-non-metals.json",
+      "status": "ready"
+    }
+  ]
+}

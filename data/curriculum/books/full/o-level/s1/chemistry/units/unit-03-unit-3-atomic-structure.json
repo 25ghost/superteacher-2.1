@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 3: Atomic Structure.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-structure-of-the-atom",
+      "name": "Structure of the atom",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/03-lesson-01-structure-of-the-atom.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-protons-neutrons-and-electrons",
+      "name": "Protons, neutrons and electrons",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/03-lesson-02-protons-neutrons-and-electrons.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-atomic-number-and-mass-number",
+      "name": "Atomic number and mass number",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/03-lesson-03-atomic-number-and-mass-number.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-isotopes",
+      "name": "Isotopes",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/03-lesson-04-isotopes.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-electronic-configuration",
+      "name": "Electronic configuration",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/03-lesson-05-electronic-configuration.json",
+      "status": "ready"
+    }
+  ]
+}

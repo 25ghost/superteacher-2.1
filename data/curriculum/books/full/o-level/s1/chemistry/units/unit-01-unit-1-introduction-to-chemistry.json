@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 1: Introduction to Chemistry.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-what-is-chemistry",
+      "name": "What is chemistry",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/01-lesson-01-what-is-chemistry.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-branches-of-chemistry",
+      "name": "Branches of chemistry",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/01-lesson-02-branches-of-chemistry.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-chemistry-in-daily-life",
+      "name": "Chemistry in daily life",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/01-lesson-03-chemistry-in-daily-life.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-laboratory-safety-rules",
+      "name": "Laboratory safety rules",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/01-lesson-04-laboratory-safety-rules.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-laboratory-apparatus",
+      "name": "Laboratory apparatus",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/01-lesson-05-laboratory-apparatus.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 4: Periodic Table.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-arrangement-of-elements",
+      "name": "Arrangement of elements",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/04-lesson-01-arrangement-of-elements.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-groups-and-periods",
+      "name": "Groups and periods",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/04-lesson-02-groups-and-periods.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-metals-non-metals-and-metalloids",
+      "name": "Metals, non-metals and metalloids",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/04-lesson-03-metals-non-metals-and-metalloids.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-noble-gases",
+      "name": "Noble gases",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/04-lesson-04-noble-gases.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-periodic-trends",
+      "name": "Periodic trends",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/04-lesson-05-periodic-trends.json",
+      "status": "ready"
+    }
+  ]
+}

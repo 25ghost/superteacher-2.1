@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 5: Chemical Bonding.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-ionic-bonding",
+      "name": "Ionic bonding",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/05-lesson-01-ionic-bonding.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-covalent-bonding",
+      "name": "Covalent bonding",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/05-lesson-02-covalent-bonding.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-metallic-bonding",
+      "name": "Metallic bonding",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/05-lesson-03-metallic-bonding.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-electronegativity",
+      "name": "Electronegativity",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/05-lesson-04-electronegativity.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-bond-polarity",
+      "name": "Bond polarity",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/05-lesson-05-bond-polarity.json",
+      "status": "ready"
+    }
+  ]
+}

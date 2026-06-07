@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 9: Organic Chemistry Basics.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-introduction-to-organic-compounds",
+      "name": "Introduction to organic compounds",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/09-lesson-01-introduction-to-organic-compounds.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-hydrocarbons-alkanes-alkenes-alkynes",
+      "name": "Hydrocarbons (alkanes, alkenes, alkynes)",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/09-lesson-02-hydrocarbons-alkanes-alkenes-alkynes.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-functional-groups",
+      "name": "Functional groups",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/09-lesson-03-functional-groups.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-polymers-and-plastics",
+      "name": "Polymers and plastics",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/09-lesson-04-polymers-and-plastics.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-organic-compounds-in-daily-life",
+      "name": "Organic compounds in daily life",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/chemistry/lessons/09-lesson-05-organic-compounds-in-daily-life.json",
+      "status": "ready"
+    }
+  ]
+}
