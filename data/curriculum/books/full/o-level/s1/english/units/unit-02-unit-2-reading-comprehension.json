@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 2: Reading Comprehension.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-skimming-and-scanning",
+      "name": "Skimming and scanning",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/english/lessons/02-lesson-01-skimming-and-scanning.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-identifying-main-ideas",
+      "name": "Identifying main ideas",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/english/lessons/02-lesson-02-identifying-main-ideas.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-making-inferences",
+      "name": "Making inferences",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/english/lessons/02-lesson-03-making-inferences.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-critical-analysis-of-texts",
+      "name": "Critical analysis of texts",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/english/lessons/02-lesson-04-critical-analysis-of-texts.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-understanding-author-s-purpose",
+      "name": "Understanding author's purpose",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/english/lessons/02-lesson-05-understanding-author-s-purpose.json",
+      "status": "ready"
+    }
+  ]
+}

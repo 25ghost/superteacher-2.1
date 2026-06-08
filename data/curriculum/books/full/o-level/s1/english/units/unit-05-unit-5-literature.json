@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 5: Literature.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-prose-analysis",
+      "name": "Prose analysis",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/english/lessons/05-lesson-01-prose-analysis.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-poetry-analysis",
+      "name": "Poetry analysis",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/english/lessons/05-lesson-02-poetry-analysis.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-drama-analysis",
+      "name": "Drama analysis",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/english/lessons/05-lesson-03-drama-analysis.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-literary-devices",
+      "name": "Literary devices",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/english/lessons/05-lesson-04-literary-devices.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-character-and-theme-analysis",
+      "name": "Character and theme analysis",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/english/lessons/05-lesson-05-character-and-theme-analysis.json",
+      "status": "ready"
+    }
+  ]
+}

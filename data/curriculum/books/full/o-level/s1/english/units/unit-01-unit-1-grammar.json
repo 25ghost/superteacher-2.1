@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 1: Grammar.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-tenses-and-aspects",
+      "name": "Tenses and aspects",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/english/lessons/01-lesson-01-tenses-and-aspects.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-conditionals",
+      "name": "Conditionals",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/english/lessons/01-lesson-02-conditionals.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-reported-speech",
+      "name": "Reported speech",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/english/lessons/01-lesson-03-reported-speech.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-relative-clauses",
+      "name": "Relative clauses",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/english/lessons/01-lesson-04-relative-clauses.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-modals-and-passive-voice",
+      "name": "Modals and passive voice",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/english/lessons/01-lesson-05-modals-and-passive-voice.json",
+      "status": "ready"
+    }
+  ]
+}

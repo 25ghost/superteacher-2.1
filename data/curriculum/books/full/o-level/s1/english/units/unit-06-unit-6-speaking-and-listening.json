@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 6: Speaking and Listening.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-group-discussions-and-debates",
+      "name": "Group discussions and debates",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/english/lessons/06-lesson-01-group-discussions-and-debates.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-oral-presentations",
+      "name": "Oral presentations",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/english/lessons/06-lesson-02-oral-presentations.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-interview-skills",
+      "name": "Interview skills",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/english/lessons/06-lesson-03-interview-skills.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-active-listening-strategies",
+      "name": "Active listening strategies",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/english/lessons/06-lesson-04-active-listening-strategies.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-public-speaking-techniques",
+      "name": "Public speaking techniques",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/english/lessons/06-lesson-05-public-speaking-techniques.json",
+      "status": "ready"
+    }
+  ]
+}

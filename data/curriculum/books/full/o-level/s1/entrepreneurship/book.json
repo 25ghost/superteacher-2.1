@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "book": "Entrepreneurship",
+    "level": "S1",
+    "unit_count": 6,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-unit-1-business-concepts",
+      "name": "Unit 1: Business Concepts",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/entrepreneurship/units/unit-01-unit-1-business-concepts.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-unit-2-market-research",
+      "name": "Unit 2: Market Research",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/entrepreneurship/units/unit-02-unit-2-market-research.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-unit-3-business-plans",
+      "name": "Unit 3: Business Plans",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/entrepreneurship/units/unit-03-unit-3-business-plans.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-unit-4-financial-literacy",
+      "name": "Unit 4: Financial Literacy",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/entrepreneurship/units/unit-04-unit-4-financial-literacy.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-unit-5-innovation-and-technology",
+      "name": "Unit 5: Innovation and Technology",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/entrepreneurship/units/unit-05-unit-5-innovation-and-technology.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-06-unit-6-customer-service",
+      "name": "Unit 6: Customer Service",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/entrepreneurship/units/unit-06-unit-6-customer-service.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 4: Writing Skills.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-essay-types-argumentative-descriptive-narrative",
+      "name": "Essay types (argumentative, descriptive, narrative)",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/english/lessons/04-lesson-01-essay-types-argumentative-descriptive-narrative.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-formal-and-informal-letters",
+      "name": "Formal and informal letters",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/english/lessons/04-lesson-02-formal-and-informal-letters.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-reports-and-summaries",
+      "name": "Reports and summaries",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/english/lessons/04-lesson-03-reports-and-summaries.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-creative-writing",
+      "name": "Creative writing",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/english/lessons/04-lesson-04-creative-writing.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-editing-and-proofreading",
+      "name": "Editing and proofreading",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/english/lessons/04-lesson-05-editing-and-proofreading.json",
+      "status": "ready"
+    }
+  ]
+}
