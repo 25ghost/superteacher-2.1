@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 2: Market Research.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-identifying-customer-needs",
+      "name": "Identifying customer needs",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/02-lesson-01-identifying-customer-needs.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-market-segmentation",
+      "name": "Market segmentation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/02-lesson-02-market-segmentation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-data-collection-methods",
+      "name": "Data collection methods",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/02-lesson-03-data-collection-methods.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-analyzing-competition",
+      "name": "Analyzing competition",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/02-lesson-04-analyzing-competition.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-market-trends-and-forecasting",
+      "name": "Market trends and forecasting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/02-lesson-05-market-trends-and-forecasting.json",
+      "status": "ready"
+    }
+  ]
+}

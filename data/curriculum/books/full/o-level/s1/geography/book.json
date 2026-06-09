@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "book": "Geography",
+    "level": "S1",
+    "unit_count": 9,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-unit-1-physical-geography",
+      "name": "Unit 1: Physical Geography",
+      "node_type": "unit",
+      "description": "6 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/geography/units/unit-01-unit-1-physical-geography.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-unit-2-weather-and-climate",
+      "name": "Unit 2: Weather and Climate",
+      "node_type": "unit",
+      "description": "6 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/geography/units/unit-02-unit-2-weather-and-climate.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-unit-3-population",
+      "name": "Unit 3: Population",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/geography/units/unit-03-unit-3-population.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-unit-4-environment-and-resources",
+      "name": "Unit 4: Environment and Resources",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/geography/units/unit-04-unit-4-environment-and-resources.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-unit-5-agriculture",
+      "name": "Unit 5: Agriculture",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/geography/units/unit-05-unit-5-agriculture.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-06-unit-6-industry-and-trade",
+      "name": "Unit 6: Industry and Trade",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/geography/units/unit-06-unit-6-industry-and-trade.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-07-unit-7-geography-of-rwanda",
+      "name": "Unit 7: Geography of Rwanda",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/geography/units/unit-07-unit-7-geography-of-rwanda.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-08-unit-8-africa-geography",
+      "name": "Unit 8: Africa Geography",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/geography/units/unit-08-unit-8-africa-geography.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-09-unit-9-world-geography",
+      "name": "Unit 9: World Geography",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/geography/units/unit-09-unit-9-world-geography.json",
+      "status": "ready"
+    }
+  ]
+}

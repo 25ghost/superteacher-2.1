@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 3: Business Plans.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-components-of-a-business-plan",
+      "name": "Components of a business plan",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/03-lesson-01-components-of-a-business-plan.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-executive-summary",
+      "name": "Executive summary",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/03-lesson-02-executive-summary.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-marketing-plan",
+      "name": "Marketing plan",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/03-lesson-03-marketing-plan.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-operations-plan",
+      "name": "Operations plan",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/03-lesson-04-operations-plan.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-financial-projections",
+      "name": "Financial projections",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/03-lesson-05-financial-projections.json",
+      "status": "ready"
+    }
+  ]
+}

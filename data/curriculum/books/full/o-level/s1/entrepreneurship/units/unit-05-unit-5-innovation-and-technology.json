@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 5: Innovation and Technology.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-technology-in-business",
+      "name": "Technology in business",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/05-lesson-01-technology-in-business.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-e-commerce",
+      "name": "E-commerce",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/05-lesson-02-e-commerce.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-digital-marketing",
+      "name": "Digital marketing",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/05-lesson-03-digital-marketing.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-social-media-for-business",
+      "name": "Social media for business",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/05-lesson-04-social-media-for-business.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-innovation-in-rwanda",
+      "name": "Innovation in Rwanda",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/05-lesson-05-innovation-in-rwanda.json",
+      "status": "ready"
+    }
+  ]
+}

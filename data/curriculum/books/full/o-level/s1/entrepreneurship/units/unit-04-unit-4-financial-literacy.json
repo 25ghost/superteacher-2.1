@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 4: Financial Literacy.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-income-and-expenses",
+      "name": "Income and expenses",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/04-lesson-01-income-and-expenses.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-saving-and-budgeting",
+      "name": "Saving and budgeting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/04-lesson-02-saving-and-budgeting.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-banking-and-financial-institutions",
+      "name": "Banking and financial institutions",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/04-lesson-03-banking-and-financial-institutions.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-credit-and-loans",
+      "name": "Credit and loans",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/04-lesson-04-credit-and-loans.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-investment-basics",
+      "name": "Investment basics",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/04-lesson-05-investment-basics.json",
+      "status": "ready"
+    }
+  ]
+}

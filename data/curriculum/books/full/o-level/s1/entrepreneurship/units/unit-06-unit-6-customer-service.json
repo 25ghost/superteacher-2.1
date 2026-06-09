@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 6: Customer Service.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-understanding-customer-needs",
+      "name": "Understanding customer needs",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/06-lesson-01-understanding-customer-needs.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-communication-with-customers",
+      "name": "Communication with customers",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/06-lesson-02-communication-with-customers.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-handling-complaints",
+      "name": "Handling complaints",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/06-lesson-03-handling-complaints.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-customer-relationship-management",
+      "name": "Customer relationship management",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/06-lesson-04-customer-relationship-management.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-building-customer-loyalty",
+      "name": "Building customer loyalty",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/06-lesson-05-building-customer-loyalty.json",
+      "status": "ready"
+    }
+  ]
+}

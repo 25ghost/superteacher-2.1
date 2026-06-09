@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 1: Business Concepts.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-what-is-entrepreneurship",
+      "name": "What is entrepreneurship",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/01-lesson-01-what-is-entrepreneurship.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-characteristics-of-an-entrepreneur",
+      "name": "Characteristics of an entrepreneur",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/01-lesson-02-characteristics-of-an-entrepreneur.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-types-of-businesses",
+      "name": "Types of businesses",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/01-lesson-03-types-of-businesses.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-business-opportunities-in-rwanda",
+      "name": "Business opportunities in Rwanda",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/01-lesson-04-business-opportunities-in-rwanda.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-innovation-and-creativity",
+      "name": "Innovation and creativity",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/entrepreneurship/lessons/01-lesson-05-innovation-and-creativity.json",
+      "status": "ready"
+    }
+  ]
+}
