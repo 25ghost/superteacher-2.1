@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 1: Physical Geography.",
+    "lesson_count": 6
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-earth-s-structure-and-composition",
+      "name": "Earth's structure and composition",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/01-lesson-01-earth-s-structure-and-composition.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-plate-tectonics",
+      "name": "Plate tectonics",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/01-lesson-02-plate-tectonics.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-rocks-and-minerals",
+      "name": "Rocks and minerals",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/01-lesson-03-rocks-and-minerals.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-weathering-and-erosion",
+      "name": "Weathering and erosion",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/01-lesson-04-weathering-and-erosion.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-folding-and-faulting",
+      "name": "Folding and faulting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/01-lesson-05-folding-and-faulting.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-06-formation-of-landforms",
+      "name": "Formation of landforms",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/01-lesson-06-formation-of-landforms.json",
+      "status": "ready"
+    }
+  ]
+}
