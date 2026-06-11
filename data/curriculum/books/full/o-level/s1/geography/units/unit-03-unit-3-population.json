@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 3: Population.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-population-distribution-and-density",
+      "name": "Population distribution and density",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/03-lesson-01-population-distribution-and-density.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-population-growth-and-change",
+      "name": "Population growth and change",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/03-lesson-02-population-growth-and-change.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-migration-types-and-causes",
+      "name": "Migration types and causes",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/03-lesson-03-migration-types-and-causes.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-population-policies",
+      "name": "Population policies",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/03-lesson-04-population-policies.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-urbanization",
+      "name": "Urbanization",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/03-lesson-05-urbanization.json",
+      "status": "ready"
+    }
+  ]
+}

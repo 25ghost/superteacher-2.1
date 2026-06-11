@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Regional and world history.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-great-lakes-societies",
+      "name": "Great Lakes societies",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/history-citizenship/lessons/03-lesson-01-great-lakes-societies.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-african-nationalism",
+      "name": "African nationalism",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/history-citizenship/lessons/03-lesson-02-african-nationalism.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-world-conflicts",
+      "name": "World conflicts",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/history-citizenship/lessons/03-lesson-03-world-conflicts.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-international-cooperation",
+      "name": "International cooperation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/history-citizenship/lessons/03-lesson-04-international-cooperation.json",
+      "status": "ready"
+    }
+  ]
+}

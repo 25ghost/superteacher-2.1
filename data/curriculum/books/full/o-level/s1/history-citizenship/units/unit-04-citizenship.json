@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Citizenship.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-identity-and-values",
+      "name": "Identity and values",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/history-citizenship/lessons/04-lesson-01-identity-and-values.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-rights-and-responsibilities",
+      "name": "Rights and responsibilities",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/history-citizenship/lessons/04-lesson-02-rights-and-responsibilities.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-democratic-participation",
+      "name": "Democratic participation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/history-citizenship/lessons/04-lesson-03-democratic-participation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-peace-and-unity",
+      "name": "Peace and unity",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/history-citizenship/lessons/04-lesson-04-peace-and-unity.json",
+      "status": "ready"
+    }
+  ]
+}

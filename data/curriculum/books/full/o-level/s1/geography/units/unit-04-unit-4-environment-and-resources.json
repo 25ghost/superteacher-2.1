@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 4: Environment and Resources.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-natural-resources-of-rwanda",
+      "name": "Natural resources of Rwanda",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/04-lesson-01-natural-resources-of-rwanda.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-water-resources-and-management",
+      "name": "Water resources and management",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/04-lesson-02-water-resources-and-management.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-forests-and-conservation",
+      "name": "Forests and conservation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/04-lesson-03-forests-and-conservation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-minerals-and-mining",
+      "name": "Minerals and mining",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/04-lesson-04-minerals-and-mining.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-environmental-degradation-and-protection",
+      "name": "Environmental degradation and protection",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/04-lesson-05-environmental-degradation-and-protection.json",
+      "status": "ready"
+    }
+  ]
+}

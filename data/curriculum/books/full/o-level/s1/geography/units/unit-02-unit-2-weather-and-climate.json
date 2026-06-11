@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 2: Weather and Climate.",
+    "lesson_count": 6
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-weather-elements",
+      "name": "Weather elements",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/02-lesson-01-weather-elements.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-climate-factors",
+      "name": "Climate factors",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/02-lesson-02-climate-factors.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-climate-zones-of-the-world",
+      "name": "Climate zones of the world",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/02-lesson-03-climate-zones-of-the-world.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-climate-of-rwanda",
+      "name": "Climate of Rwanda",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/02-lesson-04-climate-of-rwanda.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-weather-forecasting",
+      "name": "Weather forecasting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/02-lesson-05-weather-forecasting.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-06-climate-change-and-its-impacts",
+      "name": "Climate change and its impacts",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/02-lesson-06-climate-change-and-its-impacts.json",
+      "status": "ready"
+    }
+  ]
+}

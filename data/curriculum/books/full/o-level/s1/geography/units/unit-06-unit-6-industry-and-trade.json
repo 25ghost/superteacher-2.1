@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 6: Industry and Trade.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-types-of-industries",
+      "name": "Types of industries",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/06-lesson-01-types-of-industries.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-industrial-development-in-rwanda",
+      "name": "Industrial development in Rwanda",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/06-lesson-02-industrial-development-in-rwanda.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-trade-and-commerce",
+      "name": "Trade and commerce",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/06-lesson-03-trade-and-commerce.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-transport-and-communication",
+      "name": "Transport and communication",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/06-lesson-04-transport-and-communication.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-tourism-in-rwanda",
+      "name": "Tourism in Rwanda",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/06-lesson-05-tourism-in-rwanda.json",
+      "status": "ready"
+    }
+  ]
+}

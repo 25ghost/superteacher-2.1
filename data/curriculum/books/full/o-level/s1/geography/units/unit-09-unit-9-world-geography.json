@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 9: World Geography.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-continents-and-oceans",
+      "name": "Continents and oceans",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/09-lesson-01-continents-and-oceans.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-major-world-regions",
+      "name": "Major world regions",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/09-lesson-02-major-world-regions.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-global-economic-systems",
+      "name": "Global economic systems",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/09-lesson-03-global-economic-systems.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-international-trade-patterns",
+      "name": "International trade patterns",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/09-lesson-04-international-trade-patterns.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-sustainable-development-goals",
+      "name": "Sustainable development goals",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/09-lesson-05-sustainable-development-goals.json",
+      "status": "ready"
+    }
+  ]
+}

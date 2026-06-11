@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 5: Agriculture.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-types-of-agriculture",
+      "name": "Types of agriculture",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/05-lesson-01-types-of-agriculture.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-farming-systems-in-rwanda",
+      "name": "Farming systems in Rwanda",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/05-lesson-02-farming-systems-in-rwanda.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-crops-and-livestock",
+      "name": "Crops and livestock",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/05-lesson-03-crops-and-livestock.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-agricultural-modernization",
+      "name": "Agricultural modernization",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/05-lesson-04-agricultural-modernization.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-food-security",
+      "name": "Food security",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/05-lesson-05-food-security.json",
+      "status": "ready"
+    }
+  ]
+}

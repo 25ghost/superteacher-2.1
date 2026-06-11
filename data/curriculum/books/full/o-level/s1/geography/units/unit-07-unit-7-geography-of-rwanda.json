@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 7: Geography of Rwanda.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-location-and-size",
+      "name": "Location and size",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/07-lesson-01-location-and-size.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-relief-and-drainage",
+      "name": "Relief and drainage",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/07-lesson-02-relief-and-drainage.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-climate-and-vegetation",
+      "name": "Climate and vegetation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/07-lesson-03-climate-and-vegetation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-population-and-settlements",
+      "name": "Population and settlements",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/07-lesson-04-population-and-settlements.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-economic-activities-by-region",
+      "name": "Economic activities by region",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/07-lesson-05-economic-activities-by-region.json",
+      "status": "ready"
+    }
+  ]
+}

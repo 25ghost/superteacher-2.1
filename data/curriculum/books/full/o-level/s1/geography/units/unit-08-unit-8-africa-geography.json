@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 8: Africa Geography.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-physical-features-of-africa",
+      "name": "Physical features of Africa",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/08-lesson-01-physical-features-of-africa.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-climate-and-vegetation-zones",
+      "name": "Climate and vegetation zones",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/08-lesson-02-climate-and-vegetation-zones.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-population-and-culture",
+      "name": "Population and culture",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/08-lesson-03-population-and-culture.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-economic-activities",
+      "name": "Economic activities",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/08-lesson-04-economic-activities.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-african-union-and-regional-blocs",
+      "name": "African union and regional blocs",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/geography/lessons/08-lesson-05-african-union-and-regional-blocs.json",
+      "status": "ready"
+    }
+  ]
+}
