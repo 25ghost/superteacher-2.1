@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 7: Internet and Web Technologies.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-how-the-internet-works",
+      "name": "How the internet works",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/07-lesson-01-how-the-internet-works.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-web-browsers-and-search-engines",
+      "name": "Web browsers and search engines",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/07-lesson-02-web-browsers-and-search-engines.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-email-and-communication-tools",
+      "name": "Email and communication tools",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/07-lesson-03-email-and-communication-tools.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-web-design-basics-html",
+      "name": "Web design basics (HTML)",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/07-lesson-04-web-design-basics-html.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-online-collaboration-tools",
+      "name": "Online collaboration tools",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/07-lesson-05-online-collaboration-tools.json",
+      "status": "ready"
+    }
+  ]
+}

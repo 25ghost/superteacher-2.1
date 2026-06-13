@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 5: Databases.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-database-concepts",
+      "name": "Database concepts",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/05-lesson-01-database-concepts.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-tables-records-and-fields",
+      "name": "Tables, records and fields",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/05-lesson-02-tables-records-and-fields.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-queries-and-filters",
+      "name": "Queries and filters",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/05-lesson-03-queries-and-filters.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-forms-and-reports",
+      "name": "Forms and reports",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/05-lesson-04-forms-and-reports.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-database-management-systems",
+      "name": "Database management systems",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/05-lesson-05-database-management-systems.json",
+      "status": "ready"
+    }
+  ]
+}

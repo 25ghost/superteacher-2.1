@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 4: Spreadsheets.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-formulas-and-functions",
+      "name": "Formulas and functions",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/04-lesson-01-formulas-and-functions.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-cell-references",
+      "name": "Cell references",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/04-lesson-02-cell-references.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-data-analysis-tools",
+      "name": "Data analysis tools",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/04-lesson-03-data-analysis-tools.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-charts-and-graphs",
+      "name": "Charts and graphs",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/04-lesson-04-charts-and-graphs.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-what-if-analysis",
+      "name": "What-if analysis",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/04-lesson-05-what-if-analysis.json",
+      "status": "ready"
+    }
+  ]
+}

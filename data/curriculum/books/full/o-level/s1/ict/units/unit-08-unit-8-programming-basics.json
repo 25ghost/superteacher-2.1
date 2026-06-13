@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 8: Programming Basics.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-introduction-to-programming",
+      "name": "Introduction to programming",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/08-lesson-01-introduction-to-programming.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-variables-and-data-types",
+      "name": "Variables and data types",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/08-lesson-02-variables-and-data-types.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-control-structures-if-loops",
+      "name": "Control structures (if, loops)",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/08-lesson-03-control-structures-if-loops.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-arrays-and-functions",
+      "name": "Arrays and functions",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/08-lesson-04-arrays-and-functions.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-simple-program-development",
+      "name": "Simple program development",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/08-lesson-05-simple-program-development.json",
+      "status": "ready"
+    }
+  ]
+}

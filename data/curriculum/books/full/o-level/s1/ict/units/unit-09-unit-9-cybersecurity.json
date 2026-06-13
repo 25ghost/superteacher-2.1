@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 9: Cybersecurity.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-common-cyber-threats",
+      "name": "Common cyber threats",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/09-lesson-01-common-cyber-threats.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-passwords-and-authentication",
+      "name": "Passwords and authentication",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/09-lesson-02-passwords-and-authentication.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-data-protection-and-encryption",
+      "name": "Data protection and encryption",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/09-lesson-03-data-protection-and-encryption.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-safe-browsing-practices",
+      "name": "Safe browsing practices",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/09-lesson-04-safe-browsing-practices.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-cyber-ethics-and-laws",
+      "name": "Cyber ethics and laws",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/09-lesson-05-cyber-ethics-and-laws.json",
+      "status": "ready"
+    }
+  ]
+}

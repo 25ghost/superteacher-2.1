@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 1: Computer Fundamentals.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-hardware-components",
+      "name": "Hardware components",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/01-lesson-01-hardware-components.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-software-types",
+      "name": "Software types",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/01-lesson-02-software-types.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-input-and-output-devices",
+      "name": "Input and output devices",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/01-lesson-03-input-and-output-devices.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-storage-devices-and-memory",
+      "name": "Storage devices and memory",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/01-lesson-04-storage-devices-and-memory.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-computer-performance-factors",
+      "name": "Computer performance factors",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/01-lesson-05-computer-performance-factors.json",
+      "status": "ready"
+    }
+  ]
+}

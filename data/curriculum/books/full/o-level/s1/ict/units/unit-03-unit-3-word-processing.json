@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 3: Word Processing.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-advanced-formatting",
+      "name": "Advanced formatting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/03-lesson-01-advanced-formatting.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-mail-merge",
+      "name": "Mail merge",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/03-lesson-02-mail-merge.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-tables-and-graphics",
+      "name": "Tables and graphics",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/03-lesson-03-tables-and-graphics.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-document-templates",
+      "name": "Document templates",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/03-lesson-04-document-templates.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-collaboration-and-review-tools",
+      "name": "Collaboration and review tools",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/03-lesson-05-collaboration-and-review-tools.json",
+      "status": "ready"
+    }
+  ]
+}

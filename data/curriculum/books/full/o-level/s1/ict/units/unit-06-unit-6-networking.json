@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 6: Networking.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-network-types-lan-wan-man",
+      "name": "Network types (LAN, WAN, MAN)",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/06-lesson-01-network-types-lan-wan-man.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-network-topologies",
+      "name": "Network topologies",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/06-lesson-02-network-topologies.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-ip-addressing-and-protocols",
+      "name": "IP addressing and protocols",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/06-lesson-03-ip-addressing-and-protocols.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-network-devices-router-switch-modem",
+      "name": "Network devices (router, switch, modem)",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/06-lesson-04-network-devices-router-switch-modem.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-internet-and-its-services",
+      "name": "Internet and its services",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/06-lesson-05-internet-and-its-services.json",
+      "status": "ready"
+    }
+  ]
+}

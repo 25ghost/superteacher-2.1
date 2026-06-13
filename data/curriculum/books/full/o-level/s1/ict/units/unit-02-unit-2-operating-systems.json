@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 2: Operating Systems.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-functions-of-an-operating-system",
+      "name": "Functions of an operating system",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/02-lesson-01-functions-of-an-operating-system.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-windows-linux-basics",
+      "name": "Windows/Linux basics",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/02-lesson-02-windows-linux-basics.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-file-management-and-organization",
+      "name": "File management and organization",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/02-lesson-03-file-management-and-organization.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-system-utilities",
+      "name": "System utilities",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/02-lesson-04-system-utilities.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-installing-and-uninstalling-software",
+      "name": "Installing and uninstalling software",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/ict/lessons/02-lesson-05-installing-and-uninstalling-software.json",
+      "status": "ready"
+    }
+  ]
+}
