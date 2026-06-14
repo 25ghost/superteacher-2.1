@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 3: Kwandika.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-kwandika-ibice-by-inyandiko",
+      "name": "Kwandika ibice by'inyandiko",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/kinyarwanda/lessons/03-lesson-01-kwandika-ibice-by-inyandiko.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-kwandika-essay",
+      "name": "Kwandika essay",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/kinyarwanda/lessons/03-lesson-02-kwandika-essay.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-kwandika-amakuru",
+      "name": "Kwandika amakuru",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/kinyarwanda/lessons/03-lesson-03-kwandika-amakuru.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-kwandika-raporo",
+      "name": "Kwandika raporo",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/kinyarwanda/lessons/03-lesson-04-kwandika-raporo.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-kwandika-inyandiko-z-ubuhanga",
+      "name": "Kwandika inyandiko z'ubuhanga",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/kinyarwanda/lessons/03-lesson-05-kwandika-inyandiko-z-ubuhanga.json",
+      "status": "ready"
+    }
+  ]
+}

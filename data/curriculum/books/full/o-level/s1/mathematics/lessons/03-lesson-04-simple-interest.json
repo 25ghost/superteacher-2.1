@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Understand what simple interest is\n- Calculate simple interest using the formula\n- Find total amount after interest",
+    "reading": "When you save money in a bank or borrow money, interest is involved. Simple interest is money you earn on savings or pay on a loan.\n\nThe formula is:\nSimple Interest (I) = Principal (P) x Rate (R) x Time (T) ÷ 100\n\nWhere:\n- Principal (P) = the amount you save or borrow\n- Rate (R) = the percentage rate per year\n- Time (T) = the number of years\nTotal Amount = Principal + Interest\n\nExample: You save 100,000 RWF in a bank at 5% per year for 3 years.\nInterest = (100,000 x 5 x 3) ÷ 100 = 15,000 RWF\nTotal = 100,000 + 15,000 = 115,000 RWF",
+    "examples": "Example 1: A farmer borrows 200,000 RWF from a bank at 8% per year for 2 years. Find the simple interest and total to repay.\nSolution:\nInterest = (200,000 x 8 x 2) ÷ 100 = 32,000 RWF\nTotal = 200,000 + 32,000 = 232,000 RWF\nAnswer: Interest = 32,000 RWF, Total = 232,000 RWF\n\nExample 2: A student saves 50,000 RWF in a savings account at 4% per year. How much interest does she earn in 5 years?\nSolution:\nInterest = (50,000 x 4 x 5) ÷ 100 = 10,000 RWF\nAnswer: She earns 10,000 RWF in interest.",
+    "practice": "1. (Easy) Find the simple interest on 100,000 RWF at 5% for 1 year.\n2. (Easy) Principal = 200,000 RWF, Rate = 10%, Time = 2 years. Find interest.\n3. (Medium) A business owner borrows 500,000 RWF at 12% per year for 3 years. Find total amount to repay.\n4. (Medium) How much interest do you earn on 80,000 RWF saved at 6% for 4 years?\n5. (Hard) A farmer wants to have 150,000 RWF after 2 years. The bank pays 5% simple interest. How much must she deposit now? (Hint: Use I = PRT/100 and Total = P + I)",
+    "summary": "* Simple interest = (Principal x Rate x Time) ÷ 100\n* Total amount = Principal + Interest\n* Principal is the original amount saved or borrowed\n* Rate is the percentage per year, Time is in years",
+    "quiz": {
+      "question": "Simple interest on 100,000 RWF at 10% for 3 years is:",
+      "options": {
+        "A": "10,000 RWF",
+        "B": "20,000 RWF",
+        "C": "30,000 RWF",
+        "D": "40,000 RWF"
+      },
+      "answer": "C"
+    },
+    "practice_answers": "1. 5,000 RWF\n2. 40,000 RWF\n3. 680,000 RWF\n4. 19,200 RWF\n5. ~136,364 RWF",
+    "title": "Simple interest",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Simple interest. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Simple interest into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Simple interest. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Simple interest: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Simple interest",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Simple interest."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

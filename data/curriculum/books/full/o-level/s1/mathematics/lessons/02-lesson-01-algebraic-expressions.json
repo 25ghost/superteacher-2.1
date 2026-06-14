@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Identify what an algebraic expression is\n- Find the parts of an expression: variables, constants, coefficients\n- Combine like terms to make expressions simpler",
+    "reading": "An algebraic expression is a math sentence that uses numbers, letters, and operations like +, -, x, ÷. Think of it like a shopping list where you don't know the exact price yet! \n\nFor example, you go to Nyabugogo market and buy some bananas. Each bunch costs 500 RWF. If you buy 'b' bunches, you pay 500 x b RWF. We write this as 500b. \n\nParts of an expression:\n- Variable: a letter that stands for an unknown number (like 'b' for bunches)\n- Constant: a number that stays the same (like 500)\n- Coefficient: the number in front of a variable (like 500 in 500b)\n- Term: parts of the expression separated by + or - signs\n\nTo simplify, we combine like terms. Like terms have the same variable. For example, 3x and 5x are like terms, but 3x and 7 are not.",
+    "examples": "Example 1: Find the parts of 5a + 7.\nSolution:\n- Variable: a\n- Constant: 7\n- Coefficient: 5\n- Terms: 5a and 7\n\nExample 2: Simplify 3b + 5 + 2b.\nSolution:\nStep 1: Find like terms. 3b and 2b have the same variable 'b'. 5 has no variable.\nStep 2: Add the like terms: 3b + 2b = 5b\nStep 3: Write the simplified expression: 5b + 5\nAnswer: 5b + 5",
+    "practice": "1. (Easy) What is the variable in 9k – 4?\n2. (Easy) What is the constant in 2m + 10?\n3. (Medium) Simplify: 8x – 2 + 3x\n4. (Medium) Simplify: 4p + 7 – 2p + 3\n5. (Hard) You buy 'm' mangoes at 200 RWF each and 'n' oranges at 100 RWF each. Write an expression for the total cost. Then simplify if you buy 2 extra mangoes for free.",
+    "summary": "* An algebraic expression uses variables (letters) and constants (numbers)\n* Like terms have the same variable. You can combine them by adding or subtracting\n* Coefficients are numbers that multiply variables\n* Simplifying means combining like terms to make the expression shorter",
+    "quiz": {
+      "question": "Which of these is a constant in 4x + 9?",
+      "options": {
+        "A": "x",
+        "B": "4",
+        "C": "9",
+        "D": "4x"
+      },
+      "answer": "C"
+    },
+    "practice_answers": "1. k\n2. 10\n3. 11x - 2\n4. 2p + 10\n5. 200m + 100n + 400",
+    "title": "Algebraic expressions",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Algebraic expressions. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Algebraic expressions into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Algebraic expressions. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Algebraic expressions: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Algebraic expressions",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Algebraic expressions."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

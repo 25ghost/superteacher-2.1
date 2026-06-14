@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n1. Perform addition and subtraction of whole numbers, integers, and decimals.\n2. Perform multiplication and division of whole numbers, integers, and decimals.\n3. Solve word problems involving operations on different types of numbers.",
+    "reading": "In mathematics, we use operations like addition (+), subtraction (-), multiplication (x or *), and division (/ or ÷) to combine or separate numbers.  These operations are fundamental and apply to various sets of numbers we've learned about: whole numbers, integers, and decimals. When adding or subtracting numbers with different signs, remember that integers change the result (e.g., adding a negative number is the same as subtracting its positive counterpart). Multiplication and division follow specific rules for signs: positive times positive is positive, negative times negative is positive, and positive times negative is negative. The same applies to division. For example, imagine you have 5,000 Rwandan Francs (RWF) and you earn another 2,500 RWF, then spend 1,000 RWF, your total is 5,000 + 2,500 - 1,000 = 6,500 RWF. This shows how operations help us manage quantities.",
+    "examples": "Example 1: Calculate: 15.7 + (-3.2) - 8.5\nStep 1: Combine the addition and subtraction of the positive numbers: 15.7 - 8.5 = 7.2\nStep 2: Now add the result to the negative number (which is the same as subtracting the positive version): 7.2 + (-3.2) = 7.2 - 3.2 = 4.0\nAnswer: 4.0\n\nExample 2: A group of 4 friends from Kigali are sharing the cost of a bus ticket to Rubavu. The total cost is 12,400 RWF. If one friend pays 3,500 RWF, how much does each of the remaining friends need to pay if they share the rest equally?\nStep 1: Find the remaining cost: 12,400 RWF - 3,500 RWF = 8,900 RWF\nStep 2: Divide the remaining cost among the 3 friends: 8,900 RWF / 3 = 2,966.67 RWF (approximately)\nAnswer: Each of the remaining friends needs to pay approximately 2,966.67 RWF.",
+    "practice": "1. Calculate: 25 + (-10) - 7\n2. Multiply: -6 * 5\n3. Divide: -45 / -9\n4. Sarah bought 3 kg of potatoes at 500 RWF per kg and 2 kg of onions at 750 RWF per kg. How much did she spend in total?\n5. A farmer has 1,500 mangoes. He sells 3/5 of them and then his neighbor gives him 250 more mangoes. How many mangoes does the farmer have now?",
+    "summary": "* Operations like addition, subtraction, multiplication, and division are used to combine or separate numbers.\n* Pay close attention to the signs of integers when performing operations.\n* Multiplication and division have specific rules for how signs affect the result.\n* These operations are used in real-life situations, such as managing money or quantities.",
+    "quiz": {
+      "question": "A market vendor in Nyabugogo started the day with 80,000 RWF in her cash box. She sold goods worth 55,500 RWF and then bought new stock for 32,000 RWF. How much money does she have in her cash box at the end of the day?",
+      "options": {
+        "A": "103,500 RWF",
+        "B": "24,500 RWF",
+        "C": "135,500 RWF",
+        "D": "32,000 RWF"
+      },
+      "answer": "B"
+    },
+    "practice_answers": "1. 8\n2. -30\n3. 5\n4. 3,000 RWF\n5. 850 mangoes",
+    "title": "Operations on numbers",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Operations on numbers. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Operations on numbers into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Operations on numbers. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Operations on numbers: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Operations on numbers",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Operations on numbers."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

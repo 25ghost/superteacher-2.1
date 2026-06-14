@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 1: Gusoma no Gusesengura.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-gusoma-inyandiko-zo-mu-mashuri",
+      "name": "Gusoma inyandiko zo mu mashuri",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/kinyarwanda/lessons/01-lesson-01-gusoma-inyandiko-zo-mu-mashuri.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-gusesengura-ibice-by-inyandiko",
+      "name": "Gusesengura ibice by'inyandiko",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/kinyarwanda/lessons/01-lesson-02-gusesengura-ibice-by-inyandiko.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-gusesengura-inkuru-n-ibitekerezo",
+      "name": "Gusesengura inkuru n'ibitekerezo",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/kinyarwanda/lessons/01-lesson-03-gusesengura-inkuru-n-ibitekerezo.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-gukora-incamake",
+      "name": "Gukora incamake",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/kinyarwanda/lessons/01-lesson-04-gukora-incamake.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-gusesengura-imvugo-y-ikinyarwanda",
+      "name": "Gusesengura imvugo y'ikinyarwanda",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/kinyarwanda/lessons/01-lesson-05-gusesengura-imvugo-y-ikinyarwanda.json",
+      "status": "ready"
+    }
+  ]
+}

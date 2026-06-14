@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 4: Ubuvanganzo.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-ibisigo-n-imivugo",
+      "name": "Ibisigo n'imivugo",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/kinyarwanda/lessons/04-lesson-01-ibisigo-n-imivugo.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-inkuru-n-ibitekerezo-novels",
+      "name": "Inkuru n'ibitekerezo (novels)",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/kinyarwanda/lessons/04-lesson-02-inkuru-n-ibitekerezo-novels.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-amakinisha-drama",
+      "name": "Amakinisha (drama)",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/kinyarwanda/lessons/04-lesson-03-amakinisha-drama.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-gusesengura-ibisigo",
+      "name": "Gusesengura ibisigo",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/kinyarwanda/lessons/04-lesson-04-gusesengura-ibisigo.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-gusesengura-amakinisha",
+      "name": "Gusesengura amakinisha",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/kinyarwanda/lessons/04-lesson-05-gusesengura-amakinisha.json",
+      "status": "ready"
+    }
+  ]
+}

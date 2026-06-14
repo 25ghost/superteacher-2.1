@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Read and use scale drawings\n- Calculate actual distances from a map\n- Draw simple objects to scale",
+    "reading": "Scale drawings are pictures that are larger or smaller than the real thing. They are very useful! Architects in Kigali use scale drawings to design buildings. Map makers use scale to show large areas on a small piece of paper.\n\nA scale is written as a ratio, like 1:100 or 1:100,000.\n- 1:100 means 1 cm on the drawing = 100 cm (1 m) in real life\n- 1:100,000 means 1 cm on the map = 100,000 cm (1 km) in real life\n\nTo find actual distance from a map:\nActual distance = Map distance x Scale factor\n\nExample: On a map with scale 1:50,000, two towns are 8 cm apart. What is the actual distance?\nActual = 8 x 50,000 = 400,000 cm = 4 km",
+    "examples": "Example 1: A classroom is 12 m long. On a scale drawing with scale 1:100, how long is the classroom on paper?\nSolution:\nScale 1:100 means 1 cm on paper = 100 cm real = 1 m\nSo 12 m = 12 cm on paper\nAnswer: 12 cm\n\nExample 2: On a map with scale 1:100,000, two villages are 5 cm apart. What is the real distance in km?\nSolution:\nReal distance = 5 x 100,000 = 500,000 cm\n500,000 ÷ 100,000 = 5 km\nAnswer: 5 km (notice: 1 cm on map = 1 km when scale is 1:100,000)",
+    "practice": "1. (Easy) Scale 1:100. A room is 8 m long. How long on paper in cm?\n2. (Easy) On a map, 1 cm = 2 km. What distance is 6 cm on the map?\n3. (Medium) Scale 1:50,000. Two towns are 12 cm apart on a map. Find actual distance in km.\n4. (Medium) A rectangular field is 200 m by 150 m. Draw it to scale 1:5,000. What are the dimensions on paper?\n5. (Hard) The distance from Kigali to Musanze is about 105 km. On a map with scale 1:500,000, what is the distance in cm?",
+    "summary": "* Scale shows the ratio between a drawing and real life\n* 1:100 means 1 unit on paper = 100 units in real life\n* To find real distance: multiply map distance by scale factor\n* Scale drawings are used in construction, maps and design",
+    "quiz": {
+      "question": "Scale 1:200. A 6 cm line on the drawing represents how many metres in real life?",
+      "options": {
+        "A": "6 m",
+        "B": "8 m",
+        "C": "10 m",
+        "D": "12 m"
+      },
+      "answer": "D"
+    },
+    "practice_answers": "1. 8 cm\n2. 12 km\n3. 6 km\n4. 4 cm x 3 cm\n5. 21 cm",
+    "title": "Scale drawing and maps",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Scale drawing and maps. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Scale drawing and maps into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Scale drawing and maps. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Scale drawing and maps: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Scale drawing and maps",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Scale drawing and maps."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

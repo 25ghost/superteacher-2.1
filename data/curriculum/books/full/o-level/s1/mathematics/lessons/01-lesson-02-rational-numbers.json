@@ -1,0 +1,42 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Define what a rational number is.\n- Identify and represent rational numbers on a number line.\n- Convert between fractions, decimals, and whole numbers that represent rational numbers.",
+    "reading": "Welcome to our lesson on Rational Numbers! You've already learned about whole numbers and integers. Today, we'll expand our understanding to include rational numbers.  A rational number is any number that can be written as a fraction p/q, where 'p' is an integer (a whole number or its negative) and 'q' is a non-zero integer. Think about dividing Rwandan Francs (RWF) – if you have 100 RWF and want to share it equally among 4 friends, each friend gets 100/4 = 25 RWF. This is a rational number.  Also, terminating decimals (like 0.5 or 3.25) and repeating decimals (like 0.333...) are rational numbers. Integers themselves are rational because they can be written as a fraction with a denominator of 1 (e.g., 5 = 5/1).",
+    "examples": "Example 1: Is the number 7 a rational number? \nSolution: Yes, 7 is a rational number because it can be written as the fraction 7/1. Here, p=7 and q=1, and both are integers, with q being non-zero.\n\nExample 2: Convert the decimal 0.75 to a fraction.\nSolution:  We can write 0.75 as 'seventy-five hundredths', which is 75/100. We can then simplify this fraction by dividing both the numerator and denominator by their greatest common divisor, which is 25. So, 75/100 = (75 ÷ 25) / (100 ÷ 25) = 3/4. Therefore, 0.75 is a rational number equal to 3/4.",
+    "practice": "1. Is the number -3 a rational number? Explain why or why not.\n2. Write the fraction 2/5 as a decimal.\n3. Represent the number 1.5 on a number line.\n4. Convert the mixed number 2 1/3 to an improper fraction.\n5. A basket contains 30 mangoes. If 12 mangoes are ripe, what fraction of the mangoes are ripe? Express this as a decimal.",
+    "summary": "*   A rational number can be expressed as a fraction p/q where p and q are integers and q is not zero.\n*   Terminating and repeating decimals are rational numbers.\n*   Integers are rational numbers.\n*   Rational numbers can be represented on a number line.",
+    "quiz": {
+      "question": "Which of the following is NOT a rational number?",
+      "options": {
+        "A": "0.5",
+        "B": "1/3",
+        "C": "-8",
+        "D": "√2"
+      },
+      "answer": "D"
+    },
+    "practice_answers": "1. Yes, -3/1\n2. 0.4\n3. Between 1 and 2\n4. 7/3\n5. 12/30 = 2/5 = 0.4",
+    "title": "Rational numbers",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Rational numbers. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Rational numbers into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Rational numbers. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Rational numbers: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "number_line",
+        "params": {
+          "min": -5,
+          "max": 5,
+          "highlight": [
+            -3,
+            0,
+            2,
+            4
+          ]
+        },
+        "caption": "Numbers positioned by value on a number line."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

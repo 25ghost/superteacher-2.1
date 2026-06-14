@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Use ratio and proportion to solve everyday problems\n- Apply these concepts in cooking, building, and business\n- Combine ratio, proportion and scale in real situations",
+    "reading": "Ratios and proportions are used all the time in Rwanda:\n\nCooking: If a recipe for 4 people uses 2 cups of rice, how much for 6 people? This is direct proportion.\n\nBuilding: A construction mix of cement and sand uses ratio 1:3. If you have 2 bags of cement, how much sand?\n\nBusiness: Sharing profits among partners according to their investment ratio.\n\nMaps: Finding real distances between places in Rwanda.\n\nA proportion states that two ratios are equal. For example, if 2:3 = 4:6, then 2/3 = 4/6 = 0.667.\n\nTo check if two ratios form a proportion, cross-multiply. If the products are equal, they are proportional.",
+    "examples": "Example 1: A recipe for 'posho' (maize porridge) uses 3 cups of water for every 2 cups of maize flour. How much water is needed for 6 cups of maize flour?\nSolution:\nWater : Flour = 3 : 2\n3/2 = w/6\nCross-multiply: 3 x 6 = 2 x w, so 18 = 2w, w = 9\nAnswer: 9 cups of water\n\nExample 2: Two business partners invested 500,000 RWF and 300,000 RWF. They made a profit of 160,000 RWF. How should they share it?\nSolution:\nInvestment ratio = 500,000 : 300,000 = 5 : 3\nSum = 5 + 3 = 8\nOne part = 160,000 ÷ 8 = 20,000 RWF\nPartner 1: 5 x 20,000 = 100,000 RWF\nPartner 2: 3 x 20,000 = 60,000 RWF",
+    "practice": "1. (Easy) A recipe for 4 people uses 3 eggs. How many eggs for 8 people?\n2. (Easy) If 2:5 = 6:x, find x.\n3. (Medium) Three friends invest 200,000, 300,000 and 500,000 RWF. Profit is 250,000 RWF. Share it fairly.\n4. (Medium) A map scale is 1:100,000. The distance between two schools is 7 cm on the map. What is the real distance?\n5. (Hard) A farmer has cows and goats in ratio 4:3. He buys 5 more cows and the ratio becomes 5:3. How many cows did he have originally?",
+    "summary": "* Ratio and proportion solve real problems in cooking, building, business and maps\n* A proportion says two ratios are equal. Cross-multiply to solve\n* Profit sharing uses the investment ratio\n* Always check if the answer makes sense in the real situation",
+    "quiz": {
+      "question": "If 2:3 = 8:x, what is x?",
+      "options": {
+        "A": "10",
+        "B": "11",
+        "C": "12",
+        "D": "14"
+      },
+      "answer": "C"
+    },
+    "practice_answers": "1. 6 eggs\n2. x = 15\n3. 50,000, 75,000, 125,000 RWF\n4. 7 km\n5. 20 cows",
+    "title": "Applications of ratio and proportion",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Applications of ratio and proportion. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Applications of ratio and proportion into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Applications of ratio and proportion. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Applications of ratio and proportion: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Applications of ratio and…",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Applications of ratio and proportion."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: identify different types of numbers used in everyday situations; apply basic arithmetic operations using numbers found in daily life contexts; solve simple real-world problems involving numbers.",
+    "reading": "Numbers are all around us, making our lives easier! We use them for counting, measuring, and making decisions. In Rwanda, you see numbers everywhere: when you buy 'ibigurageza' (snacks) for 500 Rwandan francs (RWF), when you check the time on your watch to catch the bus from Kigali to Huye, or when you count the students in your classroom.  We use natural numbers (1, 2, 3...), whole numbers (0, 1, 2, 3...), integers (...-2, -1, 0, 1, 2...), fractions (like 1/2 for half a kilo of sugar), and decimals (like 1.5 liters of milk). Understanding how to use these numbers is a key skill for managing your money, planning your time, and even cooking delicious Rwandan meals.",
+    "examples": "Example 1:\nYour mother sends you to the market to buy 2 kilograms of Irish potatoes at 1,200 RWF per kilogram and 3 bunches of 'isambaza' (small fish) at 800 RWF per bunch.\n\nStep 1: Calculate the cost of the Irish potatoes.\nCost of potatoes = 2 kg * 1,200 RWF/kg = 2,400 RWF\n\nStep 2: Calculate the cost of the 'isambaza'.\nCost of 'isambaza' = 3 bunches * 800 RWF/bunch = 2,400 RWF\n\nStep 3: Calculate the total cost.\nTotal cost = Cost of potatoes + Cost of 'isambaza'\nTotal cost = 2,400 RWF + 2,400 RWF = 4,800 RWF\n\nTherefore, you will need 4,800 RWF to buy these items.\n\nExample 2:\nA bus travels from Kigali to Musanze. The distance is approximately 105 kilometers. If the bus travels at an average speed of 70 kilometers per hour, how long will the journey take?\n\nStep 1: Identify the formula for time.\nTime = Distance / Speed\n\nStep 2: Substitute the given values into the formula.\nTime = 105 km / 70 km/hour\n\nStep 3: Calculate the time.\nTime = 1.5 hours\n\nTherefore, the journey from Kigali to Musanze will take 1.5 hours (or 1 hour and 30 minutes).",
+    "practice": "1. (Easy) You have 5,000 RWF. You spend 1,500 RWF on a book and 2,000 RWF on some fruit. How much money do you have left?\n2. (Easy) A basket contains 15 ripe bananas. If 6 of them are eaten, how many bananas are left?\n3. (Medium) A farmer plants 3 rows of maize. Each row has 20 plants. He also plants 2 rows of beans, with 15 plants in each row. How many plants did he plant in total?\n4. (Medium) You are making 'ugali' for your family. The recipe calls for 500 grams of maize flour. If you only have a 250-gram packet, how much more flour do you need?\n5. (Hard) A teacher buys 30 exercise books at 700 RWF each and 5 pens at 300 RWF each. If she pays with a 25,000 RWF note, how much change will she receive?",
+    "summary": "* Numbers are essential for daily tasks like shopping, time management, and problem-solving.\n* We use various number types: natural, whole, integers, fractions, and decimals.\n* Basic operations like addition, subtraction, multiplication, and division are used to solve problems involving numbers.\n* Real-world examples help us understand the practical use of mathematics.",
+    "quiz": {
+      "question": "If a loaf of bread costs 700 RWF and you buy 3 loaves, how much will you spend in total?",
+      "options": {
+        "A": "2,100 RWF",
+        "B": "1,400 RWF",
+        "C": "2,800 RWF",
+        "D": "703 RWF"
+      },
+      "answer": "A"
+    },
+    "practice_answers": "1. 1,500 RWF\n2. 9 bananas\n3. 90 plants\n4. 250 grams\n5. 2,500 RWF",
+    "title": "Applications of numbers in daily life",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Applications of numbers in daily life. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Applications of numbers in daily life into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Applications of numbers in daily life. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Applications of numbers in daily life: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Applications of numbers i…",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Applications of numbers in daily life."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

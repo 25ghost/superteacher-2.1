@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Understand what a point and a line are\n- Name and draw points and lines\n- Identify line segments and rays",
+    "reading": "Geometry starts with the simplest ideas: points and lines.\n\nA point is a location in space. It has no size - just a position. We mark it with a dot and name it with a capital letter, like point A.\n\nA line goes on forever in both directions. We name it by any two points on it, like line AB or line l.\n\nA line segment is part of a line with two endpoints. It has a fixed length. Like a piece of string between two points.\n\nA ray has one endpoint and goes on forever in one direction. Like the light from a torch.\n\nThink about the roads in Kigali: a straight road is like a line. The distance from one junction to another is like a line segment. The light from a car's headlight is like a ray.",
+    "examples": "Example 1: Draw and label:\na) Point P\nb) Line XY\nc) Line segment AB\nd) Ray CD\n\nSolution:\na) A dot labeled P\nb) A straight line with arrows at both ends, labeled XY\nc) A straight line with endpoints A and B (no arrows)\nd) A line starting at C (with a dot) going through D with an arrow at D's end\n\nExample 2: How many lines can pass through one point? Through two points?\nSolution:\n- Through one point: infinite lines can pass\n- Through two points: only one line can pass",
+    "practice": "1. (Easy) What is the difference between a line and a line segment?\n2. (Easy) How many endpoints does a ray have?\n3. (Medium) Draw point A, point B, and line AB.\n4. (Medium) Can three points all lie on the same line? Explain.\n5. (Hard) On a line, there are 5 points. How many line segments can you name?",
+    "summary": "* A point shows a location. A line goes on forever in both directions\n* A line segment has two endpoints. A ray has one endpoint\n* Only one line can pass through two points\n* Points, lines, segments and rays are the building blocks of geometry",
+    "quiz": {
+      "question": "How many endpoints does a line segment have?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "Infinite"
+      },
+      "answer": "C"
+    },
+    "practice_answers": "1. Line goes forever both ways, segment has two ends\n2. 1 endpoint\n3. (Drawing)\n4. Yes, they are collinear\n5. 10 segments",
+    "title": "Points and lines",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Points and lines. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Points and lines into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Points and lines. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Points and lines: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Points and lines",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Points and lines."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

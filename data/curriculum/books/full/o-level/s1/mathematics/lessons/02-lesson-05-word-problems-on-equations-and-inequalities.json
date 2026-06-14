@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Turn a word problem into an equation\n- Solve real-life problems using equations and inequalities\n- Check if your answer makes sense",
+    "reading": "Word problems tell a story with numbers. Your job is to turn the story into an equation and solve it. Follow these steps:\n\nStep 1: Read the problem carefully\nStep 2: Identify what you need to find (this is your variable)\nStep 3: Write an equation using the information given\nStep 4: Solve the equation\nStep 5: Check if the answer makes sense\n\nFor example: Marie has 5,000 RWF. She wants to buy notebooks that cost 800 RWF each. How many can she buy?\n- Let n = number of notebooks\n- Equation: 800n ≤ 5,000\n- Solve: n ≤ 6.25, so she can buy 6 notebooks\n- Check: 6 x 800 = 4,800 RWF. She has 200 RWF left. Makes sense!",
+    "examples": "Example 1: Peter has 12,000 RWF. He spends 3,500 RWF on a book and the rest on pens that cost 500 RWF each. How many pens does he buy?\nSolution:\nLet p = number of pens\n3,500 + 500p = 12,000\n500p = 12,000 – 3,500 = 8,500\np = 8,500 ÷ 500 = 17\nAnswer: He buys 17 pens.\n\nExample 2: A class has 30 students. For a group project, each group must have at least 5 students. What is the maximum number of groups?\nSolution:\nLet g = number of groups\n5g ≤ 30\ng ≤ 6\nAnswer: Maximum 6 groups.",
+    "practice": "1. (Easy) A student has 2,000 RWF. A pen costs 300 RWF. How many pens can she buy?\n2. (Easy) A farmer has 50 cows. He sells 12. How many cows are left?\n3. (Medium) A teacher shares 24 exercise books equally among 6 students. How many books does each get? Write and solve an equation.\n4. (Medium) A bus can carry 60 passengers. If 35 are already on board, how many more can get on? Write an inequality.\n5. (Hard) A shopkeeper buys 20 kg of rice at 800 RWF per kg and sells it all for 18,000 RWF. Did she make a profit or loss? By how much?",
+    "summary": "* Turn word problems into equations step by step\n* Identify the unknown and give it a variable (letter)\n* Write an equation or inequality from the story\n* Solve and check if the answer makes sense in real life",
+    "quiz": {
+      "question": "A student has 3,000 RWF. Each exercise book costs 500 RWF. How many books can she buy?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7"
+      },
+      "answer": "C"
+    },
+    "practice_answers": "1. 6 pens\n2. 38 cows\n3. 4 books each\n4. x ≤ 25\n5. Profit of 2,000 RWF",
+    "title": "Word problems on equations and inequalities",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Word problems on equations and inequalities. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Word problems on equations and inequalities into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Word problems on equations and inequalities. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Word problems on equations and inequalities: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Word problems on equation…",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Word problems on equations and inequalities."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

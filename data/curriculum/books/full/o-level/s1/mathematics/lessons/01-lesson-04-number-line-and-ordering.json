@@ -1,0 +1,42 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Understand what a number line is and how to represent numbers on it.\n- Compare and order integers and simple fractions/decimals using a number line.\n- Place Rwandan Franc values on a number line.",
+    "reading": "A **number line** is a straight line with numbers placed at equal intervals along its length. It's like a ruler for numbers! We usually draw a horizontal line with an arrow at each end to show it continues infinitely in both directions. The number zero (0) is usually in the middle. Positive numbers are to the right of zero, and negative numbers are to the left.  For example, imagine you are tracking the daily temperature in Kigali over a week. On Monday it was 25°C, Tuesday 28°C, Wednesday 22°C, and Thursday 20°C. You could place these temperatures on a number line, with 20°C furthest to the left (smallest) and 28°C furthest to the right (largest). This helps us easily see which day was hottest or coldest.",
+    "examples": "Example 1:\nDraw a number line and mark the numbers -3, 0, 2, and 5.\n\nSolution:\n1. Draw a horizontal line.\n2. Mark the center with 0.\n3. Mark equal intervals to the right of 0 for positive numbers: 1, 2, 3, 4, 5.\n4. Mark equal intervals to the left of 0 for negative numbers: -1, -2, -3.\n5. Circle or place a dot on -3, 0, 2, and 5.\n\nExample 2:\nOrder the following amounts of Rwandan Francs from least to greatest on a number line: 1000 Frw, -500 Frw, 0 Frw, 2500 Frw.\n\nSolution:\n1. Draw a number line that includes negative and positive values.\n2. Place 0 in the center.\n3. Mark -500 Frw to the left of 0.\n4. Mark 1000 Frw and 2500 Frw to the right of 0, ensuring 1000 Frw is to the left of 2500 Frw.\n5. The order from least to greatest on the number line is -500 Frw, 0 Frw, 1000 Frw, 2500 Frw.",
+    "practice": "1. (Easy) Place the numbers -5, 1, 4, and -2 on a number line.\n2. (Easy) Which number is greater: 3 or -1? Use a number line to explain.\n3. (Medium) Order the following numbers from least to greatest: -10, 5, -3, 0, 12.\n4. (Medium) On a number line, place the following prices of Rwandan coffee beans: 5000 Frw, 2000 Frw, 8000 Frw.\n5. (Hard) Place the fractions 1/2, -1/4, 3/4, and -3/4 on a number line and order them from least to greatest.",
+    "summary": "* A number line is a visual tool to represent and compare numbers.\n* Positive numbers are to the right of zero, and negative numbers are to the left.\n* Numbers further to the right on the number line are greater.\n* Number lines can be used to order integers, fractions, and decimals.",
+    "quiz": {
+      "question": "Which of the following numbers is located furthest to the left on a number line?",
+      "options": {
+        "A": "-10",
+        "B": "5",
+        "C": "0",
+        "D": "-2"
+      },
+      "answer": "A"
+    },
+    "practice_answers": "1. On line: -5, -2, 1, 4 left to right\n2. 3 is greater\n3. -10, -3, 0, 5, 12\n4. 2,000, 5,000, 8,000\n5. -3/4, -1/4, 1/2, 3/4",
+    "title": "Number line and ordering",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Number line and ordering. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Number line and ordering into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Number line and ordering. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Number line and ordering: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "number_line",
+        "params": {
+          "min": -5,
+          "max": 5,
+          "highlight": [
+            -3,
+            0,
+            2,
+            4
+          ]
+        },
+        "caption": "Numbers positioned by value on a number line."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

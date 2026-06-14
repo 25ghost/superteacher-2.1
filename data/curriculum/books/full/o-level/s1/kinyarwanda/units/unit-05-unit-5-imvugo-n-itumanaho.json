@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 5: Imvugo n'Itumanaho.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-kuvuga-imbere-y-abantu",
+      "name": "Kuvuga imbere y'abantu",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/kinyarwanda/lessons/05-lesson-01-kuvuga-imbere-y-abantu.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-impaka-n-ibiganiro",
+      "name": "Impaka n'ibiganiro",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/kinyarwanda/lessons/05-lesson-02-impaka-n-ibiganiro.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-kugira-ngo-umeze-nk-umunyamakuru",
+      "name": "Kugira ngo umeze nk'umunyamakuru",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/kinyarwanda/lessons/05-lesson-03-kugira-ngo-umeze-nk-umunyamakuru.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-kugaragaza-igitekerezo-ku-ngingo",
+      "name": "Kugaragaza igitekerezo ku ngingo",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/kinyarwanda/lessons/05-lesson-04-kugaragaza-igitekerezo-ku-ngingo.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-gukoresha-ikinyarwanda-mu-bushakashatsi",
+      "name": "Gukoresha ikinyarwanda mu bushakashatsi",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/kinyarwanda/lessons/05-lesson-05-gukoresha-ikinyarwanda-mu-bushakashatsi.json",
+      "status": "ready"
+    }
+  ]
+}

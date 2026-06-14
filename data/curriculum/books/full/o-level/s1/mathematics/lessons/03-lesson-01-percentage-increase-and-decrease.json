@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Understand what a percentage is (out of 100)\n- Calculate a percentage of a given amount\n- Find percentage increase and decrease",
+    "reading": "A percentage is a way of saying 'out of 100'. The % sign means per hundred. If you score 80% on a test, you got 80 marks out of every 100.\n\nIn Rwanda, percentages are everywhere:\n- A shop may give a 10% discount\n- A bank might pay 5% interest on savings\n- A farmer might lose 15% of crops to weather\n\nTo find a percentage of an amount:\n- Change the % to a decimal (divide by 100)\n- Multiply by the amount\n\nExample: Find 20% of 5,000 RWF\n20% = 20 ÷ 100 = 0.20\n0.20 x 5,000 = 1,000 RWF\n\nFor percentage increase, find the increase amount and add to the original.\nFor percentage decrease, find the decrease amount and subtract from the original.",
+    "examples": "Example 1: A farmer harvested 200 kg of maize. 15% was damaged by rain. How much maize was damaged?\nSolution:\n15% = 15 ÷ 100 = 0.15\nDamaged = 0.15 x 200 = 30 kg\nAnswer: 30 kg was damaged.\n\nExample 2: A shop increases the price of sugar from 1,000 RWF to 1,200 RWF. Find the percentage increase.\nSolution:\nIncrease = 1,200 – 1,000 = 200 RWF\nPercentage increase = (200 ÷ 1,000) x 100 = 20%\nAnswer: 20% increase.",
+    "practice": "1. (Easy) What is 10% of 3,000 RWF?\n2. (Easy) Write 25% as a fraction\n3. (Medium) A shop sells a bag of rice at 12,000 RWF. The price increases by 15%. What is the new price?\n4. (Medium) A school has 400 students. 60% walk to school. How many walk?\n5. (Hard) A farmer had 1,500 cows. He sold 30% of them and then bought 100 more. How many cows does he have now?",
+    "summary": "* Percent means out of 100. 50% = 50 out of 100 = half\n* To find a % of an amount: convert % to decimal then multiply\n* For increase: find the increase amount and add to original\n* For decrease: find the decrease amount and subtract from original",
+    "quiz": {
+      "question": "What is 15% of 4,000 RWF?",
+      "options": {
+        "A": "400 RWF",
+        "B": "600 RWF",
+        "C": "800 RWF",
+        "D": "500 RWF"
+      },
+      "answer": "B"
+    },
+    "practice_answers": "1. 300 RWF\n2. 1/4\n3. 13,800 RWF\n4. 240 students\n5. 1,150 cows",
+    "title": "Percentage increase and decrease",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Percentage increase and decrease. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Percentage increase and decrease into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Percentage increase and decrease. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Percentage increase and decrease: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Percentage increase and d…",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Percentage increase and decrease."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

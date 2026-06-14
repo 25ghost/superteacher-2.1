@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Calculate a discount on an item\n- Find the sale price after a discount\n- Understand what commission is",
+    "reading": "A discount is a reduction in price. Shops in Rwanda often give discounts, especially during holidays or for bulk buying. If a shop gives 10% off, you pay 10% less.\n\nTo find the sale price:\n1. Find the discount amount (percentage x original price)\n2. Subtract discount from original price\n\nCommission is money paid to a salesperson based on what they sell. For example, a phone seller in Kigali might earn 5% commission on every phone they sell. If they sell a phone for 100,000 RWF, they earn 5% of that = 5,000 RWF.",
+    "examples": "Example 1: A jacket costs 25,000 RWF. There is a 20% discount. What is the sale price?\nSolution:\nDiscount = 20% of 25,000 = (20/100) x 25,000 = 5,000 RWF\nSale price = 25,000 – 5,000 = 20,000 RWF\nAnswer: 20,000 RWF\n\nExample 2: A seller gets 8% commission on goods she sells. She sells goods worth 350,000 RWF. How much commission does she earn?\nSolution:\nCommission = 8% of 350,000 = (8/100) x 350,000 = 28,000 RWF\nAnswer: She earns 28,000 RWF",
+    "practice": "1. (Easy) A 20,000 RWF TV has a 10% discount. How much do you save?\n2. (Easy) A book costs 6,000 RWF after a 25% discount. What was the original price?\n3. (Medium) A salesperson earns 12% commission. She sells goods worth 500,000 RWF. What is her commission?\n4. (Medium) A shop offers 'buy 2 get 1 free' on pens at 500 RWF each. What is the percentage discount per pen?\n5. (Hard) A laptop costs 450,000 RWF. The shop gives a 15% discount for cash payment. How much do you pay in cash?",
+    "summary": "* Discount is the amount saved. Sale price = original price – discount\n* Commission is a percentage of sales paid to a seller\n* To find the discount or commission, multiply the percentage by the original amount\n* Always check if your final price or commission makes sense",
+    "quiz": {
+      "question": "A bag costs 15,000 RWF with a 10% discount. What is the discount amount?",
+      "options": {
+        "A": "1,000 RWF",
+        "B": "1,500 RWF",
+        "C": "2,000 RWF",
+        "D": "500 RWF"
+      },
+      "answer": "B"
+    },
+    "practice_answers": "1. 2,000 RWF\n2. 8,000 RWF\n3. 60,000 RWF\n4. 33.3%\n5. 382,500 RWF",
+    "title": "Discount and commission",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Discount and commission. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Discount and commission into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Discount and commission. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Discount and commission: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Discount and commission",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Discount and commission."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

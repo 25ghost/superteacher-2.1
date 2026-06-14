@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Understand what direct proportion means\n- Identify when two quantities are in direct proportion\n- Solve problems using direct proportion",
+    "reading": "Two quantities are in direct proportion when they increase or decrease together at the same rate. If one doubles, the other doubles. If one halves, the other halves.\n\nFor example: If 1 kg of potatoes costs 500 RWF, then 2 kg costs 1,000 RWF, and 3 kg costs 1,500 RWF. As the weight increases, the cost increases by the same factor.\n\nWe write: y = kx (where k is the constant of proportionality)\n\nIn the potato example: Cost = 500 x Weight. Here k = 500.\n\nReal-life direct proportion in Rwanda:\n- More kilograms of rice = more money to pay\n- More hours worked = more wages earned\n- More litres of petrol = more distance travelled",
+    "examples": "Example 1: If 5 metres of fabric costs 12,500 RWF, how much does 8 metres cost?\nSolution:\nFind the cost of 1 metre: 12,500 ÷ 5 = 2,500 RWF per metre\nCost of 8 metres = 8 x 2,500 = 20,000 RWF\nAnswer: 20,000 RWF\n\nExample 2: A car uses 15 litres of fuel to travel 180 km. How far can it travel on 25 litres?\nSolution:\nPer litre: 180 ÷ 15 = 12 km per litre\nDistance for 25 litres = 25 x 12 = 300 km\nAnswer: 300 km",
+    "practice": "1. (Easy) 2 kg of onions cost 1,600 RWF. How much does 1 kg cost?\n2. (Easy) 3 metres of cloth cost 9,000 RWF. How much do 5 metres cost?\n3. (Medium) A worker earns 15,000 RWF for 5 hours. How much does she earn for 8 hours?\n4. (Medium) If 6 mangoes cost 1,200 RWF, how many can you buy for 3,000 RWF?\n5. (Hard) A car travels 240 km on 20 litres of fuel. How much fuel is needed for 360 km?",
+    "summary": "* Direct proportion: as one goes up, the other goes up at the same rate\n* Find the value of 1 unit first, then multiply\n* Formula: y = kx where k is the constant of proportionality\n* Examples: cost and quantity, distance and fuel",
+    "quiz": {
+      "question": "If 4 pens cost 2,000 RWF, how much do 7 pens cost?",
+      "options": {
+        "A": "2,500 RWF",
+        "B": "3,000 RWF",
+        "C": "3,500 RWF",
+        "D": "4,000 RWF"
+      },
+      "answer": "C"
+    },
+    "practice_answers": "1. 800 RWF\n2. 15,000 RWF\n3. 24,000 RWF\n4. 15 mangoes\n5. 30 litres",
+    "title": "Direct proportion",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Direct proportion. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Direct proportion into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Direct proportion. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Direct proportion: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Direct proportion",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Direct proportion."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

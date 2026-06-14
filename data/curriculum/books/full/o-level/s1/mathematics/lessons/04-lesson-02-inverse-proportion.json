@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Understand what inverse proportion means\n- Identify when two quantities are in inverse proportion\n- Solve inverse proportion problems",
+    "reading": "Inverse proportion is when one quantity increases while the other decreases at the same rate. If one doubles, the other halves.\n\nFor example: If 2 workers build a wall in 6 days, then 4 workers build it in 3 days (half the time). More workers = less time.\n\nWe write: y = k/x (where k is the constant)\n\nReal-life inverse proportion in Rwanda:\n- More workers on a farm = less time to harvest\n- Faster speed = less time to reach Kigali\n- More students sharing a cost = less each person pays",
+    "examples": "Example 1: 3 workers can dig a trench in 8 days. How long will 6 workers take?\nSolution:\nMore workers = less time (inverse proportion)\n3 workers → 8 days\n1 worker → 3 x 8 = 24 days\n6 workers → 24 ÷ 6 = 4 days\nAnswer: 4 days\n\nExample 2: A car travelling at 60 km/h takes 4 hours to reach Musanze. How long at 80 km/h?\nSolution:\nFaster speed = less time\nDistance = 60 x 4 = 240 km\nTime at 80 km/h = 240 ÷ 80 = 3 hours\nAnswer: 3 hours",
+    "practice": "1. (Easy) 2 people can paint a room in 6 hours. How long for 4 people?\n2. (Easy) A tap fills a tank in 10 minutes. Two taps fill in how many minutes?\n3. (Medium) 5 workers harvest a field in 12 days. How many workers are needed to finish in 4 days?\n4. (Medium) At 40 km/h, a bus journey takes 3 hours. How long at 60 km/h?\n5. (Hard) 8 students share the cost of a gift equally, each paying 3,000 RWF. If 12 students share, how much does each pay?",
+    "summary": "* Inverse proportion: as one goes up, the other goes down\n* More workers = less time. Faster speed = less time.\n* Find the total work first, then divide by the new number\n* Formula: xy = k (constant)",
+    "quiz": {
+      "question": "4 workers build a house in 30 days. How long for 6 workers?",
+      "options": {
+        "A": "15 days",
+        "B": "20 days",
+        "C": "25 days",
+        "D": "45 days"
+      },
+      "answer": "B"
+    },
+    "practice_answers": "1. 3 hours\n2. 5 minutes\n3. 15 workers\n4. 2 hours\n5. 2,000 RWF",
+    "title": "Inverse proportion",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Inverse proportion. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Inverse proportion into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Inverse proportion. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Inverse proportion: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Inverse proportion",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Inverse proportion."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

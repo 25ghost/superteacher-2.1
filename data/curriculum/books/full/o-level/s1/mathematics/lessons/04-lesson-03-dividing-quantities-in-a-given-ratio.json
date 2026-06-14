@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Divide a quantity in a given ratio\n- Understand what a ratio compares\n- Write ratios in simplest form",
+    "reading": "A ratio compares two or more quantities. It tells us how much of one thing there is compared to another. For example, if a class has 20 boys and 15 girls, the ratio of boys to girls is 20:15, which simplifies to 4:3.\n\nTo divide a quantity in a given ratio:\n1. Add the parts of the ratio\n2. Divide the total by the sum to find one part\n3. Multiply each part by the value of one part\n\nExample: Share 40,000 RWF between two children in the ratio 3:2\nSum of parts = 3 + 2 = 5\nOne part = 40,000 ÷ 5 = 8,000 RWF\nChild 1: 3 x 8,000 = 24,000 RWF\nChild 2: 2 x 8,000 = 16,000 RWF\nCheck: 24,000 + 16,000 = 40,000 ✓",
+    "examples": "Example 1: A farmer has cows and goats in the ratio 5:3. He has 40 cows. How many goats does he have?\nSolution:\nCows : Goats = 5 : 3\n5 parts = 40 cows, so 1 part = 40 ÷ 5 = 8\nGoats = 3 x 8 = 24\nAnswer: 24 goats\n\nExample 2: Share 100,000 RWF among three people in the ratio 2:3:5\nSolution:\nSum = 2 + 3 + 5 = 10\nOne part = 100,000 ÷ 10 = 10,000 RWF\nPerson 1: 2 x 10,000 = 20,000 RWF\nPerson 2: 3 x 10,000 = 30,000 RWF\nPerson 3: 5 x 10,000 = 50,000 RWF\nCheck: 20,000 + 30,000 + 50,000 = 100,000 ✓",
+    "practice": "1. (Easy) Simplify the ratio 10:15\n2. (Easy) Divide 30,000 RWF in the ratio 2:1\n3. (Medium) The ratio of boys to girls is 4:5. There are 36 boys. Find the number of girls and total students.\n4. (Medium) Share 150,000 RWF among three siblings in the ratio 2:3:5\n5. (Hard) A contractor mixes cement and sand in the ratio 1:4. He needs 25 kg of mixture. How much cement and how much sand does he need?",
+    "summary": "* A ratio compares quantities. 3:2 means 3 parts to 2 parts\n* To share in a ratio, add the parts, find one part, then multiply\n* Ratios can be simplified by dividing by a common factor\n* Always check: the sum of the parts should equal the total",
+    "quiz": {
+      "question": "Share 50,000 RWF in the ratio 3:2. What is the smaller share?",
+      "options": {
+        "A": "15,000 RWF",
+        "B": "20,000 RWF",
+        "C": "25,000 RWF",
+        "D": "30,000 RWF"
+      },
+      "answer": "B"
+    },
+    "practice_answers": "1. 2:3\n2. 20,000 RWF and 10,000 RWF\n3. 45 girls, 81 total\n4. 30,000, 45,000, 75,000 RWF\n5. 5 kg cement, 20 kg sand",
+    "title": "Dividing quantities in a given ratio",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Dividing quantities in a given ratio. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Dividing quantities in a given ratio into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Dividing quantities in a given ratio. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Dividing quantities in a given ratio: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Dividing quantities in a…",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Dividing quantities in a given ratio."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

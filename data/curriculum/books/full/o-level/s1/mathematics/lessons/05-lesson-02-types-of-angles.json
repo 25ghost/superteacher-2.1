@@ -1,0 +1,36 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Identify different types of angles\n- Measure and estimate angles\n- Classify angles as acute, right, obtuse or reflex",
+    "reading": "An angle is formed when two lines meet at a point. The point where they meet is called the vertex. We measure angles in degrees (°).\n\nAngles are everywhere in Rwanda:\n- The corner of a book or a classroom door is a right angle (90°)\n- The roof of a traditional house makes an acute angle (less than 90°)\n- The open position of a door can make an obtuse angle (more than 90°)\n\nTypes of angles:\n- Acute angle: less than 90° (like a sharp pencil tip)\n- Right angle: exactly 90° (like the letter L)\n- Obtuse angle: between 90° and 180° (like a wide open door)\n- Straight angle: exactly 180° (a straight line)\n- Reflex angle: more than 180° but less than 360°",
+    "examples": "Example 1: Classify these angles: 35°, 90°, 150°, 270°\nSolution:\n35° = Acute (less than 90°)\n90° = Right angle\n150° = Obtuse (between 90° and 180°)\n270° = Reflex (more than 180°)\n\nExample 2: Estimate the angle of a sloped roof on a house in Rwanda.\nSolution:\nA typical roof slope is about 30° to 45°, which is an acute angle. This allows rain to run off easily.",
+    "practice": "1. (Easy) What type of angle is 45°?\n2. (Easy) How many degrees in a right angle?\n3. (Medium) Draw an acute angle, a right angle, and an obtuse angle.\n4. (Medium) A clock shows 3:00. What angle do the hands make?\n5. (Hard) If an angle is 15° more than a right angle, what type is it and how many degrees?",
+    "summary": "* An angle is made where two lines meet. Measured in degrees (°)\n* Acute < 90°, Right = 90°, Obtuse > 90° but < 180°\n* Straight = 180°, Reflex > 180°\n* Angles are everywhere - in buildings, furniture, clocks and nature",
+    "quiz": {
+      "question": "What type of angle is 120°?",
+      "options": {
+        "A": "Acute",
+        "B": "Right",
+        "C": "Obtuse",
+        "D": "Reflex"
+      },
+      "answer": "C"
+    },
+    "practice_answers": "1. Acute\n2. 90°\n3. (Drawing)\n4. 90°\n5. Obtuse, 105°",
+    "title": "Types of angles",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Types of angles. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Types of angles into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Types of angles. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Types of angles: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "angles",
+        "params": {
+          "type": "parallel_lines",
+          "angle": 60
+        },
+        "caption": "Angle relationships formed by parallel lines and a transversal."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

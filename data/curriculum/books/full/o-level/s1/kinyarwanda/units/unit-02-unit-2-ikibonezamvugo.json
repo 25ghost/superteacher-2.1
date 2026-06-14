@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 2: Ikibonezamvugo.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-ubwoko-bw-amazina-n-inshinga",
+      "name": "Ubwoko bw'amazina n'inshinga",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/kinyarwanda/lessons/02-lesson-01-ubwoko-bw-amazina-n-inshinga.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-ibihe-by-inshinga",
+      "name": "Ibihe by'inshinga",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/kinyarwanda/lessons/02-lesson-02-ibihe-by-inshinga.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-inyito-insimbura-n-iyungira",
+      "name": "Inyito, insimbura n'iyungira",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/kinyarwanda/lessons/02-lesson-03-inyito-insimbura-n-iyungira.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-imikoreshereze-y-ikirangirango",
+      "name": "Imikoreshereze y'ikirangirango",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/kinyarwanda/lessons/02-lesson-04-imikoreshereze-y-ikirangirango.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-kubaka-interuro-z-ubwoko-butandukanye",
+      "name": "Kubaka interuro z'ubwoko butandukanye",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/kinyarwanda/lessons/02-lesson-05-kubaka-interuro-z-ubwoko-butandukanye.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Solve a linear equation like x + 5 = 12\n- Check if your answer is correct\n- Use equations to solve real problems",
+    "reading": "An equation is like a balance scale. Both sides must be equal. Think of it this way: if you have 5,000 RWF in one pocket and some coins in the other pocket, both pockets have the same amount if the total is balanced.\n\nA linear equation has a variable (like x) with no exponents. For example, x + 7 = 15. To solve it, we need to find what x is.\n\nThe golden rule: whatever you do to one side, do to the other side too. To find x, we get x alone on one side.\n\nFor x + 7 = 15:\n- Subtract 7 from both sides: x + 7 – 7 = 15 – 7\n- Answer: x = 8\n\nAlways check: 8 + 7 = 15 ✓ Correct!",
+    "examples": "Example 1: Solve 2x = 12\nSolution:\n2x means 2 multiplied by x.\nTo get x alone, divide both sides by 2:\n2x ÷ 2 = 12 ÷ 2\nx = 6\nCheck: 2 x 6 = 12 ✓\n\nExample 2: Solve 3x + 2 = 14\nStep 1: Subtract 2 from both sides: 3x + 2 – 2 = 14 – 2, so 3x = 12\nStep 2: Divide both sides by 3: 3x ÷ 3 = 12 ÷ 3, so x = 4\nCheck: 3(4) + 2 = 12 + 2 = 14 ✓",
+    "practice": "1. (Easy) Solve: x + 5 = 10\n2. (Easy) Solve: 3x = 15\n3. (Medium) Solve: 2x + 3 = 11\n4. (Medium) Solve: 4x – 7 = 17\n5. (Hard) A student saves 2,000 RWF each week. After some weeks, she has 14,000 RWF. Write an equation and solve to find how many weeks she saved.",
+    "summary": "* An equation shows two equal amounts, like a balanced scale\n* To solve, get the variable alone on one side\n* Whatever you do to one side, do to the other side too\n* Always check your answer by putting it back in the original equation",
+    "quiz": {
+      "question": "Solve: x + 8 = 20",
+      "options": {
+        "A": "x = 12",
+        "B": "x = 28",
+        "C": "x = 10",
+        "D": "x = 14"
+      },
+      "answer": "A"
+    },
+    "practice_answers": "1. x = 5\n2. x = 5\n3. x = 4\n4. x = 6\n5. 7 weeks",
+    "title": "Linear equations in one variable",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Linear equations in one variable. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Linear equations in one variable into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Linear equations in one variable. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Linear equations in one variable: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Linear equations in one v…",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Linear equations in one variable."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

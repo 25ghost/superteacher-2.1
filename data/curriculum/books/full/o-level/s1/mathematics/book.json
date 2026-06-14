@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "book": "Mathematics",
+    "level": "S1",
+    "unit_count": 8,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-unit-1-sets-of-numbers",
+      "name": "Unit 1: Sets of Numbers",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/mathematics/units/unit-01-unit-1-sets-of-numbers.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-unit-2-linear-functions-equations-and-inequaliti",
+      "name": "Unit 2: Linear Functions, Equations and Inequalities",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/mathematics/units/unit-02-unit-2-linear-functions-equations-and-inequaliti.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-unit-3-percentage-discount-profit-and-loss",
+      "name": "Unit 3: Percentage, Discount, Profit and Loss",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/mathematics/units/unit-03-unit-3-percentage-discount-profit-and-loss.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-unit-4-ratio-and-proportion",
+      "name": "Unit 4: Ratio and Proportion",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/mathematics/units/unit-04-unit-4-ratio-and-proportion.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-unit-5-points-lines-and-angles",
+      "name": "Unit 5: Points, Lines and Angles",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/mathematics/units/unit-05-unit-5-points-lines-and-angles.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-06-unit-6-solids",
+      "name": "Unit 6: Solids",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/mathematics/units/unit-06-unit-6-solids.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-07-unit-7-statistics",
+      "name": "Unit 7: Statistics",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/mathematics/units/unit-07-unit-7-statistics.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-08-unit-8-probability",
+      "name": "Unit 8: Probability",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/mathematics/units/unit-08-unit-8-probability.json",
+      "status": "ready"
+    }
+  ]
+}

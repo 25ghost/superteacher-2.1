@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Apply percentages, discounts, profit/loss and interest to real-life situations\n- Make smart financial decisions using math\n- Solve multi-step money problems",
+    "reading": "In real life, financial math problems often combine different topics. For example, a shopkeeper might get a discount from the supplier, then sell to customers at a profit. Understanding all these concepts helps you make wise decisions with money.\n\nHere are some real situations in Rwanda:\n- A farmer selling produce at Kimironko market needs to know cost price, selling price, and profit\n- A student saving pocket money needs to understand interest rates\n- A shopper looking for the best deal compares discounts\n\nWhen solving multi-step problems, work slowly step by step and always check your answer.",
+    "examples": "Example 1: A shopkeeper buys a radio for 30,000 RWF. He spends 2,000 RWF on transport. He wants a 20% profit on his total cost. What should the selling price be?\nSolution:\nTotal cost = 30,000 + 2,000 = 32,000 RWF\nProfit = 20% of 32,000 = (20/100) x 32,000 = 6,400 RWF\nSelling price = 32,000 + 6,400 = 38,400 RWF\nAnswer: 38,400 RWF\n\nExample 2: A customer has 50,000 RWF. She buys a dress for 18,000 RWF (after 10% discount) and a pair of shoes for 22,000 RWF. How much does she have left?\nSolution:\nDress original price: Let original = x, x – 10% of x = 18,000, so 0.9x = 18,000, x = 20,000 RWF\nTotal spent = 18,000 + 22,000 = 40,000 RWF\nMoney left = 50,000 – 40,000 = 10,000 RWF\nAnswer: 10,000 RWF left",
+    "practice": "1. (Easy) You have 10,000 RWF. You buy lunch for 3,500 RWF and a book for 4,000 RWF. How much is left?\n2. (Easy) A shirt costs 12,000 RWF. There is a 15% discount. How much do you pay?\n3. (Medium) A trader buys 100 kg of potatoes at 500 RWF per kg. He sells at 650 RWF per kg. Find total profit and % profit.\n4. (Medium) You save 60,000 RWF in a bank at 8% per year for 2 years. How much total will you have?\n5. (Hard) A family budgets 35% of their income for food, 25% for school fees, 20% for transport and saves the rest. If their monthly income is 400,000 RWF, how much do they save per month?",
+    "summary": "* Real-life money problems often combine percentages, discounts, profit and interest\n* Work step by step, reading each part carefully\n* Check if your answer makes sense in the real world\n* Financial math helps you make better money decisions in everyday life",
+    "quiz": {
+      "question": "A phone costs 80,000 RWF. A 25% discount is offered. What is the sale price?",
+      "options": {
+        "A": "55,000 RWF",
+        "B": "60,000 RWF",
+        "C": "65,000 RWF",
+        "D": "70,000 RWF"
+      },
+      "answer": "B"
+    },
+    "practice_answers": "1. 2,500 RWF\n2. 10,200 RWF\n3. 15,000 RWF profit, 30%\n4. 69,600 RWF\n5. 80,000 RWF",
+    "title": "Real-life financial applications",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Real-life financial applications. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Real-life financial applications into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Real-life financial applications. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Real-life financial applications: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Real-life financial appli…",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Real-life financial applications."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}
