@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Use a ruler and protractor to draw geometric shapes\n- Construct angles and lines accurately\n- Draw perpendicular and parallel lines",
+    "reading": "Geometric constructions are precise drawings made using only a ruler (or straightedge) and a compass. No measuring! This is how architects and engineers create accurate plans.\n\nIn Rwanda, builders use geometric constructions to make sure walls are straight, corners are right angles, and roofs are properly sloped.\n\nBasic constructions:\n- Draw a line segment of a given length\n- Construct a perpendicular line (at 90°)\n- Construct a parallel line\n- Bisect an angle (cut it in half)\n- Construct angles like 60° and 90° without a protractor\n\nFor accurate constructions, always keep your compass sharp and your pencil fine.",
+    "examples": "Example 1: Construct a perpendicular line through a point on a line.\nSolution:\n1. Draw a line and mark point P on it\n2. Open the compass and draw arcs on both sides of P\n3. Widen the compass. From each arc, draw arcs that cross above P\n4. Draw a line through P and the crossing point - this is perpendicular\n\nExample 2: Bisect a 60° angle.\nSolution:\n1. Draw a 60° angle using a compass\n2. Place compass at vertex, draw an arc crossing both sides\n3. From where the arc meets each side, draw two arcs that cross\n4. Draw a line from vertex to the crossing point - this bisects the angle into two 30° angles",
+    "practice": "1. (Easy) What tools do you need for geometric constructions?\n2. (Easy) What does 'bisect' mean?\n3. (Medium) Construct a 90° angle using a ruler and compass.\n4. (Medium) Draw a line segment of 6 cm, then construct a perpendicular line at its midpoint.\n5. (Hard) Construct an equilateral triangle with sides 5 cm using only a ruler and compass.",
+    "summary": "* Geometric constructions use only a ruler and compass, no measuring\n* You can draw perpendicular lines, parallel lines, and bisect angles\n* Constructions are used in building, architecture and design\n* Accuracy comes from keeping tools steady and marks clear",
+    "quiz": {
+      "question": "What does it mean to bisect an angle?",
+      "options": {
+        "A": "Double it",
+        "B": "Cut it in half",
+        "C": "Make it 90°",
+        "D": "Draw it parallel"
+      },
+      "answer": "B"
+    },
+    "practice_answers": "1. Ruler and compass\n2. Cut in half\n3-5: (Constructions)",
+    "title": "Geometric constructions",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Geometric constructions. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Geometric constructions into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Geometric constructions. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Geometric constructions: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Geometric constructions",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Geometric constructions."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

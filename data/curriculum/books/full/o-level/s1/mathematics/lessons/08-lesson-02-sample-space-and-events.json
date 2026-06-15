@@ -1,0 +1,33 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Define sample space\n- List all possible outcomes of an event\n- Understand what an event is",
+    "reading": "The sample space is the set of all possible outcomes. An event is a specific outcome or group of outcomes we are interested in.\n\nExample: When rolling a dice:\n- Sample space = {1, 2, 3, 4, 5, 6} (all possible outcomes)\n- Event 'even number' = {2, 4, 6}\n- Event 'greater than 4' = {5, 6}\n\nExample: When flipping a coin:\n- Sample space = {Heads, Tails}\n- Event 'Heads' = {Heads}\n\nIn Rwanda, we use probability when predicting rain. The sample space for weather could be {Rain, No Rain}. Each day's weather is an outcome.",
+    "examples": "Example 1: List the sample space when you spin a spinner with colours Red, Blue, Green.\nSolution:\nSample space = {Red, Blue, Green}\n\nExample 2: Two coins are tossed. List the sample space.\nSolution:\n{HH, HT, TH, TT} (H = heads, T = tails)\nEvent 'at least one head' = {HH, HT, TH}\nEvent 'two tails' = {TT}",
+    "practice": "1. (Easy) When rolling a dice, what is the sample space?\n2. (Easy) If a bag has red, blue and green marbles, what is the sample space for picking one colour?\n3. (Medium) List the sample space for a coin flipped three times.\n4. (Medium) For a dice, list the event 'odd numbers'.\n5. (Hard) A spinner has numbers 1 to 8. List the event 'multiple of 3' and 'prime numbers'.",
+    "summary": "* Sample space = all possible outcomes\n* Event = the outcome(s) we are interested in\n* Listing outcomes helps us count possibilities\n* Total outcomes = number of items in the sample space",
+    "quiz": {
+      "question": "What is the sample space for rolling a standard dice?",
+      "options": {
+        "A": "{1, 2, 3, 4, 5}",
+        "B": "{1, 2, 3, 4, 5, 6}",
+        "C": "{0, 1, 2, 3, 4, 5, 6}",
+        "D": "{2, 4, 6}"
+      },
+      "answer": "B"
+    },
+    "practice_answers": "1. {1,2,3,4,5,6}\n2. {Red, Blue, Green}\n3. {HHH,HHT,HTH,HTT,THH,THT,TTH,TTT}\n4. {1,3,5}\n5. Multiples of 3: {3,6}, Primes: {2,3,5,7}",
+    "title": "Sample space and events",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Sample space and events. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Sample space and events into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Sample space and events. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Sample space and events: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "tree",
+        "params": {},
+        "caption": "A probability tree showing sequential outcomes."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

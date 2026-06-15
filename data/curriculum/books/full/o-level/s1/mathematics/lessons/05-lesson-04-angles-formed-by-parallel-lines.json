@@ -1,0 +1,36 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Identify parallel and perpendicular lines\n- Find angles formed when a transversal cuts parallel lines\n- Use corresponding, alternate and co-interior angles",
+    "reading": "Parallel lines are lines that never meet. They stay the same distance apart forever. In Rwanda, the railway tracks are parallel. The rows of crops on a terrace farm are also parallel.\n\nWhen a line crosses two parallel lines, it's called a transversal. This creates special angle relationships:\n\n- Corresponding angles: equal (same position at each intersection)\n- Alternate angles: equal (inside the parallel lines, on opposite sides of the transversal)\n- Co-interior angles: add to 180° (inside the parallel lines, on the same side of the transversal)\n\nIf you know one angle, you can find all the others using these rules!",
+    "examples": "Example 1: In a diagram of parallel lines cut by a transversal, one angle (on the top left) is 70°. Find the other angles.\nSolution:\n- Top right = 110° (supplementary to 70°)\n- Bottom left = 70° (corresponding to top left)\n- Bottom right = 110° (corresponding to top right)\n- The alternate angles are also equal\n\nExample 2: Two parallel lines are cut by a transversal. One co-interior angle is 65°. Find the other.\nSolution:\nCo-interior angles add to 180°\nOther angle = 180° - 65° = 115°",
+    "practice": "1. (Easy) What does 'parallel' mean?\n2. (Easy) If one corresponding angle is 55°, what is the other?\n3. (Medium) Two parallel lines are cut by a transversal. One angle is 120°. Find the adjacent angle.\n4. (Medium) Co-interior angles add to how many degrees?\n5. (Hard) In a diagram with parallel lines, one alternate angle is (3x + 10)° and its pair is 70°. Find x.",
+    "summary": "* Parallel lines never meet. A transversal crosses them\n* Corresponding angles are equal\n* Alternate angles are equal\n* Co-interior angles add to 180°\n* These rules let you find all angles if you know just one",
+    "quiz": {
+      "question": "When parallel lines are cut by a transversal, what is true about alternate angles?",
+      "options": {
+        "A": "They add to 180°",
+        "B": "They are equal",
+        "C": "They add to 90°",
+        "D": "They are different"
+      },
+      "answer": "B"
+    },
+    "practice_answers": "1. Lines that never meet\n2. 55°\n3. 60°\n4. 180°\n5. x = 20",
+    "title": "Angles formed by parallel lines",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Angles formed by parallel lines. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Angles formed by parallel lines into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Angles formed by parallel lines. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Angles formed by parallel lines: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "angles",
+        "params": {
+          "type": "parallel_lines",
+          "angle": 60
+        },
+        "caption": "Angle relationships formed by parallel lines and a transversal."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

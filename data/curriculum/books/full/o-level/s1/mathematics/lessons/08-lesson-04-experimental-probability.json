@@ -1,0 +1,33 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Understand experimental probability\n- Conduct simple experiments to find probability\n- Compare theoretical and experimental probability",
+    "reading": "Theoretical probability is what we expect to happen. Experimental probability is what actually happens when we do an experiment.\n\nFor example, if you flip a coin 10 times, you expect 5 heads (theoretical probability = 0.5). But you might get 6 heads and 4 tails. That's experimental probability.\n\nExperimental Probability = Number of times event occurs ÷ Total number of trials\n\nThe more trials you do, the closer experimental probability gets to theoretical probability. This is called the Law of Large Numbers.\n\nExample: A farmer in Rwanda records the weather for 30 days: 18 sunny, 12 rainy.\nExperimental P(sunny) = 18/30 = 0.6\nExperimental P(rainy) = 12/30 = 0.4",
+    "examples": "Example 1: A student rolled a dice 60 times. She got a '6' eight times. Experimental P(6) = ?\nSolution:\nExperimental P(6) = 8/60 = 2/15 = 0.133\nTheoretical P(6) = 1/6 = 0.167\nThe experimental value (0.133) is close to theoretical (0.167).\n\nExample 2: A shopkeeper recorded 120 customers: 45 bought something, 75 just looked.\nExperimental P(buy) = 45/120 = 3/8 = 0.375 = 37.5%\nThis is useful: the shopkeeper knows about 38% of customers will buy.",
+    "practice": "1. (Easy) You flip a coin 20 times and get 12 heads. What is experimental P(heads)?\n2. (Easy) A dice is rolled 30 times. A '3' appears 4 times. Experimental P(3) = ?\n3. (Medium) A student did a 50-question test and got 40 correct. What is experimental P(correct)?\n4. (Medium) Why does experimental probability get closer to theoretical with more trials?\n5. (Hard) A spinner has 4 colours: Red, Blue, Green, Yellow. After 100 spins, the results are: Red=20, Blue=35, Green=25, Yellow=20. Do you think the spinner is fair? Explain.",
+    "summary": "* Experimental probability = what actually happens in an experiment\n* Formula: number of times event occurs ÷ total trials\n* More trials = more accurate (closer to theoretical)\n* Experimental probability is useful for real-world predictions",
+    "quiz": {
+      "question": "A coin is flipped 50 times and gets 28 heads. Experimental P(heads) is:",
+      "options": {
+        "A": "0.5",
+        "B": "0.56",
+        "C": "0.44",
+        "D": "0.28"
+      },
+      "answer": "B"
+    },
+    "practice_answers": "1. 12/20 = 0.6\n2. 4/30 ≈ 0.133\n3. 40/50 = 0.8\n4. More trials = more accurate\n5. Not fair, Blue appears too often",
+    "title": "Experimental probability",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Experimental probability. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Experimental probability into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Experimental probability. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Experimental probability: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "tree",
+        "params": {},
+        "caption": "A probability tree showing sequential outcomes."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

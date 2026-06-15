@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Organize data into a frequency table\n- Read and understand a frequency table\n- Group data into class intervals",
+    "reading": "After collecting data, we need to organize it so it makes sense. A frequency table is a simple way to do this.\n\nA frequency table has two columns:\n- The item or value\n- The frequency (how many times it occurs)\n\nExample: 20 students were asked their favourite fruit:\nMango, Orange, Mango, Banana, Orange, Mango, Apple, Banana, Mango, Orange, Banana, Mango, Orange, Mango, Apple, Banana, Mango, Orange, Mango, Banana\n\nFavourite Fruit | Frequency\nMango | 8\nOrange | 5\nBanana | 5\nApple | 2\nTotal | 20\n\nFor large data sets, we group data into class intervals, like 0-10, 11-20, etc.",
+    "examples": "Example 1: The heights (cm) of 10 students: 145, 150, 148, 152, 147, 150, 149, 151, 146, 150. Make a frequency table.\nSolution:\nHeight (cm) | Frequency\n145 | 1\n146 | 1\n147 | 1\n148 | 1\n149 | 1\n150 | 3\n151 | 1\n152 | 1\nTotal | 10\n\nExample 2: Group these ages into class intervals of 5 years: 7, 12, 15, 8, 22, 25, 18, 30, 9, 14, 27, 11, 19, 23, 6\nSolution:\nAge | Frequency\n6-10 | 3\n11-15 | 4\n16-20 | 2\n21-25 | 3\n26-30 | 3\nTotal | 15",
+    "practice": "1. (Easy) What is a frequency table used for?\n2. (Easy) In a frequency table, what does 'frequency' mean?\n3. (Medium) Here are shoe sizes: 7, 8, 7, 9, 8, 7, 10, 8, 9, 7. Make a frequency table.\n4. (Medium) Why might we group data into class intervals?\n5. (Hard) The ages of 20 people: 2, 5, 7, 12, 15, 18, 22, 25, 28, 30, 4, 8, 11, 14, 17, 20, 24, 27, 32, 35. Group into intervals 0-9, 10-19, 20-29, 30-39.",
+    "summary": "* A frequency table organizes data by counting how often each value appears\n* Frequency = the count\n* For large data sets, group into class intervals\n* Tables make it easy to see patterns and totals",
+    "quiz": {
+      "question": "In a frequency table of favourite colours, 'Blue' appears 7 times. What is its frequency?",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "answer": "C"
+    },
+    "practice_answers": "1. Organize data\n2. The count\n3. (Table)\n4. To make large data manageable\n5. (Grouped table)",
+    "title": "Organizing data in tables",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Organizing data in tables. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Organizing data in tables into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Organizing data in tables. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Organizing data in tables: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Organizing data in tables",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Organizing data in tables."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

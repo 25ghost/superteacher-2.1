@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Understand what volume means\n- Calculate volume of prisms, cylinders and spheres\n- Use the correct formula for each shape",
+    "reading": "Volume is the amount of space a 3D shape takes up. Think of it like how much water a tank can hold. Volume is measured in cubic units (cm³, m³).\n\nFormulas:\n- Cuboid (box): Volume = length x width x height\n- Cube: Volume = side x side x side = side³\n- Cylinder: Volume = π x r² x height (where r = radius)\n- Sphere: Volume = 4/3 x π x r³\n- Prism: Volume = area of base x height\n\nReal examples in Rwanda:\n- A water tank at a school in Kigali is cylindrical. Knowing its volume tells you how much water it holds\n- A farmer storing maize in a cuboid container needs to know the volume",
+    "examples": "Example 1: A cuboid water tank is 2 m long, 1.5 m wide and 1 m high. Find the volume.\nSolution:\nVolume = 2 x 1.5 x 1 = 3 m³\nSince 1 m³ = 1,000 litres, the tank holds 3,000 litres.\n\nExample 2: A cylindrical drum has radius 0.4 m and height 1.2 m. Find its volume. (π = 3.14)\nSolution:\nVolume = π x r² x h = 3.14 x (0.4)² x 1.2\n= 3.14 x 0.16 x 1.2\n= 3.14 x 0.192 = 0.603 m³ (about 603 litres)",
+    "practice": "1. (Easy) A cube has side 3 cm. Find its volume.\n2. (Easy) A box is 5 cm by 4 cm by 2 cm. Find the volume.\n3. (Medium) A cylindrical water tank has radius 1 m and height 2 m. Find volume. (π = 3.14)\n4. (Medium) A sphere has radius 7 cm. Find its volume. (π = 22/7)\n5. (Hard) A rectangular prism has length 10 cm, width 6 cm, and volume 300 cm³. Find its height.",
+    "summary": "* Volume = space a solid takes up, measured in cubic units\n* Cuboid: length x width x height\n* Cylinder: πr²h\n* Sphere: 4/3 πr³\n* 1 m³ = 1,000 litres for water",
+    "quiz": {
+      "question": "A cube has side 5 cm. Its volume is:",
+      "options": {
+        "A": "25 cm³",
+        "B": "100 cm³",
+        "C": "125 cm³",
+        "D": "150 cm³"
+      },
+      "answer": "C"
+    },
+    "practice_answers": "1. 27 cm³\n2. 40 cm³\n3. 6.28 m³\n4. 1,437.3 cm³\n5. 5 cm",
+    "title": "Volume of prisms, cylinders and spheres",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Volume of prisms, cylinders and spheres. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Volume of prisms, cylinders and spheres into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Volume of prisms, cylinders and spheres. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Volume of prisms, cylinders and spheres: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Volume of prisms, cylinde…",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Volume of prisms, cylinders and spheres."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

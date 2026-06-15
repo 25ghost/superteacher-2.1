@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Apply volume and surface area to real-life situations\n- Solve word problems involving solids\n- Use the right formula for the right situation",
+    "reading": "Volume and surface area are used every day in Rwanda:\n\nConstruction: A builder needs to know how many cubic metres of concrete for a foundation.\n\nWater: How much water can a tank hold? Volume tells us. How much paint to cover the tank? Surface area.\n\nFarming: How much maize fits in a storage bin? Volume. How much wood for the bin? Surface area.\n\nPackaging: How much cardboard for a box? Surface area. How many boxes fit in a truck? Volume.\n\nWhen solving:\n1. Identify the shape\n2. Choose the correct formula (volume or surface area)\n3. Substitute the numbers\n4. Check your answer makes sense",
+    "examples": "Example 1: A school water tank is a cylinder with radius 1.5 m and height 2 m. How many litres of water can it hold? (π = 3.14)\nSolution:\nVolume = πr²h = 3.14 x (1.5)² x 2\n= 3.14 x 2.25 x 2 = 14.13 m³\nLitres = 14.13 x 1,000 = 14,130 litres\n\nExample 2: A carpenter makes a cuboid wooden box, 60 cm by 40 cm by 30 cm. She wants to varnish the outside. How much area to varnish?\nSolution:\nSA = 2(lw + lh + wh)\n= 2(60x40 + 60x30 + 40x30)\n= 2(2,400 + 1,800 + 1,200)\n= 2 x 5,400 = 10,800 cm²",
+    "practice": "1. (Easy) A rectangular container is 10 cm x 8 cm x 5 cm. Find its volume.\n2. (Easy) A cube-shaped box has side 12 cm. Find the cardboard needed.\n3. (Medium) A cylindrical water drum has radius 0.5 m and height 1.5 m. How many litres can it hold?\n4. (Medium) A room is 8 m long, 6 m wide and 3 m high. Find the volume of air in the room.\n5. (Hard) A farmer stores maize in a cuboid bin 2 m by 1.5 m by 1.2 m. If 1 m³ holds 700 kg of maize, how much maize can the bin store?",
+    "summary": "* Volume = space inside, used for capacity. Surface area = outside area, used for covering\n* Choose the right formula for the shape\n* 1 m³ = 1,000 litres for water\n* These calculations are used in construction, farming, packaging and everyday life",
+    "quiz": {
+      "question": "A water tank is a cylinder with radius 1 m and height 2 m. How many litres can it hold? (π = 3.14)",
+      "options": {
+        "A": "3,140 litres",
+        "B": "6,280 litres",
+        "C": "4,710 litres",
+        "D": "5,000 litres"
+      },
+      "answer": "B"
+    },
+    "practice_answers": "1. 400 cm³\n2. 864 cm²\n3. 1,177.5 L\n4. 144 m³\n5. 2,520 kg",
+    "title": "Real-life applications of volume and surface area",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Real-life applications of volume and surface area. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Real-life applications of volume and surface area into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Real-life applications of volume and surface area. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Real-life applications of volume and surface area: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Real-life applications of…",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Real-life applications of volume and surface area."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

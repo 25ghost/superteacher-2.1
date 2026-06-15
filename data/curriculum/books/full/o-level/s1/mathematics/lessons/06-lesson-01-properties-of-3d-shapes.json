@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Identify common 3D shapes\n- Describe their properties (faces, edges, vertices)\n- Classify solids by their features",
+    "reading": "Solids are 3D (three-dimensional) shapes. They have length, width and height. Unlike flat 2D shapes, solids take up space.\n\nEvery solid has:\n- Faces: the flat surfaces (like the sides of a box)\n- Edges: where two faces meet (like the corner of a table)\n- Vertices: corners where edges meet (singular: vertex)\n\nCommon 3D shapes in Rwanda:\n- Cube: like a dice or a sugar cube\n- Cuboid: like a brick or a classroom\n- Cylinder: like a drum for water or a can of milk\n- Sphere: like a football or an orange\n- Cone: like a traditional hat or an ice cream cone\n- Pyramid: like the roof of a house or the top of a mountain",
+    "examples": "Example 1: A cube has how many faces, edges and vertices?\nSolution:\n- Faces: 6 (like a dice)\n- Edges: 12\n- Vertices: 8\n\nExample 2: Compare a cylinder and a cuboid.\nSolution:\n- Cylinder: 2 flat circular faces, 1 curved face, no vertices, 2 edges\n- Cuboid: 6 rectangular faces, 12 edges, 8 vertices",
+    "practice": "1. (Easy) How many faces does a cube have?\n2. (Easy) What shape is a football?\n3. (Medium) Draw a table showing the number of faces, edges and vertices for: cube, cuboid, cylinder, sphere, cone.\n4. (Medium) A triangular prism has how many faces?\n5. (Hard) A square-based pyramid has 5 faces, 8 edges. How many vertices does it have? (Hint: Euler's formula: F + V = E + 2)",
+    "summary": "* 3D solids have faces (flat surfaces), edges (where faces meet), and vertices (corners)\n* Common shapes: cube, cuboid, cylinder, sphere, cone, pyramid\n* Each shape has a specific number of faces, edges and vertices\n* Understanding these properties is the first step in geometry of solids",
+    "quiz": {
+      "question": "How many vertices does a cube have?",
+      "options": {
+        "A": "6",
+        "B": "8",
+        "C": "10",
+        "D": "12"
+      },
+      "answer": "B"
+    },
+    "practice_answers": "1. 6\n2. Sphere\n3. (Table)\n4. 5\n5. 5 vertices",
+    "title": "Properties of 3D shapes",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Properties of 3D shapes. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Properties of 3D shapes into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Properties of 3D shapes. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Properties of 3D shapes: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Properties of 3D shapes",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Properties of 3D shapes."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

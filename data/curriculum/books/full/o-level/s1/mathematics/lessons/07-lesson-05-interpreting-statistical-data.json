@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Read information from tables and graphs\n- Draw conclusions from statistical data\n- Make simple predictions based on data",
+    "reading": "Once data is collected, organized and displayed, we need to interpret it. This means reading the information and understanding what it tells us.\n\nSteps to interpret data:\n1. Read the title and labels - what is this data about?\n2. Look at the numbers - what are the highest and lowest values?\n3. Find patterns - is something increasing or decreasing?\n4. Draw conclusions - what does this data tell us?\n5. Make decisions - what should we do based on this data?\n\nExample from Rwanda: A graph showing crop production over 5 years might show an increase. This tells us farming is improving. The government might then decide to invest more in agriculture.\n\nAlways ask: Is the data reliable? Was it collected properly? Can we trust the conclusions?",
+    "examples": "Example 1: A bar graph shows rainfall (mm) in Kigali for 6 months: Jan=80, Feb=90, Mar=120, Apr=150, May=100, Jun=40\nInterpretation:\n- Most rain in April (150 mm)\n- Least rain in June (40 mm)\n- Rain increases from Jan to Apr, then decreases\n- This is typical for Rwanda's rainy seasons\n\nExample 2: A table shows the number of students in a school over 4 years: 2019=400, 2020=420, 2021=460, 2022=500\nInterpretation:\n- School population is growing each year\n- Increase is about 20-40 students per year\n- School may need more classrooms soon",
+    "practice": "1. (Easy) In a bar graph, which bar tells you the largest category?\n2. (Easy) If the mean score in a test is 15/20, is that good?\n3. (Medium) A table shows: Mon=30 eggs, Tue=35, Wed=25, Thu=40, Fri=50. Which day had the most eggs? What might explain this?\n4. (Medium) A graph shows school enrolment increasing each year. What conclusion can you draw?\n5. (Hard) Two classes took the same test. Class A mean = 16/20, Class B mean = 12/20. What can you conclude? What questions would you ask before making a decision?",
+    "summary": "* Interpreting means reading, understanding and drawing conclusions from data\n* Look for patterns: highest, lowest, increasing, decreasing\n* Use data to make decisions and predictions\n* Always check if the data is reliable before drawing conclusions",
+    "quiz": {
+      "question": "A graph shows rainfall increasing from January to April. What can you conclude?",
+      "options": {
+        "A": "It gets colder",
+        "B": "The rainy season is coming",
+        "C": "It never rains",
+        "D": "April is the driest month"
+      },
+      "answer": "B"
+    },
+    "practice_answers": "1. The tallest one\n2. Depends on context\n3. Friday=50, busiest day\n4. More students each year\n5. Class A is better prepared",
+    "title": "Interpreting statistical data",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Interpreting statistical data. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Interpreting statistical data into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Interpreting statistical data. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Interpreting statistical data: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Interpreting statistical…",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Interpreting statistical data."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 1: Sets of Numbers.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-natural-numbers-and-integers",
+      "name": "Natural numbers and integers",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/01-lesson-01-natural-numbers-and-integers.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-rational-numbers",
+      "name": "Rational numbers",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/01-lesson-02-rational-numbers.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-operations-on-numbers",
+      "name": "Operations on numbers",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/01-lesson-03-operations-on-numbers.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-number-line-and-ordering",
+      "name": "Number line and ordering",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/01-lesson-04-number-line-and-ordering.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-applications-of-numbers-in-daily-life",
+      "name": "Applications of numbers in daily life",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/01-lesson-05-applications-of-numbers-in-daily-life.json",
+      "status": "ready"
+    }
+  ]
+}

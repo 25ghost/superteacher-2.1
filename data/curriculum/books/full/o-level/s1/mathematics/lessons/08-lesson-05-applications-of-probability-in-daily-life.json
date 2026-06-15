@@ -1,0 +1,33 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Apply probability to real-life situations\n- Make decisions based on probability\n- Understand how probability is used in Rwanda",
+    "reading": "Probability is used everywhere in real life:\n\nWeather: The Rwanda Meteorology Agency uses probability to predict rain. '80% chance of rain' means there is a high likelihood.\n\nAgriculture: A farmer might say 'there is a 70% chance my crops will do well this season' based on past years.\n\nHealth: Doctors talk about the probability of a treatment working.\n\nBusiness: An entrepreneur calculates the probability of a new business succeeding.\n\nSports: The probability of a football team winning a match.\n\nInsurance: Companies calculate the probability of accidents to set prices.\n\nProbability helps us make better decisions when we face uncertainty.",
+    "examples": "Example 1: The weather forecast says 60% chance of rain. Should you carry an umbrella?\nSolution:\nYes! 60% is more than half, so rain is more likely than not. Carry an umbrella.\n\nExample 2: A farmer knows from 10 years of records that in 7 years, the rainy season started in March. What is the probability it will start in March this year?\nSolution:\nExperimental P(March) = 7/10 = 0.7 = 70%\nThis is useful for planning when to plant crops.\n\nExample 3: A multiple choice question has 4 options. You guess. What is the probability of getting it right?\nSolution:\nP(correct) = 1/4 = 0.25 = 25%. So guessing is not a good strategy!",
+    "practice": "1. (Easy) The forecast says 20% chance of rain. Should you take an umbrella? Why?\n2. (Easy) A student studied 8 out of 10 topics. If one topic is chosen at random for the test, P(she studied it) = ?\n3. (Medium) A bus arrives on time 85 out of 100 days. What is the probability it arrives on time tomorrow?\n4. (Medium) A farmer plants 200 seeds. 180 germinate. What is the probability a seed germinates?\n5. (Hard) A company makes phones. 5 out of every 500 phones are faulty. What is the probability a phone is faulty? If you buy 3 phones, how many would you expect to be faulty?",
+    "summary": "* Probability helps in weather, farming, health, business and daily decisions\n* Use past data to predict future events\n* Probability guides decision-making under uncertainty\n* The higher the probability, the more likely the event",
+    "quiz": {
+      "question": "A bus arrives on time 72 out of 90 days. Experimental P(on time) is:",
+      "options": {
+        "A": "0.7",
+        "B": "0.8",
+        "C": "0.85",
+        "D": "0.9"
+      },
+      "answer": "B"
+    },
+    "practice_answers": "1. No, only 20%\n2. 8/10 = 0.8\n3. 0.85\n4. 0.9\n5. 0.01, expect 0 faulty in 3",
+    "title": "Applications of probability in daily life",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Applications of probability in daily life. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Applications of probability in daily life into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Applications of probability in daily life. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Applications of probability in daily life: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "tree",
+        "params": {},
+        "caption": "A probability tree showing sequential outcomes."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

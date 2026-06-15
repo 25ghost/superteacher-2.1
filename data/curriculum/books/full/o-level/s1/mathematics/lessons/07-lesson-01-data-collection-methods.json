@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Understand what data is\n- Identify different ways to collect data\n- Choose the right method for collecting information",
+    "reading": "Data is information collected about people, things or events. In Rwanda, the National Institute of Statistics collects data about population, farming, schools and health. This helps the government make good decisions.\n\nWays to collect data:\n- Surveys: asking people questions (like asking students their favourite subject)\n- Observations: watching and recording (like counting cars passing a road)\n- Experiments: doing tests and recording results\n- Interviews: talking to people one-on-one\n- Existing records: using information already available (like school attendance records)\n\nData can be:\n- Primary data: collected by you for the first time\n- Secondary data: already collected by someone else",
+    "examples": "Example 1: A school wants to know what food students prefer for lunch. What method should they use?\nSolution:\nA survey or questionnaire. Ask each student or a sample of students what they prefer.\n\nExample 2: A farmer wants to know how many eggs her chickens lay each day. What method?\nSolution:\nObservation. Count and record the eggs collected every day.",
+    "practice": "1. (Easy) What is data?\n2. (Easy) Give one method of collecting data\n3. (Medium) A researcher wants to know the most common job in a village. What method would you suggest and why?\n4. (Medium) What is the difference between primary and secondary data?\n5. (Hard) A student wants to know if more boys or girls play football at school. Design a simple data collection plan.",
+    "summary": "* Data is information collected for a purpose\n* Methods: surveys, observation, experiments, interviews, records\n* Primary data = you collect it. Secondary data = already exists\n* Good data collection leads to good decisions",
+    "quiz": {
+      "question": "Which method would you use to find the most popular subject in your class?",
+      "options": {
+        "A": "Experiment",
+        "B": "Survey",
+        "C": "Observation",
+        "D": "Existing records"
+      },
+      "answer": "B"
+    },
+    "practice_answers": "1. Information collected\n2. Survey, observation, experiment, etc.\n3. Survey\n4. Primary = you collect, Secondary = already exists\n5. (Design plan)",
+    "title": "Data collection methods",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Data collection methods. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Data collection methods into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Data collection methods. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Data collection methods: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Data collection methods",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Data collection methods."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

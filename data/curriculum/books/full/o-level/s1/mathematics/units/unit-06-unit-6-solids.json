@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 6: Solids.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-properties-of-3d-shapes",
+      "name": "Properties of 3D shapes",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/06-lesson-01-properties-of-3d-shapes.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-volume-of-prisms-cylinders-and-spheres",
+      "name": "Volume of prisms, cylinders and spheres",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/06-lesson-02-volume-of-prisms-cylinders-and-spheres.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-surface-area-of-solids",
+      "name": "Surface area of solids",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/06-lesson-03-surface-area-of-solids.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-nets-of-solids",
+      "name": "Nets of solids",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/06-lesson-04-nets-of-solids.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-real-life-applications-of-volume-and-surface-area",
+      "name": "Real-life applications of volume and surface area",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/06-lesson-05-real-life-applications-of-volume-and-surface-area.json",
+      "status": "ready"
+    }
+  ]
+}

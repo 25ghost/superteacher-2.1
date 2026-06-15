@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 4: Ratio and Proportion.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-direct-proportion",
+      "name": "Direct proportion",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/04-lesson-01-direct-proportion.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-inverse-proportion",
+      "name": "Inverse proportion",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/04-lesson-02-inverse-proportion.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-dividing-quantities-in-a-given-ratio",
+      "name": "Dividing quantities in a given ratio",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/04-lesson-03-dividing-quantities-in-a-given-ratio.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-scale-drawing-and-maps",
+      "name": "Scale drawing and maps",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/04-lesson-04-scale-drawing-and-maps.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-applications-of-ratio-and-proportion",
+      "name": "Applications of ratio and proportion",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/04-lesson-05-applications-of-ratio-and-proportion.json",
+      "status": "ready"
+    }
+  ]
+}

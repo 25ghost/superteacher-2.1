@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Calculate the mean (average) of a data set\n- Find the median (middle value)\n- Identify the mode (most common value)",
+    "reading": "Mean, median and mode are called 'measures of central tendency'. They tell us about the typical value in a data set.\n\nMean (average): Add all values, then divide by how many values there are.\nExample: Scores 5, 8, 10, 12, 15. Mean = (5+8+10+12+15)/5 = 50/5 = 10\n\nMedian: Arrange values in order, then find the middle value.\n- If odd number of values: median is the middle one\n- If even number: median is the average of the two middle values\n\nMode: The value that appears most often. A data set can have no mode, one mode, or multiple modes.\n\nReal example: A teacher in Rwanda calculates the mean score to know the class average. The principal uses the median salary to understand typical teacher pay.",
+    "examples": "Example 1: Find the mean, median and mode of: 3, 7, 8, 5, 7, 9, 6\nSolution:\nMean = (3+7+8+5+7+9+6)/7 = 45/7 = 6.43\nOrdered: 3, 5, 6, 7, 7, 8, 9. Median = 7 (the 4th value)\nMode = 7 (appears twice)\n\nExample 2: Find the median of: 12, 15, 10, 18, 20, 14\nSolution:\nOrdered: 10, 12, 14, 15, 18, 20 (even number)\nMedian = (14+15)/2 = 14.5",
+    "practice": "1. (Easy) Find the mean of: 4, 8, 12, 16\n2. (Easy) Find the mode of: 2, 5, 2, 7, 8, 2, 9\n3. (Medium) Find the mean, median and mode of: 10, 15, 20, 25, 20, 15, 10, 20\n4. (Medium) Five students scored: 14, 18, 20, 22, 26. Find the mean and median.\n5. (Hard) The mean of 6 numbers is 15. Five numbers are 12, 18, 14, 16, 10. Find the sixth number.",
+    "summary": "* Mean = total ÷ number of values (the average)\n* Median = middle value when ordered from smallest to largest\n* Mode = most frequent value\n* Each gives a different type of 'typical' value. Use the right one for your data",
+    "quiz": {
+      "question": "Find the mean of: 6, 10, 14, 8, 12",
+      "options": {
+        "A": "8",
+        "B": "10",
+        "C": "12",
+        "D": "14"
+      },
+      "answer": "B"
+    },
+    "practice_answers": "1. 10\n2. 2\n3. Mean=16.6, Median=17.5, Mode=20\n4. Mean=20, Median=20\n5. 20",
+    "title": "Mean, median and mode",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Mean, median and mode. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Mean, median and mode into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Mean, median and mode. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Mean, median and mode: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Mean, median and mode",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Mean, median and mode."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

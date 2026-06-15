@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 8: Probability.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-basic-probability-concepts",
+      "name": "Basic probability concepts",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/08-lesson-01-basic-probability-concepts.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-sample-space-and-events",
+      "name": "Sample space and events",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/08-lesson-02-sample-space-and-events.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-probability-of-single-events",
+      "name": "Probability of single events",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/08-lesson-03-probability-of-single-events.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-experimental-probability",
+      "name": "Experimental probability",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/08-lesson-04-experimental-probability.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-applications-of-probability-in-daily-life",
+      "name": "Applications of probability in daily life",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/08-lesson-05-applications-of-probability-in-daily-life.json",
+      "status": "ready"
+    }
+  ]
+}

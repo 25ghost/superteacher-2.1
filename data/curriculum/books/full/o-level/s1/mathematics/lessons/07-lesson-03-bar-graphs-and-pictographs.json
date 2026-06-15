@@ -1,0 +1,37 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Draw a bar graph from a frequency table\n- Draw a pictograph using symbols\n- Read and interpret information from graphs",
+    "reading": "Graphs make data visual and easy to understand. Two common types are:\n\nBar graph: uses bars of different heights to show data. Each bar represents a category. The taller the bar, the bigger the number.\n\nPictograph: uses pictures or symbols to show data. Each picture stands for a certain number of items.\n\nIn Rwanda, newspapers and TV often use bar graphs to show things like crop production per district or school enrolment numbers.\n\nTo draw a bar graph:\n1. Draw a horizontal axis (categories) and vertical axis (frequency)\n2. Draw bars of equal width at the height of each frequency\n3. Label everything clearly\n\nTo draw a pictograph:\n1. Choose a symbol (like a cow for farm animals)\n2. Decide what each symbol represents (e.g., 1 cow = 10 animals)\n3. Draw the correct number of symbols for each category",
+    "examples": "Example 1: Draw a bar graph for this data: Mango = 8, Orange = 5, Banana = 5, Apple = 2\nSolution:\nVertical axis: 0 to 10 (frequency)\nHorizontal axis: Mango, Orange, Banana, Apple\nDraw bars of height 8, 5, 5, 2 with equal widths.\n\nExample 2: A pictograph showing cows on three farms. Let 1 cow symbol = 5 cows.\nFarm A: 20 cows = 4 cow symbols\nFarm B: 15 cows = 3 cow symbols\nFarm C: 25 cows = 5 cow symbols",
+    "practice": "1. (Easy) What does a bar graph use to show data?\n2. (Easy) In a pictograph, what does the key tell you?\n3. (Medium) Draw a bar graph for this data: Math = 12, Science = 8, English = 6, History = 4\n4. (Medium) Draw a pictograph for: Monday = 30 eggs, Tuesday = 45 eggs, Wednesday = 35 eggs (let 1 egg symbol = 5 eggs)\n5. (Hard) A school has 200 boys and 180 girls. Draw a bar graph. Also make a pictograph where 1 person = 20 students.",
+    "summary": "* Bar graphs use bar heights to show frequencies. Easy to compare categories\n* Pictographs use symbols. Each symbol represents a certain number\n* Always label axes and include a key for pictographs\n* Graphs help us see patterns quickly",
+    "quiz": {
+      "question": "In a bar graph showing favourite food, the tallest bar represents:",
+      "options": {
+        "A": "The least popular food",
+        "B": "The most popular food",
+        "C": "The average food",
+        "D": "No food"
+      },
+      "answer": "B"
+    },
+    "practice_answers": "1. Bars\n2. What each symbol represents\n3-5: (Graphs)",
+    "title": "Bar graphs and pictographs",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Bar graphs and pictographs. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Bar graphs and pictographs into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Bar graphs and pictographs. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Bar graphs and pictographs: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "cartesian",
+        "params": {
+          "function": "linear",
+          "m": 2,
+          "c": -1
+        },
+        "caption": "Coordinate representation linking input, output and graph."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

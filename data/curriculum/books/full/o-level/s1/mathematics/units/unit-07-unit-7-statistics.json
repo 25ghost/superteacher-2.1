@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 7: Statistics.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-data-collection-methods",
+      "name": "Data collection methods",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/07-lesson-01-data-collection-methods.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-organizing-data-in-tables",
+      "name": "Organizing data in tables",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/07-lesson-02-organizing-data-in-tables.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-bar-graphs-and-pictographs",
+      "name": "Bar graphs and pictographs",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/07-lesson-03-bar-graphs-and-pictographs.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-mean-median-and-mode",
+      "name": "Mean, median and mode",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/07-lesson-04-mean-median-and-mode.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-interpreting-statistical-data",
+      "name": "Interpreting statistical data",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/07-lesson-05-interpreting-statistical-data.json",
+      "status": "ready"
+    }
+  ]
+}

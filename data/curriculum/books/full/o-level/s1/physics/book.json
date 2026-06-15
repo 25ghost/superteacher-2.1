@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "book": "Physics",
+    "level": "S1",
+    "unit_count": 10,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-unit-1-measurement",
+      "name": "Unit 1: Measurement",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/physics/units/unit-01-unit-1-measurement.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-unit-2-motion",
+      "name": "Unit 2: Motion",
+      "node_type": "unit",
+      "description": "6 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/physics/units/unit-02-unit-2-motion.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-unit-3-forces",
+      "name": "Unit 3: Forces",
+      "node_type": "unit",
+      "description": "6 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/physics/units/unit-03-unit-3-forces.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-unit-4-energy",
+      "name": "Unit 4: Energy",
+      "node_type": "unit",
+      "description": "6 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/physics/units/unit-04-unit-4-energy.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-unit-5-heat",
+      "name": "Unit 5: Heat",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/physics/units/unit-05-unit-5-heat.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-06-unit-6-waves",
+      "name": "Unit 6: Waves",
+      "node_type": "unit",
+      "description": "6 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/physics/units/unit-06-unit-6-waves.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-07-unit-7-light",
+      "name": "Unit 7: Light",
+      "node_type": "unit",
+      "description": "6 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/physics/units/unit-07-unit-7-light.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-08-unit-8-electricity",
+      "name": "Unit 8: Electricity",
+      "node_type": "unit",
+      "description": "6 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/physics/units/unit-08-unit-8-electricity.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-09-unit-9-magnetism",
+      "name": "Unit 9: Magnetism",
+      "node_type": "unit",
+      "description": "6 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/physics/units/unit-09-unit-9-magnetism.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-10-unit-10-modern-physics-basics",
+      "name": "Unit 10: Modern Physics Basics",
+      "node_type": "unit",
+      "description": "5 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s1/physics/units/unit-10-unit-10-modern-physics-basics.json",
+      "status": "ready"
+    }
+  ]
+}

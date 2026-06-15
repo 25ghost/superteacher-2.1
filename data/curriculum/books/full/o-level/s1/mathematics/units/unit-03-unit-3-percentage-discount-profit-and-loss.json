@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 3: Percentage, Discount, Profit and Loss.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-percentage-increase-and-decrease",
+      "name": "Percentage increase and decrease",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/03-lesson-01-percentage-increase-and-decrease.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-discount-and-commission",
+      "name": "Discount and commission",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/03-lesson-02-discount-and-commission.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-profit-and-loss-calculations",
+      "name": "Profit and loss calculations",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/03-lesson-03-profit-and-loss-calculations.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-simple-interest",
+      "name": "Simple interest",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/03-lesson-04-simple-interest.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-real-life-financial-applications",
+      "name": "Real-life financial applications",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/03-lesson-05-real-life-financial-applications.json",
+      "status": "ready"
+    }
+  ]
+}

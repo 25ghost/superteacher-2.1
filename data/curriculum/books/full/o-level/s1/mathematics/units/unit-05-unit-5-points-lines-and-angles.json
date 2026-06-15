@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 5: Points, Lines and Angles.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-points-and-lines",
+      "name": "Points and lines",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/05-lesson-01-points-and-lines.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-types-of-angles",
+      "name": "Types of angles",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/05-lesson-02-types-of-angles.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-angle-relationships-complementary-supplementary",
+      "name": "Angle relationships (complementary, supplementary)",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/05-lesson-03-angle-relationships-complementary-supplementary.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-angles-formed-by-parallel-lines",
+      "name": "Angles formed by parallel lines",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/05-lesson-04-angles-formed-by-parallel-lines.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-geometric-constructions",
+      "name": "Geometric constructions",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/05-lesson-05-geometric-constructions.json",
+      "status": "ready"
+    }
+  ]
+}

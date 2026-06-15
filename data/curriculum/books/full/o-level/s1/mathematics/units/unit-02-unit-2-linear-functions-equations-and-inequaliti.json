@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 2: Linear Functions, Equations and Inequalities.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-algebraic-expressions",
+      "name": "Algebraic expressions",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/02-lesson-01-algebraic-expressions.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-linear-equations-in-one-variable",
+      "name": "Linear equations in one variable",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/02-lesson-02-linear-equations-in-one-variable.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-linear-inequalities",
+      "name": "Linear inequalities",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/02-lesson-03-linear-inequalities.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-graphs-of-linear-functions",
+      "name": "Graphs of linear functions",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/02-lesson-04-graphs-of-linear-functions.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-word-problems-on-equations-and-inequalities",
+      "name": "Word problems on equations and inequalities",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/mathematics/lessons/02-lesson-05-word-problems-on-equations-and-inequalities.json",
+      "status": "ready"
+    }
+  ]
+}

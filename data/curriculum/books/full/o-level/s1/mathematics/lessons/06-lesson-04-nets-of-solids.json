@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Understand what a net of a solid is\n- Draw nets for common 3D shapes\n- Match nets to their solids",
+    "reading": "A net is a flat pattern that can be folded to make a 3D shape. Think of a cardboard box that you unfold flat - that flat shape is its net.\n\nNets help us see all the faces of a solid at once. They are very useful for calculating surface area and for making models.\n\nExamples:\n- The net of a cube has 6 squares connected in a cross shape\n- The net of a cuboid has 6 rectangles\n- The net of a cylinder has 2 circles and 1 rectangle\n- The net of a cone has 1 circle and 1 sector (like a pizza slice)\n\nIn Rwanda, carpenters use nets when cutting wood to make boxes. Packaging designers use nets to create boxes for products.",
+    "examples": "Example 1: Draw the net of a cube.\nSolution:\nA cube net has 6 equal squares. One way: 4 squares in a row (like a cross), with 1 square above the second and 1 below the second.\n\nExample 2: A cylinder net has which shapes?\nSolution:\nA cylinder net has:\n- 2 circles (top and bottom)\n- 1 rectangle (the curved surface, where width = circumference of circle = 2πr and height = cylinder height)",
+    "practice": "1. (Easy) How many squares are in the net of a cube?\n2. (Easy) What shapes make the net of a cylinder?\n3. (Medium) Draw two different nets of a cube.\n4. (Medium) Draw the net of a cuboid that is 4 cm by 3 cm by 2 cm.\n5. (Hard) A square-based pyramid has which shapes in its net? Draw it.",
+    "summary": "* A net is a flat pattern that folds into a 3D shape\n* Cube net: 6 squares. Cuboid net: 6 rectangles. Cylinder net: 2 circles + 1 rectangle\n* Nets help visualize all faces of a solid\n* Used in packaging, carpentry and design",
+    "quiz": {
+      "question": "How many circles are in the net of a cylinder?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "0"
+      },
+      "answer": "B"
+    },
+    "practice_answers": "1. 6\n2. 2 circles + 1 rectangle\n3-5: (Drawings)",
+    "title": "Nets of solids",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Nets of solids. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Nets of solids into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Nets of solids. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Nets of solids: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Nets of solids",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Nets of solids."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

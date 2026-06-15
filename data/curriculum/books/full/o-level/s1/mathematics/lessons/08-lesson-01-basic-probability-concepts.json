@@ -1,0 +1,33 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Understand what probability means\n- Know that probability is between 0 and 1\n- Use words like certain, likely, unlikely, impossible",
+    "reading": "Probability is about the chance of something happening. We use it every day:\n- 'There is a 70% chance of rain today in Kigali'\n- 'I will probably pass my exam if I study'\n- 'It is impossible to get a 7 on a standard dice'\n\nProbability is measured from 0 to 1:\n- 0 = impossible (will never happen)\n- 1 = certain (will definitely happen)\n- 0.5 = equal chance (like a coin flip)\n\nWe can also use words:\n- Impossible: 0 chance\n- Unlikely: small chance\n- Equally likely: 50-50\n- Likely: good chance\n- Certain: 100%\n\nProbability helps us make decisions when we are not sure what will happen.",
+    "examples": "Example 1: What is the probability of the sun rising tomorrow?\nSolution:\nThe sun always rises. So probability = 1 (certain)\n\nExample 2: What is the probability of rolling a 7 on a standard dice?\nSolution:\nA standard dice has numbers 1 to 6. 7 is impossible. Probability = 0\n\nExample 3: A newborn baby is either a boy or girl. What is the probability of a girl?\nSolution:\nAbout 1/2 or 0.5 (equally likely)",
+    "practice": "1. (Easy) What probability means something will definitely happen?\n2. (Easy) What is the probability of a coin landing on heads?\n3. (Medium) A bag has only red marbles. What is the probability of picking a blue one?\n4. (Medium) Classify these as impossible, unlikely, equally likely, likely, or certain: a) It will rain in Rwanda this year b) You will fly like a bird c) A dice shows an even number\n5. (Hard) Give an example of an event with probability 0.25.",
+    "summary": "* Probability measures chance from 0 (impossible) to 1 (certain)\n* 0.5 = equal chance. 0 = never. 1 = always\n* Words: impossible, unlikely, equally likely, likely, certain\n* Probability helps us make decisions about uncertain events",
+    "quiz": {
+      "question": "What is the probability of a coin landing on tails?",
+      "options": {
+        "A": "0",
+        "B": "0.25",
+        "C": "0.5",
+        "D": "1"
+      },
+      "answer": "C"
+    },
+    "practice_answers": "1. 1 (certain)\n2. 0.5\n3. 0\n4. a) Certain, b) Impossible, c) Equally likely\n5. E.g., Drawing a specific card from 4 cards",
+    "title": "Basic probability concepts",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Basic probability concepts. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Basic probability concepts into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Basic probability concepts. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Basic probability concepts: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "tree",
+        "params": {},
+        "caption": "A probability tree showing sequential outcomes."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

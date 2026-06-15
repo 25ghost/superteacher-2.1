@@ -1,0 +1,33 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Calculate probability of a single event\n- Use the formula: P(event) = favourable outcomes / total outcomes\n- Express probability as a fraction, decimal or percentage",
+    "reading": "To find the probability of a single event, use this formula:\n\nP(event) = Number of favourable outcomes ÷ Total number of possible outcomes\n\nExample: What is the probability of rolling a 4 on a dice?\n- Favourable outcomes: {4} = 1\n- Total outcomes: {1, 2, 3, 4, 5, 6} = 6\n- P(4) = 1/6\n\nWe can express probability as:\n- Fraction: 1/6\n- Decimal: 0.167\n- Percentage: 16.7%\n\nReal example: In a class of 30 students in Rwanda, 12 are girls. The probability of picking a girl at random = 12/30 = 2/5 = 0.4 = 40%",
+    "examples": "Example 1: A bag has 5 red, 3 blue and 2 green marbles. Find P(blue).\nSolution:\nFavourable (blue) = 3\nTotal = 5 + 3 + 2 = 10\nP(blue) = 3/10 = 0.3 = 30%\n\nExample 2: A letter is chosen from the word 'R W A N D A'. Find P(vowel).\nSolution:\nLetters: R, W, A, N, D, A (6 letters)\nVowels: A, A (2 vowels)\nP(vowel) = 2/6 = 1/3 = 0.333 = 33.3%",
+    "practice": "1. (Easy) A dice is rolled. Find P(5)\n2. (Easy) A coin is flipped. Find P(heads)\n3. (Medium) A bag has 4 red, 6 blue, 10 total marbles. Find P(red) and P(blue)\n4. (Medium) From the word 'KIGALI', find P(vowel) and P(consonant)\n5. (Hard) A box has 8 red balls and some blue balls. P(red) = 2/5. How many blue balls are there?",
+    "summary": "* P(event) = favourable outcomes ÷ total outcomes\n* Probability can be a fraction, decimal or percentage\n* Always count carefully: favourable and total\n* Check: probability should be between 0 and 1",
+    "quiz": {
+      "question": "A bag has 3 red and 7 blue marbles. P(red) is:",
+      "options": {
+        "A": "3/10",
+        "B": "7/10",
+        "C": "3/7",
+        "D": "1/3"
+      },
+      "answer": "A"
+    },
+    "practice_answers": "1. 1/6\n2. 1/2\n3. 2/5, 3/5\n4. 3/7 vowel, 4/7 consonant\n5. 12 blue balls",
+    "title": "Probability of single events",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Probability of single events. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Probability of single events into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Probability of single events. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Probability of single events: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "tree",
+        "params": {},
+        "caption": "A probability tree showing sequential outcomes."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}
