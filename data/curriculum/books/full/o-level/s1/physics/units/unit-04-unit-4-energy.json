@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 4: Energy.",
+    "lesson_count": 6
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-forms-of-energy",
+      "name": "Forms of energy",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/04-lesson-01-forms-of-energy.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-kinetic-and-potential-energy",
+      "name": "Kinetic and potential energy",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/04-lesson-02-kinetic-and-potential-energy.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-work-and-power",
+      "name": "Work and power",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/04-lesson-03-work-and-power.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-conservation-of-energy",
+      "name": "Conservation of energy",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/04-lesson-04-conservation-of-energy.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-energy-transformations",
+      "name": "Energy transformations",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/04-lesson-05-energy-transformations.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-06-renewable-and-non-renewable-energy",
+      "name": "Renewable and non-renewable energy",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/04-lesson-06-renewable-and-non-renewable-energy.json",
+      "status": "ready"
+    }
+  ]
+}

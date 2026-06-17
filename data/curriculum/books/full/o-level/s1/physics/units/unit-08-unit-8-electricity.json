@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 8: Electricity.",
+    "lesson_count": 6
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-electric-charge",
+      "name": "Electric charge",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/08-lesson-01-electric-charge.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-current-and-voltage",
+      "name": "Current and voltage",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/08-lesson-02-current-and-voltage.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-resistance-and-ohm-s-law",
+      "name": "Resistance and Ohm's law",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/08-lesson-03-resistance-and-ohm-s-law.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-series-and-parallel-circuits",
+      "name": "Series and parallel circuits",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/08-lesson-04-series-and-parallel-circuits.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-electrical-power-and-energy",
+      "name": "Electrical power and energy",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/08-lesson-05-electrical-power-and-energy.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-06-circuit-measurements",
+      "name": "Circuit measurements",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/08-lesson-06-circuit-measurements.json",
+      "status": "ready"
+    }
+  ]
+}

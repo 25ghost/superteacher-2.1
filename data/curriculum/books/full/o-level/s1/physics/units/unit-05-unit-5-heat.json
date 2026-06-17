@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 5: Heat.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-temperature-and-thermometers",
+      "name": "Temperature and thermometers",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/05-lesson-01-temperature-and-thermometers.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-heat-transfer-conduction-convection-radiation",
+      "name": "Heat transfer (conduction, convection, radiation)",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/05-lesson-02-heat-transfer-conduction-convection-radiation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-specific-heat-capacity",
+      "name": "Specific heat capacity",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/05-lesson-03-specific-heat-capacity.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-latent-heat",
+      "name": "Latent heat",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/05-lesson-04-latent-heat.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-expansion-of-solids-liquids-and-gases",
+      "name": "Expansion of solids, liquids and gases",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/05-lesson-05-expansion-of-solids-liquids-and-gases.json",
+      "status": "ready"
+    }
+  ]
+}

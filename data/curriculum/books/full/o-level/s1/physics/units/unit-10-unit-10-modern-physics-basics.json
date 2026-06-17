@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 10: Modern Physics Basics.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-atomic-structure",
+      "name": "Atomic structure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/10-lesson-01-atomic-structure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-radioactivity",
+      "name": "Radioactivity",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/10-lesson-02-radioactivity.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-nuclear-reactions",
+      "name": "Nuclear reactions",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/10-lesson-03-nuclear-reactions.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-x-rays",
+      "name": "X-rays",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/10-lesson-04-x-rays.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-applications-of-modern-physics",
+      "name": "Applications of modern physics",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/10-lesson-05-applications-of-modern-physics.json",
+      "status": "ready"
+    }
+  ]
+}

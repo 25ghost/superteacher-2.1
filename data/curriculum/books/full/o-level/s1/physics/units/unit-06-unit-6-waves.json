@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 6: Waves.",
+    "lesson_count": 6
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-types-of-waves-transverse-and-longitudinal",
+      "name": "Types of waves (transverse and longitudinal)",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/06-lesson-01-types-of-waves-transverse-and-longitudinal.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-wave-properties-frequency-wavelength-speed",
+      "name": "Wave properties (frequency, wavelength, speed)",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/06-lesson-02-wave-properties-frequency-wavelength-speed.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-sound-waves",
+      "name": "Sound waves",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/06-lesson-03-sound-waves.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-light-waves",
+      "name": "Light waves",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/06-lesson-04-light-waves.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-reflection-and-refraction",
+      "name": "Reflection and refraction",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/06-lesson-05-reflection-and-refraction.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-06-diffraction-and-interference",
+      "name": "Diffraction and interference",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/06-lesson-06-diffraction-and-interference.json",
+      "status": "ready"
+    }
+  ]
+}

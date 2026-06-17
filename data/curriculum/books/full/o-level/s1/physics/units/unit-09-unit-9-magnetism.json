@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 9: Magnetism.",
+    "lesson_count": 6
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-properties-of-magnets",
+      "name": "Properties of magnets",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/09-lesson-01-properties-of-magnets.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-magnetic-fields",
+      "name": "Magnetic fields",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/09-lesson-02-magnetic-fields.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-electromagnetism",
+      "name": "Electromagnetism",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/09-lesson-03-electromagnetism.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-electromagnetic-induction",
+      "name": "Electromagnetic induction",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/09-lesson-04-electromagnetic-induction.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-electric-motors-and-generators",
+      "name": "Electric motors and generators",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/09-lesson-05-electric-motors-and-generators.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-06-transformers",
+      "name": "Transformers",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/09-lesson-06-transformers.json",
+      "status": "ready"
+    }
+  ]
+}

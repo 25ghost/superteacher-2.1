@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 7: Light.",
+    "lesson_count": 6
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-reflection-in-plane-mirrors",
+      "name": "Reflection in plane mirrors",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/07-lesson-01-reflection-in-plane-mirrors.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-refraction-through-lenses",
+      "name": "Refraction through lenses",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/07-lesson-02-refraction-through-lenses.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-lenses-and-image-formation",
+      "name": "Lenses and image formation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/07-lesson-03-lenses-and-image-formation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-dispersion-of-light",
+      "name": "Dispersion of light",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/07-lesson-04-dispersion-of-light.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-optical-instruments",
+      "name": "Optical instruments",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/07-lesson-05-optical-instruments.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-06-the-eye-and-vision",
+      "name": "The eye and vision",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/07-lesson-06-the-eye-and-vision.json",
+      "status": "ready"
+    }
+  ]
+}

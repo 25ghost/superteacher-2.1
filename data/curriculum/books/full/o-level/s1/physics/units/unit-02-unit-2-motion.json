@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 2: Motion.",
+    "lesson_count": 6
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-distance-and-displacement",
+      "name": "Distance and displacement",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/02-lesson-01-distance-and-displacement.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-speed-and-velocity",
+      "name": "Speed and velocity",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/02-lesson-02-speed-and-velocity.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-acceleration",
+      "name": "Acceleration",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/02-lesson-03-acceleration.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-equations-of-motion",
+      "name": "Equations of motion",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/02-lesson-04-equations-of-motion.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-graphs-of-motion-distance-time-velocity-time",
+      "name": "Graphs of motion (distance-time, velocity-time)",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/02-lesson-05-graphs-of-motion-distance-time-velocity-time.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-06-free-fall-and-projectiles",
+      "name": "Free fall and projectiles",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/02-lesson-06-free-fall-and-projectiles.json",
+      "status": "ready"
+    }
+  ]
+}

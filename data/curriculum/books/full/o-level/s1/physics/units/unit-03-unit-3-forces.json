@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 3: Forces.",
+    "lesson_count": 6
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-types-of-forces",
+      "name": "Types of forces",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/03-lesson-01-types-of-forces.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-newton-s-laws-of-motion",
+      "name": "Newton's laws of motion",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/03-lesson-02-newton-s-laws-of-motion.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-friction",
+      "name": "Friction",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/03-lesson-03-friction.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-elasticity-and-hooke-s-law",
+      "name": "Elasticity and Hooke's law",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/03-lesson-04-elasticity-and-hooke-s-law.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-pressure-in-solids",
+      "name": "Pressure in solids",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/03-lesson-05-pressure-in-solids.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-06-pressure-in-liquids-and-gases",
+      "name": "Pressure in liquids and gases",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/03-lesson-06-pressure-in-liquids-and-gases.json",
+      "status": "ready"
+    }
+  ]
+}

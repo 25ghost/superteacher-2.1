@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 1: Measurement.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-physical-quantities-and-si-units",
+      "name": "Physical quantities and SI units",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/01-lesson-01-physical-quantities-and-si-units.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-measuring-length-mass-and-time",
+      "name": "Measuring length, mass and time",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/01-lesson-02-measuring-length-mass-and-time.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-accuracy-and-precision",
+      "name": "Accuracy and precision",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/01-lesson-03-accuracy-and-precision.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-significant-figures",
+      "name": "Significant figures",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/01-lesson-04-significant-figures.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-density-and-relative-density",
+      "name": "Density and relative density",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s1/physics/lessons/01-lesson-05-density-and-relative-density.json",
+      "status": "ready"
+    }
+  ]
+}
