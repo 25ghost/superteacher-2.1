@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Inheritance and change.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-genes-and-chromosomes",
+      "name": "Genes and chromosomes",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/biology/lessons/04-lesson-01-genes-and-chromosomes.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-variation",
+      "name": "Variation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/biology/lessons/04-lesson-02-variation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-natural-selection",
+      "name": "Natural selection",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/biology/lessons/04-lesson-03-natural-selection.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-biotechnology",
+      "name": "Biotechnology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/biology/lessons/04-lesson-04-biotechnology.json",
+      "status": "ready"
+    }
+  ]
+}

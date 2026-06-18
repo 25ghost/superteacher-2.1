@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Bonding and reactions.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-ionic-and-covalent-bonding",
+      "name": "Ionic and covalent bonding",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/chemistry/lessons/03-lesson-01-ionic-and-covalent-bonding.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-writing-formulae",
+      "name": "Writing formulae",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/chemistry/lessons/03-lesson-02-writing-formulae.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-chemical-equations",
+      "name": "Chemical equations",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/chemistry/lessons/03-lesson-03-chemical-equations.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-energy-changes",
+      "name": "Energy changes",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/chemistry/lessons/03-lesson-04-energy-changes.json",
+      "status": "ready"
+    }
+  ]
+}

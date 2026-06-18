@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "Chemistry",
+    "level": "S2",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-working-scientifically",
+      "name": "Working scientifically",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s2/chemistry/units/unit-01-working-scientifically.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-matter-and-particles",
+      "name": "Matter and particles",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s2/chemistry/units/unit-02-matter-and-particles.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-bonding-and-reactions",
+      "name": "Bonding and reactions",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s2/chemistry/units/unit-03-bonding-and-reactions.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-acids-and-materials",
+      "name": "Acids and materials",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s2/chemistry/units/unit-04-acids-and-materials.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-carbon-and-environment",
+      "name": "Carbon and environment",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s2/chemistry/units/unit-05-carbon-and-environment.json",
+      "status": "ready"
+    }
+  ]
+}

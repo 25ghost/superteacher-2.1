@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Working scientifically.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-laboratory-safety",
+      "name": "Laboratory safety",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/chemistry/lessons/01-lesson-01-laboratory-safety.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-measurement-and-observation",
+      "name": "Measurement and observation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/chemistry/lessons/01-lesson-02-measurement-and-observation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-separation-techniques",
+      "name": "Separation techniques",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/chemistry/lessons/01-lesson-03-separation-techniques.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-reporting-an-investigation",
+      "name": "Reporting an investigation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/chemistry/lessons/01-lesson-04-reporting-an-investigation.json",
+      "status": "ready"
+    }
+  ]
+}

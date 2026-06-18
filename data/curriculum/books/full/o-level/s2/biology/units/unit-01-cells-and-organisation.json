@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Cells and organisation.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-cell-structure",
+      "name": "Cell structure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/biology/lessons/01-lesson-01-cell-structure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-microscopy",
+      "name": "Microscopy",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/biology/lessons/01-lesson-02-microscopy.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-specialised-cells",
+      "name": "Specialised cells",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/biology/lessons/01-lesson-03-specialised-cells.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-levels-of-organisation",
+      "name": "Levels of organisation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/biology/lessons/01-lesson-04-levels-of-organisation.json",
+      "status": "ready"
+    }
+  ]
+}
