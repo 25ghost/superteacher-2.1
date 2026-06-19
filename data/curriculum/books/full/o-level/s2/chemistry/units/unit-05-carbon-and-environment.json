@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Carbon and environment.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-carbon-compounds",
+      "name": "Carbon compounds",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/chemistry/lessons/05-lesson-01-carbon-compounds.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-fuels",
+      "name": "Fuels",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/chemistry/lessons/05-lesson-02-fuels.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-water-and-air-chemistry",
+      "name": "Water and air chemistry",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/chemistry/lessons/05-lesson-03-water-and-air-chemistry.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-green-chemistry",
+      "name": "Green chemistry",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/chemistry/lessons/05-lesson-04-green-chemistry.json",
+      "status": "ready"
+    }
+  ]
+}

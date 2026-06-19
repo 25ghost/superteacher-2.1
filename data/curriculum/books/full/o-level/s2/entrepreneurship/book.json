@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "Entrepreneurship",
+    "level": "S2",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-entrepreneurial-mindset",
+      "name": "Entrepreneurial mindset",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s2/entrepreneurship/units/unit-01-entrepreneurial-mindset.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-from-idea-to-market",
+      "name": "From idea to market",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s2/entrepreneurship/units/unit-02-from-idea-to-market.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-business-planning",
+      "name": "Business planning",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s2/entrepreneurship/units/unit-03-business-planning.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-money-and-records",
+      "name": "Money and records",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s2/entrepreneurship/units/unit-04-money-and-records.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-growth-and-impact",
+      "name": "Growth and impact",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s2/entrepreneurship/units/unit-05-growth-and-impact.json",
+      "status": "ready"
+    }
+  ]
+}

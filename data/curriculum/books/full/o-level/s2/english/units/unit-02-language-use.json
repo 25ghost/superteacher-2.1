@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Language use.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-sentence-structure",
+      "name": "Sentence structure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/english/lessons/02-lesson-01-sentence-structure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-verb-forms-and-agreement",
+      "name": "Verb forms and agreement",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/english/lessons/02-lesson-02-verb-forms-and-agreement.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-vocabulary-in-context",
+      "name": "Vocabulary in context",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/english/lessons/02-lesson-03-vocabulary-in-context.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-editing-and-punctuation",
+      "name": "Editing and punctuation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/english/lessons/02-lesson-04-editing-and-punctuation.json",
+      "status": "ready"
+    }
+  ]
+}
