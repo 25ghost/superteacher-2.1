@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Business planning.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-business-models",
+      "name": "Business models",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/entrepreneurship/lessons/03-lesson-01-business-models.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-operations",
+      "name": "Operations",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/entrepreneurship/lessons/03-lesson-02-operations.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-people-and-teamwork",
+      "name": "People and teamwork",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/entrepreneurship/lessons/03-lesson-03-people-and-teamwork.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-business-plans",
+      "name": "Business plans",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/entrepreneurship/lessons/03-lesson-04-business-plans.json",
+      "status": "ready"
+    }
+  ]
+}

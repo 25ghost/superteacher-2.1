@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Money and records.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-costs-and-pricing",
+      "name": "Costs and pricing",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/entrepreneurship/lessons/04-lesson-01-costs-and-pricing.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-cash-flow",
+      "name": "Cash flow",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/entrepreneurship/lessons/04-lesson-02-cash-flow.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-profit-and-loss",
+      "name": "Profit and loss",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/entrepreneurship/lessons/04-lesson-03-profit-and-loss.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-record-keeping",
+      "name": "Record keeping",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/entrepreneurship/lessons/04-lesson-04-record-keeping.json",
+      "status": "ready"
+    }
+  ]
+}

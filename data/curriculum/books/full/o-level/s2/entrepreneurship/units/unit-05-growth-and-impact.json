@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Growth and impact.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-quality-and-customer-care",
+      "name": "Quality and customer care",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/entrepreneurship/lessons/05-lesson-01-quality-and-customer-care.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-risk-management",
+      "name": "Risk management",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/entrepreneurship/lessons/05-lesson-02-risk-management.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-sustainable-enterprise",
+      "name": "Sustainable enterprise",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/entrepreneurship/lessons/05-lesson-03-sustainable-enterprise.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-pitching-a-venture",
+      "name": "Pitching a venture",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/entrepreneurship/lessons/05-lesson-04-pitching-a-venture.json",
+      "status": "ready"
+    }
+  ]
+}
