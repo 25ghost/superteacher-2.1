@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Governance and society.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-public-institutions",
+      "name": "Public institutions",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/history-citizenship/lessons/05-lesson-01-public-institutions.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-rule-of-law",
+      "name": "Rule of law",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/history-citizenship/lessons/05-lesson-02-rule-of-law.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-gender-equality",
+      "name": "Gender equality",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/history-citizenship/lessons/05-lesson-03-gender-equality.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-community-service",
+      "name": "Community service",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/history-citizenship/lessons/05-lesson-04-community-service.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Geographical skills.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-map-symbols-and-scale",
+      "name": "Map symbols and scale",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/geography/lessons/01-lesson-01-map-symbols-and-scale.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-direction-and-coordinates",
+      "name": "Direction and coordinates",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/geography/lessons/01-lesson-02-direction-and-coordinates.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-contours-and-relief",
+      "name": "Contours and relief",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/geography/lessons/01-lesson-03-contours-and-relief.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-fieldwork-methods",
+      "name": "Fieldwork methods",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/geography/lessons/01-lesson-04-fieldwork-methods.json",
+      "status": "ready"
+    }
+  ]
+}

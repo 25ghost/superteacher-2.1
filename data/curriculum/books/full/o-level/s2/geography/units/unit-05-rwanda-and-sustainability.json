@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Rwanda and sustainability.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-regions-of-rwanda",
+      "name": "Regions of Rwanda",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/geography/lessons/05-lesson-01-regions-of-rwanda.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-natural-resources",
+      "name": "Natural resources",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/geography/lessons/05-lesson-02-natural-resources.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-environmental-hazards",
+      "name": "Environmental hazards",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/geography/lessons/05-lesson-03-environmental-hazards.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-sustainable-development",
+      "name": "Sustainable development",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/geography/lessons/05-lesson-04-sustainable-development.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Rwanda through time.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-pre-colonial-rwanda",
+      "name": "Pre-colonial Rwanda",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/history-citizenship/lessons/02-lesson-01-pre-colonial-rwanda.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-colonial-rule",
+      "name": "Colonial rule",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/history-citizenship/lessons/02-lesson-02-colonial-rule.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-independence",
+      "name": "Independence",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/history-citizenship/lessons/02-lesson-03-independence.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-reconstruction-and-development",
+      "name": "Reconstruction and development",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/history-citizenship/lessons/02-lesson-04-reconstruction-and-development.json",
+      "status": "ready"
+    }
+  ]
+}

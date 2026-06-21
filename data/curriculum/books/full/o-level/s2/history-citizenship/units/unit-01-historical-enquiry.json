@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Historical enquiry.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-sources-and-evidence",
+      "name": "Sources and evidence",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/history-citizenship/lessons/01-lesson-01-sources-and-evidence.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-chronology",
+      "name": "Chronology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/history-citizenship/lessons/01-lesson-02-chronology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-cause-and-consequence",
+      "name": "Cause and consequence",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/history-citizenship/lessons/01-lesson-03-cause-and-consequence.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-interpreting-the-past",
+      "name": "Interpreting the past",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/history-citizenship/lessons/01-lesson-04-interpreting-the-past.json",
+      "status": "ready"
+    }
+  ]
+}

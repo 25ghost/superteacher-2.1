@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "History and Citizenship",
+    "level": "S2",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-historical-enquiry",
+      "name": "Historical enquiry",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s2/history-citizenship/units/unit-01-historical-enquiry.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-rwanda-through-time",
+      "name": "Rwanda through time",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s2/history-citizenship/units/unit-02-rwanda-through-time.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-regional-and-world-history",
+      "name": "Regional and world history",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s2/history-citizenship/units/unit-03-regional-and-world-history.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-citizenship",
+      "name": "Citizenship",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s2/history-citizenship/units/unit-04-citizenship.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-governance-and-society",
+      "name": "Governance and society",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s2/history-citizenship/units/unit-05-governance-and-society.json",
+      "status": "ready"
+    }
+  ]
+}
