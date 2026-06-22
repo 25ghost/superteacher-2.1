@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Digital responsibility.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-cybersecurity",
+      "name": "Cybersecurity",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/ict/lessons/05-lesson-01-cybersecurity.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-privacy",
+      "name": "Privacy",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/ict/lessons/05-lesson-02-privacy.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-digital-citizenship",
+      "name": "Digital citizenship",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/ict/lessons/05-lesson-03-digital-citizenship.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-technology-projects",
+      "name": "Technology projects",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/ict/lessons/05-lesson-04-technology-projects.json",
+      "status": "ready"
+    }
+  ]
+}
