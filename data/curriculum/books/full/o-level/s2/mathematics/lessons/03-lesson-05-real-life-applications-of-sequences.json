@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Apply sequences to real problems\n- Identify patterns in daily life\n- Use sequences for planning and prediction",
+    "reading": "Sequences around us in Rwanda:\n- Saving money: arithmetic deposits\n- Population growth: geometric patterns\n- Crop yields increasing by fixed amounts\n- Business profits growing by percentages\n\nKey: Is change by addition (arithmetic) or multiplication (geometric)?",
+    "examples": "Example 1: Farmer has 5 cows, buys 3/year. After 8 years?\na_9 = 5 + 8(3) = 29 cows. Total cost: 24 × 400,000 = 9,600,000 RWF\n\nExample 2: Phone 150,000 RWF loses 10%/year. Value after 3 years?\na_4 = 150,000(0.9)³ = 109,350 RWF\n\nExample 3: School 200 students, +25/year. When reach 350?\n200 + (n-1)25 = 350, n = 7 (6 years from now)",
+    "practice": "1. (Easy) Shop sells 20, 25, 30 items/day. Day 10?\n2. (Easy) Bacteria 100, doubles/hour. After 5 hours?\n3. (Medium) Trees: 50, 65, 80... Total in 10 years?\n4. (Medium) Salary 200,000 RWF + 5%/year. Year 4?\n5. (Hard) Save 5,000 RWF month 1, +500/month. Months to reach 150,000 RWF?",
+    "practice_answers": "1. 65 items\n2. 3,200\n3. 1,175 trees\n4. ~231,525 RWF\n5. S_n = n/2(2(5000)+(n-1)500) = 150,000; n ≈ 17 months",
+    "summary": "* Identify if pattern is arithmetic or geometric\n* Arithmetic: constant difference\n* Geometric: constant ratio\n* Use formulas to predict and plan",
+    "quiz": {
+      "question": "Population 500 grows by 20/year. After 10 years:",
+      "options": {
+        "A": "520",
+        "B": "600",
+        "C": "700",
+        "D": "1,000"
+      },
+      "answer": "C"
+    },
+    "title": "Real-life applications of sequences",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Real-life applications of sequences. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Real-life applications of sequences into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Real-life applications of sequences. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Real-life applications of sequences: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Real-life applications of…",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Real-life applications of sequences."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

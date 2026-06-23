@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Write simple geometric proofs\n- Use congruence and similarity in reasoning\n- Justify geometric statements logically",
+    "reading": "Geometric proofs: step-by-step logical arguments with reasons.\n\nLike explaining why two triangles are identical:\n1. AB = DE (given)\n2. ∠A = ∠D (alternate angles)\n3. △ABC ≡ △DEF (ASA)\n\nAlways state: what you know AND why you know it!",
+    "examples": "Example 1: AB=DE, BC=EF, ∠B=∠E. Prove congruence.\n1. AB=DE (given)\n2. BC=EF (given)\n3. ∠B=∠E (given)\n4. △ABC≡△DEF (SAS)\n\nExample 2: Angles 60° and 80°. Prove third = 40°.\nTriangle sum = 180°, so 60+80+x=180, x=40°\n\nExample 3: AB=AC in triangle. Prove ∠B=∠C.\nIsosceles triangle theorem: base angles equal.",
+    "practice": "1. (Easy) PQ=RS, QR=SP. Prove △PQR≡△RSP. Which test?\n2. (Easy) Sum of angles in a triangle?\n3. (Medium) Angles 45° and 90°. Prove third = 45°.\n4. (Medium) AB=5, BC=7, ∠B=50°. DE=5, EF=7, ∠E=50°. Prove congruent.\n5. (Hard) AD⊥BC, BD=DC. Prove AB=AC.",
+    "practice_answers": "1. SSS\n2. 180°\n3. 180-(45+90) = 45°\n4. SAS\n5. △ABD≡△ACD (SAS), so AB=AC",
+    "summary": "* Proofs use logical steps with reasons\n* Start with given information\n* Use known theorems and congruence tests\n* Each step must be justified",
+    "quiz": {
+      "question": "Two sides and included angle equal: use test:",
+      "options": {
+        "A": "SSS",
+        "B": "SAS",
+        "C": "ASA",
+        "D": "RHS"
+      },
+      "answer": "B"
+    },
+    "title": "Geometric proofs",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Geometric proofs. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Geometric proofs into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Geometric proofs. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Geometric proofs: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Geometric proofs",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Geometric proofs."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

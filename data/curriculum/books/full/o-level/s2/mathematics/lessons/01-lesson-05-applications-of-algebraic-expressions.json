@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Use algebraic expressions in real problems\n- Apply expansion and factorization in context\n- Model daily situations with algebra",
+    "reading": "Algebra solves real problems!\n\nIn Rwanda: a farmer calculates fertilizer needs, a business figures profit, a family plans a budget.\n\nTranslate words into algebra:\n\"A cow costs 500,000 RWF. A goat costs 80,000 RWF. x cows and y goats: cost = 500,000x + 80,000y RWF\"\n\nAlways define variables first!",
+    "examples": "Example 1: A school buys x desks at 25,000 RWF each and y chairs at 12,000 RWF each. Total cost?\nCost = 25,000x + 12,000y RWF\nFor 20 desks, 40 chairs: 25,000(20) + 12,000(40) = 980,000 RWF\n\nExample 2: Field length = (x + 5) m, width = (x - 2) m. Area?\n(x+5)(x-2) = x² + 3x - 10 m²\nIf x = 10: Area = 120 m²",
+    "practice": "1. (Easy) A pen costs 500 RWF and a book 2,000 RWF. Cost of p pens and b books?\n2. (Easy) A farmer has x cows, sells 5. How many left?\n3. (Medium) Taxi: 1,000 RWF base + 500 RWF per km. Cost for d km? For 8 km?\n4. (Medium) Garden length = (2x + 3) m, width = (x + 1) m. Find area (expanded).\n5. (Hard) A trader buys 100 kg rice at x RWF/kg and 50 kg beans at y RWF/kg. Total cost? If x = 800, y = 1,200, find total.",
+    "practice_answers": "1. 500p + 2,000b RWF\n2. x - 5\n3. 1,000 + 500d RWF; 5,000 RWF\n4. 2x² + 5x + 3 m²\n5. 100x + 50y RWF; 140,000 RWF",
+    "summary": "* Translate word problems into algebraic expressions\n* Define variables clearly\n* Use expansion and factorization to simplify\n* Substitute values to find numerical answers",
+    "quiz": {
+      "question": "A worker earns 3,000 RWF per hour. Expression for h hours:",
+      "options": {
+        "A": "3,000 + h",
+        "B": "3,000/h",
+        "C": "3,000h",
+        "D": "h - 3,000"
+      },
+      "answer": "C"
+    },
+    "title": "Applications of algebraic expressions",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Applications of algebraic expressions. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Applications of algebraic expressions into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Applications of algebraic expressions. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Applications of algebraic expressions: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Applications of algebraic…",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Applications of algebraic expressions."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

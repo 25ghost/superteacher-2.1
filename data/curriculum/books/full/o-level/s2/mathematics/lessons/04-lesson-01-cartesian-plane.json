@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Locate points on the Cartesian plane\n- Identify x and y coordinates\n- Plot points from ordered pairs",
+    "reading": "Cartesian plane: x-axis (horizontal), y-axis (vertical). Meet at origin (0,0).\n\nEach point is (x, y): x = horizontal, y = vertical.\n\nIn Rwanda, like a map of Kigali with grid references.\n\n4 quadrants:\nI: (+,+), II: (-,+), III: (-,-), IV: (+,-)",
+    "examples": "Example 1: Plot A(2,3): 2 right, 3 up. B(-1,4): 1 left, 4 up.\n\nExample 2: Origin = (0,0)\n\nExample 3: (-3,-5) is Quadrant III (both negative)",
+    "practice": "1. (Easy) Coordinates of point 3 right, 2 up?\n2. (Easy) Quadrant of (4, -2)?\n3. (Medium) Plot A(1,2), B(-2,3), C(-1,-1), D(2,-3)\n4. (Medium) Coordinates of point 5 left, 0 up/down?\n5. (Hard) Square at (1,1), (4,1), (1,4), (4,4). Side length?",
+    "practice_answers": "1. (3, 2)\n2. Quadrant IV\n3. (Plot)\n4. (-5, 0)\n5. Side = 3 units",
+    "summary": "* Cartesian plane: x-axis (horizontal), y-axis (vertical)\n* Ordered pair (x, y): x first, then y\n* Origin = (0, 0)\n* 4 quadrants by signs of x and y",
+    "quiz": {
+      "question": "Point (-2, 5) is in quadrant:",
+      "options": {
+        "A": "I",
+        "B": "II",
+        "C": "III",
+        "D": "IV"
+      },
+      "answer": "B"
+    },
+    "title": "Cartesian plane",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Cartesian plane. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Cartesian plane into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Cartesian plane. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Cartesian plane: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Cartesian plane",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Cartesian plane."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

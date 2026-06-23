@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Find gradient of a line\n- Understand positive, negative, zero gradients\n- Calculate gradient from two points",
+    "reading": "Gradient (slope) = rise/run = (y₂ - y₁)/(x₂ - x₁)\n\nClimbing a hill in Rwanda:\n- Steep hill = large gradient\n- Flat ground = zero gradient\n- Downhill = negative gradient\n\nPositive: line goes up. Negative: line goes down.\nZero: horizontal. Undefined: vertical (divide by zero).",
+    "examples": "Example 1: (1,2) to (4,8): rise=6, run=3, m=2\n\nExample 2: (3,7) to (5,3): rise=-4, run=2, m=-2\n\nExample 3: Road rises 20 m over 100 m: m=20/100=0.2",
+    "practice": "1. (Easy) Gradient between (0,0) and (2,6)\n2. (Easy) Gradient between (1,5) and (4,5)\n3. (Medium) Gradient between (-2,4) and (3,-1)\n4. (Medium) Hill rises 50 m over 200 m. Gradient?\n5. (Hard) Gradient between (2,3) and (5,y) is 4. Find y.",
+    "practice_answers": "1. 3\n2. 0 (horizontal)\n3. -1\n4. 0.25 or 1/4\n5. y = 15",
+    "summary": "* Gradient = rise/run = change y / change x\n* m = (y₂ - y₁)/(x₂ - x₁)\n* Positive: up, Negative: down, Zero: horizontal",
+    "quiz": {
+      "question": "Gradient between (0,0) and (4,12) is:",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "6"
+      },
+      "answer": "B"
+    },
+    "title": "Gradient of a line",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Gradient of a line. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Gradient of a line into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Gradient of a line. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Gradient of a line: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Gradient of a line",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Gradient of a line."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

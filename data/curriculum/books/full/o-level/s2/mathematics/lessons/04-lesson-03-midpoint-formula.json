@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Find midpoint of a line segment\n- Use the midpoint formula\n- Apply midpoint to real problems",
+    "reading": "Midpoint = ((x₁ + x₂)/2, (y₁ + y₂)/2)\n\nThe point exactly halfway between two points.\n\nIn Rwanda: field corner (0,0) to corner (100,60), center = (50,30).\n\nWe can also find one endpoint given midpoint and the other endpoint.",
+    "examples": "Example 1: Midpoint of (2,4) and (6,8)\nx: (2+6)/2 = 4, y: (4+8)/2 = 6\nMidpoint = (4,6)\n\nExample 2: (-3,5) and (7,-1)\nx: (-3+7)/2 = 2, y: (5-1)/2 = 2\nMidpoint = (2,2)\n\nExample 3: Road (10,20) to (50,40). Halfway?\n((10+50)/2, (20+40)/2) = (30,30)",
+    "practice": "1. (Easy) Midpoint of (0,0) and (4,6)\n2. (Easy) Midpoint of (3,7) and (9,1)\n3. (Medium) Midpoint of (-4,2) and (6,-8)\n4. (Medium) Tap at (5,2), field at (13,10). New tap halfway?\n5. (Hard) Endpoint (2,3), midpoint (5,8). Other endpoint?",
+    "practice_answers": "1. (2, 3)\n2. (6, 4)\n3. (1, -3)\n4. (9, 6)\n5. (8, 13)",
+    "summary": "* Midpoint = average of coordinates\n* ((x₁+x₂)/2, (y₁+y₂)/2)\n* Useful for centers and halfway points",
+    "quiz": {
+      "question": "Midpoint of (1,3) and (7,5) is:",
+      "options": {
+        "A": "(3,4)",
+        "B": "(4,4)",
+        "C": "(4,5)",
+        "D": "(5,4)"
+      },
+      "answer": "B"
+    },
+    "title": "Midpoint formula",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Midpoint formula. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Midpoint formula into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Midpoint formula. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Midpoint formula: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Midpoint formula",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Midpoint formula."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

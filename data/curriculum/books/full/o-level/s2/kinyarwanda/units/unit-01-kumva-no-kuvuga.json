@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Kumva no kuvuga.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-gutega-amatwi",
+      "name": "Gutega amatwi",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/kinyarwanda/lessons/01-lesson-01-gutega-amatwi.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-kuganira-neza",
+      "name": "Kuganira neza",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/kinyarwanda/lessons/01-lesson-02-kuganira-neza.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-kuvugira-mu-ruhame",
+      "name": "Kuvugira mu ruhame",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/kinyarwanda/lessons/01-lesson-03-kuvugira-mu-ruhame.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-kungurana-ibitekerezo",
+      "name": "Kungurana ibitekerezo",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/kinyarwanda/lessons/01-lesson-04-kungurana-ibitekerezo.json",
+      "status": "ready"
+    }
+  ]
+}

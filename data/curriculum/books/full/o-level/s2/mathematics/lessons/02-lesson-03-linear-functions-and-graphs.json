@@ -1,0 +1,37 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Identify linear functions\n- Graph linear functions\n- Find gradient and y-intercept",
+    "reading": "Linear functions: f(x) = mx + c (or y = mx + c)\nm = gradient (steepness), c = y-intercept (crosses y-axis)\n\nGraph is a straight line.\n\nIn Rwanda, a farmer plants 100 trees + 50 trees/day:\nf(d) = 50d + 100. m = 50, c = 100.\n\nPositive m: line goes up. Negative m: line goes down.\n\nTo graph: make a table, plot points, draw line.",
+    "examples": "Example 1: y = 2x + 1. Gradient m = 2, intercept c = 1\n\nExample 2: Table for y = 2x + 1, x = 0 to 3\nx: 0,1,2,3\ny: 1,3,5,7\n\nExample 3: Taxi charges 1,000 RWF + 500/km. Function?\nf(d) = 500d + 1,000",
+    "practice": "1. (Easy) Find m and c of y = 3x + 4\n2. (Easy) Find m and c of y = -2x + 7\n3. (Medium) Table for y = 3x - 1, x = 0 to 3\n4. (Medium) Bucket starts with 5 L, fills at 2 L/min. Write the function.\n5. (Hard) f(x) = -x + 3. Table for x = -2 to 2. Describe gradient.",
+    "practice_answers": "1. m = 3, c = 4\n2. m = -2, c = 7\n3. x:0,1,2,3 | y:-1,2,5,8\n4. f(t) = 2t + 5\n5. x:-2,-1,0,1,2 | y:5,4,3,2,1; negative gradient",
+    "summary": "* Linear functions: y = mx + c\n* m = gradient (steepness)\n* c = y-intercept\n* Positive m: line goes up, Negative m: goes down",
+    "quiz": {
+      "question": "The gradient of y = 4x - 3 is:",
+      "options": {
+        "A": "4",
+        "B": "-3",
+        "C": "3",
+        "D": "-4"
+      },
+      "answer": "A"
+    },
+    "title": "Linear functions and graphs",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Linear functions and graphs. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Linear functions and graphs into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Linear functions and graphs. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Linear functions and graphs: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "cartesian",
+        "params": {
+          "function": "linear",
+          "m": 2,
+          "c": -1
+        },
+        "caption": "Coordinate representation linking input, output and graph."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

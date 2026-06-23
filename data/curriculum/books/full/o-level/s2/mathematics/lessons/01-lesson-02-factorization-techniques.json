@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Factor algebraic expressions by finding common factors\n- Write expressions as products of factors\n- Check factorization by expanding",
+    "reading": "Factorization is the opposite of expansion. We find a common factor that divides all terms and put it outside brackets.\n\n6x + 9 = 3(2x + 3) because 3 divides both 6x and 9.\n\nIn Rwanda, if 2 farmers each bring 5 kg of beans and 3 kg of maize, total = 2(5 + 3) = 16 kg.\n\nSteps:\n1. Find the HCF of all terms\n2. Write the HCF outside the bracket\n3. Divide each term and write inside\n4. Check by expanding!",
+    "examples": "Example 1: Factorize 8x + 12\nSolution:\nHCF of 8 and 12 is 4\n8x ÷ 4 = 2x, 12 ÷ 4 = 3\n8x + 12 = 4(2x + 3)\nCheck: 4(2x + 3) = 8x + 12 ✓\n\nExample 2: Factorize 15y - 10\nHCF = 5, so 5(3y - 2)\n\nExample 3: Factorize 6x² + 9x\nHCF = 3x, so 3x(2x + 3)",
+    "practice": "1. (Easy) Factorize: 10x + 15\n2. (Easy) Factorize: 8y - 12\n3. (Medium) Factorize: 12a + 18b\n4. (Medium) Factorize: 7x² + 14x\n5. (Hard) Factorize fully: 16x²y - 8xy²",
+    "practice_answers": "1. 5(2x + 3)\n2. 4(2y - 3)\n3. 6(2a + 3b)\n4. 7x(x + 2)\n5. 8xy(2x - y)",
+    "summary": "* Factorization is the reverse of expansion\n* Find the HCF of all terms\n* Put the HCF outside brackets and divide each term\n* Always check by expanding",
+    "quiz": {
+      "question": "Factorize: 12x + 18",
+      "options": {
+        "A": "2(6x + 9)",
+        "B": "3(4x + 6)",
+        "C": "6(2x + 3)",
+        "D": "12(x + 1)"
+      },
+      "answer": "C"
+    },
+    "title": "Factorization techniques",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Factorization techniques. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Factorization techniques into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Factorization techniques. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Factorization techniques: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Factorization techniques",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Factorization techniques."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

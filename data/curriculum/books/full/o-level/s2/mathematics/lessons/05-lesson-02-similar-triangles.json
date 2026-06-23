@@ -1,0 +1,37 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Understand similar triangles\n- Use similarity to find unknown lengths\n- Understand scale factors",
+    "reading": "Similar triangles: same shape, different size.\n- Corresponding angles equal\n- Sides proportional (same scale factor)\n\n△ABC ~ △DEF means similar.\n\nPhoto vs life-size: same shape, different size!\n\nScale factor = new/original.",
+    "examples": "Example 1: Sides 4,6,8 and 6,9,12. Scale factor = 6/4 = 1.5\n\nExample 2: △PQR ~ △STU, PQ=5, ST=15. Scale = 3.\n\nExample 3: 2 m stick, 0.5 m shadow. Tree shadow 10 m. Height?\nflagpole/2 = 10/0.5 = 20. Height = 40 m",
+    "practice": "1. (Easy) Sides 3,4,5 and 6,8,10. Similar? Scale?\n2. (Easy) In similar triangles, what is ALWAYS equal?\n3. (Medium) △ABC ~ △DEF. AB=4, DE=10. BC=6. Find EF.\n4. (Medium) 1.5 m person, 2 m shadow. Tree shadow 12 m. Tree height?\n5. (Hard) Areas 25 cm² and 100 cm². Scale factor? (Area scale = length²)",
+    "practice_answers": "1. Yes, scale = 2\n2. Corresponding angles\n3. EF = 15\n4. 9 m\n5. Scale factor = 2",
+    "summary": "* Similar: same shape, proportional sides\n* Scale factor = new/original\n* Corresponding angles equal\n* Use ratios to find unknowns",
+    "quiz": {
+      "question": "Scale factor from 3 to 9 is:",
+      "options": {
+        "A": "1/3",
+        "B": "3",
+        "C": "6",
+        "D": "9"
+      },
+      "answer": "B"
+    },
+    "title": "Similar triangles",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Similar triangles. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Similar triangles into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Similar triangles. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Similar triangles: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "triangle",
+        "params": {
+          "a": 3,
+          "b": 4,
+          "c": 5
+        },
+        "caption": "A labelled right triangle for side and angle reasoning."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

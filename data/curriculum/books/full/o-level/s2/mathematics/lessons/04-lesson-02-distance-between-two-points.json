@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Calculate distance between two points\n- Use the distance formula\n- Apply distance to real problems",
+    "reading": "Distance = √[(x₂ - x₁)² + (y₂ - y₁)²]\n\nBased on Pythagoras' theorem.\n\nFrom (1,2) to (4,6):\nHorizontal: 3, Vertical: 4\nDistance: √(9+16) = √25 = 5\n\nIf same x: just y difference. If same y: just x difference.",
+    "examples": "Example 1: (1,2) to (4,6): d = √[(4-1)²+(6-2)²] = 5\n\nExample 2: (-2,3) to (3,-1): d = √[25+16] = √41 ≈ 6.4\n\nExample 3: Schools at (0,0) and (3,4): d = √(9+16) = 5 km",
+    "practice": "1. (Easy) Distance between (0,0) and (3,4)\n2. (Easy) Distance between (1,2) and (1,7)\n3. (Medium) Distance between (-3,2) and (2,-2)\n4. (Medium) Market at (2,1), school at (5,5). Distance?\n5. (Hard) Show A(0,0), B(3,0), C(0,4) form a right triangle using distance formula.",
+    "practice_answers": "1. 5\n2. 5\n3. √41 ≈ 6.4\n4. 5 units\n5. AB=3, AC=4, BC=5; 3²+4²=5²",
+    "summary": "* Distance: d = √[(x₂-x₁)²+(y₂-y₁)²]\n* Based on Pythagoras\n* Same x: just y diff. Same y: just x diff.",
+    "quiz": {
+      "question": "Distance between (0,0) and (6,8) is:",
+      "options": {
+        "A": "7",
+        "B": "9",
+        "C": "10",
+        "D": "12"
+      },
+      "answer": "C"
+    },
+    "title": "Distance between two points",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Distance between two points. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Distance between two points into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Distance between two points. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Distance between two points: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Distance between two points",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Distance between two points."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

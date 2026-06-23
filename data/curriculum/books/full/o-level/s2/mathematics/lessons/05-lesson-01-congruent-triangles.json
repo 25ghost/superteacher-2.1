@@ -1,0 +1,37 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Understand congruent triangles\n- Identify congruence using SSS, SAS, ASA, RHS\n- Write congruence statements",
+    "reading": "Congruent triangles: exactly same size and shape.\nTests:\n- SSS: all 3 sides equal\n- SAS: 2 sides + included angle equal\n- ASA: 2 angles + included side equal\n- RHS: right angle + hypotenuse + one side\n\n△ABC ≡ △DEF means they are congruent.",
+    "examples": "Example 1: Both triangles have sides 5, 6, 7. Congruent by SSS.\n\nExample 2: PQ=8, PR=6, ∠P=60° and ST=8, SU=6, ∠S=60°. Congruent by SAS.\n\nExample 3: Right triangles with sides 3, 4, 5. Congruent by RHS.",
+    "practice": "1. (Easy) Triangle A: 4,5,6. Triangle B: 6,4,5. Congruent? Why?\n2. (Easy) Which test checks all three sides?\n3. (Medium) Same three angles but different sides. Congruent?\n4. (Medium) Two right triangles: both hyp=10, one side=6. Congruent? Why?\n5. (Hard) AB=DE, BC=EF, ∠B=∠E. Prove congruent. Which test?",
+    "practice_answers": "1. Yes, SSS\n2. SSS\n3. No, similar but not congruent\n4. Yes, RHS\n5. Yes, SAS",
+    "summary": "* Congruent: same size and shape\n* Tests: SSS, SAS, ASA, RHS\n* ≡ symbol for congruence",
+    "quiz": {
+      "question": "Test that proves all three sides equal:",
+      "options": {
+        "A": "SAS",
+        "B": "ASA",
+        "C": "SSS",
+        "D": "RHS"
+      },
+      "answer": "C"
+    },
+    "title": "Congruent triangles",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Congruent triangles. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Congruent triangles into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Congruent triangles. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Congruent triangles: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "triangle",
+        "params": {
+          "a": 3,
+          "b": 4,
+          "c": 5
+        },
+        "caption": "A labelled right triangle for side and angle reasoning."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

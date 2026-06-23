@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Apply similarity to real situations\n- Solve indirect measurement problems\n- Use similar triangles for heights and distances",
+    "reading": "Practical uses in Rwanda:\n1. Shadow method: similar triangles find heights\n2. Maps: scale gives real distances\n3. Construction: scale plans become real buildings\n4. Quality control: identical = congruent products",
+    "examples": "Example 1: 2 m pole, 3 m shadow. Building 15 m shadow. Height? 15×2/3 = 10 m\n\nExample 2: Map 1 cm = 5 km. Kigali-Butare 16 cm. Real = 80 km\n\nExample 3: Frame 20×30 cm, similar frame 50 cm wide. Height? 30×2.5 = 75 cm",
+    "practice": "1. (Easy) 1 m stick, 1.5 m shadow. Tree 6 m shadow. Height?\n2. (Easy) Map 1 cm = 2 km. 9 cm apart. Real distance?\n3. (Medium) Photo 10×15 cm, enlarged to 25 cm wide. New height?\n4. (Medium) 1.8 m person, 2.4 m shadow. Flagpole 8 m shadow. Height?\n5. (Hard) Map 1:100,000, lake 4 cm². Real area in km²?",
+    "practice_answers": "1. 4 m\n2. 18 km\n3. 37.5 cm\n4. 6 m\n5. 4 km²",
+    "summary": "* Use similar triangles for indirect measurement\n* Map scales give real distances\n* Scales apply to lengths, areas, volumes",
+    "quiz": {
+      "question": "1.5 m stick, 2 m shadow. Tree 10 m shadow. Height:",
+      "options": {
+        "A": "5 m",
+        "B": "6.5 m",
+        "C": "7.5 m",
+        "D": "8 m"
+      },
+      "answer": "C"
+    },
+    "title": "Applications of similarity",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Applications of similarity. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Applications of similarity into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Applications of similarity. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Applications of similarity: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Applications of similarity",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Applications of similarity."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

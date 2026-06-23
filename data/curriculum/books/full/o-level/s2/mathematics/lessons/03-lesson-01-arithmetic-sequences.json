@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Identify arithmetic sequences\n- Find the common difference\n- Extend arithmetic sequences",
+    "reading": "Arithmetic sequence: constant difference (d) between consecutive terms.\n\nExample: 3, 7, 11, 15, 19... d = 4\n\nIn Rwanda: saving 5,000 RWF weekly: 5,000, 10,000, 15,000...\nFarmer plants 10 more trees each year: 50, 60, 70...\n\nTo find next term: add d.\nTo find d: subtract any term from the next.",
+    "examples": "Example 1: 12, 17, 22, 27... d = 5. Next: 32, 37\n\nExample 2: 20, 16, 12, 8... d = -4. Next: 4, 0\n\nExample 3: Farmer saves 3,000 RWF week 1, 500 more each week. Week 5? 3,000, 3,500, 4,000, 4,500, 5,000 RWF",
+    "practice": "1. (Easy) Find d: 5, 9, 13, 17...\n2. (Easy) Next two: 30, 27, 24, 21...\n3. (Medium) Is 1, 4, 9, 16... arithmetic? Explain.\n4. (Medium) Student reads 10, 15, 20, 25 pages/day. Day 6?\n5. (Hard) Start 100, subtract 8 each time. 5th term? 10th term?",
+    "practice_answers": "1. d = 4\n2. 18, 15\n3. No, differences 3,5,7 not constant\n4. 35 pages\n5. 5th: 68, 10th: 28",
+    "summary": "* Arithmetic: constant difference between terms\n* d = term - previous term\n* d > 0: increases, d < 0: decreases\n* Add d to find next term",
+    "quiz": {
+      "question": "Common difference of 7, 12, 17, 22... is:",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "answer": "C"
+    },
+    "title": "Arithmetic sequences",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Arithmetic sequences. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Arithmetic sequences into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Arithmetic sequences. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Arithmetic sequences: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Arithmetic sequences",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Arithmetic sequences."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Use scale factors to find unknown measurements\n- Apply similarity to maps and models\n- Calculate lengths using proportion",
+    "reading": "Scale factor k:\n- Lengths: multiply by k\n- Areas: multiply by k²\n- Volumes: multiply by k³\n\nModel at 1:50. 20 cm model = 20×50 = 1,000 cm = 10 m real.\nFloor area 0.5 m² model = 0.5×2,500 = 1,250 m² real.\n\nUsed in construction, maps, and design!",
+    "examples": "Example 1: Map 1:10,000. 8 cm apart. Real = 8×10,000 = 80,000 cm = 0.8 km\n\nExample 2: Photo 15 cm, enlarged 3x. New = 45 cm. Area = 9x original.\n\nExample 3: Model car 30 cm at 1:20. Real = 600 cm = 6 m.",
+    "practice": "1. (Easy) Plan 1:100, room 5 cm. Real length?\n2. (Easy) Scale 4, original 7 cm. New?\n3. (Medium) Map 1:50,000, 15 cm. Real distance in km?\n4. (Medium) Triangle 3,4,5 scaled by 3. New sides?\n5. (Hard) Square side 4 cm, scale 2.5. New side, new area, ratio?",
+    "practice_answers": "1. 500 cm = 5 m\n2. 28 cm\n3. 7.5 km\n4. 9, 12, 15\n5. Side=10 cm, Area=100 cm², ratio=6.25:1",
+    "summary": "* Length: ×k, Area: ×k², Volume: ×k³\n* Maps and models use scale factors\n* Useful in construction and design",
+    "quiz": {
+      "question": "Scale 5, original 8 cm. New length:",
+      "options": {
+        "A": "13 cm",
+        "B": "25 cm",
+        "C": "40 cm",
+        "D": "64 cm"
+      },
+      "answer": "C"
+    },
+    "title": "Scale factors",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Scale factors. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Scale factors into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Scale factors. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Scale factors: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Scale factors",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Scale factors."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

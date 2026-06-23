@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Gusoma no gusesengura.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-igitekerezo-nyamukuru",
+      "name": "Igitekerezo nyamukuru",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/kinyarwanda/lessons/03-lesson-01-igitekerezo-nyamukuru.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-ingingo-n-ibimenyetso",
+      "name": "Ingingo n'ibimenyetso",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/kinyarwanda/lessons/03-lesson-02-ingingo-n-ibimenyetso.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-gusesengura-umwandiko",
+      "name": "Gusesengura umwandiko",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/kinyarwanda/lessons/03-lesson-03-gusesengura-umwandiko.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-ubuvanganzo-nyarwanda",
+      "name": "Ubuvanganzo nyarwanda",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/kinyarwanda/lessons/03-lesson-04-ubuvanganzo-nyarwanda.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Identify geometric sequences\n- Find the common ratio\n- Distinguish arithmetic from geometric",
+    "reading": "Geometric sequence: each term = previous × constant ratio (r).\n\nExample: 3, 6, 12, 24... r = 2\n\nIn Rwanda: savings with 10% interest: 100,000, 110,000, 121,000...\nBacteria doubling each hour.\n\nTo find next term: multiply by r.\n|r| > 1: grows. |r| < 1: shrinks.",
+    "examples": "Example 1: 2, 6, 18, 54... r = 3. Next: 162, 486\n\nExample 2: 100, 50, 25, 12.5... r = 0.5 (halving)\n\nExample 3: 5, 10, 20, 40 arithmetic or geometric?\nArithmetic check: 10-5=5, 20-10=10 not constant\nGeometric check: 10/5=2, 20/10=2, 40/20=2 constant\nSo geometric, r = 2",
+    "practice": "1. (Easy) Find r: 3, 9, 27, 81...\n2. (Easy) Next two: 64, 32, 16, 8...\n3. (Medium) Is 4, 8, 12, 16 arithmetic or geometric?\n4. (Medium) Harvest increases 50%/year. Year 1: 200 kg. Year 3?\n5. (Hard) Population 1,000 doubles every 3 years. First 4 terms and r.",
+    "practice_answers": "1. r = 3\n2. 4, 2\n3. Arithmetic, d = 4\n4. Year 2: 300, Year 3: 450 kg\n5. 1,000, 2,000, 4,000, 8,000; r = 2",
+    "summary": "* Geometric: each term = previous × r\n* r = term ÷ previous term\n* |r| > 1: grows, |r| < 1: shrinks\n* Check both difference and ratio to identify type",
+    "quiz": {
+      "question": "Common ratio of 2, 10, 50, 250... is:",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "8"
+      },
+      "answer": "C"
+    },
+    "title": "Geometric sequences",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Geometric sequences. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Geometric sequences into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Geometric sequences. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Geometric sequences: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Geometric sequences",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Geometric sequences."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

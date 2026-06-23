@@ -1,0 +1,38 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Identify quadratic functions\n- Graph simple quadratics\n- Understand vertex and parabola shape",
+    "reading": "Quadratic: f(x) = ax² + bx + c, a ≠ 0\nGraph is a U-shaped parabola.\na > 0: opens upward (smile). a < 0: opens downward (frown).\n\nIn Rwanda: path of a thrown ball, area of a field with fixed perimeter.\n\nThe turning point is the vertex. The vertical line through it is the axis of symmetry.",
+    "examples": "Example 1: f(x) = x², x = -3 to 3\nx: -3,-2,-1,0,1,2,3\ny: 9,4,1,0,1,4,9\nOpens upward (a = 1 > 0)\n\nExample 2: f(x) = -2x² + 3x. Opens downward (a = -2 < 0)\n\nExample 3: Rectangle area A(x) = x(10 - x) = -x² + 10x\nOpens downward.",
+    "practice": "1. (Easy) Is f(x) = 5x² + 2x - 1 a quadratic?\n2. (Easy) Does f(x) = x² + 3 open up or down?\n3. (Medium) Table for f(x) = x² - 2, x = -2 to 2\n4. (Medium) Does f(x) = -3x² + x open up or down?\n5. (Hard) Ball path: h(t) = -5t² + 20t + 1. Find h(0), h(1), h(2), h(3). When is it highest?",
+    "practice_answers": "1. Yes\n2. Up (a = 1 > 0)\n3. x:-2,-1,0,1,2 | y:2,-1,-2,-1,2\n4. Down (a = -3 < 0)\n5. h(0)=1, h(1)=16, h(2)=21, h(3)=16; highest at t=2",
+    "summary": "* Quadratic: f(x) = ax² + bx + c (a ≠ 0)\n* Graph is a parabola (U-shape)\n* a > 0: opens up, a < 0: opens down\n* Vertex is the turning point",
+    "quiz": {
+      "question": "The graph of f(x) = x² - 4 opens:",
+      "options": {
+        "A": "Upward",
+        "B": "Downward",
+        "C": "Sideways",
+        "D": "Not a parabola"
+      },
+      "answer": "A"
+    },
+    "title": "Quadratic functions",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Quadratic functions. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Quadratic functions into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Quadratic functions. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Quadratic functions: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "cartesian",
+        "params": {
+          "function": "quadratic",
+          "a": 1,
+          "b": 0,
+          "c": -2
+        },
+        "caption": "A quadratic graph showing symmetry, roots and turning point."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

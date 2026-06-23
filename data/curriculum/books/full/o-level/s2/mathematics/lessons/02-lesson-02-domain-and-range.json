@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Find the domain of a function\n- Find the range of a function\n- Express domain and range using sets",
+    "reading": "Domain = all possible inputs (x-values)\nRange = all possible outputs (y-values)\n\nThink of a cow: what it eats (grass, hay) is the domain. What it produces (milk, meat) is the range.\n\nIn Rwanda, if a boda-boda charges 200 RWF/km up to 10 km:\nDomain: {0, 1, ..., 10}, Range: {0, 200, ..., 2,000}\n\nRestrictions: f(x) = 1/x has x ≠ 0. f(x) = √x has x ≥ 0.",
+    "examples": "Example 1: Domain and range of {(1,5), (2,10), (3,15)}\nDomain: {1, 2, 3}, Range: {5, 10, 15}\n\nExample 2: f(x) = 2x + 1, domain {0, 1, 2, 3}. Range?\nf(0)=1, f(1)=3, f(2)=5, f(3)=7. Range: {1, 3, 5, 7}\n\nExample 3: What x cannot be for f(x) = 3/(x - 2)?\nx - 2 ≠ 0, so x ≠ 2",
+    "practice": "1. (Easy) Find domain and range of {(2,4), (3,6), (5,10)}\n2. (Easy) f(x) = x + 3, domain {1, 2, 3}. Find range.\n3. (Medium) Find domain of f(x) = 5/(x - 1)\n4. (Medium) f(x) = 3x, domain {0, 1, 2, 3, 4}. Find range.\n5. (Hard) A taxi charges 1,000 RWF flagfall + 500 RWF/km up to 20 km. Domain and range as sets.",
+    "practice_answers": "1. Domain: {2,3,5}, Range: {4,6,10}\n2. {4,5,6}\n3. x ≠ 1\n4. {0,3,6,9,12}\n5. Domain: {0,...,20}, Range: {1,000, 1,500, ..., 11,000}",
+    "summary": "* Domain = set of all inputs (x-values)\n* Range = set of all outputs (y-values)\n* Watch for: no division by zero, no negative square roots\n* Real-world functions have limited domains/ranges",
+    "quiz": {
+      "question": "f(x) = x + 2, domain {1, 2, 3}. Range is:",
+      "options": {
+        "A": "{1,2,3}",
+        "B": "{2,3,4}",
+        "C": "{3,4,5}",
+        "D": "{1,4,9}"
+      },
+      "answer": "C"
+    },
+    "title": "Domain and range",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Domain and range. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Domain and range into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Domain and range. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Domain and range: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Domain and range",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Domain and range."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

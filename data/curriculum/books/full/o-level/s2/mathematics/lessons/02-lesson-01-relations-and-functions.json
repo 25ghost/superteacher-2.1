@@ -1,0 +1,37 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Understand what a relation is\n- Understand what a function is\n- Distinguish relations from functions",
+    "reading": "A relation connects inputs to outputs. A function is a special relation where each input has exactly ONE output.\n\nThink of a vending machine: one button gives one drink. That is a function!\n\nIn Rwanda, minutes talked (input) and cost (output) is a function: each time gives one cost.\n\nVertical line test: if a vertical line touches a graph more than once, it is NOT a function.",
+    "examples": "Example 1: Is {(1,2), (3,4), (5,6)} a function?\nYes, each input has exactly one output.\n\nExample 2: Is {(1,2), (1,3), (2,4)} a function?\nNo, input 1 has two outputs: 2 and 3.\n\nExample 3: Is y = 2x + 1 a function?\nYes, each x gives exactly one y.",
+    "practice": "1. (Easy) Is {(2,5), (3,7), (4,9)} a function? Why?\n2. (Easy) Is {(1,1), (1,2), (2,3)} a function? Why?\n3. (Medium) Does y = x² represent a function? Explain.\n4. (Medium) Does x = y² represent a function? (Hint: try x = 4)\n5. (Hard) A school assigns each student a unique ID. Is this a function? Explain.",
+    "practice_answers": "1. Yes, each input has one output\n2. No, input 1 has two outputs\n3. Yes, each x gives one y\n4. No, x=4 gives y=2 or -2\n5. Yes, each student has one ID",
+    "summary": "* A relation connects inputs to outputs\n* A function: each input has exactly ONE output\n* Use the vertical line test on graphs\n* Many real-world relationships are functions",
+    "quiz": {
+      "question": "Which of these is a function?",
+      "options": {
+        "A": "{(1,2), (1,3)}",
+        "B": "{(2,4), (3,5), (2,6)}",
+        "C": "{(1,1), (2,1), (3,1)}",
+        "D": "{(1,2), (1,2)}"
+      },
+      "answer": "C"
+    },
+    "title": "Relations and functions",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Relations and functions. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Relations and functions into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Relations and functions. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Relations and functions: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "cartesian",
+        "params": {
+          "function": "linear",
+          "m": 2,
+          "c": -1
+        },
+        "caption": "Coordinate representation linking input, output and graph."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

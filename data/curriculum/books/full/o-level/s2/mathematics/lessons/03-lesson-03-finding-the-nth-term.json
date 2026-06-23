@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Find the nth term of an arithmetic sequence\n- Use formula a_n = a_1 + (n-1)d\n- Find specific terms",
+    "reading": "Formula: a_n = a_1 + (n - 1)d\n\na_n = nth term\na_1 = first term\nn = position\nd = common difference\n\nIn Rwanda: business starts with 50 customers + 10/month.\na_12 = 50 + (12-1)10 = 50 + 110 = 160 customers after 12 months!",
+    "examples": "Example 1: 20th term of 3, 7, 11, 15...\na_1 = 3, d = 4, n = 20\na_20 = 3 + (19)4 = 3 + 76 = 79\n\nExample 2: 15th term of 50, 46, 42, 38...\na_1 = 50, d = -4\na_15 = 50 + (14)(-4) = 50 - 56 = -6\n\nExample 3: Save 500 RWF week 1, +200/week. Week 10? a_10 = 500 + 9(200) = 2,300 RWF",
+    "practice": "1. (Easy) 10th term of 2, 5, 8, 11...\n2. (Easy) 8th term of 100, 90, 80, 70...\n3. (Medium) a_1 = 7, d = 3. 25th term?\n4. (Medium) Farmer plants 20 trees year 1, +15/year. Year 7?\n5. (Hard) Which term = 100 in 4, 10, 16, 22...?",
+    "practice_answers": "1. 29\n2. 30\n3. 79\n4. 110 trees\n5. 100 = 4 + (n-1)6, n = 17",
+    "summary": "* Formula: a_n = a_1 + (n-1)d\n* Identify a_1, d, n first\n* Can also find n if a_n is known",
+    "quiz": {
+      "question": "12th term of 5, 9, 13, 17... is:",
+      "options": {
+        "A": "45",
+        "B": "47",
+        "C": "49",
+        "D": "51"
+      },
+      "answer": "C"
+    },
+    "title": "Finding the nth term",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Finding the nth term. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Finding the nth term into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Finding the nth term. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Finding the nth term: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Finding the nth term",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Finding the nth term."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}
