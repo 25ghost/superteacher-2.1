@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 6: Trigonometry.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-trigonometric-ratios-sine-cosine-tangent",
+      "name": "Trigonometric ratios (sine, cosine, tangent)",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/06-lesson-01-trigonometric-ratios-sine-cosine-tangent.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-solving-right-triangles",
+      "name": "Solving right triangles",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/06-lesson-02-solving-right-triangles.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-angle-of-elevation-and-depression",
+      "name": "Angle of elevation and depression",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/06-lesson-03-angle-of-elevation-and-depression.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-applications-of-trigonometry",
+      "name": "Applications of trigonometry",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/06-lesson-04-applications-of-trigonometry.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-trigonometric-tables",
+      "name": "Trigonometric tables",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/06-lesson-05-trigonometric-tables.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 2: Functions.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-relations-and-functions",
+      "name": "Relations and functions",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/02-lesson-01-relations-and-functions.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-domain-and-range",
+      "name": "Domain and range",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/02-lesson-02-domain-and-range.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-linear-functions-and-graphs",
+      "name": "Linear functions and graphs",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/02-lesson-03-linear-functions-and-graphs.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-quadratic-functions",
+      "name": "Quadratic functions",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/02-lesson-04-quadratic-functions.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-applications-of-functions",
+      "name": "Applications of functions",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/02-lesson-05-applications-of-functions.json",
+      "status": "ready"
+    }
+  ]
+}

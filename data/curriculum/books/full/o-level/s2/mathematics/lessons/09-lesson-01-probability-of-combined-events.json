@@ -1,0 +1,33 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Find probability of combined events\n- Use 'and' and 'or' rules\n- Solve multi-event probability problems",
+    "reading": "For combined events:\nP(A and B) = P(A) × P(B) (independent events)\nP(A or B) = P(A) + P(B) (mutually exclusive)\n\nIn Rwanda: probability of rain AND carrying an umbrella.\nOr probability of choosing a boy OR a girl from a class.\n\nIndependent: one event doesn't affect the other.\nMutually exclusive: can't happen together.",
+    "examples": "Example 1: Coin flip AND dice roll. P(heads AND 6)?\nP(heads)=1/2, P(6)=1/6\nP(heads AND 6) = 1/2 × 1/6 = 1/12\n\nExample 2: Bag: 3 red, 5 blue. P(red OR blue)?\nP(red)=3/8, P(blue)=5/8, mutually exclusive\nP(red OR blue) = 3/8 + 5/8 = 1 (certain!)\n\nExample 3: Dice: P(2 OR 5)? P(2)=1/6, P(5)=1/6, P=2/6=1/3",
+    "practice": "1. (Easy) Coin P(heads) AND coin P(heads)?\n2. (Easy) Dice P(3) OR P(4)?\n3. (Medium) Bag 2 red, 3 blue, 5 green. P(red OR blue)?\n4. (Medium) Two coins. P(both heads)?\n5. (Hard) Dice and coin together. P(even number AND heads)?",
+    "practice_answers": "1. 1/2 × 1/2 = 1/4\n2. 1/6 + 1/6 = 1/3\n3. 2/10 + 3/10 = 1/2\n4. 1/2 × 1/2 = 1/4\n5. 1/2 × 1/2 = 1/4",
+    "summary": "* P(A and B) = P(A) × P(B) (independent)\n* P(A or B) = P(A) + P(B) (mutually exclusive)\n* Identify if events are independent or mutually exclusive",
+    "quiz": {
+      "question": "P(heads AND heads) with two coins:",
+      "options": {
+        "A": "1/4",
+        "B": "1/2",
+        "C": "1",
+        "D": "0"
+      },
+      "answer": "A"
+    },
+    "title": "Probability of combined events",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Probability of combined events. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Probability of combined events into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Probability of combined events. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Probability of combined events: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "tree",
+        "params": {},
+        "caption": "A probability tree showing sequential outcomes."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

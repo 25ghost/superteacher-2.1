@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 9: Probability.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-probability-of-combined-events",
+      "name": "Probability of combined events",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/09-lesson-01-probability-of-combined-events.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-tree-diagrams",
+      "name": "Tree diagrams",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/09-lesson-02-tree-diagrams.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-sample-space-for-multiple-events",
+      "name": "Sample space for multiple events",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/09-lesson-03-sample-space-for-multiple-events.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-experimental-vs-theoretical-probability",
+      "name": "Experimental vs theoretical probability",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/09-lesson-04-experimental-vs-theoretical-probability.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-applications-of-probability",
+      "name": "Applications of probability",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/09-lesson-05-applications-of-probability.json",
+      "status": "ready"
+    }
+  ]
+}

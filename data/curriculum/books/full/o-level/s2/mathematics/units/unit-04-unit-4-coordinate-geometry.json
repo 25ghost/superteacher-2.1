@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 4: Coordinate Geometry.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-cartesian-plane",
+      "name": "Cartesian plane",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/04-lesson-01-cartesian-plane.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-distance-between-two-points",
+      "name": "Distance between two points",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/04-lesson-02-distance-between-two-points.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-midpoint-formula",
+      "name": "Midpoint formula",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/04-lesson-03-midpoint-formula.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-gradient-of-a-line",
+      "name": "Gradient of a line",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/04-lesson-04-gradient-of-a-line.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-equation-of-a-straight-line",
+      "name": "Equation of a straight line",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/04-lesson-05-equation-of-a-straight-line.json",
+      "status": "ready"
+    }
+  ]
+}

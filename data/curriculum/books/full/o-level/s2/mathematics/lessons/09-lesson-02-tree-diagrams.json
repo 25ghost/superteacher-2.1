@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Draw tree diagrams\n- Use tree diagrams for probability\n- Find probabilities of sequences",
+    "reading": "Tree diagrams show all possible outcomes.\n\nEach branch shows a probability.\nMultiply along branches for combined probability.\n\nIn Rwanda: a farmer deciding whether to plant maize or beans in two fields - tree diagram shows all combinations!\n\nTree diagrams help organize thinking about multi-step events.",
+    "examples": "Example 1: Two coin flips tree:\nH (1/2) → H (1/2) = P(HH)=1/4\n     → T (1/2) = P(HT)=1/4\nT (1/2) → H (1/2) = P(TH)=1/4\n     → T (1/2) = P(TT)=1/4\n\nExample 2: Bag: 3 red, 2 blue. Pick twice with replacement.\nP(R,R) = 3/5 × 3/5 = 9/25\nP(R,B) = 3/5 × 2/5 = 6/25\nP(B,R) = 2/5 × 3/5 = 6/25\nP(B,B) = 2/5 × 2/5 = 4/25\nCheck sum: 25/25 = 1",
+    "practice": "1. (Easy) How many branches for tossing 2 coins?\n2. (Easy) P(HH) from tree?\n3. (Medium) Draw tree for picking 2 marbles from 4 red + 6 blue (with replacement).\n4. (Medium) From tree in Q3, P(R,R)?\n5. (Hard) Bag: 5 red, 3 blue. Pick twice without replacement. Draw tree.",
+    "practice_answers": "1. 4 branches\n2. 1/4\n3. (Tree: R(0.4)/B(0.6) each branch)\n4. 0.4 × 0.4 = 0.16\n5. (Tree: first R(5/8)/B(3/8); second depends on first)",
+    "summary": "* Tree diagrams show all outcomes\n* Multiply along branches\n* Sum of all outcomes = 1\n* Without replacement: probabilities change",
+    "quiz": {
+      "question": "How many outcomes for tossing 2 coins?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "6"
+      },
+      "answer": "C"
+    },
+    "title": "Tree diagrams",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Tree diagrams. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Tree diagrams into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Tree diagrams. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Tree diagrams: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Tree diagrams",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Tree diagrams."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

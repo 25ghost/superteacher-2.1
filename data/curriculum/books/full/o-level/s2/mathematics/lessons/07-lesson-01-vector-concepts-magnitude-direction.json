@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Understand vector concepts\n- Represent vectors as directed segments\n- Find magnitude and direction",
+    "reading": "Vector = magnitude (size) + direction.\nScalar = only magnitude.\n\n5 km = scalar. 5 km East = vector.\n\nIn Rwanda: \"Walk 200 m to market\" (scalar). \"Walk 200 m East to market\" (vector).\n\nWe draw vectors as arrows: length = magnitude, arrowhead = direction.\n\nWritten as: → or v or column (x, y).",
+    "examples": "Example 1: Car travels 40 km East. Vector? Yes! Magnitude 40 km, direction East.\n\nExample 2: Draw vector 5 units North. Arrow 5 units pointing up.\n\nExample 3: Bird 10 m at 30°. Components: (10cos30°, 10sin30°) = (8.66, 5)",
+    "practice": "1. (Easy) Is \"30 kg\" vector or scalar?\n2. (Easy) Is \"20 m North\" vector or scalar?\n3. (Medium) Vector components (3,4). Find magnitude.\n4. (Medium) 6 km East + 8 km North. Total displacement?\n5. (Hard) Vector magnitude 10 at 60°. Find components.",
+    "practice_answers": "1. Scalar (no direction)\n2. Vector (has direction)\n3. Magnitude = 5\n4. Magnitude = 10 km, NE\n5. Horizontal=5, vertical=8.66",
+    "summary": "* Vectors: magnitude AND direction\n* Scalars: only magnitude\n* Draw as arrows\n* Components: break into x and y parts",
+    "quiz": {
+      "question": "Which is a vector?",
+      "options": {
+        "A": "25 kg",
+        "B": "100 RWF",
+        "C": "30°C",
+        "D": "50 km/h East"
+      },
+      "answer": "D"
+    },
+    "title": "Vector concepts (magnitude, direction)",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Vector concepts (magnitude, direction). Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Vector concepts (magnitude, direction) into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Vector concepts (magnitude, direction). Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Vector concepts (magnitude, direction): a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Vector concepts (magnitud…",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Vector concepts (magnitude, direction)."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

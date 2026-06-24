@@ -1,0 +1,37 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Read trigonometric tables\n- Use a calculator for trig values\n- Find angles from known ratios",
+    "reading": "Trig tables: sin, cos, tan for 0° to 90°.\n\nTo find sin(30°): look at sin column at 30° = 0.5000\nTo find angle when sin(θ)=0.5: find 0.5 in sin column, read 30°\n\nInverse functions (sin⁻¹, cos⁻¹, tan⁻¹) find angle from ratio.\n\nKey values:\nsin(0°)=0, sin(30°)=0.5, sin(90°)=1\ncos(0°)=1, cos(60°)=0.5, cos(90°)=0\ntan(0°)=0, tan(45°)=1",
+    "examples": "Example 1: From table, tan(35°) ≈ 0.700\n\nExample 2: sin(θ)=0.866. Table shows 60°. θ = 60°\n\nExample 3: tan(θ)=1.732. Table shows 60°. θ = 60°",
+    "practice": "1. (Easy) From memory: sin(30°)?\n2. (Easy) cos(60°)?\n3. (Medium) Find θ if tan(θ)=1\n4. (Medium) sin(θ)=0.342. θ? (sin20°≈0.342)\n5. (Hard) Triangle: opp=5, adj=12. Find angle using tan⁻¹.",
+    "practice_answers": "1. 0.5\n2. 0.5\n3. 45°\n4. 20°\n5. tan(θ)=5/12≈0.417, θ≈22.6°",
+    "summary": "* Trig tables give sin, cos, tan for 0-90°\n* Use inverse to find angles\n* Key: sin30=0.5, tan45=1",
+    "quiz": {
+      "question": "sin(30°) equals:",
+      "options": {
+        "A": "0",
+        "B": "0.5",
+        "C": "1",
+        "D": "0.866"
+      },
+      "answer": "B"
+    },
+    "title": "Trigonometric tables",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Trigonometric tables. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Trigonometric tables into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Trigonometric tables. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Trigonometric tables: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "unit_circle",
+        "params": {
+          "angle": 45,
+          "show_sin": true,
+          "show_cos": true
+        },
+        "caption": "Sine and cosine as coordinates on the unit circle."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

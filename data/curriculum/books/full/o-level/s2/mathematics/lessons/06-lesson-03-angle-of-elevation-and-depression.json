@@ -1,0 +1,36 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Understand angle of elevation\n- Understand angle of depression\n- Solve real problems with these angles",
+    "reading": "Angle of elevation: looking UP from horizontal.\nAngle of depression: looking DOWN from horizontal.\n\nIn Rwanda: looking up at a hilltop, or down from a hill.\n\nThese angles are EQUAL when looking between two points (alternate angles).\n\nMeasured from horizontal, never vertical!",
+    "examples": "Example 1: 20 m from tree, angle 40°. Height?\ntan(40°)=h/20, 0.839=h/20, h=16.8 m\n\nExample 2: 30 m building, depression 25° to car. Distance?\ntan(25°)=30/d, 0.466=30/d, d≈64.4 m\n\nExample 3: Hill 50 m, depression 30° to lake. Distance?\ntan(30°)=50/d, 0.577=50/d, d≈86.6 m",
+    "practice": "1. (Easy) 10 m away, elevation 30°. Height? (tan30°≈0.577)\n2. (Easy) Depression 45° from 20 m tower. Distance? (tan45°=1)\n3. (Medium) 15 m tree, 25 m away. Angle of elevation?\n4. (Medium) 100 m cliff, depression 20° to boat. Distance? (tan20°≈0.364)\n5. (Hard) 40 m hill: car at 35° depression, moves closer to 50°. Distance moved?",
+    "practice_answers": "1. 5.77 m\n2. 20 m\n3. ≈ 31°\n4. ≈ 274.7 m\n5. Initial 57.1 m, final 33.6 m, moved 23.5 m",
+    "summary": "* Elevation: looking UP. Depression: looking DOWN.\n* These angles are equal between two points\n* Use tan = opposite/adjacent",
+    "quiz": {
+      "question": "Angle measured UP from horizontal:",
+      "options": {
+        "A": "Depression",
+        "B": "Elevation",
+        "C": "Reflex",
+        "D": "Obtuse"
+      },
+      "answer": "B"
+    },
+    "title": "Angle of elevation and depression",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Angle of elevation and depression. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Angle of elevation and depression into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Angle of elevation and depression. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Angle of elevation and depression: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "angles",
+        "params": {
+          "type": "parallel_lines",
+          "angle": 60
+        },
+        "caption": "Angle relationships formed by parallel lines and a transversal."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

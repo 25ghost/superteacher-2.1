@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 5: Similarity and Congruence.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-congruent-triangles",
+      "name": "Congruent triangles",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/05-lesson-01-congruent-triangles.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-similar-triangles",
+      "name": "Similar triangles",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/05-lesson-02-similar-triangles.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-scale-factors",
+      "name": "Scale factors",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/05-lesson-03-scale-factors.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-applications-of-similarity",
+      "name": "Applications of similarity",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/05-lesson-04-applications-of-similarity.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-geometric-proofs",
+      "name": "Geometric proofs",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/05-lesson-05-geometric-proofs.json",
+      "status": "ready"
+    }
+  ]
+}

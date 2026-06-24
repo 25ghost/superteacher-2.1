@@ -1,0 +1,46 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Create frequency distribution tables\n- Group data into class intervals\n- Understand frequency",
+    "reading": "Frequency = how many times a value occurs.\n\nShoe sizes: 6,7,7,8,7,6,8,9,7,8\nTable:\nSize | Freq\n6 | 2\n7 | 4\n8 | 3\n9 | 1\n\nGroup data into equal-width intervals when many different values exist.",
+    "examples": "Example 1: Frequency table for 2,3,2,4,3,2,5,4,3,2\n2:4, 3:3, 4:2, 5:1, Total:10\n\nExample 2: Group marks into 0-29, 30-59, 60-100\n45,78,23,90,56,34,67,88,12,45\n0-29:2, 30-59:4, 60-100:4\n\nExample 3: Grouping makes large data easier to understand.",
+    "practice": "1. (Easy) Frequency table: A,B,A,C,B,A,C,C,B,A\n2. (Easy) Frequency of 'A' in Q1?\n3. (Medium) Ages: 5,7,12,15,8,10,25,30,18,22,6,14. Group 0-9,10-19,20-29,30-39.\n4. (Medium) Heights: 150,155,160,150,165,155,160,150,170,155. Frequency table.\n5. (Hard) Mangoes: 12,15,10,8,20,15,12,10,25,18,15,12. Group into 8-11,12-15,16-19,20-25.",
+    "practice_answers": "1. A:4, B:3, C:3\n2. 4\n3. 0-9:4, 10-19:4, 20-29:2, 30-39:2\n4. 150:3, 155:3, 160:2, 165:1, 170:1\n5. 8-11:2, 12-15:5, 16-19:2, 20-25:3",
+    "summary": "* Frequency = count of occurrences\n* Tables organize raw data\n* Group equal-width intervals for large data\n* Reveals patterns",
+    "quiz": {
+      "question": "In a frequency table, 'frequency' means:",
+      "options": {
+        "A": "The values",
+        "B": "How many times a value appears",
+        "C": "The average",
+        "D": "The largest value"
+      },
+      "answer": "B"
+    },
+    "title": "Frequency distribution tables",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Frequency distribution tables. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Frequency distribution tables into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Frequency distribution tables. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Frequency distribution tables: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "bar_chart",
+        "params": {
+          "labels": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "values": [
+            4,
+            8,
+            6,
+            10
+          ]
+        },
+        "caption": "A bar chart for comparing categorical data."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

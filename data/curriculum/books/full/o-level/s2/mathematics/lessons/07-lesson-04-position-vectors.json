@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Understand position vectors\n- Find the vector between two points\n- Use vectors to describe positions",
+    "reading": "Position vector: OA = coordinates of A from origin.\n\nVector AB = OB - OA = (x_b - x_a, y_b - y_a)\n\n\"From market A, school is 2 km East, 1 km North\": AB = (2, 1)\n\nBA = -AB (opposite direction).",
+    "examples": "Example 1: A(2,3). OA = (2,3)\n\nExample 2: A(1,2), B(5,7). AB = (4,5)\n\nExample 3: A(3,-1), B(-2,4). AB = (-5,5), BA = (5,-5) = -AB",
+    "practice": "1. (Easy) Position vector of (4,6)\n2. (Easy) A(1,1), B(4,5). AB?\n3. (Medium) A(-2,3), B(3,-2). AB and magnitude?\n4. (Medium) OA=(2,4), OB=(7,6). AB?\n5. (Hard) A(1,2), B(4,6), C(7,10). Show AB=BC. What does this mean?",
+    "practice_answers": "1. (4, 6)\n2. (3, 4)\n3. (5,-5), mag=√50≈7.07\n4. (5, 2)\n5. AB=(3,4)=BC; A,B,C are collinear",
+    "summary": "* OA = point's coordinates from origin\n* AB = OB - OA\n* BA = -AB",
+    "quiz": {
+      "question": "A(1,2), B(4,6). AB =",
+      "options": {
+        "A": "(3,4)",
+        "B": "(4,3)",
+        "C": "(-3,-4)",
+        "D": "(5,8)"
+      },
+      "answer": "A"
+    },
+    "title": "Position vectors",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Position vectors. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Position vectors into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Position vectors. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Position vectors: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Position vectors",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Position vectors."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

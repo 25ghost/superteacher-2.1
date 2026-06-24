@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Add vectors (tip-to-tail)\n- Subtract vectors\n- Find resultant vector",
+    "reading": "Tip-to-tail method:\n1. Draw first vector\n2. Draw second from tip of first\n3. Resultant: tail of first to tip of second\n\n3 km East + 4 km North = 5 km Northeast\n\nComponents: a+b = (x₁+x₂, y₁+y₂)\n\nSubtraction: a-b = a+(-b)",
+    "examples": "Example 1: 3 right + 4 up. Resultant mag = 5, direction ≈ 53°\n\nExample 2: a=(2,3), b=(4,1). a+b = (6,4)\n\nExample 3: 10 km East + 5 km West = 5 km East",
+    "practice": "1. (Easy) 3 right + 2 right = ?\n2. (Easy) a=(1,2), b=(3,4). a+b?\n3. (Medium) 5 km N + 12 km E. Resultant magnitude?\n4. (Medium) Plane 200 km N + 150 km S. Resultant?\n5. (Hard) a=(3,-2), b=(-1,5). a+b and magnitude.",
+    "practice_answers": "1. 5 right\n2. (4, 6)\n3. 13 km\n4. 50 km North\n5. (2, 3), magnitude=√13≈3.6",
+    "summary": "* Tip-to-tail: connect vectors\n* Resultant: start to finish\n* Add components separately\n* Opposite directions cancel",
+    "quiz": {
+      "question": "Add (2,3) and (4,1). Resultant:",
+      "options": {
+        "A": "(6,4)",
+        "B": "(4,6)",
+        "C": "(8,3)",
+        "D": "(2,2)"
+      },
+      "answer": "A"
+    },
+    "title": "Vector addition and subtraction",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Vector addition and subtraction. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Vector addition and subtraction into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Vector addition and subtraction. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Vector addition and subtraction: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Vector addition and subtr…",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Vector addition and subtraction."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

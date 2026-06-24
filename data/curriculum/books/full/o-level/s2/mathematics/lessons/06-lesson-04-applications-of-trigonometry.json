@@ -1,0 +1,37 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Apply trigonometry to real problems\n- Solve height and distance problems\n- Use trig in construction and navigation",
+    "reading": "Trig is everywhere!\n\nIn Rwanda:\n- Building roof slopes\n- Land surveying (measure without crossing rivers!)\n- Road gradients through hills\n- Sports: kicking angles\n\nTrig turns hard-to-measure distances into simple calculations!",
+    "examples": "Example 1: Hill top at 25°, 100 m away. Height = 100×tan25° = 46.6 m\n\nExample 2: Roof rise 3 m, run 4 m. Angle? tan(θ)=3/4=0.75, θ≈36.9°\n\nExample 3: 5 m ramp rises 1.5 m. Angle? sin(θ)=1.5/5=0.3, θ≈17.5°",
+    "practice": "1. (Easy) Ramp rises 1 m over 5 m. Angle? (tan⁻¹)\n2. (Easy) 6 m ladder reaches 4 m up. Angle with wall?\n3. (Medium) 200 m hill, depression 15°. Horizontal distance? (tan15°≈0.268)\n4. (Medium) Road rises 50 m over 400 m. Gradient and angle.\n5. (Hard) Tree: angle 32° from A, 20 m closer angle 45°. Height?",
+    "practice_answers": "1. ≈ 11.3°\n2. ≈ 48.2°\n3. ≈ 746.3 m\n4. Gradient=0.125, angle≈7.1°\n5. h/d=tan32°, h/(d-20)=tan45°; h≈32.3 m",
+    "summary": "* Trig solves height and distance problems\n* Angle of elevation/depression are practical tools\n* Draw a diagram first!",
+    "quiz": {
+      "question": "Ramp rises 2 m over 10 m. Gradient:",
+      "options": {
+        "A": "0.1",
+        "B": "0.2",
+        "C": "0.5",
+        "D": "5"
+      },
+      "answer": "B"
+    },
+    "title": "Applications of trigonometry",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Applications of trigonometry. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Applications of trigonometry into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Applications of trigonometry. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Applications of trigonometry: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "unit_circle",
+        "params": {
+          "angle": 45,
+          "show_sin": true,
+          "show_cos": true
+        },
+        "caption": "Sine and cosine as coordinates on the unit circle."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

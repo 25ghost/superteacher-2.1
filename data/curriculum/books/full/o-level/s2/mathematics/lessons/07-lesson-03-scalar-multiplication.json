@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Multiply a vector by a scalar\n- Understand how scalar multiplication changes vectors\n- Apply to real situations",
+    "reading": "kv = (kx, ky)\nk > 1: longer\n0<k<1: shorter\nk<0: reverse direction\n\nv = 60 km/h East, 2v = 120 km/h East\nv = 100 km/h North, -v = 100 km/h South\n\nMagnitude multiplies by |k|, direction stays same (unless k negative).",
+    "examples": "Example 1: v=(3,4), 2v=(6,8). |v|=5, |2v|=10\n\nExample 2: v=5 km East. -v=5 km West. 0.5v=2.5 km East\n\nExample 3: f=(10,20) N. 3f=(30,60) N (three times the force)",
+    "practice": "1. (Easy) v=(2,5). 3v?\n2. (Easy) v=3 km North. -v?\n3. (Medium) a=(1,-2). 4a and |4a|?\n4. (Medium) Vector mag 8, ×0.25. New mag?\n5. (Hard) v=(6,8). 1.5v. Show |1.5v|=1.5|v|",
+    "practice_answers": "1. (6, 15)\n2. 3 km South\n3. (4,-8), |4a|=√80≈8.94\n4. 2\n5. (9,12), |v|=10, |1.5v|=15=1.5×10",
+    "summary": "* kv = (kx, ky)\n* k>1: longer, 0<k<1: shorter, k<0: reverse\n* Magnitude ×|k|, direction same (or opposite)",
+    "quiz": {
+      "question": "v=(3,4). 2v =",
+      "options": {
+        "A": "(6,6)",
+        "B": "(5,6)",
+        "C": "(6,8)",
+        "D": "(9,12)"
+      },
+      "answer": "C"
+    },
+    "title": "Scalar multiplication",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Scalar multiplication. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Scalar multiplication into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Scalar multiplication. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Scalar multiplication: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Scalar multiplication",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Scalar multiplication."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

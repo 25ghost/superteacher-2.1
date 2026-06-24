@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 7: Vectors.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-vector-concepts-magnitude-direction",
+      "name": "Vector concepts (magnitude, direction)",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/07-lesson-01-vector-concepts-magnitude-direction.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-vector-addition-and-subtraction",
+      "name": "Vector addition and subtraction",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/07-lesson-02-vector-addition-and-subtraction.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-scalar-multiplication",
+      "name": "Scalar multiplication",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/07-lesson-03-scalar-multiplication.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-position-vectors",
+      "name": "Position vectors",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/07-lesson-04-position-vectors.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-applications-of-vectors",
+      "name": "Applications of vectors",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/07-lesson-05-applications-of-vectors.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Understand experimental vs theoretical probability\n- Compare experiment results with theory\n- Explain why they may differ",
+    "reading": "Theoretical probability = what SHOULD happen (calculated).\nExperimental probability = what DOES happen (from experiment).\n\nLaw of Large Numbers: as trials increase, experimental probability gets closer to theoretical!\n\nIn Rwanda: flip a coin 10 times (experimental = maybe 6 heads). Flip 1,000 times (experimental ≈ 500 heads = theoretical 0.5).",
+    "examples": "Example 1: Coin flipped 20 times, 12 heads. Experimental P(H)=12/20=0.6. Theoretical=0.5.\n\nExample 2: Dice rolled 60 times, 8 sixes. P(6)=8/60≈0.133. Theoretical=1/6≈0.167.\n\nExample 3: Spin spinner 100 times: Red=30, Blue=40, Green=30. Is it fair? If fair, each = 33.3. Blue appears too often!",
+    "practice": "1. (Easy) Coin 50 flips, 28 heads. Experimental P(H)?\n2. (Easy) Theoretical P(H) for a fair coin?\n3. (Medium) Dice 30 rolls, 4 sixes. Experimental vs theoretical P(6)?\n4. (Medium) Why do more trials give more accurate results?\n5. (Hard) Class A spins 10 times: Blue=6. Class B spins 100 times: Blue=52. Which class gives better estimate of P(Blue)? Why?",
+    "practice_answers": "1. 28/50 = 0.56\n2. 0.5\n3. Exp=4/30=0.133, Theory=1/6≈0.167\n4. More trials reduce random variation\n5. Class B (Law of Large Numbers)",
+    "summary": "* Theoretical = expected (calculated)\n* Experimental = observed (from trials)\n* More trials = closer to theoretical\n* Law of Large Numbers",
+    "quiz": {
+      "question": "50 flips, 28 heads. Experimental P(H):",
+      "options": {
+        "A": "0.5",
+        "B": "0.56",
+        "C": "0.6",
+        "D": "0.28"
+      },
+      "answer": "B"
+    },
+    "title": "Experimental vs theoretical probability",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Experimental vs theoretical probability. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Experimental vs theoretical probability into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Experimental vs theoretical probability. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Experimental vs theoretical probability: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "tree",
+        "params": {},
+        "caption": "A probability tree showing sequential outcomes."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

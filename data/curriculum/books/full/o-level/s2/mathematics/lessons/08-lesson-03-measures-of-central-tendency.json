@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Calculate mean, median, mode\n- Choose best average\n- Interpret central tendency",
+    "reading": "Mean = sum ÷ count (affected by outliers).\nMedian = middle value when ordered (not affected by outliers).\nMode = most frequent value.\n\nIn Rwanda:\nMean: average daily income\nMedian: typical house price (outliers don't affect)\nMode: most common crop",
+    "examples": "Example 1: 4,7,3,7,9. Mean=6, Med=7, Mode=7\n\nExample 2: Even count: 2,3,5,8,9,10. Med=(5+8)/2=6.5\n\nExample 3: Cow weights 200,220,240,260,280. Mean=240 kg",
+    "practice": "1. (Easy) Mean of 5,10,15,20?\n2. (Easy) Mode of 2,3,2,4,5,2,6?\n3. (Medium) Mean, median, mode of 12,15,12,18,20,15,12\n4. (Medium) Salaries: 200,210,220,230,500 (1,000 RWF). Best average? Why?\n5. (Hard) Mean of 5 numbers = 12. Four: 10,14,8,16. Find fifth.",
+    "practice_answers": "1. 12.5\n2. 2\n3. Mean=14.9, Med=15, Mode=12\n4. Median (220) better, mean pulled up by 500\n5. Fifth = 12",
+    "summary": "* Mean = sum/count\n* Median = middle value\n* Mode = most frequent\n* Choose based on data and purpose",
+    "quiz": {
+      "question": "Median of 3,7,8,10,12:",
+      "options": {
+        "A": "7",
+        "B": "8",
+        "C": "9",
+        "D": "10"
+      },
+      "answer": "B"
+    },
+    "title": "Measures of central tendency",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Measures of central tendency. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Measures of central tendency into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Measures of central tendency. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Measures of central tendency: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Measures of central tendency",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Measures of central tendency."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

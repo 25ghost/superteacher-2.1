@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Apply vectors to real problems\n- Use vectors in navigation\n- Solve displacement and velocity problems",
+    "reading": "Real vector uses:\n1. Navigation: plane velocity + wind = resultant\n2. Forces: net force = vector sum\n3. Sports: ball velocity decomposed into components\n4. GPS: position vectors\n\nSteps: draw diagram, break into components, add, find resultant.",
+    "examples": "Example 1: Boat 4 m/s East, current 3 m/s South. Resultant = 5 m/s at 36.9° S of E\n\nExample 2: Car 5 km East + 12 km North. Displacement = 13 km at 67.4° from East\n\nExample 3: Forces 10 N East + 5 N West = 5 N East",
+    "practice": "1. (Easy) Plane 300 km N + 400 km E. Distance from start?\n2. (Easy) 8 N East + 2 N East. Net force?\n3. (Medium) Boat 6 m/s across, current 4 m/s. Resultant velocity?\n4. (Medium) Forces 5 N N + 12 N E. Net force magnitude and direction.\n5. (Hard) Plane 200 km/h N, wind 50 km/h E. Actual velocity?",
+    "practice_answers": "1. 500 km\n2. 10 N East\n3. ≈ 7.2 m/s, θ≈33.7°\n4. 13 N, θ≈67.4° from East\n5. ≈ 206 km/h, θ≈14° E of N",
+    "summary": "* Vectors model navigation, forces, motion\n* Add by components or tip-to-tail\n* Use Pythagoras and trig for resultant",
+    "quiz": {
+      "question": "3 N East + 4 N North. Net magnitude:",
+      "options": {
+        "A": "5 N",
+        "B": "7 N",
+        "C": "12 N",
+        "D": "1 N"
+      },
+      "answer": "A"
+    },
+    "title": "Applications of vectors",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Applications of vectors. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Applications of vectors into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Applications of vectors. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Applications of vectors: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Applications of vectors",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Applications of vectors."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

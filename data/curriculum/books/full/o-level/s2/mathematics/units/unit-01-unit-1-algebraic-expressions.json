@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 1: Algebraic Expressions.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-expansion-of-algebraic-expressions",
+      "name": "Expansion of algebraic expressions",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/01-lesson-01-expansion-of-algebraic-expressions.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-factorization-techniques",
+      "name": "Factorization techniques",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/01-lesson-02-factorization-techniques.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-algebraic-fractions",
+      "name": "Algebraic fractions",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/01-lesson-03-algebraic-fractions.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-simplification-of-rational-expressions",
+      "name": "Simplification of rational expressions",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/01-lesson-04-simplification-of-rational-expressions.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-applications-of-algebraic-expressions",
+      "name": "Applications of algebraic expressions",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/01-lesson-05-applications-of-algebraic-expressions.json",
+      "status": "ready"
+    }
+  ]
+}

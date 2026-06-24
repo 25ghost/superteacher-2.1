@@ -1,0 +1,33 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Find sample spaces for multiple events\n- List all possible outcomes systematically\n- Count outcomes using tables",
+    "reading": "Sample space S = set of all possible outcomes.\n\nFor coin + dice: S = {H1,H2,H3,H4,H5,H6,T1,T2,T3,T4,T5,T6} = 12 outcomes\n\nWe can use tables to organize outcomes:\n   | 1 2 3 4 5 6\nH | H1 H2 H3 H4 H5 H6\nT | T1 T2 T3 T4 T5 T6\n\nTables help count and visualize!",
+    "examples": "Example 1: Two dice. How many outcomes?\n6 × 6 = 36 outcomes. Can list in a table!\n\nExample 2: Coin + coin (2 coins). S = {HH, HT, TH, TT} = 4\n\nExample 3: Spinner {A,B,C} + coin.\nS = {AH,AT,BH,BT,CH,CT} = 6 outcomes",
+    "practice": "1. (Easy) Sample space for rolling a dice?\n2. (Easy) How many outcomes for coin + coin?\n3. (Medium) List sample space for spinner {1,2,3} + coin.\n4. (Medium) Two dice: how many outcomes where sum = 7?\n5. (Hard) Make a table for coin + coin. List outcomes where at least one is heads.",
+    "practice_answers": "1. {1,2,3,4,5,6}\n2. 4\n3. {1H,1T,2H,2T,3H,3T}\n4. 6 outcomes: (1,6),(2,5),(3,4),(4,3),(5,2),(6,1)\n5. HH,HT,TH (3 outcomes)",
+    "summary": "* Sample space = all possible outcomes\n* Use tables to organize\n* Multiply to count total outcomes\n* Systematic listing avoids errors",
+    "quiz": {
+      "question": "Coin + coin: how many outcomes?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "6"
+      },
+      "answer": "C"
+    },
+    "title": "Sample space for multiple events",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Sample space for multiple events. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Sample space for multiple events into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Sample space for multiple events. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Sample space for multiple events: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "tree",
+        "params": {},
+        "caption": "A probability tree showing sequential outcomes."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

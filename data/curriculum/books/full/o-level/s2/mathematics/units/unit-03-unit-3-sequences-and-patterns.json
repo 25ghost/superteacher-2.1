@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 3: Sequences and Patterns.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-arithmetic-sequences",
+      "name": "Arithmetic sequences",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/03-lesson-01-arithmetic-sequences.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-geometric-sequences",
+      "name": "Geometric sequences",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/03-lesson-02-geometric-sequences.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-finding-the-nth-term",
+      "name": "Finding the nth term",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/03-lesson-03-finding-the-nth-term.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-sum-of-sequences",
+      "name": "Sum of sequences",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/03-lesson-04-sum-of-sequences.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-real-life-applications-of-sequences",
+      "name": "Real-life applications of sequences",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/03-lesson-05-real-life-applications-of-sequences.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson, you should be able to: \n- Understand range and IQR\n- Understand data spread\n- Interpret dispersion measures",
+    "reading": "Range = largest - smallest (simple but affected by outliers).\nIQR = Q3 - Q1 (middle 50% spread).\nQ1 = median of lower half.\nQ3 = median of upper half.\n\nLarge spread = scattered data. Small spread = clustered data.\n\nIn Rwanda: temp range in Kigali ≈ 10-30°C, range=20°C.",
+    "examples": "Example 1: 10,15,22,30,45. Range=45-10=35\n\nExample 2: 4,7,9,12,15,18,21\nMedian=12, Q1=7, Q3=18, IQR=11\n\nExample 3: Class A range 10-20, Class B range 5-20. A is more consistent.",
+    "practice": "1. (Easy) Range of 3,8,12,20,25?\n2. (Easy) Q1=15, Q3=30. IQR?\n3. (Medium) Median, Q1, Q3, IQR: 5,8,10,12,15,18,20,22\n4. (Medium) Class A mean=60, range=30. B mean=60, range=70. More consistent?\n5. (Hard) 10,15,20,25,30,35. Range, Q1, Q3, IQR.",
+    "practice_answers": "1. 22\n2. 15\n3. Med=13.5, Q1=9, Q3=19, IQR=10\n4. Class A\n5. Range=25, Q1=15, Q3=30, IQR=15",
+    "summary": "* Range = max - min\n* IQR = Q3 - Q1 (middle 50%)\n* Small dispersion = consistent data",
+    "quiz": {
+      "question": "IQR stands for:",
+      "options": {
+        "A": "Inner Quartile Range",
+        "B": "Inter Quartile Range",
+        "C": "Interquartile Range",
+        "D": "Interval Quartile Range"
+      },
+      "answer": "C"
+    },
+    "title": "Measures of dispersion",
+    "deep_explanation": "1. LANGUAGE OF THE TOPIC\nWrite precise definitions for the important terms in Measures of dispersion. Add an example and a non-example for each term.\n\n2. STRUCTURE\nBreak Measures of dispersion into inputs, process or relationship, and outcome. Draw arrows between ideas that depend on one another.\n\n3. REASONING\nFor every rule or claim, ask: what conditions are required, what evidence would confirm it, and what common mistake would produce a wrong conclusion?\n\n4. TRANSFER\nApply the idea once in a familiar classroom situation and once in a new Rwandan community, workplace, environmental or economic context.",
+    "checkbox_answers": "☐ I can define the key terms without copying.\n☐ I can explain how the ideas connect.\n☐ I can apply the method to an unfamiliar case.\n☐ I can identify and correct a common mistake.\n☐ I checked my conclusion using evidence, units, logic or source text.",
+    "experiment": "Create a practical demonstration of Measures of dispersion. Record your starting assumptions, procedure, evidence, result and one improvement you would make.",
+    "assignment": "Produce a one-page mastery sheet for Measures of dispersion: a concept map, five key terms, one fully worked application, one misconception with correction, three challenge questions with answers, and a short reflection on where the topic appears outside class.",
+    "diagrams": [
+      {
+        "type": "concept_map",
+        "params": {
+          "center": "Measures of dispersion",
+          "nodes": [
+            "Key terms",
+            "How it works",
+            "Example",
+            "Check"
+          ]
+        },
+        "caption": "Visual model for Measures of dispersion."
+      }
+    ],
+    "provenance": "Migrated from the repository's archived local curriculum notes and enriched by SuperTeacher."
+  }
+}

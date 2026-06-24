@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 8: Statistics.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-frequency-distribution-tables",
+      "name": "Frequency distribution tables",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/08-lesson-01-frequency-distribution-tables.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-histograms-and-frequency-polygons",
+      "name": "Histograms and frequency polygons",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/08-lesson-02-histograms-and-frequency-polygons.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-measures-of-central-tendency",
+      "name": "Measures of central tendency",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/08-lesson-03-measures-of-central-tendency.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-measures-of-dispersion",
+      "name": "Measures of dispersion",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/08-lesson-04-measures-of-dispersion.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-cumulative-frequency-curves",
+      "name": "Cumulative frequency curves",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/mathematics/lessons/08-lesson-05-cumulative-frequency-curves.json",
+      "status": "ready"
+    }
+  ]
+}

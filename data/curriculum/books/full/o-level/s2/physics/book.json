@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "Physics",
+    "level": "S2",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-measurement-and-mechanics",
+      "name": "Measurement and mechanics",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s2/physics/units/unit-01-measurement-and-mechanics.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-matter-and-heat",
+      "name": "Matter and heat",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s2/physics/units/unit-02-matter-and-heat.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-waves-and-optics",
+      "name": "Waves and optics",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s2/physics/units/unit-03-waves-and-optics.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-electricity-and-magnetism",
+      "name": "Electricity and magnetism",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s2/physics/units/unit-04-electricity-and-magnetism.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-modern-applications",
+      "name": "Modern applications",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s2/physics/units/unit-05-modern-applications.json",
+      "status": "ready"
+    }
+  ]
+}
