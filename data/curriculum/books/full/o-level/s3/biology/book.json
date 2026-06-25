@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "Biology",
+    "level": "S3",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-cells-and-organisation",
+      "name": "Cells and organisation",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s3/biology/units/unit-01-cells-and-organisation.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-life-processes",
+      "name": "Life processes",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s3/biology/units/unit-02-life-processes.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-coordination-and-reproduction",
+      "name": "Coordination and reproduction",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s3/biology/units/unit-03-coordination-and-reproduction.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-inheritance-and-change",
+      "name": "Inheritance and change",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s3/biology/units/unit-04-inheritance-and-change.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-ecology-and-health",
+      "name": "Ecology and health",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s3/biology/units/unit-05-ecology-and-health.json",
+      "status": "ready"
+    }
+  ]
+}

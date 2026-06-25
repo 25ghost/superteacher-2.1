@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Waves and optics.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-wave-quantities",
+      "name": "Wave quantities",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/physics/lessons/03-lesson-01-wave-quantities.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-sound",
+      "name": "Sound",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/physics/lessons/03-lesson-02-sound.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-reflection-and-refraction",
+      "name": "Reflection and refraction",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/physics/lessons/03-lesson-03-reflection-and-refraction.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-lenses-and-optical-systems",
+      "name": "Lenses and optical systems",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/physics/lessons/03-lesson-04-lenses-and-optical-systems.json",
+      "status": "ready"
+    }
+  ]
+}

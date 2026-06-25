@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Matter and heat.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-density-and-pressure",
+      "name": "Density and pressure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/physics/lessons/02-lesson-01-density-and-pressure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-temperature-measurement",
+      "name": "Temperature measurement",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/physics/lessons/02-lesson-02-temperature-measurement.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-heat-transfer",
+      "name": "Heat transfer",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/physics/lessons/02-lesson-03-heat-transfer.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-thermal-expansion",
+      "name": "Thermal expansion",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/physics/lessons/02-lesson-04-thermal-expansion.json",
+      "status": "ready"
+    }
+  ]
+}

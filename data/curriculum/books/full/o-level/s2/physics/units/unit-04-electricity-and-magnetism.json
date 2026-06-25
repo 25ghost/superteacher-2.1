@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Electricity and magnetism.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-charge-and-current",
+      "name": "Charge and current",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/physics/lessons/04-lesson-01-charge-and-current.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-circuit-calculations",
+      "name": "Circuit calculations",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/physics/lessons/04-lesson-02-circuit-calculations.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-magnetic-fields",
+      "name": "Magnetic fields",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/physics/lessons/04-lesson-03-magnetic-fields.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-electromagnetic-induction",
+      "name": "Electromagnetic induction",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/physics/lessons/04-lesson-04-electromagnetic-induction.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Modern applications.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-atomic-structure",
+      "name": "Atomic structure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/physics/lessons/05-lesson-01-atomic-structure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-radioactivity-and-safety",
+      "name": "Radioactivity and safety",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/physics/lessons/05-lesson-02-radioactivity-and-safety.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-energy-technology",
+      "name": "Energy technology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/physics/lessons/05-lesson-03-energy-technology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-experimental-investigation",
+      "name": "Experimental investigation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s2/physics/lessons/05-lesson-04-experimental-investigation.json",
+      "status": "ready"
+    }
+  ]
+}
