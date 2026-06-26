@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Coordination and reproduction.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-nervous-and-hormonal-coordination",
+      "name": "Nervous and hormonal coordination",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/biology/lessons/03-lesson-01-nervous-and-hormonal-coordination.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-plant-responses",
+      "name": "Plant responses",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/biology/lessons/03-lesson-02-plant-responses.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-human-reproduction",
+      "name": "Human reproduction",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/biology/lessons/03-lesson-03-human-reproduction.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-plant-reproduction",
+      "name": "Plant reproduction",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/biology/lessons/03-lesson-04-plant-reproduction.json",
+      "status": "ready"
+    }
+  ]
+}

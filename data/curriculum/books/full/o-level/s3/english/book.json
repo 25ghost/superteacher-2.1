@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "English",
+    "level": "S3",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-listening-and-speaking",
+      "name": "Listening and speaking",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s3/english/units/unit-01-listening-and-speaking.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-language-use",
+      "name": "Language use",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s3/english/units/unit-02-language-use.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-reading",
+      "name": "Reading",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s3/english/units/unit-03-reading.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-writing",
+      "name": "Writing",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s3/english/units/unit-04-writing.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-literature",
+      "name": "Literature",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s3/english/units/unit-05-literature.json",
+      "status": "ready"
+    }
+  ]
+}

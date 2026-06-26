@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Ecology and health.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-food-chains-and-cycles",
+      "name": "Food chains and cycles",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/biology/lessons/05-lesson-01-food-chains-and-cycles.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-population-studies",
+      "name": "Population studies",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/biology/lessons/05-lesson-02-population-studies.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-disease-prevention",
+      "name": "Disease prevention",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/biology/lessons/05-lesson-03-disease-prevention.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-conservation",
+      "name": "Conservation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/biology/lessons/05-lesson-04-conservation.json",
+      "status": "ready"
+    }
+  ]
+}

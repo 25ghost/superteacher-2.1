@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Life processes.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-nutrition",
+      "name": "Nutrition",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/biology/lessons/02-lesson-01-nutrition.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-transport",
+      "name": "Transport",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/biology/lessons/02-lesson-02-transport.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-respiration",
+      "name": "Respiration",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/biology/lessons/02-lesson-03-respiration.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-excretion",
+      "name": "Excretion",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/biology/lessons/02-lesson-04-excretion.json",
+      "status": "ready"
+    }
+  ]
+}

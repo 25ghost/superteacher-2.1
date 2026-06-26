@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Acids and materials.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-acids-bases-and-indicators",
+      "name": "Acids, bases and indicators",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/chemistry/lessons/04-lesson-01-acids-bases-and-indicators.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-salts",
+      "name": "Salts",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/chemistry/lessons/04-lesson-02-salts.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-metals-and-reactivity",
+      "name": "Metals and reactivity",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/chemistry/lessons/04-lesson-03-metals-and-reactivity.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-corrosion-and-prevention",
+      "name": "Corrosion and prevention",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/chemistry/lessons/04-lesson-04-corrosion-and-prevention.json",
+      "status": "ready"
+    }
+  ]
+}
