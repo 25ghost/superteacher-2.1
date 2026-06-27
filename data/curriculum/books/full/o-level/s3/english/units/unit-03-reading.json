@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Reading.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-reading-for-main-ideas",
+      "name": "Reading for main ideas",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/english/lessons/03-lesson-01-reading-for-main-ideas.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-inference-and-evidence",
+      "name": "Inference and evidence",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/english/lessons/03-lesson-02-inference-and-evidence.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-text-structure",
+      "name": "Text structure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/english/lessons/03-lesson-03-text-structure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-critical-reading",
+      "name": "Critical reading",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/english/lessons/03-lesson-04-critical-reading.json",
+      "status": "ready"
+    }
+  ]
+}

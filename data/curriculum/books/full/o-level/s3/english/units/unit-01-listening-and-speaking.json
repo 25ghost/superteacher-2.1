@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Listening and speaking.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-active-listening",
+      "name": "Active listening",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/english/lessons/01-lesson-01-active-listening.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-discussion-skills",
+      "name": "Discussion skills",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/english/lessons/01-lesson-02-discussion-skills.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-oral-presentation",
+      "name": "Oral presentation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/english/lessons/01-lesson-03-oral-presentation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-debate-and-persuasion",
+      "name": "Debate and persuasion",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/english/lessons/01-lesson-04-debate-and-persuasion.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Writing.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-paragraph-development",
+      "name": "Paragraph development",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/english/lessons/04-lesson-01-paragraph-development.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-narrative-writing",
+      "name": "Narrative writing",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/english/lessons/04-lesson-02-narrative-writing.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-expository-writing",
+      "name": "Expository writing",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/english/lessons/04-lesson-03-expository-writing.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-formal-letters-and-reports",
+      "name": "Formal letters and reports",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/english/lessons/04-lesson-04-formal-letters-and-reports.json",
+      "status": "ready"
+    }
+  ]
+}

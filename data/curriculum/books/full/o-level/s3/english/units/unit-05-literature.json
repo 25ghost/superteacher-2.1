@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Literature.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-plot-and-setting",
+      "name": "Plot and setting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/english/lessons/05-lesson-01-plot-and-setting.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-character-and-conflict",
+      "name": "Character and conflict",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/english/lessons/05-lesson-02-character-and-conflict.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-poetry-techniques",
+      "name": "Poetry techniques",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/english/lessons/05-lesson-03-poetry-techniques.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-theme-and-interpretation",
+      "name": "Theme and interpretation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/english/lessons/05-lesson-04-theme-and-interpretation.json",
+      "status": "ready"
+    }
+  ]
+}
