@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of From idea to market.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-business-ideas",
+      "name": "Business ideas",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/entrepreneurship/lessons/02-lesson-01-business-ideas.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-market-research",
+      "name": "Market research",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/entrepreneurship/lessons/02-lesson-02-market-research.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-customer-value",
+      "name": "Customer value",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/entrepreneurship/lessons/02-lesson-03-customer-value.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-marketing",
+      "name": "Marketing",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/entrepreneurship/lessons/02-lesson-04-marketing.json",
+      "status": "ready"
+    }
+  ]
+}

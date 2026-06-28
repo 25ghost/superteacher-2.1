@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Entrepreneurial mindset.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-needs-and-opportunities",
+      "name": "Needs and opportunities",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/entrepreneurship/lessons/01-lesson-01-needs-and-opportunities.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-creativity",
+      "name": "Creativity",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/entrepreneurship/lessons/01-lesson-02-creativity.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-calculated-risk",
+      "name": "Calculated risk",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/entrepreneurship/lessons/01-lesson-03-calculated-risk.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-ethics-and-responsibility",
+      "name": "Ethics and responsibility",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/entrepreneurship/lessons/01-lesson-04-ethics-and-responsibility.json",
+      "status": "ready"
+    }
+  ]
+}

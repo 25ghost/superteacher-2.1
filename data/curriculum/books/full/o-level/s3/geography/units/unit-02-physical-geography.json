@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Physical geography.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-weather-and-climate",
+      "name": "Weather and climate",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/geography/lessons/02-lesson-01-weather-and-climate.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-rocks-and-landforms",
+      "name": "Rocks and landforms",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/geography/lessons/02-lesson-02-rocks-and-landforms.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-soils",
+      "name": "Soils",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/geography/lessons/02-lesson-03-soils.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-rivers-and-drainage",
+      "name": "Rivers and drainage",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/geography/lessons/02-lesson-04-rivers-and-drainage.json",
+      "status": "ready"
+    }
+  ]
+}

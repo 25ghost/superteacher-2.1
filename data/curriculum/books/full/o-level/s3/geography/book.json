@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "Geography",
+    "level": "S3",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-geographical-skills",
+      "name": "Geographical skills",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s3/geography/units/unit-01-geographical-skills.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-physical-geography",
+      "name": "Physical geography",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s3/geography/units/unit-02-physical-geography.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-human-geography",
+      "name": "Human geography",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s3/geography/units/unit-03-human-geography.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-economic-geography",
+      "name": "Economic geography",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s3/geography/units/unit-04-economic-geography.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-rwanda-and-sustainability",
+      "name": "Rwanda and sustainability",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s3/geography/units/unit-05-rwanda-and-sustainability.json",
+      "status": "ready"
+    }
+  ]
+}
