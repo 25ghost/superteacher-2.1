@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "ICT",
+    "level": "S3",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-computer-systems",
+      "name": "Computer systems",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s3/ict/units/unit-01-computer-systems.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-productivity-tools",
+      "name": "Productivity tools",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s3/ict/units/unit-02-productivity-tools.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-data-and-programming",
+      "name": "Data and programming",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s3/ict/units/unit-03-data-and-programming.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-networks-and-internet",
+      "name": "Networks and internet",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s3/ict/units/unit-04-networks-and-internet.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-digital-responsibility",
+      "name": "Digital responsibility",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s3/ict/units/unit-05-digital-responsibility.json",
+      "status": "ready"
+    }
+  ]
+}

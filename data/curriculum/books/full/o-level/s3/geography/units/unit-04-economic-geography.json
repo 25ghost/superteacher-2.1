@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Economic geography.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-agriculture",
+      "name": "Agriculture",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/geography/lessons/04-lesson-01-agriculture.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-industry",
+      "name": "Industry",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/geography/lessons/04-lesson-02-industry.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-transport-and-trade",
+      "name": "Transport and trade",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/geography/lessons/04-lesson-03-transport-and-trade.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-tourism",
+      "name": "Tourism",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/geography/lessons/04-lesson-04-tourism.json",
+      "status": "ready"
+    }
+  ]
+}

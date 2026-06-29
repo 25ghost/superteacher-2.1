@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Human geography.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-population",
+      "name": "Population",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/geography/lessons/03-lesson-01-population.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-settlement",
+      "name": "Settlement",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/geography/lessons/03-lesson-02-settlement.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-migration",
+      "name": "Migration",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/geography/lessons/03-lesson-03-migration.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-urbanisation",
+      "name": "Urbanisation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/geography/lessons/03-lesson-04-urbanisation.json",
+      "status": "ready"
+    }
+  ]
+}
