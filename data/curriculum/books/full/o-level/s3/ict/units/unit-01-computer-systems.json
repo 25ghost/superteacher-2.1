@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Computer systems.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-hardware-components",
+      "name": "Hardware components",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/ict/lessons/01-lesson-01-hardware-components.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-software-and-operating-systems",
+      "name": "Software and operating systems",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/ict/lessons/01-lesson-02-software-and-operating-systems.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-data-representation",
+      "name": "Data representation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/ict/lessons/01-lesson-03-data-representation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-troubleshooting",
+      "name": "Troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/ict/lessons/01-lesson-04-troubleshooting.json",
+      "status": "ready"
+    }
+  ]
+}

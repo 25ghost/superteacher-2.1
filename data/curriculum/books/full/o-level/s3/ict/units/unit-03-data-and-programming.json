@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Data and programming.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-algorithms",
+      "name": "Algorithms",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/ict/lessons/03-lesson-01-algorithms.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-programming-fundamentals",
+      "name": "Programming fundamentals",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/ict/lessons/03-lesson-02-programming-fundamentals.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-databases",
+      "name": "Databases",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/ict/lessons/03-lesson-03-databases.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-testing-and-debugging",
+      "name": "Testing and debugging",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/ict/lessons/03-lesson-04-testing-and-debugging.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Productivity tools.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-word-processing",
+      "name": "Word processing",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/ict/lessons/02-lesson-01-word-processing.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-spreadsheets",
+      "name": "Spreadsheets",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/ict/lessons/02-lesson-02-spreadsheets.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-presentations",
+      "name": "Presentations",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/ict/lessons/02-lesson-03-presentations.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-collaborative-documents",
+      "name": "Collaborative documents",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/ict/lessons/02-lesson-04-collaborative-documents.json",
+      "status": "ready"
+    }
+  ]
+}

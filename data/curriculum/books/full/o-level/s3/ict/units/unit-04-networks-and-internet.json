@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Networks and internet.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-network-concepts",
+      "name": "Network concepts",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/ict/lessons/04-lesson-01-network-concepts.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-web-research",
+      "name": "Web research",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/ict/lessons/04-lesson-02-web-research.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-digital-communication",
+      "name": "Digital communication",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/ict/lessons/04-lesson-03-digital-communication.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-cloud-services",
+      "name": "Cloud services",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/ict/lessons/04-lesson-04-cloud-services.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "book": "Ikinyarwanda",
+    "level": "S3",
+    "unit_count": 4,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-kumva-no-kuvuga",
+      "name": "Kumva no kuvuga",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s3/kinyarwanda/units/unit-01-kumva-no-kuvuga.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-ikibonezamvugo",
+      "name": "Ikibonezamvugo",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s3/kinyarwanda/units/unit-02-ikibonezamvugo.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-gusoma-no-gusesengura",
+      "name": "Gusoma no gusesengura",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s3/kinyarwanda/units/unit-03-gusoma-no-gusesengura.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-kwandika",
+      "name": "Kwandika",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/o-level/s3/kinyarwanda/units/unit-04-kwandika.json",
+      "status": "ready"
+    }
+  ]
+}
