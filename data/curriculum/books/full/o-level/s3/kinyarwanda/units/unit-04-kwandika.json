@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Kwandika.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-kubaka-igika",
+      "name": "Kubaka igika",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/kinyarwanda/lessons/04-lesson-01-kubaka-igika.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-inkuru-ngufi",
+      "name": "Inkuru ngufi",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/kinyarwanda/lessons/04-lesson-02-inkuru-ngufi.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-ibaruwa-n-itangazo",
+      "name": "Ibaruwa n'itangazo",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/kinyarwanda/lessons/04-lesson-03-ibaruwa-n-itangazo.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-inyandiko-nsesengurabitekerezo",
+      "name": "Inyandiko nsesengurabitekerezo",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/kinyarwanda/lessons/04-lesson-04-inyandiko-nsesengurabitekerezo.json",
+      "status": "ready"
+    }
+  ]
+}

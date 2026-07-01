@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Ikibonezamvugo.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-amoko-y-amagambo",
+      "name": "Amoko y'amagambo",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/kinyarwanda/lessons/02-lesson-01-amoko-y-amagambo.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-interuro-n-imyandikire",
+      "name": "Interuro n'imyandikire",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/kinyarwanda/lessons/02-lesson-02-interuro-n-imyandikire.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-ibihe-by-inshinga",
+      "name": "Ibihe by'inshinga",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/kinyarwanda/lessons/02-lesson-03-ibihe-by-inshinga.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-gukosora-amakosa",
+      "name": "Gukosora amakosa",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/kinyarwanda/lessons/02-lesson-04-gukosora-amakosa.json",
+      "status": "ready"
+    }
+  ]
+}
