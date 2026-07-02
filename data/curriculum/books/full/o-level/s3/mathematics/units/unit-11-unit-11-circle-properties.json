@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 11: Circle Properties.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-parts-of-a-circle",
+      "name": "Parts of a circle",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/11-lesson-01-parts-of-a-circle.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-circle-theorems",
+      "name": "Circle theorems",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/11-lesson-02-circle-theorems.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-angles-in-a-circle",
+      "name": "Angles in a circle",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/11-lesson-03-angles-in-a-circle.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-tangents-and-chords",
+      "name": "Tangents and chords",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/11-lesson-04-tangents-and-chords.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-applications-of-circle-properties",
+      "name": "Applications of circle properties",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/11-lesson-05-applications-of-circle-properties.json",
+      "status": "ready"
+    }
+  ]
+}

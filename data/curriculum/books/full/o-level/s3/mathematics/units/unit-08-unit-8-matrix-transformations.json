@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 8: Matrix Transformations.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-translation-matrix",
+      "name": "Translation matrix",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/08-lesson-01-translation-matrix.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-reflection-matrix",
+      "name": "Reflection matrix",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/08-lesson-02-reflection-matrix.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-rotation-matrix",
+      "name": "Rotation matrix",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/08-lesson-03-rotation-matrix.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-enlargement-matrix",
+      "name": "Enlargement matrix",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/08-lesson-04-enlargement-matrix.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-combined-transformations",
+      "name": "Combined transformations",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/08-lesson-05-combined-transformations.json",
+      "status": "ready"
+    }
+  ]
+}

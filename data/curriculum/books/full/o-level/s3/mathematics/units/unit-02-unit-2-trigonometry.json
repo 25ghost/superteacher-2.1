@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 2: Trigonometry.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-sine-rule",
+      "name": "Sine rule",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/02-lesson-01-sine-rule.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-cosine-rule",
+      "name": "Cosine rule",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/02-lesson-02-cosine-rule.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-area-of-a-triangle-using-trigonometry",
+      "name": "Area of a triangle using trigonometry",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/02-lesson-03-area-of-a-triangle-using-trigonometry.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-trigonometric-identities",
+      "name": "Trigonometric identities",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/02-lesson-04-trigonometric-identities.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-advanced-applications-of-trigonometry",
+      "name": "Advanced applications of trigonometry",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/02-lesson-05-advanced-applications-of-trigonometry.json",
+      "status": "ready"
+    }
+  ]
+}

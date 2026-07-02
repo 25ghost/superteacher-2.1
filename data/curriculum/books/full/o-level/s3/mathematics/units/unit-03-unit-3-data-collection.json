@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 3: Data Collection.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-sampling-methods",
+      "name": "Sampling methods",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/03-lesson-01-sampling-methods.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-questionnaire-design",
+      "name": "Questionnaire design",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/03-lesson-02-questionnaire-design.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-data-collection-techniques",
+      "name": "Data collection techniques",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/03-lesson-03-data-collection-techniques.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-data-presentation-methods",
+      "name": "Data presentation methods",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/03-lesson-04-data-presentation-methods.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-statistical-investigations",
+      "name": "Statistical investigations",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/03-lesson-05-statistical-investigations.json",
+      "status": "ready"
+    }
+  ]
+}

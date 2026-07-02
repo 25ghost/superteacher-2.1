@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 6: Business Mathematics.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-interest-calculations-simple-and-compound",
+      "name": "Interest calculations (simple and compound)",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/06-lesson-01-interest-calculations-simple-and-compound.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-taxation-basics",
+      "name": "Taxation basics",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/06-lesson-02-taxation-basics.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-insurance-and-premiums",
+      "name": "Insurance and premiums",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/06-lesson-03-insurance-and-premiums.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-foreign-exchange",
+      "name": "Foreign exchange",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/06-lesson-04-foreign-exchange.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-budgeting-and-financial-planning",
+      "name": "Budgeting and financial planning",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/06-lesson-05-budgeting-and-financial-planning.json",
+      "status": "ready"
+    }
+  ]
+}

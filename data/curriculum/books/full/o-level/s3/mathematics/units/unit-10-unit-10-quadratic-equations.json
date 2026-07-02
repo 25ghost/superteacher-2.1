@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 10: Quadratic Equations.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-solving-by-factorization",
+      "name": "Solving by factorization",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/10-lesson-01-solving-by-factorization.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-solving-by-completing-the-square",
+      "name": "Solving by completing the square",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/10-lesson-02-solving-by-completing-the-square.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-quadratic-formula",
+      "name": "Quadratic formula",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/10-lesson-03-quadratic-formula.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-nature-of-roots",
+      "name": "Nature of roots",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/10-lesson-04-nature-of-roots.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-applications-of-quadratic-equations",
+      "name": "Applications of quadratic equations",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/10-lesson-05-applications-of-quadratic-equations.json",
+      "status": "ready"
+    }
+  ]
+}

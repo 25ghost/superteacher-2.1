@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 7: Matrices.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-matrix-operations-addition-subtraction-multiplicatio",
+      "name": "Matrix operations (addition, subtraction, multiplication)",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/07-lesson-01-matrix-operations-addition-subtraction-multiplicatio.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-determinants",
+      "name": "Determinants",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/07-lesson-02-determinants.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-inverse-of-a-matrix",
+      "name": "Inverse of a matrix",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/07-lesson-03-inverse-of-a-matrix.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-solving-systems-using-matrices",
+      "name": "Solving systems using matrices",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/07-lesson-04-solving-systems-using-matrices.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-applications-of-matrices",
+      "name": "Applications of matrices",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/07-lesson-05-applications-of-matrices.json",
+      "status": "ready"
+    }
+  ]
+}

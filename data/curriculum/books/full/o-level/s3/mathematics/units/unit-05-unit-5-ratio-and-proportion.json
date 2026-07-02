@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 5: Ratio and Proportion.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-rates-and-ratios-in-real-life",
+      "name": "Rates and ratios in real life",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/05-lesson-01-rates-and-ratios-in-real-life.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-proportional-division",
+      "name": "Proportional division",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/05-lesson-02-proportional-division.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-map-scales-and-distance",
+      "name": "Map scales and distance",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/05-lesson-03-map-scales-and-distance.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-direct-and-inverse-proportion-in-context",
+      "name": "Direct and inverse proportion in context",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/05-lesson-04-direct-and-inverse-proportion-in-context.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-applications-in-business-and-science",
+      "name": "Applications in business and science",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/05-lesson-05-applications-in-business-and-science.json",
+      "status": "ready"
+    }
+  ]
+}

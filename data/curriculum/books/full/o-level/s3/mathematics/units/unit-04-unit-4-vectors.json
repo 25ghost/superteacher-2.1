@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 4: Vectors.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-vector-calculations",
+      "name": "Vector calculations",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/04-lesson-01-vector-calculations.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-column-vectors",
+      "name": "Column vectors",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/04-lesson-02-column-vectors.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-magnitude-of-a-vector",
+      "name": "Magnitude of a vector",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/04-lesson-03-magnitude-of-a-vector.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-vector-geometry-problems",
+      "name": "Vector geometry problems",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/04-lesson-04-vector-geometry-problems.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-applications-of-vectors-in-physics",
+      "name": "Applications of vectors in physics",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/04-lesson-05-applications-of-vectors-in-physics.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 9: Simultaneous Equations.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-solving-by-elimination",
+      "name": "Solving by elimination",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/09-lesson-01-solving-by-elimination.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-solving-by-substitution",
+      "name": "Solving by substitution",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/09-lesson-02-solving-by-substitution.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-solving-by-graphical-method",
+      "name": "Solving by graphical method",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/09-lesson-03-solving-by-graphical-method.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-solving-using-matrices",
+      "name": "Solving using matrices",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/09-lesson-04-solving-using-matrices.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-word-problems-on-simultaneous-equations",
+      "name": "Word problems on simultaneous equations",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/09-lesson-05-word-problems-on-simultaneous-equations.json",
+      "status": "ready"
+    }
+  ]
+}

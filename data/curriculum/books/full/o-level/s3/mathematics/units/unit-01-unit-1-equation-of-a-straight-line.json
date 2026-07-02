@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Unit 1: Equation of a Straight Line.",
+    "lesson_count": 5
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-slope-and-intercept",
+      "name": "Slope and intercept",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/01-lesson-01-slope-and-intercept.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-equation-forms-slope-intercept-point-slope",
+      "name": "Equation forms (slope-intercept, point-slope)",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/01-lesson-02-equation-forms-slope-intercept-point-slope.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-parallel-and-perpendicular-lines",
+      "name": "Parallel and perpendicular lines",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/01-lesson-03-parallel-and-perpendicular-lines.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-intersection-of-lines",
+      "name": "Intersection of lines",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/01-lesson-04-intersection-of-lines.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-05-applications-of-straight-line-equations",
+      "name": "Applications of straight line equations",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/mathematics/lessons/01-lesson-05-applications-of-straight-line-equations.json",
+      "status": "ready"
+    }
+  ]
+}
