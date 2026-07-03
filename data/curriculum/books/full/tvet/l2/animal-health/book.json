@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "Animal Health",
+    "level": "RQF Level 2",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-animal-anatomy",
+      "name": "Animal anatomy",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l2/animal-health/units/unit-01-animal-anatomy.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-disease-prevention",
+      "name": "Disease prevention",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l2/animal-health/units/unit-02-disease-prevention.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-clinical-observation",
+      "name": "Clinical observation",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l2/animal-health/units/unit-03-clinical-observation.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-farm-biosecurity",
+      "name": "Farm biosecurity",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l2/animal-health/units/unit-04-farm-biosecurity.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-animal-welfare",
+      "name": "Animal welfare",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l2/animal-health/units/unit-05-animal-welfare.json",
+      "status": "ready"
+    }
+  ]
+}

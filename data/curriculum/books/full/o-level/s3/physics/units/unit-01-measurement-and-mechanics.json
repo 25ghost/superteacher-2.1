@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Measurement and mechanics.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-physical-quantities-and-units",
+      "name": "Physical quantities and units",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/physics/lessons/01-lesson-01-physical-quantities-and-units.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-motion-and-graphs",
+      "name": "Motion and graphs",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/physics/lessons/01-lesson-02-motion-and-graphs.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-forces-and-newton-s-laws",
+      "name": "Forces and Newton's laws",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/physics/lessons/01-lesson-03-forces-and-newton-s-laws.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-work-energy-and-power",
+      "name": "Work, energy and power",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/o-level/s3/physics/lessons/01-lesson-04-work-energy-and-power.json",
+      "status": "ready"
+    }
+  ]
+}
