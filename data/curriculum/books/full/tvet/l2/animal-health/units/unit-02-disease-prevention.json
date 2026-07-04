@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Disease prevention.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-disease-prevention-concepts-and-terminology",
+      "name": "Disease prevention: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/animal-health/lessons/02-lesson-01-disease-prevention-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-disease-prevention-tools-materials-and-preparation",
+      "name": "Disease prevention: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/animal-health/lessons/02-lesson-02-disease-prevention-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-disease-prevention-practical-procedure",
+      "name": "Disease prevention: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/animal-health/lessons/02-lesson-03-disease-prevention-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-disease-prevention-quality-safety-and-troubleshootin",
+      "name": "Disease prevention: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/animal-health/lessons/02-lesson-04-disease-prevention-quality-safety-and-troubleshootin.json",
+      "status": "ready"
+    }
+  ]
+}

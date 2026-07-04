@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Farm biosecurity.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-farm-biosecurity-concepts-and-terminology",
+      "name": "Farm biosecurity: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/animal-health/lessons/04-lesson-01-farm-biosecurity-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-farm-biosecurity-tools-materials-and-preparation",
+      "name": "Farm biosecurity: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/animal-health/lessons/04-lesson-02-farm-biosecurity-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-farm-biosecurity-practical-procedure",
+      "name": "Farm biosecurity: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/animal-health/lessons/04-lesson-03-farm-biosecurity-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-farm-biosecurity-quality-safety-and-troubleshooting",
+      "name": "Farm biosecurity: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/animal-health/lessons/04-lesson-04-farm-biosecurity-quality-safety-and-troubleshooting.json",
+      "status": "ready"
+    }
+  ]
+}

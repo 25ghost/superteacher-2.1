@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Clinical observation.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-clinical-observation-concepts-and-terminology",
+      "name": "Clinical observation: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/animal-health/lessons/03-lesson-01-clinical-observation-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-clinical-observation-tools-materials-and-preparation",
+      "name": "Clinical observation: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/animal-health/lessons/03-lesson-02-clinical-observation-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-clinical-observation-practical-procedure",
+      "name": "Clinical observation: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/animal-health/lessons/03-lesson-03-clinical-observation-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-clinical-observation-quality-safety-and-troubleshoot",
+      "name": "Clinical observation: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/animal-health/lessons/03-lesson-04-clinical-observation-quality-safety-and-troubleshoot.json",
+      "status": "ready"
+    }
+  ]
+}

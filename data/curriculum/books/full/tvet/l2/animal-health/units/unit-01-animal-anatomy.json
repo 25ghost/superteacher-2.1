@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Animal anatomy.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-animal-anatomy-concepts-and-terminology",
+      "name": "Animal anatomy: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/animal-health/lessons/01-lesson-01-animal-anatomy-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-animal-anatomy-tools-materials-and-preparation",
+      "name": "Animal anatomy: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/animal-health/lessons/01-lesson-02-animal-anatomy-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-animal-anatomy-practical-procedure",
+      "name": "Animal anatomy: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/animal-health/lessons/01-lesson-03-animal-anatomy-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-animal-anatomy-quality-safety-and-troubleshooting",
+      "name": "Animal anatomy: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/animal-health/lessons/01-lesson-04-animal-anatomy-quality-safety-and-troubleshooting.json",
+      "status": "ready"
+    }
+  ]
+}

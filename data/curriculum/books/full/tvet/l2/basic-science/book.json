@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "Basic Science and Languages",
+    "level": "RQF Level 2",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-applied-mathematics",
+      "name": "Applied mathematics",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l2/basic-science/units/unit-01-applied-mathematics.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-applied-science",
+      "name": "Applied science",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l2/basic-science/units/unit-02-applied-science.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-technical-communication",
+      "name": "Technical communication",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l2/basic-science/units/unit-03-technical-communication.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-digital-skills",
+      "name": "Digital skills",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l2/basic-science/units/unit-04-digital-skills.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-workplace-learning",
+      "name": "Workplace learning",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l2/basic-science/units/unit-05-workplace-learning.json",
+      "status": "ready"
+    }
+  ]
+}
