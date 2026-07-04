@@ -1,0 +1,26 @@
+[
+  {
+    "key": "primary",
+    "name": "Primary School",
+    "description": "P1 - P6",
+    "icon": "P",
+    "accent": "#43A96F",
+    "file": "primary.json"
+  },
+  {
+    "key": "high_school",
+    "name": "High School",
+    "description": "S1 - S6 + TVET",
+    "icon": "HS",
+    "accent": "#367BC9",
+    "file": "high_school.json"
+  },
+  {
+    "key": "college",
+    "name": "College",
+    "description": "University & Higher Education",
+    "icon": "C",
+    "accent": "#8B68C8",
+    "file": "college.json"
+  }
+]

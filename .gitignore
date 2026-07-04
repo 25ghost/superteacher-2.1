@@ -1,0 +1,29 @@
+# Secrets and local user data
+config/api_keys.json
+config/accounts.json
+config/student_profile.json
+memory/long_term.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+
+# Build
+dist/
+build/
+*.spec
+
+# Node.js
+node_modules/
+.env

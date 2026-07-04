@@ -1,0 +1,1991 @@
+i
+MATHEMATICS SYLLABUS FOR ORDINARY LEVEL S1 ­ S3
+
+                                           Kigali, 2015
+
+                                                                                                                                                                    ii
+                                       © 2015Rwanda Education Board
+                                                 All rights reserved
+
+                       This syllabus is the property of Rwanda Education Board.
+Credit must be provided to the author and source of the document when the content is quoted.
+
+                                                                                                                                                  iii
+FOREWORD
+
+The Rwanda Education Board is honored to provide syllabuses which serve as official documents and guides to competency based
+teaching and learning in order to ensure consistency and coherence in the delivery of quality education across all levels of general
+education in Rwandan schools. The Rwandan education philosophy is to ensure that young people, at every level of education, achieve
+their full potential in terms of relevant knowledge, skills, and appropriate attitudes that help them to integrate well into society and to
+take advantage of employment opportunities.
+
+In line with efforts to improve the quality of education, the Government of Rwanda emphasizes the importance of aligning syllabuses
+and teaching, learning, and assessment approaches in order to ensure that the educational system is producing the kind of citizens the
+country needs. Many factors influence what children are taught, how well they learn, and the competencies they acquire. Among such
+factors are: the relevance of the syllabus, the quality of teachers' pedagogical approaches, assessment strategies, and the instructional
+materials available. The ambition to develop knowledge based society and the growth of regional and global competition in the job
+market have necessitated the shift to a competency based syllabus. With the help of teachers, whose role is central to the success of the
+syllabus, learners will gain appropriate skills and the ability to apply what they have learned in real life situations. Hence, they will make
+a difference not only in their own lives, but also in the success of the nation.
+
+I wish to sincerely extend my appreciation to the people who contributed to the development of this document, particularly the Rwanda
+Education Board (REB) and its staff who organized the whole process from its inception. Special appreciation goes to the development
+partners who supported the exercise throughout. Any comment or contribution is welcomed for the improvement of this syllabus.
+
+GASANA I. Janvier
+Director General REB
+
+                                                                                                                                                                                              i
+ACKNOWLEDGEMENT
+
+I wish to sincerely extend my special appreciation to the people who played a major role in the development of this syllabus. It would
+not have been successful without the participation of a range of education stakeholders and the financial support from different donors.
+For this, I would like to express my deep gratitude.My thanks firstly goes to the Rwanda Education leadership who supervised the
+curriculum review process and the Rwanda Education Board staff who were involved in the conception and writing of the syllabus. I
+wish to extend my appreciation to teachers from pre-primary to university level for their valuable efforts during the conception of the
+syllabus.
+I owe gratitude to the different education partners such as UNICEF, UNFPA, DFID and Access to Finance Rwanda for their financial and
+technical support. We also value the contribution of other education partner organisations such as CNLG, AEGIS Trust, Itorero
+ry'Igihugu, Center for Gender Sudies, Gender Monitoring Office, National Unit and Reconciliation Commission, RBS, REMA, Handicap
+International, Wellspring Foundation, Right To Play, MEDISAR, EDC/L3, EDC/Akazi Kanoze, Save the Children, Faith Based
+Organisations, WDA, MINECOFIN and local and International consultants. Their respective initiatives, co- operation and support
+significantly contributed to the successful production of this syllabus by the Curriculum and Pedagogical Material Production
+Department (CPMD).
+
+Dr. Joyce MUSABE
+Head of CPMD
+
+                                                                                                                                                                              ii
+THE LIST OF PARTICIPANTS WHO WERE INVOLVED IN THE DEVELOPMENT OF THE SYLLABUS
+
+Rwanda Education Board Staff
+    1. Dr. MUSABE Joyce, Head of CPMD, as a Facilitator
+    2. RUTAKAMIZE Joseph, Director of Science Unit
+    3. KAYINAMURA Aloys, Mathematics Curriculum Specialist
+    4. NYIRANDAGIJIMANA Anathalie, Pedagogic Norms Specialist
+
+Teachers and Lecturers
+    1. HABINEZA NSHUTI Jean Clément, Ecole Secondaire de Nyanza
+    2. NKUNDINEZA Felix, G.S. Kimironko I
+    3. NSHIMIRYAYO Anastase, Nyagatre Secondary School
+    4. NYIRABAGABE Agnès, Lycée Notre Dame de Citeaux
+    5. UNENCAN MUNGUMIYO Dieudonné, Lycée de Kigali
+
+Quality Assurers
+Dr. UWORWABAYEHO Alphonse: University of Rwanda
+
+Other Resource People
+MUREKERAHO Joseph: Consultant.
+
+                                                                                                                                                                             iii
+Table of Contents
+
+FOREWORD ................................................................................................................................................................................................... i
+ACKNOWLEDGEMENT................................................................................................................................................................................... ii
+THE LIST OF PARTICIPANTS WHO WERE INVOLVED IN THE DEVELOPMENT OF THE SYLLABUS ....................................................................... iii
+1. INTRODUCTION ..................................................................................................................................................................................... 1
+
+   1.1 Background of curriculum review .................................................................................................................................................................... 1
+   1.2 Rationale of teaching and learning Mathematics.............................................................................................................................................. 1
+
+      1.2.1 Mathematics and society....................................................................................................................................................................................................................1
+      1.2.2 Mathematics and learners ..................................................................................................................................................................................................................2
+      1.2.3 Competencies .....................................................................................................................................................................................................................................3
+
+2. PEDAGOGICAL APPROACH ..................................................................................................................................................................... 6
+   2.1 Role of the learner .......................................................................................................................................................................................... 6
+   2.2 Role of the teacher.......................................................................................................................................................................................... 7
+   2.3 Special needs education and inclusive approach .............................................................................................................................................. 8
+
+3. ASSESSMENT APPROACH ....................................................................................................................................................................... 9
+   3.1. Types of assessment........................................................................................................................................................................................ 9
+   3.1 Record keeping ............................................................................................................................................................................................. 10
+   3.2 Item writing in summative assessment .......................................................................................................................................................... 11
+   3.3 Reporting to parents ..................................................................................................................................................................................... 13
+
+4. RESOURCES ......................................................................................................................................................................................... 13
+   4.1. Learning/teaching materials .......................................................................................................................................................................... 13
+   4.2. Human Resources.......................................................................................................................................................................................... 14
+
+                                                                                                                                                                              iv
+5. SYLLABUS UNITS .................................................................................................................................................................................. 15
+   5.1. Structure of the syllabus units ....................................................................................................................................................................... 15
+   5.2. Secondary 1 syllabus units ............................................................................................................................................................................. 16
+   5.3. Secondary 2 syllabus units ............................................................................................................................................................................. 30
+   5.4. Secondary 3 syllabus units ............................................................................................................................................................................. 42
+
+6. REFERENCES ........................................................................................................................................................................................ 56
+7. APPENDIX: SUBJECTS AND WEEKLY TIME ALOCATION FOR O'LEVEL ...................................................................................................... 58
+
+                                                                                                                                                                              v
+1. INTRODUCTION
+
+    1.1 Background of curriculum review
+
+The motivation for reviewing the ordinary level Mathematics syllabus is to ensure that the syllabus is responsive to the needs of the
+learner and to shift from knowledge based learning to competence based learning. Emphasis is no longer on passive acquisition of
+knowledge, but on the development of skills and attitudes required to ensure the learner is competent in the application of knowledge.
+
+The new Mathematics syllabus guides the interaction between the teacher and the learner in the learning processes and highlights the
+competencies a learner should acquire during and at the end of each learning unit.
+
+Learners will have the opportunity to apply Mathematics in different contexts and discover its importance in daily life. Teachers will
+help learners appreciate the relevance and benefits of studying this subject.
+
+The new Mathematics syllabus is prepared for learners in all ordinary levels and must be taught six periods per week.
+
+    1.2 Rationale of teaching and learning Mathematics
+
+    1.2.1 Mathematics and society
+Mathematics plays an important role in society through training the mind to think abstractly and logically, for purposes of counting,
+calculation, measurement, and the study of shapes and motion. It is also used in natural sciences, engineering, medicine, finance, and
+social sciences. Applied Mathematics, like statistics and probability, plays an important role in game theory, in conducting a national
+census, in scientific research, etc. In addition, some cross cutting issues such as financial awareness are incorporated into some of the
+Mathematics units to improve the social and economic welfare of the Rwandan society.
+
+                                                                                                                                                                              1
+Mathematics is key to achieving Rwanda's education ambition of developing a knowledge based and technology led economy.
+Mathematics provides learners the necessary knowledge required for achieving this ambition. Moreover, Mathematics supports the
+learning of other subjects, which lends to the overall effectiveness of Rwanda's enhanced educational curriculum. This new syllabus will
+address gaps in the Rwanda's current education system, which lacks the appropriate skills and attitudes needed for achieving Rwanda's
+education ambitions.
+
+    1.2.2 Mathematics and learners
+Learners need enough basic Mathematics competencies to be effective members of the Rwandan society. For example, in order for
+learners to be responsible community members, they must be able to critically interpret the information they receive. Information
+pertaining calculations will require basic Mathematics competency. Basic Mathematics competencies needed include the ability to
+estimate, measure, calculate, interpret statistics, assess probabilities, and read commonly used mathematical representations and
+graphs.
+
+Therefore, acquiring Mathematics competencies will equip learners with the knowledge, skills, and attitudes necessary for success in an
+era of rapid technological growth and socio-economic development. Mastery of basic mathematical ideas and computations will help
+learners become more confident problem-solvers. It will promote systemic and critical thinking, develop imagination and creativity, and
+boost self-confidence and adaptability.
+
+Mathematics plays an important role at all levels of study as the learning process requires learners to engage in practical problem-
+solving and investigative activities, which the learning of Mathematics helps to support.
+
+                                                                                                                                                                              2
+    1.2.3 Competencies
+Competence is defined as the ability to perform a particular task successfully, resulting from having gained an appropriate combination
+of knowledge, skills, and attitudes.
+
+The Mathematics syllabus gives learners the opportunity to develop different competencies in addition to the generic competencies.
+
+Generic competencies and broad Mathematics competencies are described below and in the learning objectives highlighted on a yearly
+basis and in each of the learning units. Teachers will ensure that learners participate in learning activities that help learners acquire the
+desired knowledge, skills, and attitudes.
+
+Generic competencies and values
+Critical and problem solving skills: Learners use different techniques to solve mathematical problems they will encounter in real life.
+They are prompted to think in mathematical terms, such as constructing and applying mathematical ideas and concepts. The acquisition
+of such skills will help learners to think imaginatively and broadly so as to evaluate and find solutions to problems encountered in real
+life situations.
+
+Creativity and innovation: The acquisition of such skills will help learners to take initiative and use their imagination to generate new
+ideas and construct new concepts. Learners will improve these skills through Mathematics competitions and other activities.
+
+Research: This will help learners find answers to questions based on existing information and concepts as well as to explain phenomena
+based on findings from gathered information.
+
+                                                                                                                                                                              3
+Communication in official languages: Learners are able to effectively communicate their findings through explanations, arguments, and
+drawing relevant conclusions. Teachers, irrespective of whether they are language instructors, will ensure learners use the language of
+instruction properly. This will help learners communicate more effectively in written and spoken language and to do so in proper
+English and/or Kinyarwanda.
+
+Cooperation, inter personal management, and life skills: Learners participate in cooperative learning groups to promote higher
+achievement than do competitive and individual work. This will enhance learners' ability to collaborate with others as a team and to
+practice positive ethical moral values and respect for the rights, feelings, and views of others.
+
+Lifelong learning: The acquisition of such skills will help learners to build on their knowledge and enhance their skills with minimum
+external support and to adapt to changes in their environments. This will keep learners stay abreast on new discoveries and best
+practices.
+
+Broad Mathematics competencies
+
+During and at the end of the learning process, the learner should be able to:
+     Use correctly mathematical language, vocabularies, and symbols in developing mathematical concepts and solving problems in
+         Mathematics
+     Think logically, creatively, and coherently.
+     Apply acquired knowledge in Mathematics to solve problems encountered in everyday life.
+     Adapt the acquired concepts to the study of other subjects.
+     Model correctly a given mathematical situation using a picture or a mathematical sentence while solving Mathematics problems
+         related to daily life situations.
+
+                                                                                                                                                                              4
+     Read and interpret a graph.
+     Use acquired mathematical skills to build team spirit, collaboration, self-confidence, and time management without supervision.
+     Use ICT tools to explore Mathematics (examples: calculators, computers, mathematical software, etc.).
+Mathematics and developing competencies
+The national policy documents based on national aspirations identify some `basic competencies' alongside `generic competencies'' that
+will develop higher order thinking skills and the ability to apply the knowledge and skills acquired to real life situations. Through
+observations, constructions, hands-on practice, using symbols, applying and generalizing mathematical ideas, and presenting
+information learned during the learning process, the learner will not only develop deductive and inductive skills, but also acquire
+cooperation, communication, critical thinking, and problem solving skills. Teacher will have a better idea if such competencies have
+been acquired through end of learning unit presentations. Learners will develop these competencies through group work and
+cooperative learning, which in turn will promote interpersonal relationships and teamwork.
+The acquired knowledge in learning Mathematics should lend to developing a responsible citizen who uses scientific reasoning and is
+confident in reasoning independently. The learner should show respect for individual attitudes, protecting the environment, and
+complying with the scientific method of reasoning. The scientific method should be applied with the necessary rigor and intellectual
+honesty to promote critical thinking.
+
+                                                                                                                                                                              5
+   2. PEDAGOGICAL APPROACH
+
+The purpose of shifting the curriculum from knowledge to competence based is to transform learning so that learning is effective,
+enjoyable, and habit forming.
+
+    2.1 Role of the learner
+
+In a competence based syllabus, the learner is the principal actor of his/her education. He/she is not an empty bottle to fill. Taking into
+account the initial capacities and abilities of the learner, the syllabus lists learning activities under each unit to engage learners in
+participating in the learning process.
+
+The teaching-learning processes will be tailored towards creating a learner friendly environment based on the capabilities, needs,
+experiences, and interests of the learner. The following is a list of learner roles and expectations:
+
+     Learners will actively acquire knowledge individually or in groups. From the learning theory, learners will move from a concrete
+         understanding of concepts to pictorial and abstract understanding. Therefore, learning opportunities should be given to learners
+         which allow them to manipulate concrete objects and use models.
+
+     Learners will be encouraged to use calculators. This will prepare them for real life situations, particularly in work settings where
+         a calculated will be used. Frequent use of calculators can enhance learners' understanding and mastering of arithmetic.
+
+     Learners will work on one competency at a time in the form of concrete units with specific learning objectives, which are broken
+         down into knowledge, skills, and attitude.
+
+     Learners will be encouraged to do research and present their findings in group.
+     A learner is expected to be cooperative. Learners will work in diverse group settings to increase tolerance and understanding of
+
+         diversity.
+
+                                                                                                                                                                              6
+     Learners will be responsible for their own participation and ensure the efficacy of their work.
+     When in group settings, learners will seek help from teachers only when the entire group has agreed to seek assistance.
+     Learners will encourage active participation from all group members and will discourage others from taking credit of work they
+
+         did not contribute to. Learners are discouraged from monopolizing work tasks and responsibilities.
+
+    2.2 Role of the teacher
+In a competencebased syllabus, the teacher actsas a facilitator, organiser, advisor, conflict resolver, and role model. A teacher's specific
+duties in acompetence-based approach are as follows:
+
+     He/she is a facilitator whose role is to provide opportunities for learners with interesting and challening problems that they can
+         solve given their capabilities and the resources available.This requires elaborative class preparation to plan learning activities
+         andidentify where such activities will take place and if any assistance is required.
+
+     He/she is an organizer whose role is to organize the learners inside and outside the classroom and engage them in participatory
+         and interactive learning activities, which will be carried out independently, in pairs, or in groups. To ensure that the learning is
+         personalized, participatory, and co-operative, the teacher must identify the needs of the learners, the nature of the learning to be
+         done, and the means to shape learning experiences accordingly.
+
+     He/she is an advisor whose role is to provide counseling and guidance to all learners, particulalry those with special needs.
+         He/she will comfort and encourage learners to actively participate in the learning process by valuing learners' contributions to
+         learning activities.
+
+                                                                                                                                                                              7
+     He/she is a conflict-solver whose role is to assist in conflict resolution when learners are working in groups. For example, should
+         members of a group have problems assigning tasks, teahcers should constructively intervene to assist learners in resolving the
+         issue.
+
+     He/she is a role model who role is to be impartial and account for the needs of each learner, particularly for slower learners and
+         those with physical disabilties. He/she may do so by providing remedial activities to reinforce lessons learned.
+
+Please be aware that this list in not exhaustive.
+    2.3 Special needs education and inclusive approach
+
+All Rwandans have the right to education regardless of their needs. As such, they have the right to access and gain from the same menu
+of educational programs provided by the Government of Rwanda. This is true for learners whose different ways of living and learning do
+not align to that of the majority. This difference can either be emotional, physical, sensory, and/or intellectual, which is traditionally
+known as having some sort of mental retardation or learning challenge.
+These learners are equally entitled to benefit from the free and compulsory basic education provided in public schools. Therefore, the
+school's role is to enroll them and set strategies to provide effective learning. In this way, the teacher is requested to consider each
+learner's needs during teaching and throughout the learning process. Assessment strategies and conditions should also be standardised
+to the needs of these learners. Detailed guidance for each category of learners with special education needs is provided for in the
+guidance for teachers.
+
+                                                                                                                                                                              8
+   3. ASSESSMENT APPROACH
+
+Assessment is the process of evaluating the teaching and learning processes through collecting and interpreting evidence of each
+learner's progress in learning and to make a judgment about a learner's achievements measured against defined standards. Assessment
+is an integral part of the teaching learning processes. In the new competence based curriculum, assessment must also be competence
+based whereby a learner is given a complex situation related to his/her everyday life and asked to try to overcome the situation by
+applying what he/she has learned.
+
+Assessment will be organized at the following levels: School-based assessment, district examinations, national assessment (LARS), and
+national examinations.
+
+    3.1. Types of assessment
+3.1.1 Formative and continuous assessment (assessment for learning)
+Formative assessments help to check the efficiency of the learning process. It is done within the teaching/learning process.Continuous
+assessment involves formal and informal methods used by schools to check whether learning is taking place. When a teacher is planning
+his/her lesson, he/she should establish criteria for performance and behavior changes at the beginning of a unit. Then at the of end of
+each unit, the teacher should ensure that all the learners have mastered the stated key unit competencies based on the criteria stated at
+the beginning of the unit before moving on to the next unit. The teacher will assess how well each learner has mastered both the subject
+and the generic competencies described in the syllabus. From these assessments, the teacher will gain a holistic understanding of the
+learner's progress in mastering the subject. The teacher will use one or a combination of the following: (a) observation (b) pen and
+paper (c) oral questioning.
+
+                                                                                                                                                                              9
+3.1.2 Summative assessment (assessment of learning)
+When assessment is used to record a judgment of a competence or performance of the learner, it serves a summative purpose.
+Summative assessments provide a picture of a learner's competence or progress at any specific moment. The main purpose of
+summative assessment is to evaluate whether learning objectives have been achieved and to use the results for the ranking or grading of
+learners for deciding on progression, for selection into the next level of education, and for certification. This assessment should have an
+integrative aspect whereby a student must be able to show mastery of all competencies.
+
+A summative assessment can be an internal (such as a classroom examination), school based, or external assessment (such as a national
+examination). School based summative assessments should take place once at the end of each term and once at the end of the year. The
+average scores for school summative assessments for each subject will be weighted and included in the final national examinations
+grade. Average school based assessment scores will contribute to a certain percentage of the final grade. As teachers gain more
+experience and confidence in assessment techniques, average school based assessments, in the third year of the implementation of the
+new curriculum, will contribute to 10% of the final grade, but will progressively increase in significance. Districts will be supported to
+continue their initiatives to organize a common test per class for all schools to evaluate the performance and achievement levels of
+learners in individual schools. External summative assessment will be done at the end of Primary 6, S 3, and S6.
+
+3.1 Record keeping
+This is gathering facts and evidence from assessment instruments and using them to judge the student's performance by assigning an
+indicator against the set criteria or standard. Whatever assessment procedures used shall generate data in the form of scores which will
+be carefully be recorded and stored in a portfolio because they will contribute for remedial actions, for alternative instructional strategy
+
+                                                                                                                                                                             10
+and feed back to the learner and to the parents to check the learning progress and to advice accordingly or to the final assessment of the
+students.
+This portfolio is a folder (or binder or even a digital collection) containing the student's work as well as the student's evaluation of the
+strengths and weaknesses of the work. Portfolios reflect not only work produced (such as papers and assignments), but also it is a
+record of the activities undertaken over time as part of student learning. Besides, it will serve as a verification tool for each learner that
+he/she attended the whole learning before he/she undergoes the summative assessment for the subject.
+
+3.2 Item writing in summative assessment
+Before developing an assessment tool, a plan or specification of what is to be tested or examined must be specified to show the units or
+topics to be tested on, the number of questions in each level of Bloom's taxonomy, and the marks allocated for each question. In a
+competency based curriculum, questions from higher levels of Bloom's taxonomy should be given more weight than those from
+knowledge and comprehension level. Before developing an assessment tool, the item writer must ensure that the test or examination
+questions are tailored towards competency based assessment by doing the following:
+
+     Identify topic areas to be tested on from the subject syllabus.
+     Outline subject matter content to be considered as the basis for the test.
+     Identify learning outcomes to be measured by the test.
+     Prepare a table of specifications.
+     Ensure that the verbs used in the formulation of questions do not require memorization or the mere recalling of answers only,
+
+         but testing broad competences as stated in the syllabus.
+
+                                                                                                                                                                             11
+Structure and format of examination
+
+There will be one paper in Mathematics at the end of Secondary 3. The paper will be composed by two sections, where the first section
+will be composed with short answer items or items with short calculations which include the questions testing for knowledge and
+understanding, investigation of patterns, quick calculations and applications of Mathematics in real life situations.
+The second section will be composed with long answer items or answers with simple demonstrations, constructions, calculations,
+simple analysis , interpretation and explanations. The items for the second section will emphasize on the mastering of Mathematics
+facts, the understanding of Mathematics concepts and its applications in real life situations. In this section, the assessment will find out
+not only what skills and facts have been mastered, but also how well learners understand the process of solving a mathematical problem
+and whether they can link the application of what they have learned to the context or to the real life situation. The Time required for the
+paper is three hours (3hrs).
+The following topic areas have to be assessed: algebra; metric measurements (money & its application); proportional reasoning;
+geometry; statistics and probability. Topic areas with more weight will have more emphasis in the second section where learners should
+have the right to choose to answer 3 items out of 5.
+
+                                                                                                                                                                             12
+3.3 Reporting to parents
+The wider range of learning in the new curriculum means that it is necessary to think about how to share learners' progress with
+parents. A single mark is not sufficient to convey the different expectations of learning which are in the learning objectives. The most
+helpful reporting is to share where students are doing well and where they need to improve.
+
+4. RESOURCES
+
+    4.1. Learning/teaching materials
+The following is a list of learning/teaching materials and/or equipment needed:
+
+          Materials for group work and presentations: Computers (desk tops and/or laptops), projectors, manila papers, and markers.
+          Materials for drawing and measuring geometrical figures, shapes, and graphs: Geometric instruments, ICT tools such as
+
+             geogebra, Microsoft student ENCARTA, etc.
+          Materials forenhancing research skills: Textbooks and the internet (A list of textbooks to consult is provided in the reference
+
+             section at the end of the syllabus. These books are provided in hardcopy and/or softcopy).
+          Materials to encourage the development of mathematical models: Scientific calculators, Math type, Matlab, etc.
+The technologyused in teaching and in the learning of Mathematics should be regarded as tools to enhance the teaching and learning
+process. Such technology does not replace teachers.
+
+                                                                                                                                                                             13
+    4.2. Human Resources
+In order to effectively implent this curriculum, joint collaboration of educators at all levels is needed. Given the material requirements,
+teachers are expected to accomplish their noble roles as stated above. As for head teachers and directors of studies, they are required to
+follow-up and assess the teaching and learning of this subject. These combined efforts will ensure bright careers and lives for learners as
+well as the contemporary development of the country.
+
+Mathematics teachers at the ordinary level should have a firm understanding of mathematical concepts at the leavel he/she teaches.
+He/she should be well qualified to teach Mathematics. He/she should have a firm ethical conduct and possess the qualities of a good
+facilitator, organizer, problem solver, listener, and adviser. He/she is required to have basic skills and competency of guidance and
+counseling because students may come to him or her for advice.
+
+Skills required for teaching Mathematics
+Mathematics teachers should have the following skills, values, and qualities:
+
+     Engage learners in variety of learning activities.
+     Use multiple teaching and assessment methods.
+     Adjust instruction to the level of the learners.
+     Creatively and innovatively facilitate learning.
+     Be a good communicator and organizer.
+     Councel and advice students.
+     Be passionate about learner's acquiring knowledge, skills, and values.
+     Link Mathematics to other subjects and real life situations.
+     Have a good mastery of the Mathematics content.
+     Have good classroom management skills.
+
+                                                                                                                                                                             14
+5. SYLLABUS UNITS
+
+    5.1. Structure of the syllabus units
+Mathematics subject is taught and learnt in lower secondary education as a core subject, i.e. in Senior 1, Senior 2, and Senior 3
+respectively. At every grade, the syllabus is structured to account for topic areas, sub-topic areas, and where applicable, broken down
+further to promote the uniformity, effectiveness, and efficiency of teaching and learning Mathematics. The units have the following
+elements:
+
+     Each unit contains a certain number of lessons.
+     Each of the unit's key unit competencies is describe in the key unit competency box. All teaching and learning activities should
+
+         focus on achieving this end.
+     Each key unit competency is broken into three types of learning objectives as follows:
+
+             o Type I: Learning objectives related to knowledge and understanding (Type I learning objectives are also known as lower
+                  order thinking skills or LOTS).
+
+             o Type II and Type III: Learning objectives related to the acquisition of skills, attitudes and values (Type II and Type III
+                  learning objectives are also known as higher order thinking skills or HOTS. These learning objectives are considered the
+                  ones targeted by the present reviewed curriculum.
+
+     The content of each unit indicates the scope of what is to be taught and learnt as they relate to learning objectives.
+     Each unit provides a list of suggested learning activities that are expected to engage learners in as much of an interactive learning
+
+         process as possible. This process is learner-centered and takes a participatory approach). This list of learning activities is not
+         exhaustive.
+     Each unit is linked to other subjects, assessment criteria, and materials (or resources) needed in the teaching and learning
+         process.
+
+                                                                                                                                                                             15
+The Mathematics syllabus for ordinary level has six topic areas: Algebra, measures, proportional reasoning, geometry, statistics, and
+probability. There are nine units in Secondary1, eleven in Secondary 2 and thirteen in Secondary3.
+5.2. Secondary 1 syllabus units
+5.2.1 Key competencies by the end of Secondary 1
+By the end of Secondary 1 (S1), a student of Mathematics should be able to:
+
+     Correctly use simple language structure, vocabulary, and suitable symbolism for ordinary level Mathematics.
+     Correctly carry out numerical calculations.
+     Solve simple equations of an unknown.
+     Use methodical and coherent reasoning in solving mathematical problems.
+     Solve problems related to percentage, unitary method, movement, interest, division, surface area, and volume of figures.
+     Use geometrical instruments to correctly draw figures and describe these figures using appropriate terms.
+     Locate area position from numerical data.
+     Make simple charts, graphs, or diagrams from a series of a statistical data.
+     Interpret simple diagrams and statistics, recognisingthe ways in which representations can be misleading.
+     Determine the probability of an event happening under equally likely assumptions.
+
+                                                                                                                                                                             16
+               5.2.2. Secondary 1 unit contents
+
+TOPIC AREA: ALGEBRA
+
+S.1 Mathematics              Unit 1: Sets.                                                                 No. of periods :30
+
+Key unit competency: To be able to use sets, Venn diagrams, and relations to represent situations and solve problems.
+                                 Learning objectives
+
+Knowledge and                Skills                       Attitudes and              Content                           Learning activities
+understanding                                                 values
+
+- Define and give            - Use sets to group and - Appreciate how - Set concept: Definition of set,    - In groups, learners act as various
+  examples of sets.
+                             classify according to        sets, Venn     notation, examples (subsets of    Venn diagrams with rules for sets (e.g.
+- Indicate what a
+  specified region in a      given conditions.            diagrams, and natural numbers like even          students are numbered and sort
+  Venn diagram
+  represents, using          - Use Venn diagrams to       relations can be numbers, odd numbers, prime     themselves according to different
+  connecting words (and,
+  or, not) or set notation.  represent information. used to              numbers, etc.), cardinal number, rules like even numbers, odd
+
+- Show how sets are used     - Find intersection, union, represent       Venn diagrams, complement,        numbers, prime numbers, etc.)
+  in representing given
+  information.               complement, difference, situations          intersection, union, set difference, - Represent practical experiences in
+
+- Observe a contextual       and symmetrical              mathematically symmetric difference.             Venn diagrams and using the notation
+  problem that involves
+  sets, record the           difference on sets.          .              - Relations: Mappings, ordered pair, and symbols of sets, including, union
+  solution using set
+  notation, and give         - Represent relations                       Cartesian product, domain and     ( ), intersection ( ), subset
+  explanations.                between sets as
+                               mappings and graphs.                      range, graph of a relation,       (  ), complement, difference,
+- Demonstrate algebraic
+  and graphical              - Use sets and relations to                 equivalence relation (reflexive,  symmetrical difference (  ).
+  reasoning through the        solve problems.
+                                                                         symmetric, and                    - In pairs, create sets of ordered pairs
+
+                                                                         transitive),particular            using the Cartesian product
+
+                                                                         relations(function, mapping,      - In pairs, explore relations between
+
+                                                                         injection/one to one,             sets (objects, shapes, and numbers)
+
+                                                                         surjection/onto, bijections/one to and define domain and range, and
+                                                                         one and onto).
+                                                                                                           create mappings.
+                                                                         - Inverse relation, composite
+                                                                                                           - Individually, illustrate given relations
+                                                                         relations.
+
+                                                                                                                               17
+  study of relations.                                                                                           between sets of numbers using a
+- Identify different types                                                                                      Cartesian plane and show its
+                                                                                                                elements in terms of couples/ordered
+  of relations between                                                                                          pairs.
+  sets.                                                                                                       - In groups, investigate when inverse
+                                                                                                                relations are possible and identify the
+                                                                                                                criteria.
+                                                                                                              - In pairs, verify if a given relation is an
+                                                                                                                equivalence relation or a composite
+                                                                                                                one.
+
+Links to other subject: Any subject where classification is important (e.g. biology, geography, physics, financial education).
+
+Assessment criterion: Can use sets, Venn diagrams, and relations to represent situations and solve problems.
+
+Materials: Cards for acting out scenarios.
+
+                                                                                                                                18
+TOPIC AREA: ALGEBRA
+
+S.1 Mathematics              Unit 2: Sets of numbers.                                                                No. of periods:36
+
+Key unit competency: To be able to use operations to explore properties of sets of numbers and their relationships.
+                                      Learning objectives
+
+Knowledge and                Skills                    Attitudes and values                   Content                Learning activities
+understanding
+
+- Identify sets of           - Carry out mathematical - Appreciate that rational -  Vocabulary and notations for     - In groups, add, subtract,
+  numbers (natural,
+  integer, rational, and     operations on sets of     numbers can be               different sets of numbers.       multiply, and divide pairs of
+  real) and relationships
+  between them.              numbers.                  represented exactly as a -   Set of numbers and its subsets:  natural numbers. For which
+
+- Illustrate different sets  - Work systematically to fraction or a decimal         Natural numbers, integers, rational of these operation(s) is the
+  of numbers on a
+  number line.               determine the operation which may terminate or         numbers, irrational numbers, and answer
+
+- Show that irrational       properties of sets of     recur.                       real numbers.                    always/sometimes/never a
+  numbers cannot be
+  expressed exactly as a     numbers.               - Appreciate that the       -   Four operations and properties on natural number. Repeat for
+  decimal.
+                             - Determine the hierarchy number line is               sets of numbers.                 integers, rational numbers,
+
+                             of sets of numbers and incomplete without the -        The relationship between sets of and real numbers.
+
+                             explain its relationship irrational numbers            numbers.                         - Individually, construct a
+
+                             with operations.          which cannot be written                                       Venn diagram to illustrate
+
+                             - Convert between decimal exactly as a decimal.                                         the relationship between
+
+                             and fraction                                                                            two or more sets of numbers.
+
+                             representations of                                                                      - In pairs, investigate the
+
+                             rational numbers.                                                                       decimal representation of
+
+                                                                                                                     rational numbers and
+
+                                                                                                                     determine why the decimal
+
+                                                                                                                     is terminating or recurring.
+
+Links to other subject: Biology, English, computer science, geography, chemistry, physic, economics, finance, accounting, construction etc.
+Assessment criterion: Can use operation to explore properties of sets of numbers and their relationships.
+Materials: Text books, manila paper, and calculators.
+
+                                                                                                                                             19
+TOPIC AREA: ALGEBRA
+
+S.1 Mathematics              Unit 3: Linear functions, equations, and inequalities.                                    No. of periods:36
+
+Key unit competency: To be able to represent and interpret graphs of linear functions and apply them in real life situations; solve linear equations and
+inequalities; appreciate the importance of checking solutions; and represent the solution.
+
+                                      Learning objectives
+
+Knowledge and                Skills                       Attitudes and values               Content                   Learning activities
+understanding
+
+-Define a linear function - Plot linear functions on - Appreciate the             - Linear functions: Definition,      - In groups, systematically
+
+and recognize its graph. the Cartesian plane.             importance of checking  notation and                         investigate different values
+
+-Illustrate that a linear - Interpret the graph of a solutions when solving       examples;           ; Cartesian      of m and c in      (best
+
+function is written in the linear function linking an equation or                    plane and coordinates; graph of    done using graph plotting
+                                                                                     linear function and its features   software) to develop
+form              , where c    the parameters of the      inequality and             (intercepts, steepness).           intuitive understanding.
+                               function with the          represent the equation  - Equations and inequalities with     Generalize how to find
+is the y-intercept, m is a     features of the graph,     in a graph and number      one unknown: Solve linear          intercepts and determine
+                               including intercepts and   line.                      equations with one unknown and     steepness. Plot some
+measure of steepness,          steepness.                                            represent the solution             examples by hand to
+                             - Solve linear equations                                graphically; solve linear          illustrate findings
+and the solution of the        and the solution                                      inequalities in one unknown and   - In pairs, solve linear
+                               graphically.                                          represent the solution on a        equations and relate the
+equation          is         - Solve linear inequalities                             number line; model and solve       solution to a graph.
+                               in one unknown and                                    problems using linear functions,  - In pairs, solve linear
+the x-intercept.                                                                     equations, and inequalities.       inequalities and record
+                                                                                                                        solutions on a number line.
+-Explain what is meant by                                                                                              - In groups, research contexts
+                                                                                                                        where linear functions,
+the solution of a linear                                                                                                equations, and inequalities
+
+equation and inequality.
+
+                             represent the solution on
+
+                             a number line.
+
+                             - Check solutions to
+
+                             equations and
+
+                             inequalities by
+
+                             substituting one side of
+
+                                                                                                                                      20
+  the original equation.  are relevant. Present finds to
+- Use linear functions,   class.
+
+  equations, and
+  inequalities to model
+  situations and solve
+  problems.
+
+Links to other subject: Science and economics.
+Assessment criterion: Can represent and interpret graphs of linear functions and apply them in real life situations. Cans solve linear equations and
+inequalities, appreciate the importance of checking solution, and represent the solution.
+Materials: Digital technology such as graph plotting software.
+
+                          21
+TOPIC AREA: METRIC MEASUREMENT (MONEY)
+
+S.1 Mathematics             Unit 4: Percentage, discount, profit, and loss.                                            No. of periods:12
+
+Key unit competency: To be able to solve problems that involves calculating percentage, discount, profit, loss, and other financial calculations.
+                                      Learning objectives
+
+Knowledge and               Skills                          Attitudes and values            Content                    Learning activities
+understanding
+
+- Explain how to calculate  - Use percentages to            - Appreciate the role money -   Percentages.               - In groups research and discuss the
+   discount, commission,     calculate discount,                                            Discount.                    use of percentages in business,
+   profit and loss, simple   commission, profit, loss,      plays in our lives.          -  Commission.                  households, and personal finance.
+   interest, tax.            interest, taxes                                                Profit and loss.             Prepare a poster.
+                                                            - Be honest in managing and -   Loans and savings (simple
+                            - Solve problems involving:                                     interest only).            - In groups, determine the best value
+                             Discount, commission,          using money.                 -  Tax and insurance.           for money with different discount
+                             profit, loss, loans, savings,                                                               arrangements.
+                             tax and insurance.             - Appreciate that saving and -
+                                                                                                                       - In pairs, solve problems involving
+                                                            investing money can                                          simple interest, discount, profit,
+                                                                                                                         and loss.
+                                                            increase your wealth.        -
+
+                                                            - Appreciate the importance
+
+                                                            of paying taxes.
+
+Links to other subject: Personal finance, economics, entrepreneurship, finance, accounting, business administration, and other related fields.
+Assessment criterion: Can solve problems that involve calculating percentage, discount, profit, loss, and other financial calculations.
+Materials: Coins, bills, receipts, electronic material, ATM cards.
+
+                                                                                                                                                22
+TOPIC AREA: PROPORTIONAL REASONING                                                                   No. of periods:12
+S.1 Mathematics Unit 5: Ratio and proportions.
+
+Key unit competency: To be able to solve problems involving ratio and proportion.
+                                     Learning objectives
+
+Knowledge and              Skills                      Attitudes and values        Content                    Learning activities
+understanding
+
+- Express ratios in their  - Compare quantities        - Appreciate the       - Ratio, proportion, and - In groups, solve problems involving
+ simplest form.             using proportions.           importance of
+                                                         multiplication when  sharing.               direct and inverse proportions, ratios,
+- Identify a direct and    - Share quantities in a       working with ratio
+ indirect proportion.       given proportion or          and proportion.      - Applying ratio and   and sharing. Adjust recipe amounts
+                            ratio.
+- Differentiate direct                                                        proportion in practical for different numbers of people.
+ from indirect             - Apply ratio and
+ proportion.                unequal sharing to                                and everyday contexts. - In pairs, match different
+                            solve given problems.
+                                                                              - Direct and indirect  representations of ratios and
+                           - Solve real life problems
+                            involving direct and                              proportional           proportions including simplest form.
+                            indirect proportions
+                            using tables and                                  relationships in practical - In groups, interpret and explain ratios
+                            graphs.
+                                                                              contexts.              and proportions in maps, scale
+                           - Interpret ratio and
+                            proportions in practical                                                 drawings, and models.
+                            contexts.
+                                                                                                     - In pairs, solve problems in practical
+
+                                                                                                     contexts involving direct and indirect
+
+                                                                                                     proportions using tables of values and
+
+                                                                                                     graphs.
+
+Links to other subject: Subjects that require proportional reasoning such as biology, physics, computer science, chemistry, economics, personal finance etc.
+Assessment criterion: Can solve problems involving ratio and proportion in a variety of contexts.
+Materials: Calculators and digital materials such as computers, software, interactive multi-media content.
+
+                                                                                                                                   23
+TOPIC AREA: GEOMETRY
+
+S.1 Mathematics              Unit 6: Points, lines, and angles.                                               No. of periods:36
+
+Key unit competency: To be able toconstruct mathematical arguments using the angle properties of parallel lines.
+                                   Learning objectives
+
+Knowledge and                Skills                    Attitudes and values      Content                                Learning activities
+understanding
+
+- Recognize that the         - Use knowledge of        - Appreciate the need to  - Segments, rays, lines, and - Fold a paper triangle to bring all
+  position of an angle at a    angle properties of       give reasons when
+  point sum to 360o;           parallel lines and        developing solutions    acute, right, obtuse and     angles together at a point. In groups
+  angles at a point on a       shapes to construct       to missing angle
+  straight line sum to         arguments when            problems.               reflex angles.               discuss why this works.
+  1800.                        finding missing angles
+                               in geometric            - Value a variety of      - Parallel and transversal
+- Distinguish and              diagrams.                 different approaches
+  recognize vertically                                   to reach the same       lines and their properties.
+  opposite, corresponding,   - Construct and             conclusion.
+  alternate, and               calculate angles.                                 - Constructing
+  supplementary angles.
+                                                                                 mathematical arguments
+
+                                                                                 using angle properties of
+
+                                                                                 parallel lines and shapes. - In pairs, draw two parallel lines and a
+
+                                                                                                              transversal, identify all angles that are
+
+                                                                                                              equal (measure to check). Identify
+
+                                                                                                              vertically opposite, corresponding,
+
+                                                                                                              alternate, and supplementary angles.
+
+                                                                                                              Create a glossary of terms.
+
+                                                                                                              - In groups, solve missing angle problems,
+
+                                                                                                              giving reasons for each step in the
+
+                                                                                                              process.
+
+Links to other subject: Physics, construction, engineering, geography, fine arts, scientific drawing.
+Assessment criterion: Can construct mathematical arguments using the angle properties of parallel lines.
+Materials: Manila papers, geometrical instruments, Digital technology such as graph plotting software, interactive multimedia content.
+
+                                                                                                                                           24
+TOPIC AREA: GEOMETRY                                                                       No. of periods :24
+S.1 Mathematics Unit 7: Solids.
+
+Key unit competency: To be able to select and use formulae to find the surface area and volume of solids.
+                          Learning objectives
+
+Knowledge and            Skills                   Attitudes and     Content                                Learning activities
+understanding                                         values
+
+- Explain the surface    - Derive the surface     - Appreciate the  - Components of        - In small groups, count the number of faces (f), number of
+ area of a solid as the   area for prisms and       difference       solids: Faces,         vertices (v), and number of edges(e) for a variety of solid
+ area of the net.         cylinders.                between          vertices, and edges.   figures with polygonal faces. Look for relationships (e.g.
+                                                    surface area                            Euler's rule(f+v=e+2))
+- Illustrate the volume  - Calculate the surface    and volume.     - Surface area and
+ as the space occupied    area and volume of                         volume of a prism,    - In groups, investigate the relationship between the surface
+ by a solid.              common                  - Recognize        pyramid, cylinder,     area of cuboids, prisms, pyramids, cylinders, and their
+                          geometrical solids        solids in the    cone and sphere.       nets. Generalize.
+- Distinguish between     using formulas            environment.
+ surface area and         where necessary.                          - Formulae for         - In pairs (or teacher demonstration), measure the diameter
+ volume and know the                                                 surface area and       of an orange then peel carefully and arrange the peel into
+ correct units.          - Distinguish between                       volume.                circles with the same diameter as the orange. How many
+                          surface area and                                                  circles does the peel fill? (Roughly four). Relate to formula.
+                          volume and select
+                          appropriate                                                      - In groups, select appropriate methods and units when
+                          formulae and units                                                solving problems concerning the volume and surface area
+                          to use in various                                                 of solids e.g. design solids with a volume of 1000cm3,
+                          contexts.                                                         minimizing their surface area; what is the greatest volume
+                                                                                            cylinder that can be made from a sheet of A4 paper.
+
+Links to other subject: Subjects that require calculating volume and area such as physics, construction, engineering, geography, fine arts, scientific drawing.
+Assessment criterion: Can select and use formulae to find the surface area and volume of solids.
+Materials: Solid figures, paper, scissors, glue, calculators, oranges.
+
+                                                                                                                                25
+TOPIC AREA: STATISTICS AND PROBABILITY
+
+S.1 Mathematics               Unit 8: Statistics (ungrouped data).                                                        No. of periods:24
+
+Key unit competency: To be able tocollect, represent, and interpret quantitative discrete data appropriate to a question or problem.
+                                    Learning objectives
+
+Knowledge and                 Skills                      Attitudes and values      Content                               Learning activities
+understanding
+
+-Define quantitative data     - Apply data collection to  - Help in decision        - Definition of data.                 - In groups, collect data for a
+ and qualitative data.         carry out a certain          making and draw         - Types of data: Qualitative,           given situation such as
+                               research.                    conclusions.                                                    height, weight, color, blood
+-Differentiate discrete and                                                           quantitative, discrete, and           group, age, marks etc.
+ continuous data.             - Represent statistical     - Self-confidence and       continuous data.
+                               information using            determination.          - Collecting data.                    - Discuss whether it is
+-Present data on a             frequency distribution                               - Frequency distribution.               quantitative or qualitative
+ frequency distribution.       tables, bar charts,        - Develop                 - Measures of central tendency:         data, continuous or discrete
+                               histograms, polygons,        competitiveness.          Mode, mean, median, quartiles         data. Make a frequency
+-Define mode and median        pie charts, or                                         (1st, 2nd, 3rd quartiles, inter-      distribution table for each
+ of given statistical data.    pictogram.                 - Appreciate the            quartile range).                      case.
+                                                            importance of order in  - Data display: Bar chart,
+-Recognize formulae used      - Determine the mode,         daily activities.         histogram, frequency polygon, pie   - In groups, observe and
+ to calculate the mean and     mean, and median of                                    chart, pictogram.                     collect data for a given
+ median.                       statistical data.          - Develop research and    - Reading statistical graphs.           situation such as height,
+                                                            creativity.             - Converting statistical graphs into    weight, ages, marks etc.,
+-Read diagram of statistical  - Interpret correctly                                   frequency tables.                     and determine, mode, mean
+ data.                         graphs involving           - Respect each other.                                             and median.
+                               statistical data.
+                                                                                                                          - In groups, draw a bar chart,
+                                                                                                                            a histogram, frequency
+                                                                                                                            polygons, and a pie chart
+                                                                                                                            corresponding to the data
+                                                                                                                            collected. Compare results.
+
+                                                                                                                                      26
+                                                                                                                                                              - In pairs, calculate the
+                                                                                                                                                                quartiles, the inter-quartile
+                                                                                                                                                                range, and represent them
+                                                                                                                                                                graphically
+
+                                                                                                                                                              - Individually, in the given
+                                                                                                                                                                bar chart, histogram,
+                                                                                                                                                                polygon, and pie chart,
+                                                                                                                                                                identify mode, create a
+                                                                                                                                                                frequency table, and find
+                                                                                                                                                                mean and median. work in
+                                                                                                                                                                group
+
+                                                                                                                                                              - Given a graph,
+                                                                                                                                                                indicate/estimate where
+                                                                                                                                                                the mode, mean, median
+                                                                                                                                                                can be found.
+
+Links to other subject: Subjects that data collection, representation, and interpretation such as biology, geography, physics, computer science, finance,
+economics, engineering etc.
+Assessment criterion: Can consistently make appropriate data collection and data representations to solve a problem and draw conclusions consistent with
+findings.
+Materials: Text books, paper, geometrical instruments, and Digital technology such as graph plotting software, interactive multimedia content, calculators.
+
+                                                                                                                                                                                       27
+TOPIC AREA: STATISTICS AND PROBABILITY
+
+S.1 Mathematics                   Unit 9:Probability                                                  No. of periods:6
+
+Key unit competency: To be able todetermine the probability of an event happening using equally likely events or experiments.
+                               Learning objectives
+
+Knowledge and                     Skills              Attitudes and        Content                    Learning activities
+understanding                                             values
+
+- Define an event and explain     - Calculate the     - Appreciate that    - Definition of event and  - In groups, think and debate chance situations
+ why probabilities can only         probability of      the chance of an     outcome.                   such as playing cards, tossing a coin, rolling
+ be between 0 (impossible)          an event where      event happening                                 dice. What are the chances of getting a
+ and 1 (certain).                   there are           is given by its    - Examples of random         particular outcome? Introduce probability
+                                    equally likely      probability which    events.                    scale.
+- Explain that probabilities can    outcomes e.g.       is number
+ be calculated using equally        heads or tails      between 0          - Probability of equally   - Consider playing football, basketball ball,
+ likely outcomes (e.g. tossing      on a coin, a        (impossible) and     likely outcomes            volleyball, hand ball or any other game.
+ a coin or dice, drawing a card     score on a dice.    1 (certain).         through experiments        Discuss the chance of a win, lose or draw. Use
+ from a deck) or estimated                                                   like tossing a coin or     results to estimate probabilities.
+ using experimental data (e.g.    - Estimate          - Distinguish when     dice, etc.
+ weather, sports, arriving late     probabilities       an experiment is                              - Investigate the relationship between
+ to school).                        using data.         necessary to find  - Estimation of              experimental and calculated probability by
+                                                        a probability and    probabilities where        tossing a dice or coin many times and
+- Demonstrate that the more                             that more data       experimental data is       estimating the probability of a particular
+ data collected, the better the                         improves the         required.                  outcome. Plot a graph to show the
+ estimate of the probability.                           estimate.                                       experimental probability and note how that
+                                                                                                        tends to the calculated probability.
+
+Links to other subject: Subjects where probability is important such economics, finance, physics, chemistry, biology.
+Assessment criterion: Can use appropriate mathematical concepts and skills to solve problems in both familiar and unfamiliar situations.
+Materials: Dice, coins, playing cards, graph paper.
+
+                                                                                                                                          28
+TOPIC AREA: STATISTICS AND PROBABILITY
+
+S.1 Mathematics                  Unit 9:Probability                                                      No. of l periods:6
+
+Key unit competency: To be able todetermine the probability of an event happening using equally likely events or experiments.
+                                    Learning objectives
+
+Knowledge and                    Skills                   Attitudes and values    Content                Learning activities
+understanding
+
+- Define an event and explain    - Calculate the          - Appreciate that the   - Definition of event  - In groups, think and debate chance
+ why probabilities can only        probability of an        chance of an event      and outcome.           situations such as playing cards, tossing a
+ be between 0 (impossible)         event where there        happening is given                             coin, rolling dice. What are the chances of
+ and 1 (certain).                  are equally likely       by its probability    - Examples of            getting a particular outcome? Introduce
+                                   outcomes e.g. heads      which is number         random events.         probability scale.
+- Explain that probabilities       or tails on a coin, a    between 0
+ can be calculated using           score on a dice.         (impossible) and 1    - Probability of       - Consider playing football, basketball ball,
+ equally likely outcomes (e.g.                              (certain).              equally likely         volleyball, hand ball or any other game.
+ tossing a coin or dice,         - Estimate                                         outcomes through       Discuss the chance of a win, lose or draw.
+ drawing a card from a deck)       probabilities using    - Distinguish when an     experiments like       Use results to estimate probabilities.
+ or estimated using                data.                    experiment is           tossing a coin or
+ experimental data (e.g.                                    necessary to find a     dice, etc.           - Investigate the relationship between
+ weather, sports, arriving                                  probability and that                           experimental and calculated probability by
+ late to school).                                           more data improves    - Estimation of          tossing a dice or coin many times and
+                                                            the estimate.           probabilities          estimating the probability of a particular
+- Demonstrate that the more                                                         where                  outcome. Plot a graph to show the
+ data collected, the better the                                                     experimental data      experimental probability and note how that
+ estimate of the probability.                                                       is required.           tends to the calculated probability.
+
+Links to other subject: Subjects where probability is important such economics, finance, physics, chemistry, biology.
+Assessment criterion: Can use appropriate mathematical concepts and skills to solve problems in both familiar and unfamiliar situations.
+Materials: Dice, coins, playing cards, graph paper.
+
+                                                                                                                                          29
+5.3. Secondary 2 syllabus units
+5.3.1Key competencies by the end of Secondary 2
+By the end of Secondary 2 (S2), a student of Mathematics should be able to:
+
+  - Correctly use simple language structures, vocabulary, and the symbols found in the second year of the Mathematics program.
+  - Efficiently carry out numerical and literal calculations.
+  - Solve equations and inequalities of the first degree in .
+  - Recognize and justify congruent shapes.
+  - Calculate the component of a vector.
+  - Identify the image of a figure under a transformation and use the properties of transformations to solve related problems.
+  - Use methodical and coherent reasoning in solving mathematical problems.
+  - Collect quantitative data appropriate to the problem or investigation, taking into account possible biases and extend the
+
+      knowledge to grouped data.
+
+                                                                                                                                                                             30
+         5.3.2. Secondary 2 unit contents                                                         No. of periods:18
+
+TOPIC AREA: ALGEBRA
+
+S.2 Mathematics Unit 1: Indices and surds.
+
+Key unit competency: To be able todetermine the probability of an event happening using equally likely events or experiments.
+                              Learning objectives
+
+Knowledge and        Skills                       Attitudes and    Content                                                Learning activities
+understanding                                         values
+
+- Recognize laws of  - Perform operations on      - Appreciate     - Indices/powers or            - In pairs, learners think of two numbers or
+  indices.             indices and surds.           the              exponents: Definition,         more that different powers but the same
+                                                    importance of    properties indices.            base. Multiply and divide these numbers.
+- Represent very     - Solve simple equations       indices and                                     Draw conclusions.
+  small numbers or     involving indices and        surds in       - Applications of indices:
+  large numbers in     surds.                       solving          Ssimple equations            - In groups, express the given larger numbers
+  standard form.                                    mathematical     involving indices; standard    or smaller numbers in standard form.
+                     - Use standard form to         problems.        form.
+- Define and give      represent a number.                                                        - Solve given equations involving indices.
+  examples of                                     - Show concern   - Surds/radicals: Definition,  - Individually, simplify surds by rationalizing
+  surds.             - Apply properties of          of self-         examples; properties,
+                       indices to simplify          confidence,      simplification, operations,    the denominators.
+- Identify             mathematical                 determinatio     rationalisation of           - In groups, express each of the given surd as
+  properties of        expressions.                 n, and group     denominator.
+  surds.                                            work spirit.                                    the square root of a single number.
+                     - Apply properties of surds                   - Square roots calculation     - In groups, discuss and reduce surds to the
+- Recognize the        to simplify radicals.                         methods: Factorization,
+  conjugates of                                                      general method,                simplest possible surd form.
+  surds.             - Compute rationalisation                       estimation.                  - Find the square roots of given numbers by
+                       of denominator on surds.
+                                                                                                    using the square roots method and
+                                                                                                    calculators.
+
+Links to other subject: Physics, chemistry, biology, computer science, economics, finance, etc.
+Assessment criterion: Can use rules of indices and surds to simplify mathematical situation involving indices and surds.
+Materials: Calculator.
+
+                                                                                                                                               31
+TOPIC AREA: ALGEBRA
+
+S.2 Mathematics            Unit 2: Polynomials.                                                                       No. of periods:30
+
+Key unit competency: To be able toperform operations, factorise polynomials, and solve related problems.
+                                    Learning objectives
+
+Knowledge and              Skills                    Attitudes and values                          Content            Learning activities
+understanding
+
+- Define polynomial.       - Perform operation of    - Appreciate the role of   - Definition and classification of    - In groups, classify
+- Classify polynomials by   polynomials.               numerical values of       polynomials including                  polynomials according to
+                                                       polynomials and           homogeneous polynomials,               their degree or to the
+ degree and number of      - Expand algebraic          algebraic identities in   monomials, binomials, trinomials,      number of terms. Discuss
+ terms.                     expression by              simplifying               and polynomial of four term.           and perform operations on
+- Recognize operation       removing brackets and      mathematical                                                     polynomials. Expand and
+ properties on              collecting like terms.     expressions.             - Operations on polynomials.            factorize given
+ polynomials.                                                                   - Numerical values of polynomials.      mathematical expressions.
+- Give common factor of    - Apply operation         - Develop critical         - Algebraic identities.
+ algebraic expressions.     properties to carry out    thinking and             - Factorization of polynomials by:
+                            given operation of         reasoning.
+                            polynomials.                                         Common factors, grouping terms,
+                           -Factorize a given        - Ability to classify and   algebraic identities, zeros (roots)
+                            algebraic expression       follow orders to          of polynomials, factorization of
+                            using appropriate          perform a given task.     quadratic expressions(sum and
+                            methods.                                             product).
+                           -Expand algebraic
+                            identities.
+
+Links to other subject: Subjects where polynomials are important such as physics, chemistry, etc.
+Assessment criterion: Can perform operations, factorise polynomials, and solve related problems.
+Materials: Textbook, papers, calculators.
+
+                                                                                                                      32
+TOPIC AREA: ALGEBRA                                                                                              No. of periods:30
+S.2 Mathematics Unit 3: Simultaneous liner equations and inequalities.
+
+Key unit competency: To be able solve problems related to simultaneous linear equations and inequalities and represent thesolutions graphically.
+                          Learning objectives
+
+Knowledge and                   Skills  Attitudes and                        Content                                             Learning activities
+understanding                               values
+
+- Define               - Solve          - Appreciate the - Definition and examples of simultaneous linear        - In pairs, show whether a
+  simultaneous linear                                                                                              given system of 2 linear
+  equations and give   simultaneous     importance of        equations in two variables and inequalities in one    equations is independent,
+  examples.                                                                                                        dependent, or inconsistent.
+                       linear equations in solving problems variable.
+- Show whether a                                                                                                 - In group, discuss different
+  given simultaneous   two variables.   related to           - Types of simultaneous linear equations              methods for solving
+  linear equation is                                                                                               simultaneous linear
+  independent,         - Model and solve simultaneous        (independent simultaneous linear equations,           equations and use one of
+  dependent, or                                                                                                    them(your choice) to solve a
+  inconsistent.        mathematical     linear equations dependent simultaneous linear equations, and              given simultaneous linear
+                                                                                                                   equations.
+- Recognize the        word problems    and inequalities. inconsistent/incompatible simultaneous linear
+  forms of compound                                                                                              - Individually, solve problems
+  inequalities with    using            - Be accurate in     equations)                                            involving simultaneous
+  one unknown and                                                                                                  equations.
+  give examples.       simultaneous     solving system of - Solving simultaneous linear equations in two
+                                                                                                                 - In pairs, solve given
+                       equations.       linear equation      unknowns using algebraic methods: Substitution,       simultaneous inequalities in
+                                                                                                                   two unknowns and given
+                       - Solve compound and inequalities. comparison, elimination, and                             compound inequalities.
+
+                       inequalities in one - Develop self    Cramer's rule.
+
+                       variable.        confidence in        - Inequalities of the types:  ,           ,
+
+                                        solving systems of ,  ,
+
+                                        linear equations            ,.
+                                        and inequalities in
+                                        one variable.        -Compound inequalities or system of two
+                                                              inequalities in one unknown.
+
+Links to other subject: Subjects where simultaneous linear equations and inequalities are needed.
+Assessment criterion: Can solve related simultaneous linear equations and inequalities and represent the solutions graphically.
+
+                                                                                                                                 33
+Materials: Textbooks, papers, calculators, textbooks, papers.
+
+ TOPIC AREA: ALGEBRA (PROPORTIONS REASONING)
+
+S.2 Mathematics             Unit 4: Multiplier for proportional change.                                          No. of periods:12
+
+Key unit competency: To be able use a multiplier for proportional change.
+
+                            Learning objectives
+
+Knowledge and               Skills                      Attitudes and values     Content                         Learning activities
+understanding
+
+- Recognize the properties  - Solve problems in real    - Be honest in sharing   - Increasing quantities by n%.  - In groups, solve problems
+ of proportions.             life involving multiplier    with other.            - Decreasing quantities by n%.   involving multiplier for
+                             proportion change.                                  - Calculation of proportional    proportional change.
+- Express ratios in their                               - Develop critical
+ simplest form.             - Apply multipliers for       thinking in terms of    change using multiplier.       - Individually, solve problems
+                             proportional change to       proportion multiplier                                   involving decreased by n%
+- Share quantities in a      solve given problem.         for proportional                                        and increased by n%.
+ given proportion or                                      change.
+ ratio.                     - Use multiplier for
+                             proportional change to
+                             find the new quantities.
+
+                            - Use "decreased by n%"
+                             and "increased n%".
+
+Links to other subject: Economics, entrepreneurship, finance, accounting, business administration, and other related fields.
+Assessment criterion: Can explain the importance of money in connection to real life.
+Materials: Textbooks, coins, bills, geometrical instruments, receipts, digital material such as interactive multimedia content , ATM cards.
+
+                                                                                                                                             34
+TOPIC AREA: GEOMETRY
+
+S.2 Mathematics              Unit 5: Thales theorem.                                                                   No. of periods:12
+
+Key unit competency: To be able useThales' theorem to solve problems related to similar shapes and determinetheir lengths and areas.
+
+                             Learning objectives
+
+Knowledge and                Skills                     Attitudes and values      Content                                         Learning activities
+understanding
+
+- Identify and name          - Associate extended       - Develop habit of        - Midpoint theorem.                  - In groups, solve problems
+ triangles or trapeziums      proportions in the         actively participating,  - Thales' theorem and its converse.    involving midpoint theorem
+ from parallel and            triangles.                 self-confidence,         - Application of Thales' theorem in    for a given situation.
+ transversals intersecting                               determination, and
+ lines.                      - Apply Thales' theorem     team spirit.              calculating lengths of proportions  - In groups, discuss and solve
+                              and its corollaries to                               segments (in triangles,               mathematical problems
+- State Thales' theorem and   solve problems on         - Appreciate the           trapeziums).                          involving the applications of
+ its corollaries.             proportions of             importance of solving                                           Thales' theorem.
+                              triangles, trapeziums.     daily activities
+                                                         involving midpoint
+                             - Discuss the converse of   theorem and Thales'
+                              Thales' theorem.           theorem, its
+                                                         converse,and
+                                                         application.
+
+Links to other subject: Technical and scientific drawing, physics.
+Assessment criterion: Can use Thale's theorem to solve problems related to similar shapes and determine their lengths and areas.
+Materials: Geometrical instruments.
+
+                                                                                                                                      35
+TOPIC AREA: GEOMETRY
+
+S.2 Mathematics Unit 6:Pythagoras's theorem.                                                            No. of lessons:12
+
+Key unit competency: To be able to find the length of each side of a right angle triangles using Pythagoras' theorem.
+
+                         Learning objectives
+
+Knowledge and            Skills                      Attitudes and         Content                                     Learning activities
+understanding                                            values
+
+- State Pythagoras'      - Use Pythagoras'           - Appreciate the      - Pythagoras' theorem.       - In groups, find the squares of given sides of a
+ theorem.                 theorem to find the          role of             - Demonstration of              triangle, verify relationship between the sum
+                          lengths of the sides of      Pythagoras'                                         of the squares of shorter sides, and the square
+- Identify the            right angle triangles.       theorem in            Pythagoras' theorem.          of the longer side.
+ hypotenuse from the                                   solving daily life  - Applications of               Discuss whether a triangle is a right angle
+ three sides of a right  - Apply Pythagoras'           activities.                                         triangle given the length of sides, and give the
+ angle triangle.          theorem to solve                                   Pythagoras' theorem in        properties.
+                          problems in a range of     - Develop               calculating the length of
+- List properties of a    contexts.                    confidence and        any side of a right angle  - Individually, using Pythagoras' theorem, find
+ right angled triangle.                                accuracy in           triangle.                     the length of the hypotenuse if the other sides
+                         - Demonstrate                 constructing        - Word problems.                of the right angle are given.
+                          Pythagoras' theorem          shapes.
+                          in a real life situation.                                                      - In groups, learners demonstrate Pythagoras'
+                                                     - Develop team                                        theorem by measuring the areas of squares on
+                                                       spirit and respect                                  sides of right angled triangles and explore
+                                                       the views of                                        Pythagorean dissections by cutting and
+                                                       others.                                             reassembling parts.
+
+Links to other subject: Technical and scientific drawing, optics.
+Assessment criterion: Can find the length of each side of a right angle triangle using Pythagoras's theorem.
+Materials: Geometrical instruments, calculators.
+
+                                                                                                                                            36
+TOPIC AREA: GEOMETRY
+
+S.2 Mathematics           Unit 7: Vectors.                                                                         No. of periods:18
+
+Key unit competency: To be able to solve problems doing operation on vectors.                                            Learning activities
+
+                          Learning objectives                                                                      - In groups, graphically add
+                                                                                                                     and subtract given
+Knowledge and                     Skills       Attitudes and values            Content                               consecutive or any vectors
+understanding                                                                                                        using the parallelogram
+                                                                                                                     rule.
+- Define a vector.        - Use vector notations - Appreciate the              - Concept of a vector: Definition
+- Represent a vector ina                                                         and properties of a vector,       - In groups or individually,
+                          correctly and perform importance of vectors            notation.                           graphically multiply a given
+ Cartesian plane.                                                                                                    vector by a scalar.
+- Differentiate between   operations on vectors. in motion.                    - Vectors in a Cartesian plane.
+                                                                               - Components of a vector in the     - In groups, perform
+ vector quantities and    - Find the components of - Show self-confidence                                            multiplication of vectors by
+ scalar quantities.                                                              Cartesian plane.                    a scalar, addition, or
+- Show whether vectors    a vector in a Cartesian and determination            - Equality of vectors.                subtraction of vectors given
+ are equal.                                                                    - Operations on vectors: Addition,    their components.
+                          plane.               while solving
+                                                                                 subtraction, multiplication by a  - Individually, calculate the
+                          - Find the magnitude of problems on vectors.           scalar.                             magnitude of vectors given
+                                                                               - Magnitude of a vector as its        their components.
+                          a vector.                                              length.
+
+Links to other subject: Physics.
+Assessment criterion: Can solve problems doing operations on vectors.
+Materials: Geometrical instruments, calculators.
+
+                                                                                                                   37
+TOPIC AREA: GEOMETRY
+
+S.2 Mathematics            Unit 8: Parallel and orthogonal projections.                                           No. of periods:12
+
+Key unit competency: To be able to transform shapes under parallel or orthogonal projections.                          Learning activities
+
+                           Learning objectives
+
+Knowledge and              Skills                   Attitudes and values                         Content
+understanding
+
+- Identify an image of a   - Construct an image of  - Show the importance of parallel  - Definition ofparallel    - In groups, observe
+  figure under parallel     an object or geometric    and orthogonal projection in      projection and                drawings of different
+  projection.               shape under parallel      various situations.               oorthogonal projection.       objects and their images
+                            projection and                                                                            involving parallel or
+- Identify an image of a    orthogonal projection.  - Develop critical thinking and    - Properties of                orthogonal projection.
+  figure under orthogonal                             reasoning skills, while           oorthogonal and parallel      Discuss and deduce
+  projection.                                         transforming shapes under         projection.                   properties and type of
+                                                      parallel or orthogonal                                          projection used.
+                                                      projection.                      - Image of geometric
+                                                                                        shape under parallel
+                                                    - Be accurate in construction of    projection and
+                                                      figures and their images under    oorthogonal projection.
+                                                      parallel or orthogonal
+                                                      projection.
+
+                                                    - Develop confidence in solving
+                                                      problems related to the
+                                                      transformation of shapes under
+                                                      parallel or orthogonal
+                                                      projection.
+
+Links to other subject: Technical and scientific drawing.
+Assessment criterion: Can transform images of figures using parallel or orthogonal projections.
+Materials: Geometrical instruments, calculators.
+
+                                                                                                                  38
+TOPIC AREA: GEOMETRY
+
+S.2 Mathematics Unit 9: Isometries.                                                                   No. of periods:30
+
+Key unit competency: To be able to transform shapes using congruence, central symmetry, reflection, translation, and rotation.
+
+                        Learning objectives
+
+Knowledge and           Skills                Attitudes and values       Content                                       Learning activities
+understanding
+
+- Identify an image of  - Construct the       - Appreciate that          - Definition of central      - In groups, construct the image of a
+ a figure under          image of a point, a   translation, rotation       symmetry, reflection,       given object under central
+ central symmetry,       segment, a            and reflection play         translation, rotation.      symmetry.Compare the image to the
+ reflection,             geometric shape,      important roles in                                      initial object, and then discuss and
+ translation,            under central         various situations.       - Construction of an image    deduce the applied properties.
+ rotation.               symmetry,                                         of an object/geometric
+                         reflection,          - Develop team spirit.       shape undercentral         - Repeat the above activity for
+                         translation,         - Develop confidence in      symmetry, reflection,       reflection, translation or rotation.
+                         rotation.                                         translation, rotation.
+                                               constructing an image                                  - In pairs, given an object and its image
+                        - Find the             of a point, a segment, a  - Properties and effects of   find the center of symmetry, line of
+                         coordinates of an     geometric shape             central symmetry,           symmetry or the translation vector,
+                         image of an object    under any isometry.         reflection, translation,    the center of rotation, and angle of
+                         under central        - Develop accuracy in        rotation.                   rotation.
+                         symmetry,             constructing shapes
+                         reflection,           under isometries.         - Composite                  - Individually, construct the images of a
+                         translation,                                      transformations up to       given object under successive
+                         rotation.                                         three isometries.           transformations.
+
+Links to other subject: Physics, ICT, engineering, technical and scientific drawing.
+Assessment criterion: Can transform shapes using congruence, central symmetry, reflection, translation, and rotation.
+Materials: Geometrical instruments, calculators.
+
+                                                                                                                                            39
+TOPIC AREA: STATISTICS AND PROBABILITY
+
+S.2 Mathematics           Unit 10: Statistics (grouped data).                                                       No. of periods:30
+
+Key unit competency: To be able to collect, represent, and interpret grouped data.                                         Learning activities
+
+                          Learning objectives
+
+Knowledge and             Skills                      Attitudes and values                     Content
+understanding
+
+- Define grouped data     - Apply data collection to  - Appreciate howdata     - Definition and examples of         - In groups, collect data for a
+ and represent             carry out research.         collection, data         grouped data.                         given set such as height,
+ grouped data on a                                     representation, and                                            weight, ages, or marks in any
+ frequency                - Represent grouped          data                    - Grouping data into classes.          subject, group them in a given
+ distribution.             statistical information     interpretationcan be    - Frequency distribution table for     interval, and then represent
+                           using histograms,           used for solving real                                          them in a frequency
+- Identify mode, middle    polygons, frequency         life situations.         grouped data.                         distribution table. Determine
+ class, modal class, and   distribution tables,and                             - Cumulative frequency distribution    the middle, modal, mean and
+ median of given           pie charts.                - Appreciate the                                                median classes. Then draw
+ grouped statistical                                   importance of data in    table.                                histograms, frequency
+ data.                    - Calculate the mode,        investigating social    - Measures of Central tendency for     polygons, and superimposed
+                           mean, and median of         phenomenon and                                                 frequency polygons and
+- Read diagram of          statistical data.           decision making.         grouped data(mean, median,            interpret the results. Infer
+ grouped statistical                                                            mode, and range for grouped           conclusion.
+ data.                    - Interpret correctly the   - Cultivate team spirit   data).
+                           graph of grouped            and respect the views   - Graphical representation of        - Convert statisticalgraphs into
+                           statistical data.           of others.               grouped data (polygons,              frequency tables and find
+                                                                                histograms, superposed               measures of central tendency
+                                                      - Develop accuracy in     polygons).                           using graphs.
+                                                       reading graphs.
+
+Links to other subject: History, biology, geography, physics, computer science, finance, etc.
+Assessment criterion: Can collect, represent, and interpret grouped data.
+
+                                                                                                                    40
+Materials: Calculators, graph papers.
+
+TOPIC AREA: STATISTICS AND PROBABILITY
+
+S.2 Mathematics Unit 11: Tree and Venn diagrams.                                           No. of periods:12
+
+Key unit competency: To be able to determine probabilities and assess likelihood by using tree and venn diagrams.
+
+                       Learning objectives
+
+Knowledge and          Skills               Attitudes and values     Content                                 Learning activities
+understanding
+
+- Define mutually      - Construct and      - Appreciate the         - Tree diagram.       - In groups, for a given task, construct a tree diagram
+  exclusive and          interpret a tree     importance of          - Total number of
+  independent events.    diagram              probability to find                          corresponding to that situation and determine the
+                         correctly.           the chance              outcomes.
+- Count the number of                         happening for an       - Determining         number of branches. Calculate required probability.
+  branches and total   - Use Tree and         event to happen.
+  number of outcomes     Venn diagrams to                             probability using    - Analyze a given situation, present it using a Venn
+  on a tree diagram.     determine          - Show curiosity to       Tree and Venn
+                         probability.         predict what will       diagrams.            diagram. In the Venn diagram E= {pupils in class of
+                                              happen in the future.  - Mutually exclusive
+                                                                      and independent      15}, G={girls}, S={Swimmers}, F={Pupils who are
+                                            - Promote team work       events.
+                                              and self-confidence.                         Christians}. A pupil is chosen at random. Find the
+
+                                                                                           probability that                       the pupil: a)
+
+                                                                                           can swim b) is a                       girl swimmer
+
+                                                                                           c) is a boy                            swimmer who
+
+                                                                                           is Christian.                          Two pupils
+
+                                                                                           are chosen at                          random. Find
+
+                                                                                           the probability                        that: a) both
+
+                                                                                           are boys b)                            neither can
+
+                                                                                           swim c) both are girls swimmers who are Christians.
+
+                                                                                           - For given tasks on events, suggest whether events
+
+                                                                                           are mutually exclusive or independent or neither.
+
+Links to other subject: Financial education, physics, chemistry, biology, physical education, sports etc.
+Assessment criterion: Can determine probabilities and assess likelihood using Tree and Venn diagrams.
+Materials: Dice, coins, playing cards, calculators, balls.
+
+                                                                                                                                  41
+5.4. Secondary 3 syllabus units
+5.4.1 Key competencies by the end of Secondary 3
+
+  By the end of Secondary3 (S3), a student of Mathematics should be able to:
+       Accurately carry out numerical and literal calculations.
+       Solve problems that involve sets of numbers using Venn diagram.
+       Graphically represent a function of the first degree, a function of the second degree, and point by point.
+       Solve equations, inequalities, and the systems of the first degree in two unknowns.
+       Apply compound interest in daily life situations.
+       Calculate the side lengths, angles, and areas of right angle triangles and other geometric shapes.
+       Represent and interpret graphs of linear and quadratic functions.
+       Construct mathematical arguments using circle theorems.
+       Construct the image of a geometric figure under composite transformations.
+       Collect bivariate data to investigate possible relationships through observations.
+
+                                                                                                                                                                               42
+         5.4.2 Secondary 3 unit contents
+
+TOPIC AREA: ALGEBRA
+
+S.3 Mathematics           Unit 1:Problem sets.                                                                             No. of periods:6
+
+Key unit competency: To be able to solve problem sets.
+
+                          Learning objectives
+
+Knowledge and             Skills                        Attitudes and values             Content                           Learning activities
+understanding
+
+- Express a mathematical  - Use Venn diagram to         - Develop clear, logical - Mathematical problem sets.              - In groups, analyse information
+ problem set using a       represent a                                                                                       given in a Venn diagram and
+ Venn diagram.             mathematical problem         and coherent thinking - Analysis and interpretation                  solve related questions.
+                           set.
+- Represent a                                           skills in solving real  of a problem using set                     - In groups, discuss a situation
+ mathematical problem     - Interpret, model, and                                                                            involving set theory. Represent it
+ using a Venn diagram.     solve a mathematical         life problems involving language (intersection,                      using Venn diagrams. Form an
+                           problem set.                                                                                      equation and solve related
+                                                        sets.                   union).                                      questions.
+
+                                                        - Appreciate the        - Representation of a
+
+                                                        importance of           problem using Venn
+
+                                                        representing and        diagrams.
+
+                                                        solving a mathematical - Modelling and solving a
+
+                                                        problem set using       problem.
+
+                                                        Venn diagrams.
+
+Links to other subject: Subjects where classification is needed such as biology, geography, physics, financial education.
+Assessment criterion: Can solve problem sets.
+Materials: Calculators.
+
+                                                                                                                                             43
+TOPIC AREA: ALGEBRA
+
+S.3 Mathematics        Unit 2: Number bases.                                                                No. of periods:12
+
+Key unit competency: To be able to represent numbers in different number bases and solve related problems.
+
+                       Learning objectives
+
+Knowledge and                  Skills            Attitudes and values      Content                          Learning activities
+understanding
+
+- List the digits used in - Carry out addition,  - Develop clear, logical  - Definition and examples of     - In group, convert a given number
+                                                   and coherent thinking     different number bases.          from base ten to any other base
+a given base.          subtraction,                while solving                                              and vice versa. Convert numbers
+                                                   problem sets.           - Converting a number from         from any base that is not base
+- Convert numbers from multiplication, and                                   base ten to any other base       ten to another. Discuss and carry
+                                                 - Appreciate the            like base 2, 3, or 5 and vice    out operations on number bases.
+base ten to any other  division on numbers         importance of bases       versa.
+                                                   in various contexts.                                     - In groups, solve equations
+base and vice versa.   bases.                                              - Converting a number from         involving bases.
+                                                                             one base to another (e.g.
+                       - Solve equations                                     base 2 to base 3).
+
+                       involving bases.                                    - Addition and subtraction
+                                                                             exercises on number bases.
+
+                                                                           - Multiplication and division
+                                                                             exercises on number bases.
+
+                                                                           - Solving equations involving
+                                                                             number bases.
+
+Links to other subject: ICT, etc.
+Assessment criterion: Can represent numbers in different number bases and solve related problems.
+Materials: Calculators.
+
+                                                                                                                               44
+TOPIC AREA: ALGEBRA
+
+S.3 Mathematics             Unit 3: Algebraic fractions.                                                         No. of periods:24
+
+Key unit competency: To be able to perform operations on rational expressions and use them in different situations.
+
+                            Learning objectives
+
+Knowledge and               Skills                   Attitudes and values        Content                             Learning activities
+understanding
+
+- Define an algebraic       - Perform operations on  - Develop clear, logical    - Definition and examples of    - In groups, state the restrictions
+ fraction.                   algebraic fractions.      and coherent thinking      an algebraic fraction.          on the variable given algebraic
+                                                       while working on                                           fractions. Carry out different
+- State the restriction on  - Solve rational           algebraic fractions.      - Restrictions on the variable   operations for given algebraic
+ the variable in algebraic   equations with linear                                or conditions of existence of   fractions and simplify. Then
+ fraction.                   denominators.           - Show patience, mutual      an algebraic fraction.          present and explain the findings.
+                                                       respect, tolerance,
+- Recognise the rules       - Simplify algebraic       team spirit, and          - Simplification of algebraic   - Individually, Solve given rational
+ applied to addition,        fractions.                curiosity in group         fractions.                      equations.
+ subtraction,                                          activities while solving
+ multiplication, division                              and discussing            - Addition or subtraction of
+ and simplification of                                 mathematical               algebraic fractions with
+ algebraic fractions.                                  situations involving       linear denominators.
+                                                       algebraic fractions.
+                                                                                 - Multiplication or division
+                                                                                  and simplification of two
+                                                                                  algebraic fractions.
+
+                                                                                 - Solution of rational
+                                                                                  equations with linear
+                                                                                  denominators.
+
+Links to other subject: Physics and phenomenon involving calculating distance and motion.
+Assessment criterion: Can perform operations on rational expressions and use them in different situations.
+Materials: Calculators.
+
+                                                                                                                                    45
+TOPIC AREA: ALGEBRA
+
+S.3 Mathematics Unit 4: Simultaneous linear equations and inequalities.                                           No. of periods:18
+
+Key unit competency: To be able to solve word problems involving simultaneous linear equations and inequalities.
+
+                         Learning objectives
+
+Knowledge and            Skills                 Attitudes and values                  Content                     Learning activities
+understanding
+
+- Define simultaneous    - Solve graphically    - Appreciate how simultaneous         - Graphical solution of     - In groups, solve given
+ linear inequalities in   simultaneous linear    linear equations in two               simultaneous linear          simultaneous linear equations
+ two unknowns.            equations and          unknowns are important to             equations in two             and inequalities in two
+                          inequalities in two    represent and solve                   unknowns.                    unknowns graphically.
+- Give examples of        unknowns.              mathematical word problems.
+ simultaneous linear                                                                  - Solving word problems     - Solve word problems involving
+ inequalities in two     - Interpret graphical  - Develop clear, logical, and          involving                    simultaneous linear equations.
+ unknowns.                solutions of           coherent thinking while solving       simultaneous linear
+                          simultaneous linear    simultaneous linear equations         equations in two           - Observe a given graphical
+- Show solution set of    equations and          and inequalities in two               unknowns (graphically        representation of simultaneous
+ simultaneous linear      inequalities in two    unknowns.                             or algebraically).           linear equations and inequalities
+ equations and            unknowns.                                                                                 in two unknowns and deduce or
+ inequalities in two                            - Show patience, mutual respect,      - Definition and              show the solution set.
+ unknowns given          - Solve word problems   tolerance, team spirit, and           examples of
+ their graphs.            leading to             curiosity in group activities while   simultaneous linear
+                          simultaneous linear    solving and discussing                inequalities in two
+                          equations.             mathematical situations               unknowns.
+                                                 involving simultaneous linear
+                                                 equations and inequalities in two    - Solving simultaneous
+                                                 unknowns.                             linear inequalities in
+                                                                                       two unknowns.
+
+Links to other subject: Physics, financial education.
+Assessment criterion: Can solve problems involving simultaneous linear equations.
+Materials: Geometrical instruments, calculators.
+
+                                                                                                                                     46
+TOPIC AREA: ALGEBRA
+
+S.3 Mathematics          Unit 5: Quadratic equations.                                                         No. of periods:24
+
+Key unit competency: To be able to solve quadratic equations.
+
+                         Learning objectives
+
+Knowledge and            Skills                    Attitudes and values       Content                         Learning activities
+understanding
+
+- Define quadratic       - Solve quadratic         - Develop clear, logical   - Definition and example of     - In groups, discuss and use
+ equations.               equations.                 and coherent thinking     quadratic equation.             factorization or any other method
+                                                     in solving quadratic                                      to solve given quadratic
+- State methods used to  - Model and solve           equations                - Solving quadratic equations    equations.
+ solve a quadratic        problems involving                                   by factorization, graphs,
+ equation.                quadratic equations.     - Appreciate the            completing squares,            - Model given mathematic
+                                                     importance of             quadratic formula, synthetic    problems using quadratic
+                         - Solve equations           quadratic equations in    division.                       equations and solve them.
+                          reducible to quadratic.    solving word problems.
+                                                                              - Problems involving quadratic  - Use factorization and Horner's
+                                                   - Promote team work         equations.                      method to solve quadratic
+                                                     when working in                                           equations.
+                                                     groups while solving     - Using factorization and
+                                                     quadratic equations.      Horner's method in solving
+                                                                               quadratic equations.
+                                                   - Show patience, mutual
+                                                     respect, tolerance, and
+                                                     curiosity when
+                                                     discussing and solving
+                                                     problems involving
+                                                     quadratic equations.
+
+Links to other subject: Physics, financial education.
+Assessment criterion: Can solve word problems involving quadratic equations.
+Materials: Geometrical instruments, calculators.
+
+                                                                                                                                 47
+TOPIC AREA: ALGEBRA
+
+S.3 Mathematics             Unit 6: Linear and quadratic functions.                                                  No. of periods:24
+
+Key unit competency: To be able to solve problems involving linear or quadratics functions and interpret the graphs of quadratic functions.
+
+                            Learning objectives
+
+Knowledge and               Skills                      Attitudes and values        Content                          Learning activities
+understanding
+
+- Define a Cartesian        - Determine Cartesian       - Develop clear, logical    - Linear functions: Slopes,      - In group, determine the equation
+  equation of a straight      equations of straight       and coherent thinking       Cartesian equations,             of a straight line passes through
+  line.                       lines, coordinates of       in solving linear and       conditions for lines to be       a) a point and given its slope b)
+                              vertices, the equation      quadratic functions.        parallel or perpendicular.       two points c) a point and parallel
+- Define quadratic            of axis of symmetry.                                                                     to a given line d) a point and
+  function.                                             - Appreciate the            - Quadratic functions: Table of    perpendicular to a given line.
+                            - Determine the               importance of linear        values, vertex of parabola,
+- List the characteristics    intercepts of a             and quadratic               axis of symmetry, intercepts,  - Individually, given a quadratic
+  of linear or quadratic      quadratic function.         functions in learning       and graph in Cartesian plane.    function, determine whether its
+  function.                                               other subjects.                                              graph is concave up or down and
+                            - Sketch and draw                                                                          determine the intercepts and the
+- Differentiate linear        graphs from a given       - Show patience, mutual                                        vertex. Make a table of values
+  from quadratic              function.                   respect, tolerance,                                          and sketch the parabola.
+  functions.                                              team spirit, and
+                            - Use linear or quadratic     curiosity in solving and
+                              function to solve           discussions problems
+                              problems in various         involving linear and
+                              situations and interpret    quadratic functions.
+                              the results.
+
+Links to other subject: Physics.
+Assessment criterion: Can solve problems involving linear or quadratic functions and interpret the graphs of quadratic functions.
+Materials: Geometrical instruments, calculators.
+
+                                                                                                                                             48
+TOPIC AREA: ALGEBRA (MONEY)
+
+S.3 Mathematics            Unit 7: Compound interest, reverse percentage, and compound proportional No. of periods:20
+                           change.
+
+Key unit competency: To be able to solve problems involving compound interest, reverse percentage and proportional change usingmultipliers.
+
+                           Learning objectives
+
+Knowledge and                     Skills               Attitudes and values               Content                   Learning activities
+understanding
+
+- Define compound          - Solve problems involving  - Appreciate the role of           - Reverse percentages.    - In groups, solve given
+                                                         compound interest in banking     - Compound interest         problems involving reverse
+interest, reverse          reverse percentages and       and financial activities.                                    percentages and compound
+                                                                                           and its applications in    interest.
+percentage, compound       compound interest           - Appreciate that in the case of    contextual situations
+                                                         compound interest, saving and     (e.g. in banking and     - Compare the overall values
+proportional change, and - Apply compound interest       investing money can increase      financial activities).     of different goods and draw
+                                                         the value of wealth.             - Compound                  conclusions.
+continued proportional. in solving mathematical                                            proportional change
+                                                       - Show concern for paying taxes     or continued             - In group, solve problems
+- Find reverse             problems involving            and being honest in daily         proportions.               involving compound
+                                                         activities involving money.                                  proportional change or
+percentages in a given     savings or calculations in                                                                 continued proportions.
+                                                       - Develop logical and critical
+mathematical problem. any other financial                thinking while solving problems
+                                                         involving compound interest,
+- Determine a compound activity.                         reverse change, and continued
+                                                         proportional change.
+interest in a given        - Apply reverse percentage
+
+mathematical problem. and compound
+
+- Simplify ratio in their  proportional change in
+
+simplest form.             solving real life
+
+                           mathematical problems.
+
+Links to other subject: Economics, entrepreneurship, financial education and other related fields.
+Assessment criterion: Can use mathematical concepts and skills to solve problems involving compound interest, reverse percentage, and proportional
+change.
+Materials: Textbooks, coins, bills, geometrical instruments, receipts, digital material such as interactive multimedia content, ATM cards, calculators.
+
+                                                                                                                    49
+TOPIC AREA: ALGEBRA (MONEY)
+
+S.3 Mathematics Unit 8: Right angle triangles.                                                             No. of periods:18
+
+Key unit competency: To be able to find lengths of sides and angles in right angle triangles using trigonometric ratios.
+
+                        Learning objectives
+
+Knowledge and           Skills                 Attitudes and values       Content                                         Learning activities
+understanding
+
+- Give and define       - Use Pythagoras'      - Appreciate the           - Median through the vertex      - In group, find the missing lengths of a
+   the elements of a       theorem to find        importance of right        of the right angle.              triangle. For each case, draw clear
+   right angle             the relationship       angle triangles in                                          diagrams before calculating the lengths
+   triangle.               between the            various situations.     - Height using the vertex of a      of the sides.
+                           elements of a                                     right angle triangle and the
+- Show relationship        right angle         - Promote team work.          sides of the right angle      - In pairs, given two sides of right angle
+   between the             triangle.           - Show patience,              triangle.                        triangle, but not hypotenuse, find the
+   elements of a right                                                                                        length of the hypotenuse. calculate the
+   angled triangle.     - Solve problems          mutual respect,         - Height using the vertex of a      length of height and the median
+                           about right angle      tolerance, and             right angle triangle and the     corresponding to that hypotenuse.
+                           triangle using the     curiosity in solving       lengths of the segments on
+                           properties of          and discussion             the hypotenuse.               - In groups, given lengths of segments
+                           elements of a          problems involving                                          defined by the height on the hypotenuse,
+                           right angle            right angle triangles.  - Determining the sides of          find the length of sides of that triangle,
+                           triangle and                                      right angle triangles given      the height and the median.
+                           Pythagoras'                                       their orthogonal projection
+                           theorem.                                          on the hypotenuse.            - Individually, given acute angle and
+                                                                                                              length of one side, use sine, cosine, and
+                                                                          - Trigonometric ratios in a         tangent to find the length of the other
+                                                                             right angle triangle: Sine,      sides.
+                                                                             cosine, and tangent.
+
+Links to other subject: Technical and scientific drawing.
+Assessment criterion: Can construct mathematical arguments about right angle triangles to solve related problems.
+Materials: Calculators, geometrical instruments.
+
+                                                                                                                                               50
+TOPIC AREA: GEOMETRY (SHAPE AND ANGLES)
+
+S.3 Mathematics Unit 9: Circle theorem.                                                                          No. of periods:18
+
+Key unit competency: To be able to construct mathematical arguments about circles and disks and use circle theorem to solve related problems.
+
+                   Learning objectives
+
+Knowledge and      Skills                    Attitudes and values     Content                                    Learning activities
+understanding
+
+- Recognise and    - Find the length of      - Develop clear,         - Elements of a circle and disk: Center,   - In groups, discuss and solve
+  identify the       elements of a circle.     logical, and coherent
+  elements of a                                thinking.              radius, diameter, circumference, area,     determine the areas, lengths,
+  circle.          - Calculate the area of
+                     disk and its sector.    - Appreciate the         chord, tangent, secant, sector.            and ratios of two concentric
+- Identify angle                               importance of circle
+  properties in a  - Use the angle             theorems in dividing   - Circle theorems: First circle theorem    circles.
+  circle.            properties of lines in    into sectors.
+                     circles to solve                                 (angles at the centre, and at the          - In pairs, for given circles
+                     problems.               - Promote team work
+                                               when working in        circumference), second circle theorem      involving arcs, find theminor
+                   - Use tangent               groups.
+                     properties to solve                              (angle in a semicircle), third circle      arc length, major arc length,
+                     circle problems.        - Show patience,
+                                               mutual respect,        theorem (angles in the same segment),      minor sector area, and major
+                                               tolerance, and
+                                               curiosity in solving   fourth circle theorem(angles in a cyclic   sector area.
+                                               and discussion
+                                               problems involving     quadrilateral), fifth circle theorem (length - In groups, discuss the
+                                               circle theorems and
+                                               disk.                  of tangents), sixth circle theorem (angle  properties of points in a cyclic
+
+                                                                      between circle tangent and radius),        quadrilateral.
+
+                                                                      seventh circle theorem (alternate segment - In groups, discuss the
+
+                                                                      theorem), eighth circle theorem            properties of chords involving
+
+                                                                      (perpendicular from the centre and         circle theorem.
+
+                                                                      bisects the chord).
+
+Links to other subject: Technical and scientific drawing.
+Assessment criterion: Can construct mathematical arguments about circles and disks and use circle theorem to solve related problems.
+Materials: Calculators, geometrical instruments.
+
+                                                                                                                                      51
+TOPIC AREA: GEOMETRY
+
+S.3 Mathematics         Unit 10: Collinear points and orthogonal vectors.                                          No. of periods:6
+
+Key unit competency: To be able to apply properties of collinearity and orthogonality to solve problems involving vectors.
+
+                        Learning objectives
+
+Knowledge and           Skills                     Attitudes and values       Content                                       Learning activities
+understanding
+
+- State the conditions  - Use definition and       - Appreciate the use of    - Conditions for points to           - In group, discuss whether three
+ and properties of        properties to show         properties of              be collinear and vectors to          points are collinear in a given
+ collinearity and         whether three given        collinearity and           be orthogonal.                       situations. Discuss whether
+ orthogonality.           points are collinear or    orthogonality to solve                                          vectors are parallel
+                          not and whether two        problems about           - Problems about points and            ororthogonal.
+                          vectors are orthogonal     vectors in two             vectors in two dimensions.
+                          or not.                    dimensions.
+
+                                                   - Show patience, mutual
+                                                     respect, tolerance, and
+                                                     curiosity in solving
+                                                     and discussing
+                                                     problems involving
+                                                     vectors in two
+                                                     dimensions.
+
+Links to other subject: Technical and scientific drawing, physics, chemistry
+Assessment criterion: Can apply properties of collinearity and orthogonality to solve problems involving vectors.
+Materials: Calculators, geometrical instruments.
+
+                                                                                                                                     52
+TOPIC AREA: GEOMETRY                                                                                           No. of periods:22
+S.3 Mathematics Unit 11:Enlargement and similarity in 2D.
+                                                                                                                        Learning activities
+Key unit competency: To be able to solve problems regarding shape enlargement and similarities in 2D.
+                                   Learning objectives
+
+Knowledge and         Skills                          Attitudes and values                     Content
+understanding
+
+- Define              - Determine the linear scale    - Appreciate the      - Definition of enlargement.       - In groups, construct images of
+ enlargement.          factor of an enlargement.       importance of        - Definition similarity.            enlarged shapes and compare
+                                                       enlargement and      - Examples of similar shapes        the new shapes to their initial
+- Define similarity.  - Find the centre of an          similarities to                                          forms. Discuss the properties of
+- Identify similar     enlargement.                    transform shapes.     (similar triangles, similar        enlargement and similarities
+                                                                             cylinder, etc.).                   used to transform these shapes
+ shapes.              - Construct an image of an      - Show patience,      - Properties of enlargement and     to their new forms.
+- List properties of   object that has been            mutual respect,       similarities.
+                       enlarged.                       tolerance, and       - Determining linear scale factor  - In pairs, construct an image of a
+ enlargement and                                       team work while       of enlargement                     given object under composite
+ similarities.        - Use properties of              solving and          - Determining the centre of         and inverse enlargement.
+                       enlargement and similarities    discussing            enlarged shape.
+                       to transform a given shape.     problems             - Finding lengths of sides of      - Individually, show similar
+                                                       involving             similar shapes using Thales        shapes in a variety of shapes and
+                      - Find lengths of sides, area,   enlargement and       theorem.                           find the linear scale factor and
+                       and volume of similar           similarities.        - Areas of similar shapes.          centre of enlargement for each
+                       shapes.                                              - Volumes of similar objects.       case.
+                                                                            - Composite and inverse
+                      - Construct an image of an                             enlargements                      - In groups, find the area and
+                       object under composite and                                                               volume of given similar shapes
+                       inverse enlargement.                                                                     and solids.
+
+Links to other subject: Technical and scientific drawing, physics, engineering, construction.
+Assessment criterion: Can solve problems regarding shape enlargement and similarities in 2D.
+Materials: Geometrical instruments.
+
+                                                                                                               53
+TOPIC AREA: GEOMETRY
+
+S.3 Mathematics            Unit 12: Inverse and composite transformations in 2D.                                  No. of periods:12
+
+Key unit competency: To be able to solve problems involving the inverse and composite transformations of shpaes.
+
+                           Learning objectives
+
+Knowledge and              Skills                   Attitudes and values    Content                               Learning activities
+understanding
+
+- State and explain        - Construct an image of  - Appreciate the        - Composite transformations.          - Individually, construct an image
+  properties of composite    an object under          importance of         - Composite translations in 2D.         of a given object under inverse
+  and inverse                composite and            inverse and           - Composite reflections in 2D.          and composite transformations
+  transformations in 2D.     inverse                  composite             - Composite rotations in 2D.            in 2D.
+                             transformation in 2D     transformations to    - Mixed transformations in 2D.
+- Identify type of                                    transform shapes.     - Inverse transformations in 2D.      - In groups, observe, discuss, and
+  transformation used in   - Solve problems                                                                         show images of objects from
+  given drawings in 2D.      involving inverse and  - Show patience,                                                given different transformed
+                             composite                mutual respect,                                               shapes in 2D and give the
+- Show an image of an        transformations in       tolerance, and                                                properties of inverse and
+  object from different      2D.                      curiosity in solving                                          composite transformations used
+  transformed shapes in                               and discussing                                                to transform these shapes.
+  2D.                                                 problems involving
+                                                      inverse and                                                 - In pairs, construct images of
+                                                      composite                                                     objects under mixed
+                                                      transformations.                                              transformations.
+
+Links to other subject: Technical and scientific drawing, physics, engineering, construction.
+Assessment criterion: Can solve problems involving the inverse and composite transformations of shapes.
+Materials: Geometrical instruments.
+
+                                                                                                                                     54
+TOPIC AREA: STATISTICS AND PROBABILITY
+
+S.3 Mathematics             Unit 13: Statistics (bivariate data).                                                        No. of periods:12
+
+Key unit competency: To be able to collect, represent, and interpret bivariate data.
+
+                            Learning objectives
+
+Knowledge and               Skills                   Attitudes and values             Content                            Learning activities
+understanding
+
+- Define bivariate data.    - Draw scatter diagram   - Develop clear, logical,        - Definition and examples of       - In groups, collect bivariate data
+- Make a frequency           for bivariate data and   and coherent thinking            bivariate data.                    and organize them in frequency
+                             indicate the type of     while drawing                                                       distribution tables and plot them
+ distribution table of       correlation.             conclusion related to           - Frequency distribution table      on a scatter diagram.
+ collected bivariate data.                            bivariate data or                of bivariate data.
+- Interpret scatter         - Analyze a scatter       scatter diagrams.                                                  - In pairs, analyse given
+ diagrams.                   diagram and infer                                        - Scatter diagram.                  information on the graphs
+- Identify type of           conclusion.             - Appreciate the use of          - Types of correlation: Positive    (scatter diagrams), determine the
+ correlation on a scatter                             scatter diagrams to                                                 correlation between the
+ diagram.                                             represent information.           and negative correlations.         data.Analyse and interpret the
+                                                                                                                          data and infer conclusion.
+                                                     - Show patience, mutual
+                                                      respect, tolerance, and
+                                                      curiosity in collecting,
+                                                      representing,
+                                                      interpreting bivariate
+                                                      data.
+
+Links to other subject: All subjects.
+Assessment criterion: Can collect, represent, and interpret bivariate data.
+Materials: Geometrical instruments, Digital technology such as graph plotting software, interactive multimedia content.
+
+                                                                                                                                            55
+6. REFERENCES
+
+1. Alundria, I. and et al. (2009). Secondary Mathematics (Student's Book II). MK PublishersLtd.
+2. Atkinson, C. andMungumiyo, U. (2010). New General Mathematics: Teacher's guide. Pearson Education Ltd.
+3. Ayres, F. and et al (1992).Mathématiques de Base. McGraw-Hill Inc.
+4. Backhouse, J.K. and et al. (1985). Pure Mathematics I (Fourth edition). Longman.
+5. Ball, D. (2003). Forty Harder Problems for Classroom. Association of Teachers of Mathematics.
+6. Ball, B. (2011). Rich Task Maths II:Engaging Mathematics for all learners. Association of Teachers of Mathematics.
+7. Crawshaw, J. and Chambers, J. (2002). Advanced Level Statistics.Nelson Thornes Ltd.
+8. Curriculum Planning and Development Division (2006). Secondary Mathematics Syllabuses. Singapore Ministry of Education
+9. Hatch, G. (2004). What kind of Game is Algebra. Association of Teachers of Mathematics.
+10. Kamba, G. (2010). Secondary Mathematics (Student's Book III). MK PublishersLtd.
+11. Kasirye, S. and et al (2009). Secondary Mathematics (student's book1). MK PublishersLtd.
+12. Laufer, B. H. (1984). Discrete Mathematics and Applied Modern Algebra. PWS Publishers.
+13. Les Frères de l'Instruction Chrétienne. (1961). Géométrie Plane.
+14. Lyonga, E K. (2004). Mathematics for Rwanda: Student book. Macmillan.
+15. Macrae, M. and et al. (2010). New General Mathematics: student book I. Pearson education Ltd.
+16. Macrae, M. and et al. (2010). New General Mathematics: student book II. Pearson education Ltd.
+17. Macrae, M. and et al.(2010). New General Mathematics: student book II. Pearson education ltd.
+18. New Zealand Ministry of Education (2007). The New Zealand Curriculum.
+19. National Curriculum Development Centre (2006). Mathematics Curriculum for Ordinary Level. Rwanda Ministry of Education.
+
+                                                                                                                                                                             56
+20. National Curriculum Development Centre (2008). Mathematics Syllabus: Uganda certificate of education. Uganda Ministry of
+    Education and Sports.
+
+21. National Curriculum Development Centre (2013). Mathematics Learning Area Syllabus. Cambridge Education.
+22. Nichols &et al. (1992). Holt pre-algebra. Holt, Rinehart and Winston Inc.
+23. Okot-Uma, R. and et al. (1997). Secondary School Mathematics: Student book I. Macmillan.
+24. Okot-Uma, R. and et al.(1997). Secondary School Mathematics: Student book II. Macmillan.
+25. Okot-Uma, R. and et al.(1997). Secondary School Mathematics: Student book III. Macmillan.
+26. Rayner, D. (2011). Extended Mathematics for Cambridge IGCSE. Oxford University Press.
+27. Singh, M. (2002). Pioneer Mathematics. Dhanpat RAI & CO.
+28. University of Cambridge (2013). International Mathematics. UCLES.
+
+                                                                                                                                                                             57
+7. APPENDIX: SUBJECTS AND WEEKLY TIME ALOCATION FOR O'LEVEL
+
+Core subjects                                        Weight  Number of Periods per week
+                                                     (%)
+1. English                                                   (1 period = 40 min.)
+2. Kinyarwanda                                           11
+3. Mathematics                                           7   S1                    S2              S3
+4. Physics                                               13
+5. Chemistry                                             9   5                     5               5
+6. Biology and Health Sciences                           9
+7. ICT                                                   9   3                     3               3
+8. History and Citizenship                               4                                         6
+9. Geography and Environment                             7   6                     6               4
+10. Entrepreneurship                                     7                                         4
+11. French                                               4   4                     4               4
+12. Kiswahili                                            4                                         2
+13. Literature in English                                4   4                     4               3
+  Sub Total                                                                                        3
+                                                         2   4                     4               2
+II. Elective subjects: Schools can choose 1 subject                                                2
+Religion and Ethics                                          2                     2               2
+Music, Dance and Drama
+                                                             3                     3               1
+                                                                                          41 periods
+                                                             3                     3
+
+                                                             2                     2
+
+                                                             2                     2
+
+                                                             2                     2
+
+                                                                      1           1
+                                                             41 periods  41 periods
+
+                                                     4          2                      2  2
+
+                                                     4          2                      2  2
+
+                                                                                                       58
+Fine arts and Crafts                        4    2       2      2
+Home Sciences                                            2      2
+Farming (Agriculture and Animal husbandry)  4    2       2      2
+III. Co-curricular activities (Compulsory)
+Physical Education and Sports               4    2       1      1
+Library and Clubs                                        1      1
+Total number of periods per week            2    1       45   45
+Total number of contact hours per week                  30    30
+Total number of hours per year              2    1     1170  1170
+ (39 weeks)
+                                            100  45
+
+                                                 30
+
+                                                 1170
+
+                                                                   59
+

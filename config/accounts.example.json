@@ -1,0 +1,9 @@
+{
+  "accounts": [
+    {
+      "username": "student1",
+      "password_hash": "sha256:example_hash_only",
+      "role": "student"
+    }
+  ]
+}

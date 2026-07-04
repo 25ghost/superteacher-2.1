@@ -1,0 +1,8 @@
+{
+  "reb_books_dir": "data/reb_books",
+  "reb_levels": {
+    "s1": "Mathematics-S1-SB.pdf",
+    "s2": "Mathematics-S2-SB.pdf",
+    "s3": "Mathematics-S3-SB.pdf"
+  }
+}

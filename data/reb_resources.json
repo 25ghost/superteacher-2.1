@@ -1,0 +1,54 @@
+{
+  "source": "Rwanda Basic Education Board official e-learning and publications portals",
+  "source_urls": [
+    "https://www.reb.gov.rw/publications",
+    "https://elearning.reb.rw/"
+  ],
+  "levels": [
+    {
+      "level": "Primary 4",
+      "focus": "Upper primary foundations",
+      "order": ["English", "Kinyarwanda", "Mathematics", "Science and Elementary Technology", "Social and Religious Studies", "Creative Arts and Physical Education"]
+    },
+    {
+      "level": "Primary 5",
+      "focus": "Fluency, numeracy, science inquiry, and citizenship",
+      "order": ["Mathematics", "English", "Kinyarwanda", "Science and Elementary Technology", "Social and Religious Studies", "ICT practice"]
+    },
+    {
+      "level": "Primary 6",
+      "focus": "National exam readiness and transition to lower secondary",
+      "order": ["Mathematics", "English", "Kinyarwanda", "Science and Elementary Technology", "Social and Religious Studies", "Past-paper revision"]
+    },
+    {
+      "level": "Senior 1",
+      "focus": "Lower secondary orientation",
+      "order": ["Mathematics", "English", "Kinyarwanda", "Integrated Science", "Social Studies", "ICT", "Entrepreneurship"]
+    },
+    {
+      "level": "Senior 2",
+      "focus": "Concept depth and regular practice",
+      "order": ["Mathematics", "English", "Kinyarwanda", "Physics", "Chemistry", "Biology", "Geography", "History and Citizenship", "ICT"]
+    },
+    {
+      "level": "Senior 3",
+      "focus": "Lower secondary consolidation and national exam preparation",
+      "order": ["Mathematics", "Sciences", "Languages", "Humanities", "ICT", "Past-paper revision"]
+    },
+    {
+      "level": "Senior 4",
+      "focus": "Advanced subject pathway setup",
+      "order": ["Core combination subjects", "General paper and communication", "ICT", "Entrepreneurship", "Weekly research project"]
+    },
+    {
+      "level": "Senior 5",
+      "focus": "Advanced reasoning and exam technique",
+      "order": ["Core combination subjects", "Applied practice", "Essay/problem solving", "Project work", "Past-paper correction"]
+    },
+    {
+      "level": "Senior 6",
+      "focus": "National exam mastery and portfolio completion",
+      "order": ["Syllabus review", "Timed past papers", "Weak-topic clinics", "Research presentation", "Final exam strategy"]
+    }
+  ]
+}

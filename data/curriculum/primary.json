@@ -1,0 +1,862 @@
+{
+  "sub_levels": [
+    {
+      "name": "Lower Primary (P1-P3)",
+      "subjects": [
+        {
+          "name": "English",
+          "description": "Listening, speaking, reading and writing foundations",
+          "units": [
+            {
+              "name": "Unit 1: Listening and Speaking",
+              "lessons": [
+                "Basic greetings and introductions",
+                "Following simple instructions",
+                "Simple conversations",
+                "Storytelling and narratives",
+                "Describing objects and people"
+              ]
+            },
+            {
+              "name": "Unit 2: Reading",
+              "lessons": [
+                "Letter recognition and sounds",
+                "Phonics and blending",
+                "Sight words",
+                "Reading simple sentences",
+                "Reading short passages"
+              ]
+            },
+            {
+              "name": "Unit 3: Vocabulary",
+              "lessons": [
+                "Everyday objects and classroom items",
+                "Family members and relationships",
+                "Colors, shapes and sizes",
+                "Animals, food and drinks",
+                "Parts of the body"
+              ]
+            },
+            {
+              "name": "Unit 4: Grammar",
+              "lessons": [
+                "Nouns and naming words",
+                "Verbs and action words",
+                "Simple present tense",
+                "Sentence building",
+                "Punctuation basics"
+              ]
+            },
+            {
+              "name": "Unit 5: Writing",
+              "lessons": [
+                "Letter formation and handwriting",
+                "Writing simple words",
+                "Writing complete sentences",
+                "Short compositions",
+                "Spelling practice"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kinyarwanda",
+          "description": "Indangamvugo, gusoma no kwandika",
+          "units": [
+            {
+              "name": "Unit 1: Imvugo n'Ugutega amatwi",
+              "lessons": [
+                "Indamukanyo n'ingenzi",
+                "Gukurikiza amabwiriza",
+                "Ikiganiro cyoroshye",
+                "Kuvuga inkuru",
+                "Gusobanura ibintu"
+              ]
+            },
+            {
+              "name": "Unit 2: Gusoma",
+              "lessons": [
+                "Kumenya inyuguti n'amajwi",
+                "Gusoma inyuguti zivanze",
+                "Amagambo y'ibanze",
+                "Gusoma interuro",
+                "Gusoma ibice bigufi"
+              ]
+            },
+            {
+              "name": "Unit 3: Inkuru n'Imigani",
+              "lessons": [
+                "Imigani y'abakuru",
+                "Inkuru z'ibinyabuzima",
+                "Inkuru z'amateka y'u Rwanda",
+                "Gutekereza ku nkuru",
+                "Kuvuga inkuru ku giti cyawe"
+              ]
+            },
+            {
+              "name": "Unit 4: Ikibonezamvugo",
+              "lessons": [
+                "Izina ry'ikintu",
+                "Inshinga",
+                "Inyito",
+                "Inyinshi y'izina",
+                "Kubaka interuro"
+              ]
+            },
+            {
+              "name": "Unit 5: Kwandika",
+              "lessons": [
+                "Kwandika inyuguti neza",
+                "Kwandika amagambo",
+                "Kwandika interuro",
+                "Kwandika ibiganiro bigufi",
+                "Gusubiramo imyandikire"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mathematics",
+          "description": "Number sense, operations and basic geometry",
+          "units": []
+        },
+        {
+          "name": "Environmental Studies",
+          "description": "Understanding our environment, family and community",
+          "units": [
+            {
+              "name": "Unit 1: My Family",
+              "lessons": [
+                "Members of the family",
+                "Roles and responsibilities",
+                "Family traditions",
+                "Caring for each other",
+                "Family tree"
+              ]
+            },
+            {
+              "name": "Unit 2: My School",
+              "lessons": [
+                "School environment",
+                "School rules and routines",
+                "School staff and their roles",
+                "Learning materials",
+                "Keeping school clean"
+              ]
+            },
+            {
+              "name": "Unit 3: Health and Hygiene",
+              "lessons": [
+                "Personal hygiene (hand washing)",
+                "Brushing teeth and bathing",
+                "Healthy eating habits",
+                "Common illnesses",
+                "Staying safe at home and school"
+              ]
+            },
+            {
+              "name": "Unit 4: Plants",
+              "lessons": [
+                "Parts of a plant",
+                "What plants need to grow",
+                "Common plants in Rwanda",
+                "Uses of plants",
+                "Caring for plants"
+              ]
+            },
+            {
+              "name": "Unit 5: Animals",
+              "lessons": [
+                "Domestic animals",
+                "Wild animals in Rwanda",
+                "Animal homes and habitats",
+                "Animal sounds and movements",
+                "Caring for animals"
+              ]
+            },
+            {
+              "name": "Unit 6: Weather and Seasons",
+              "lessons": [
+                "Sunny, rainy, cloudy, windy",
+                "Seasons in Rwanda",
+                "How weather affects us",
+                "Dressing for the weather",
+                "Weather observations"
+              ]
+            },
+            {
+              "name": "Unit 7: Our Environment",
+              "lessons": [
+                "Clean and dirty environment",
+                "Waste management",
+                "Trees and forests",
+                "Water sources in Rwanda",
+                "Protecting the environment"
+              ]
+            },
+            {
+              "name": "Unit 8: Community",
+              "lessons": [
+                "My village and neighborhood",
+                "Community helpers",
+                "Markets and shops",
+                "Transport in Rwanda",
+                "Cultural events and celebrations"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Creative Arts",
+          "description": "Art, music, dance and creative expression",
+          "units": [
+            {
+              "name": "Unit 1: Drawing and Painting",
+              "lessons": [
+                "Basic drawing techniques",
+                "Using colors",
+                "Painting with brushes and fingers",
+                "Drawing nature and animals",
+                "Creating patterns"
+              ]
+            },
+            {
+              "name": "Unit 2: Modeling and Construction",
+              "lessons": [
+                "Working with clay",
+                "Paper crafts",
+                "Building with recycled materials",
+                "Creating masks",
+                "Simple weaving"
+              ]
+            },
+            {
+              "name": "Unit 3: Music and Rhythm",
+              "lessons": [
+                "Singing simple songs",
+                "Rhythm and clapping",
+                "Traditional Rwandan songs",
+                "Musical instruments",
+                "Creating simple melodies"
+              ]
+            },
+            {
+              "name": "Unit 4: Dance and Movement",
+              "lessons": [
+                "Basic dance steps",
+                "Traditional Rwandan dance",
+                "Expressing feelings through movement",
+                "Group dance",
+                "Dance and storytelling"
+              ]
+            },
+            {
+              "name": "Unit 5: Drama and Role Play",
+              "lessons": [
+                "Simple role playing",
+                "Story dramatization",
+                "Using voice and expression",
+                "Puppetry",
+                "Performing for others"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Physical Education",
+          "description": "Movement, games and healthy bodies",
+          "units": [
+            {
+              "name": "Unit 1: Basic Movements",
+              "lessons": [
+                "Walking, running and jumping",
+                "Hopping, skipping and galloping",
+                "Balancing exercises",
+                "Stretching and flexibility",
+                "Coordination activities"
+              ]
+            },
+            {
+              "name": "Unit 2: Games and Sports",
+              "lessons": [
+                "Simple ball games",
+                "Tag and chasing games",
+                "Relay races",
+                "Traditional Rwandan games",
+                "Teamwork in games"
+              ]
+            },
+            {
+              "name": "Unit 3: Body Awareness",
+              "lessons": [
+                "Body parts and movement",
+                "Personal space and awareness",
+                "Following movement directions",
+                "Mirroring and copying",
+                "Obstacle courses"
+              ]
+            },
+            {
+              "name": "Unit 4: Health and Fitness",
+              "lessons": [
+                "Why exercise is important",
+                "Healthy habits",
+                "Rest and sleep",
+                "Safety during play",
+                "Warm-up and cool-down"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Religious and Ethics Education",
+          "description": "Values, morals and spiritual growth",
+          "units": [
+            {
+              "name": "Unit 1: Myself and Others",
+              "lessons": [
+                "Who I am",
+                "Respecting others",
+                "Sharing and caring",
+                "Being kind",
+                "Saying sorry and forgiving"
+              ]
+            },
+            {
+              "name": "Unit 2: Values and Morals",
+              "lessons": [
+                "Honesty and truthfulness",
+                "Responsibility",
+                "Gratitude",
+                "Patience",
+                "Courage"
+              ]
+            },
+            {
+              "name": "Unit 3: Community and Belonging",
+              "lessons": [
+                "My family and community",
+                "Helping at home and school",
+                "Celebrations and traditions",
+                "Respecting elders",
+                "Unity and togetherness"
+              ]
+            },
+            {
+              "name": "Unit 4: Faith and Spirituality",
+              "lessons": [
+                "Stories from sacred texts",
+                "Prayer and reflection",
+                "Religious celebrations",
+                "Places of worship",
+                "Respecting all beliefs"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Upper Primary (P4-P6)",
+      "subjects": [
+        {
+          "name": "English",
+          "description": "Advanced literacy, grammar and communication",
+          "units": [
+            {
+              "name": "Unit 1: Reading and Comprehension",
+              "lessons": [
+                "Main idea and details",
+                "Making predictions",
+                "Drawing conclusions",
+                "Fact and opinion",
+                "Summarizing passages"
+              ]
+            },
+            {
+              "name": "Unit 2: Grammar",
+              "lessons": [
+                "Parts of speech review",
+                "Tenses (present, past, future)",
+                "Subject-verb agreement",
+                "Prepositions and conjunctions",
+                "Active and passive voice"
+              ]
+            },
+            {
+              "name": "Unit 3: Writing",
+              "lessons": [
+                "Paragraph writing",
+                "Essay structure",
+                "Descriptive writing",
+                "Narrative writing",
+                "Letter writing (formal and informal)"
+              ]
+            },
+            {
+              "name": "Unit 4: Vocabulary and Spelling",
+              "lessons": [
+                "Synonyms and antonyms",
+                "Homophones and homographs",
+                "Prefixes and suffixes",
+                "Dictionary skills",
+                "Spelling rules"
+              ]
+            },
+            {
+              "name": "Unit 5: Speaking and Listening",
+              "lessons": [
+                "Public speaking basics",
+                "Debates and discussions",
+                "Presenting information",
+                "Active listening skills",
+                "Giving and receiving feedback"
+              ]
+            },
+            {
+              "name": "Unit 6: Literature",
+              "lessons": [
+                "Short stories analysis",
+                "Poetry and rhyme",
+                "Character analysis",
+                "Setting and plot",
+                "Theme and message"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kinyarwanda",
+          "description": "Guteza imbere ubumenyi bw'ikinyarwanda",
+          "units": [
+            {
+              "name": "Unit 1: Gusoma no Gusesengura",
+              "lessons": [
+                "Gusoma inyandiko ndende",
+                "Kubona igitekerezo nyamukuru",
+                "Gusesengura abantu mu nkuru",
+                "Gusesengura ibikorwa by'inkuru",
+                "Kuvuga mu magambo yawe"
+              ]
+            },
+            {
+              "name": "Unit 2: Ikibonezamvugo",
+              "lessons": [
+                "Ubwoko bw'amazina",
+                "Ishingura n'ibihe",
+                "Inyito n'insimbura",
+                "Interuro z'Igingo",
+                "Imikoreshereze y'ikirangirango"
+              ]
+            },
+            {
+              "name": "Unit 3: Kwandika",
+              "lessons": [
+                "Kwandika ibice",
+                "Kwandika inkuru n'imigani",
+                "Kwandika amakuru",
+                "Kwandika inyandiko z'ubushakashatsi",
+                "Kwandika neza no kugenzura"
+              ]
+            },
+            {
+              "name": "Unit 4: Ubuvanganzo",
+              "lessons": [
+                "Ibisigo n'imivugo",
+                "Inkuru n'ibitekerezo",
+                "Imigani y'abakuru",
+                "Amakuru n'inkuru z'amateka",
+                "Gusesengura ubuvanganzo"
+              ]
+            },
+            {
+              "name": "Unit 5: Imvugo n'Itumanaho",
+              "lessons": [
+                "Kuganira ku ngingo",
+                "Kugaragaza igitekerezo",
+                "Kugisha inama",
+                "Kuvuga imbere y'abantu",
+                "Ubushakashatsi mu mvugo"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mathematics",
+          "description": "Advanced arithmetic, geometry and problem solving",
+          "units": []
+        },
+        {
+          "name": "Science and Elementary Technology (SET)",
+          "description": "Scientific inquiry, living things, matter and technology",
+          "units": [
+            {
+              "name": "Unit 1: Living Things",
+              "lessons": [
+                "Characteristics of living things",
+                "Classification of living things",
+                "Cells (basic structure)",
+                "Microorganisms",
+                "Life cycles"
+              ]
+            },
+            {
+              "name": "Unit 2: Human Body",
+              "lessons": [
+                "Body systems overview",
+                "Digestive system",
+                "Respiratory system",
+                "Circulatory system",
+                "Sense organs"
+              ]
+            },
+            {
+              "name": "Unit 3: Plants",
+              "lessons": [
+                "Plant cells and tissues",
+                "Photosynthesis",
+                "Plant reproduction",
+                "Plant adaptations",
+                "Crop plants in Rwanda"
+              ]
+            },
+            {
+              "name": "Unit 4: Animals",
+              "lessons": [
+                "Vertebrates and invertebrates",
+                "Animal classification",
+                "Animal adaptations",
+                "Food chains and webs",
+                "Conservation of animals"
+              ]
+            },
+            {
+              "name": "Unit 5: Matter",
+              "lessons": [
+                "States of matter",
+                "Properties of matter",
+                "Changes of state",
+                "Mixtures and solutions",
+                "Separating mixtures"
+              ]
+            },
+            {
+              "name": "Unit 6: Energy",
+              "lessons": [
+                "Forms of energy",
+                "Light and shadows",
+                "Sound and hearing",
+                "Heat and temperature",
+                "Simple circuits"
+              ]
+            },
+            {
+              "name": "Unit 7: Force and Motion",
+              "lessons": [
+                "Push and pull",
+                "Types of forces",
+                "Friction",
+                "Magnetism",
+                "Simple machines"
+              ]
+            },
+            {
+              "name": "Unit 8: Earth and Space",
+              "lessons": [
+                "Earth's structure",
+                "Rocks and minerals",
+                "Weather and climate",
+                "Solar system",
+                "Day and night"
+              ]
+            },
+            {
+              "name": "Unit 9: Technology and Innovation",
+              "lessons": [
+                "What is technology",
+                "Computers and their uses",
+                "Digital tools in learning",
+                "Inventions and inventors",
+                "Problem solving with technology"
+              ]
+            },
+            {
+              "name": "Unit 10: Environment Conservation",
+              "lessons": [
+                "Ecosystems and habitats",
+                "Pollution (air, water, land)",
+                "Waste management",
+                "Trees and reforestation",
+                "Sustainable living"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Social and Religious Studies (SRS)",
+          "description": "History, geography, civics, religion and ethics",
+          "units": [
+            {
+              "name": "Unit 1: Rwanda and Citizenship",
+              "lessons": [
+                "Location of Rwanda on the map",
+                "Provinces and districts",
+                "National symbols",
+                "Rwandan identity and unity",
+                "Rights and responsibilities of citizens"
+              ]
+            },
+            {
+              "name": "Unit 2: Leadership and Governance",
+              "lessons": [
+                "Types of leadership",
+                "Local government in Rwanda",
+                "National government structure",
+                "Elections and democracy",
+                "Good governance principles"
+              ]
+            },
+            {
+              "name": "Unit 3: Human Rights",
+              "lessons": [
+                "Understanding human rights",
+                "Children's rights",
+                "Gender equality",
+                "Protecting vulnerable groups",
+                "Reporting abuse and seeking help"
+              ]
+            },
+            {
+              "name": "Unit 4: Culture and Values",
+              "lessons": [
+                "Rwandan traditions and customs",
+                "Cultural ceremonies",
+                "Respect and integrity",
+                "Unity and reconciliation",
+                "Cultural diversity"
+              ]
+            },
+            {
+              "name": "Unit 5: Geography of Rwanda",
+              "lessons": [
+                "Physical features (hills, lakes, rivers)",
+                "Climate of Rwanda",
+                "Population and settlement",
+                "Economic activities",
+                "Natural resources"
+              ]
+            },
+            {
+              "name": "Unit 6: History of Rwanda",
+              "lessons": [
+                "Pre-colonial Rwanda",
+                "The Kingdom of Rwanda",
+                "Colonial period",
+                "Independence and after",
+                "Genocide against the Tutsi and rebuilding"
+              ]
+            },
+            {
+              "name": "Unit 7: Religion and Ethics",
+              "lessons": [
+                "Major religions in Rwanda",
+                "Religious tolerance",
+                "Moral values and ethical decisions",
+                "Peace and conflict resolution",
+                "Community service"
+              ]
+            },
+            {
+              "name": "Unit 8: Peace and Unity",
+              "lessons": [
+                "Understanding peace",
+                "Conflict resolution",
+                "Reconciliation",
+                "Unity in diversity",
+                "Building a peaceful society"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Creative Arts",
+          "description": "Advanced visual arts, music, dance and drama",
+          "units": [
+            {
+              "name": "Unit 1: Visual Arts",
+              "lessons": [
+                "Drawing and shading techniques",
+                "Color theory and mixing",
+                "Landscape and perspective",
+                "Painting styles",
+                "Art appreciation"
+              ]
+            },
+            {
+              "name": "Unit 2: Crafts and Design",
+              "lessons": [
+                "Traditional Rwandan crafts",
+                "Basket weaving (agaseke)",
+                "Pottery and ceramics",
+                "Textile design",
+                "Recycled art projects"
+              ]
+            },
+            {
+              "name": "Unit 3: Music",
+              "lessons": [
+                "Reading music notation",
+                "Rhythm and tempo",
+                "Traditional Rwandan instruments",
+                "Choral singing",
+                "Composing simple songs"
+              ]
+            },
+            {
+              "name": "Unit 4: Dance and Drama",
+              "lessons": [
+                "Traditional Rwandan dance (Intore)",
+                "Choreography basics",
+                "Script writing",
+                "Stage performance",
+                "Drama for social messages"
+              ]
+            },
+            {
+              "name": "Unit 5: Media and Digital Arts",
+              "lessons": [
+                "Photography basics",
+                "Digital drawing",
+                "Animation concepts",
+                "Creating multimedia presentations",
+                "Digital storytelling"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Physical Education",
+          "description": "Sports, fitness and healthy living",
+          "units": [
+            {
+              "name": "Unit 1: Athletics",
+              "lessons": [
+                "Sprinting techniques",
+                "Long distance running",
+                "Relay races",
+                "High jump and long jump",
+                "Throwing (shot put, javelin)"
+              ]
+            },
+            {
+              "name": "Unit 2: Team Sports",
+              "lessons": [
+                "Football (soccer) skills",
+                "Basketball basics",
+                "Volleyball fundamentals",
+                "Handball",
+                "Teamwork and sportsmanship"
+              ]
+            },
+            {
+              "name": "Unit 3: Gymnastics",
+              "lessons": [
+                "Floor exercises",
+                "Balance and coordination",
+                "Forward and backward rolls",
+                "Handstands and cartwheels",
+                "Creating routines"
+              ]
+            },
+            {
+              "name": "Unit 4: Health and Nutrition",
+              "lessons": [
+                "Balanced diet and nutrition",
+                "Food groups in Rwanda",
+                "Hygiene and disease prevention",
+                "First aid basics",
+                "Mental health and well-being"
+              ]
+            },
+            {
+              "name": "Unit 5: Outdoor and Adventure",
+              "lessons": [
+                "Orienteering and map reading",
+                "Nature walks",
+                "Camping skills",
+                "Environmental awareness through sports",
+                "Traditional Rwandan outdoor games"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ICT",
+          "description": "Computer fundamentals, digital literacy and online safety",
+          "units": [
+            {
+              "name": "Unit 1: Introduction to Computers",
+              "lessons": [
+                "Parts of a computer",
+                "Turning on and off properly",
+                "Using keyboard and mouse",
+                "Desktop and icons",
+                "Basic computer care"
+              ]
+            },
+            {
+              "name": "Unit 2: Operating Systems",
+              "lessons": [
+                "What is an operating system",
+                "File and folder management",
+                "Creating and saving documents",
+                "Opening and closing programs",
+                "Using the taskbar and start menu"
+              ]
+            },
+            {
+              "name": "Unit 3: Word Processing",
+              "lessons": [
+                "Typing and formatting text",
+                "Copy, cut and paste",
+                "Inserting images and tables",
+                "Spell check and grammar",
+                "Printing documents"
+              ]
+            },
+            {
+              "name": "Unit 4: Spreadsheets",
+              "lessons": [
+                "Introduction to spreadsheets",
+                "Entering data",
+                "Basic formulas",
+                "Creating charts",
+                "Sorting and filtering data"
+              ]
+            },
+            {
+              "name": "Unit 5: Presentations",
+              "lessons": [
+                "Creating slides",
+                "Adding text and images",
+                "Transitions and animations",
+                "Presenting to an audience",
+                "Design principles"
+              ]
+            },
+            {
+              "name": "Unit 6: Internet and Online Safety",
+              "lessons": [
+                "Using web browsers",
+                "Searching effectively",
+                "Email basics",
+                "Online safety and privacy",
+                "Digital citizenship"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
