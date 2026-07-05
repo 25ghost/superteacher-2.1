@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Workplace learning.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-workplace-learning-concepts-and-terminology",
+      "name": "Workplace learning: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/basic-science/lessons/05-lesson-01-workplace-learning-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-workplace-learning-tools-materials-and-preparation",
+      "name": "Workplace learning: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/basic-science/lessons/05-lesson-02-workplace-learning-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-workplace-learning-practical-procedure",
+      "name": "Workplace learning: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/basic-science/lessons/05-lesson-03-workplace-learning-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-workplace-learning-quality-safety-and-troubleshootin",
+      "name": "Workplace learning: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/basic-science/lessons/05-lesson-04-workplace-learning-quality-safety-and-troubleshootin.json",
+      "status": "ready"
+    }
+  ]
+}

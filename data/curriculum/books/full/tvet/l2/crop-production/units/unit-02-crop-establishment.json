@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Crop establishment.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-crop-establishment-concepts-and-terminology",
+      "name": "Crop establishment: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/crop-production/lessons/02-lesson-01-crop-establishment-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-crop-establishment-tools-materials-and-preparation",
+      "name": "Crop establishment: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/crop-production/lessons/02-lesson-02-crop-establishment-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-crop-establishment-practical-procedure",
+      "name": "Crop establishment: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/crop-production/lessons/02-lesson-03-crop-establishment-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-crop-establishment-quality-safety-and-troubleshootin",
+      "name": "Crop establishment: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/crop-production/lessons/02-lesson-04-crop-establishment-quality-safety-and-troubleshootin.json",
+      "status": "ready"
+    }
+  ]
+}

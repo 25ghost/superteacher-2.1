@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Harvest and storage.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-harvest-and-storage-concepts-and-terminology",
+      "name": "Harvest and storage: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/crop-production/lessons/05-lesson-01-harvest-and-storage-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-harvest-and-storage-tools-materials-and-preparation",
+      "name": "Harvest and storage: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/crop-production/lessons/05-lesson-02-harvest-and-storage-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-harvest-and-storage-practical-procedure",
+      "name": "Harvest and storage: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/crop-production/lessons/05-lesson-03-harvest-and-storage-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-harvest-and-storage-quality-safety-and-troubleshooti",
+      "name": "Harvest and storage: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/crop-production/lessons/05-lesson-04-harvest-and-storage-quality-safety-and-troubleshooti.json",
+      "status": "ready"
+    }
+  ]
+}

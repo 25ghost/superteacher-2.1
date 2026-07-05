@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Soil preparation.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-soil-preparation-concepts-and-terminology",
+      "name": "Soil preparation: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/crop-production/lessons/01-lesson-01-soil-preparation-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-soil-preparation-tools-materials-and-preparation",
+      "name": "Soil preparation: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/crop-production/lessons/01-lesson-02-soil-preparation-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-soil-preparation-practical-procedure",
+      "name": "Soil preparation: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/crop-production/lessons/01-lesson-03-soil-preparation-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-soil-preparation-quality-safety-and-troubleshooting",
+      "name": "Soil preparation: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/crop-production/lessons/01-lesson-04-soil-preparation-quality-safety-and-troubleshooting.json",
+      "status": "ready"
+    }
+  ]
+}

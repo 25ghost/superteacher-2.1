@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "Food Processing",
+    "level": "RQF Level 2",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-food-safety",
+      "name": "Food safety",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l2/food-processing/units/unit-01-food-safety.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-processing-methods",
+      "name": "Processing methods",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l2/food-processing/units/unit-02-processing-methods.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-preservation",
+      "name": "Preservation",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l2/food-processing/units/unit-03-preservation.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-quality-control",
+      "name": "Quality control",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l2/food-processing/units/unit-04-quality-control.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-packaging",
+      "name": "Packaging",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l2/food-processing/units/unit-05-packaging.json",
+      "status": "ready"
+    }
+  ]
+}

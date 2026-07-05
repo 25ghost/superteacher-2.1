@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Technical communication.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-technical-communication-concepts-and-terminology",
+      "name": "Technical communication: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/basic-science/lessons/03-lesson-01-technical-communication-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-technical-communication-tools-materials-and-preparat",
+      "name": "Technical communication: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/basic-science/lessons/03-lesson-02-technical-communication-tools-materials-and-preparat.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-technical-communication-practical-procedure",
+      "name": "Technical communication: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/basic-science/lessons/03-lesson-03-technical-communication-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-technical-communication-quality-safety-and-troublesh",
+      "name": "Technical communication: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/basic-science/lessons/03-lesson-04-technical-communication-quality-safety-and-troublesh.json",
+      "status": "ready"
+    }
+  ]
+}

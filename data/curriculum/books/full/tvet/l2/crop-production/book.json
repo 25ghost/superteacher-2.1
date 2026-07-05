@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "Crop Production",
+    "level": "RQF Level 2",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-soil-preparation",
+      "name": "Soil preparation",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l2/crop-production/units/unit-01-soil-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-crop-establishment",
+      "name": "Crop establishment",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l2/crop-production/units/unit-02-crop-establishment.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-plant-nutrition",
+      "name": "Plant nutrition",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l2/crop-production/units/unit-03-plant-nutrition.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-pest-management",
+      "name": "Pest management",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l2/crop-production/units/unit-04-pest-management.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-harvest-and-storage",
+      "name": "Harvest and storage",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l2/crop-production/units/unit-05-harvest-and-storage.json",
+      "status": "ready"
+    }
+  ]
+}
