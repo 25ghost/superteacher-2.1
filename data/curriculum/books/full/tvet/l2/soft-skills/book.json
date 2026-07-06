@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "Soft Skills",
+    "level": "RQF Level 2",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-communication",
+      "name": "Communication",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l2/soft-skills/units/unit-01-communication.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-teamwork",
+      "name": "Teamwork",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l2/soft-skills/units/unit-02-teamwork.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-problem-solving",
+      "name": "Problem solving",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l2/soft-skills/units/unit-03-problem-solving.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-work-readiness",
+      "name": "Work readiness",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l2/soft-skills/units/unit-04-work-readiness.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-entrepreneurship",
+      "name": "Entrepreneurship",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l2/soft-skills/units/unit-05-entrepreneurship.json",
+      "status": "ready"
+    }
+  ]
+}

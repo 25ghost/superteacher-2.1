@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Packaging.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-packaging-concepts-and-terminology",
+      "name": "Packaging: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/food-processing/lessons/05-lesson-01-packaging-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-packaging-tools-materials-and-preparation",
+      "name": "Packaging: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/food-processing/lessons/05-lesson-02-packaging-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-packaging-practical-procedure",
+      "name": "Packaging: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/food-processing/lessons/05-lesson-03-packaging-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-packaging-quality-safety-and-troubleshooting",
+      "name": "Packaging: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/food-processing/lessons/05-lesson-04-packaging-quality-safety-and-troubleshooting.json",
+      "status": "ready"
+    }
+  ]
+}

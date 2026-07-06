@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Quality control.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-quality-control-concepts-and-terminology",
+      "name": "Quality control: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/food-processing/lessons/04-lesson-01-quality-control-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-quality-control-tools-materials-and-preparation",
+      "name": "Quality control: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/food-processing/lessons/04-lesson-02-quality-control-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-quality-control-practical-procedure",
+      "name": "Quality control: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/food-processing/lessons/04-lesson-03-quality-control-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-quality-control-quality-safety-and-troubleshooting",
+      "name": "Quality control: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/food-processing/lessons/04-lesson-04-quality-control-quality-safety-and-troubleshooting.json",
+      "status": "ready"
+    }
+  ]
+}

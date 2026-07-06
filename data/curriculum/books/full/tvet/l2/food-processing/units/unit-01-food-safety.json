@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Food safety.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-food-safety-concepts-and-terminology",
+      "name": "Food safety: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/food-processing/lessons/01-lesson-01-food-safety-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-food-safety-tools-materials-and-preparation",
+      "name": "Food safety: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/food-processing/lessons/01-lesson-02-food-safety-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-food-safety-practical-procedure",
+      "name": "Food safety: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/food-processing/lessons/01-lesson-03-food-safety-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-food-safety-quality-safety-and-troubleshooting",
+      "name": "Food safety: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/food-processing/lessons/01-lesson-04-food-safety-quality-safety-and-troubleshooting.json",
+      "status": "ready"
+    }
+  ]
+}
