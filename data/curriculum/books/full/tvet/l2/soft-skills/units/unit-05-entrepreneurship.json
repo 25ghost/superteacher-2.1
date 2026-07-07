@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Entrepreneurship.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-entrepreneurship-concepts-and-terminology",
+      "name": "Entrepreneurship: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/soft-skills/lessons/05-lesson-01-entrepreneurship-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-entrepreneurship-tools-materials-and-preparation",
+      "name": "Entrepreneurship: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/soft-skills/lessons/05-lesson-02-entrepreneurship-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-entrepreneurship-practical-procedure",
+      "name": "Entrepreneurship: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/soft-skills/lessons/05-lesson-03-entrepreneurship-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-entrepreneurship-quality-safety-and-troubleshooting",
+      "name": "Entrepreneurship: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/soft-skills/lessons/05-lesson-04-entrepreneurship-quality-safety-and-troubleshooting.json",
+      "status": "ready"
+    }
+  ]
+}

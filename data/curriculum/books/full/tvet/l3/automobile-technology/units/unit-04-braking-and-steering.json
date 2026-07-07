@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Braking and steering.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-braking-and-steering-concepts-and-terminology",
+      "name": "Braking and steering: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/automobile-technology/lessons/04-lesson-01-braking-and-steering-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-braking-and-steering-tools-materials-and-preparation",
+      "name": "Braking and steering: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/automobile-technology/lessons/04-lesson-02-braking-and-steering-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-braking-and-steering-practical-procedure",
+      "name": "Braking and steering: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/automobile-technology/lessons/04-lesson-03-braking-and-steering-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-braking-and-steering-quality-safety-and-troubleshoot",
+      "name": "Braking and steering: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/automobile-technology/lessons/04-lesson-04-braking-and-steering-quality-safety-and-troubleshoot.json",
+      "status": "ready"
+    }
+  ]
+}

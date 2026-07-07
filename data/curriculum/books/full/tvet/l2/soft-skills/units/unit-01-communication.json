@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Communication.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-communication-concepts-and-terminology",
+      "name": "Communication: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/soft-skills/lessons/01-lesson-01-communication-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-communication-tools-materials-and-preparation",
+      "name": "Communication: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/soft-skills/lessons/01-lesson-02-communication-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-communication-practical-procedure",
+      "name": "Communication: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/soft-skills/lessons/01-lesson-03-communication-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-communication-quality-safety-and-troubleshooting",
+      "name": "Communication: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l2/soft-skills/lessons/01-lesson-04-communication-quality-safety-and-troubleshooting.json",
+      "status": "ready"
+    }
+  ]
+}

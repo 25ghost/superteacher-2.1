@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Electrical systems.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-electrical-systems-concepts-and-terminology",
+      "name": "Electrical systems: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/automobile-technology/lessons/03-lesson-01-electrical-systems-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-electrical-systems-tools-materials-and-preparation",
+      "name": "Electrical systems: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/automobile-technology/lessons/03-lesson-02-electrical-systems-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-electrical-systems-practical-procedure",
+      "name": "Electrical systems: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/automobile-technology/lessons/03-lesson-03-electrical-systems-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-electrical-systems-quality-safety-and-troubleshootin",
+      "name": "Electrical systems: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/automobile-technology/lessons/03-lesson-04-electrical-systems-quality-safety-and-troubleshootin.json",
+      "status": "ready"
+    }
+  ]
+}

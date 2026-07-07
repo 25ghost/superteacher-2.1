@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "Automobile Technology",
+    "level": "RQF Level 3",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-workshop-safety",
+      "name": "Workshop safety",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l3/automobile-technology/units/unit-01-workshop-safety.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-engine-systems",
+      "name": "Engine systems",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l3/automobile-technology/units/unit-02-engine-systems.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-electrical-systems",
+      "name": "Electrical systems",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l3/automobile-technology/units/unit-03-electrical-systems.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-braking-and-steering",
+      "name": "Braking and steering",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l3/automobile-technology/units/unit-04-braking-and-steering.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-diagnostics",
+      "name": "Diagnostics",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l3/automobile-technology/units/unit-05-diagnostics.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Engine systems.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-engine-systems-concepts-and-terminology",
+      "name": "Engine systems: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/automobile-technology/lessons/02-lesson-01-engine-systems-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-engine-systems-tools-materials-and-preparation",
+      "name": "Engine systems: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/automobile-technology/lessons/02-lesson-02-engine-systems-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-engine-systems-practical-procedure",
+      "name": "Engine systems: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/automobile-technology/lessons/02-lesson-03-engine-systems-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-engine-systems-quality-safety-and-troubleshooting",
+      "name": "Engine systems: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/automobile-technology/lessons/02-lesson-04-engine-systems-quality-safety-and-troubleshooting.json",
+      "status": "ready"
+    }
+  ]
+}
