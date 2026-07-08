@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "Building Construction",
+    "level": "RQF Level 3",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-construction-safety",
+      "name": "Construction safety",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l3/building-construction/units/unit-01-construction-safety.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-materials",
+      "name": "Materials",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l3/building-construction/units/unit-02-materials.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-setting-out",
+      "name": "Setting out",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l3/building-construction/units/unit-03-setting-out.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-masonry-and-concrete",
+      "name": "Masonry and concrete",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l3/building-construction/units/unit-04-masonry-and-concrete.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-finishing",
+      "name": "Finishing",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l3/building-construction/units/unit-05-finishing.json",
+      "status": "ready"
+    }
+  ]
+}

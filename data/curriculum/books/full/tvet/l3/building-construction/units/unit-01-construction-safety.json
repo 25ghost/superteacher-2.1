@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Construction safety.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-construction-safety-concepts-and-terminology",
+      "name": "Construction safety: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/building-construction/lessons/01-lesson-01-construction-safety-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-construction-safety-tools-materials-and-preparation",
+      "name": "Construction safety: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/building-construction/lessons/01-lesson-02-construction-safety-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-construction-safety-practical-procedure",
+      "name": "Construction safety: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/building-construction/lessons/01-lesson-03-construction-safety-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-construction-safety-quality-safety-and-troubleshooti",
+      "name": "Construction safety: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/building-construction/lessons/01-lesson-04-construction-safety-quality-safety-and-troubleshooti.json",
+      "status": "ready"
+    }
+  ]
+}

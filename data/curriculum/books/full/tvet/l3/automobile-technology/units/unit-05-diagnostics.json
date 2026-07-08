@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Diagnostics.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-diagnostics-concepts-and-terminology",
+      "name": "Diagnostics: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/automobile-technology/lessons/05-lesson-01-diagnostics-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-diagnostics-tools-materials-and-preparation",
+      "name": "Diagnostics: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/automobile-technology/lessons/05-lesson-02-diagnostics-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-diagnostics-practical-procedure",
+      "name": "Diagnostics: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/automobile-technology/lessons/05-lesson-03-diagnostics-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-diagnostics-quality-safety-and-troubleshooting",
+      "name": "Diagnostics: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/automobile-technology/lessons/05-lesson-04-diagnostics-quality-safety-and-troubleshooting.json",
+      "status": "ready"
+    }
+  ]
+}

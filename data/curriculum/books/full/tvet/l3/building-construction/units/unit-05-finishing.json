@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Finishing.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-finishing-concepts-and-terminology",
+      "name": "Finishing: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/building-construction/lessons/05-lesson-01-finishing-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-finishing-tools-materials-and-preparation",
+      "name": "Finishing: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/building-construction/lessons/05-lesson-02-finishing-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-finishing-practical-procedure",
+      "name": "Finishing: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/building-construction/lessons/05-lesson-03-finishing-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-finishing-quality-safety-and-troubleshooting",
+      "name": "Finishing: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/building-construction/lessons/05-lesson-04-finishing-quality-safety-and-troubleshooting.json",
+      "status": "ready"
+    }
+  ]
+}
