@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Kitchen operations.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-kitchen-operations-concepts-and-terminology",
+      "name": "Kitchen operations: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/food-beverage/lessons/02-lesson-01-kitchen-operations-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-kitchen-operations-tools-materials-and-preparation",
+      "name": "Kitchen operations: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/food-beverage/lessons/02-lesson-02-kitchen-operations-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-kitchen-operations-practical-procedure",
+      "name": "Kitchen operations: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/food-beverage/lessons/02-lesson-03-kitchen-operations-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-kitchen-operations-quality-safety-and-troubleshootin",
+      "name": "Kitchen operations: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/food-beverage/lessons/02-lesson-04-kitchen-operations-quality-safety-and-troubleshootin.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Food service.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-food-service-concepts-and-terminology",
+      "name": "Food service: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/food-beverage/lessons/03-lesson-01-food-service-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-food-service-tools-materials-and-preparation",
+      "name": "Food service: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/food-beverage/lessons/03-lesson-02-food-service-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-food-service-practical-procedure",
+      "name": "Food service: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/food-beverage/lessons/03-lesson-03-food-service-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-food-service-quality-safety-and-troubleshooting",
+      "name": "Food service: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l3/food-beverage/lessons/03-lesson-04-food-service-quality-safety-and-troubleshooting.json",
+      "status": "ready"
+    }
+  ]
+}
