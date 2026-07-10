@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "Industrial Electricity",
+    "level": "RQF Level 4",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-electrical-safety",
+      "name": "Electrical safety",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l4/industrial-electricity/units/unit-01-electrical-safety.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-circuits",
+      "name": "Circuits",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l4/industrial-electricity/units/unit-02-circuits.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-machines",
+      "name": "Machines",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l4/industrial-electricity/units/unit-03-machines.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-control-systems",
+      "name": "Control systems",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l4/industrial-electricity/units/unit-04-control-systems.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-maintenance",
+      "name": "Maintenance",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l4/industrial-electricity/units/unit-05-maintenance.json",
+      "status": "ready"
+    }
+  ]
+}
