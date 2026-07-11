@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Control systems.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-control-systems-concepts-and-terminology",
+      "name": "Control systems: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/industrial-electricity/lessons/04-lesson-01-control-systems-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-control-systems-tools-materials-and-preparation",
+      "name": "Control systems: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/industrial-electricity/lessons/04-lesson-02-control-systems-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-control-systems-practical-procedure",
+      "name": "Control systems: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/industrial-electricity/lessons/04-lesson-03-control-systems-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-control-systems-quality-safety-and-troubleshooting",
+      "name": "Control systems: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/industrial-electricity/lessons/04-lesson-04-control-systems-quality-safety-and-troubleshooting.json",
+      "status": "ready"
+    }
+  ]
+}

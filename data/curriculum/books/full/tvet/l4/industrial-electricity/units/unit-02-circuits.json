@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Circuits.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-circuits-concepts-and-terminology",
+      "name": "Circuits: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/industrial-electricity/lessons/02-lesson-01-circuits-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-circuits-tools-materials-and-preparation",
+      "name": "Circuits: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/industrial-electricity/lessons/02-lesson-02-circuits-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-circuits-practical-procedure",
+      "name": "Circuits: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/industrial-electricity/lessons/02-lesson-03-circuits-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-circuits-quality-safety-and-troubleshooting",
+      "name": "Circuits: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/industrial-electricity/lessons/02-lesson-04-circuits-quality-safety-and-troubleshooting.json",
+      "status": "ready"
+    }
+  ]
+}

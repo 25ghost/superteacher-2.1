@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "Multimedia",
+    "level": "RQF Level 4",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-visual-design",
+      "name": "Visual design",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l4/multimedia/units/unit-01-visual-design.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-photography-and-audio",
+      "name": "Photography and audio",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l4/multimedia/units/unit-02-photography-and-audio.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-video-production",
+      "name": "Video production",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l4/multimedia/units/unit-03-video-production.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-interactive-media",
+      "name": "Interactive media",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l4/multimedia/units/unit-04-interactive-media.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-publishing-workflow",
+      "name": "Publishing workflow",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l4/multimedia/units/unit-05-publishing-workflow.json",
+      "status": "ready"
+    }
+  ]
+}
