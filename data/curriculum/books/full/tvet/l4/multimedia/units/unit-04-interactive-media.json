@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Interactive media.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-interactive-media-concepts-and-terminology",
+      "name": "Interactive media: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/multimedia/lessons/04-lesson-01-interactive-media-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-interactive-media-tools-materials-and-preparation",
+      "name": "Interactive media: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/multimedia/lessons/04-lesson-02-interactive-media-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-interactive-media-practical-procedure",
+      "name": "Interactive media: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/multimedia/lessons/04-lesson-03-interactive-media-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-interactive-media-quality-safety-and-troubleshooting",
+      "name": "Interactive media: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/multimedia/lessons/04-lesson-04-interactive-media-quality-safety-and-troubleshooting.json",
+      "status": "ready"
+    }
+  ]
+}

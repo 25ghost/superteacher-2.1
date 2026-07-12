@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "Networking",
+    "level": "RQF Level 4",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-network-devices",
+      "name": "Network devices",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l4/networking/units/unit-01-network-devices.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-addressing-and-routing",
+      "name": "Addressing and routing",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l4/networking/units/unit-02-addressing-and-routing.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-cabling-and-wireless",
+      "name": "Cabling and wireless",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l4/networking/units/unit-03-cabling-and-wireless.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-network-services",
+      "name": "Network services",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l4/networking/units/unit-04-network-services.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-security-and-troubleshooting",
+      "name": "Security and troubleshooting",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l4/networking/units/unit-05-security-and-troubleshooting.json",
+      "status": "ready"
+    }
+  ]
+}

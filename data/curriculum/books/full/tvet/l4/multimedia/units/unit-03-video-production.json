@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Video production.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-video-production-concepts-and-terminology",
+      "name": "Video production: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/multimedia/lessons/03-lesson-01-video-production-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-video-production-tools-materials-and-preparation",
+      "name": "Video production: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/multimedia/lessons/03-lesson-02-video-production-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-video-production-practical-procedure",
+      "name": "Video production: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/multimedia/lessons/03-lesson-03-video-production-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-video-production-quality-safety-and-troubleshooting",
+      "name": "Video production: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/multimedia/lessons/03-lesson-04-video-production-quality-safety-and-troubleshooting.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Photography and audio.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-photography-and-audio-concepts-and-terminology",
+      "name": "Photography and audio: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/multimedia/lessons/02-lesson-01-photography-and-audio-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-photography-and-audio-tools-materials-and-preparatio",
+      "name": "Photography and audio: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/multimedia/lessons/02-lesson-02-photography-and-audio-tools-materials-and-preparatio.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-photography-and-audio-practical-procedure",
+      "name": "Photography and audio: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/multimedia/lessons/02-lesson-03-photography-and-audio-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-photography-and-audio-quality-safety-and-troubleshoo",
+      "name": "Photography and audio: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/multimedia/lessons/02-lesson-04-photography-and-audio-quality-safety-and-troubleshoo.json",
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Addressing and routing.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-addressing-and-routing-concepts-and-terminology",
+      "name": "Addressing and routing: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/networking/lessons/02-lesson-01-addressing-and-routing-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-addressing-and-routing-tools-materials-and-preparati",
+      "name": "Addressing and routing: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/networking/lessons/02-lesson-02-addressing-and-routing-tools-materials-and-preparati.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-addressing-and-routing-practical-procedure",
+      "name": "Addressing and routing: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/networking/lessons/02-lesson-03-addressing-and-routing-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-addressing-and-routing-quality-safety-and-troublesho",
+      "name": "Addressing and routing: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/networking/lessons/02-lesson-04-addressing-and-routing-quality-safety-and-troublesho.json",
+      "status": "ready"
+    }
+  ]
+}
