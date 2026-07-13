@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Security and troubleshooting.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-security-and-troubleshooting-concepts-and-terminolog",
+      "name": "Security and troubleshooting: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/networking/lessons/05-lesson-01-security-and-troubleshooting-concepts-and-terminolog.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-security-and-troubleshooting-tools-materials-and-pre",
+      "name": "Security and troubleshooting: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/networking/lessons/05-lesson-02-security-and-troubleshooting-tools-materials-and-pre.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-security-and-troubleshooting-practical-procedure",
+      "name": "Security and troubleshooting: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/networking/lessons/05-lesson-03-security-and-troubleshooting-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-security-and-troubleshooting-quality-safety-and-trou",
+      "name": "Security and troubleshooting: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/networking/lessons/05-lesson-04-security-and-troubleshooting-quality-safety-and-trou.json",
+      "status": "ready"
+    }
+  ]
+}

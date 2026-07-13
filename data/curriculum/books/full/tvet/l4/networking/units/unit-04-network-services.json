@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Network services.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-network-services-concepts-and-terminology",
+      "name": "Network services: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/networking/lessons/04-lesson-01-network-services-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-network-services-tools-materials-and-preparation",
+      "name": "Network services: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/networking/lessons/04-lesson-02-network-services-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-network-services-practical-procedure",
+      "name": "Network services: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/networking/lessons/04-lesson-03-network-services-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-network-services-quality-safety-and-troubleshooting",
+      "name": "Network services: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/networking/lessons/04-lesson-04-network-services-quality-safety-and-troubleshooting.json",
+      "status": "ready"
+    }
+  ]
+}

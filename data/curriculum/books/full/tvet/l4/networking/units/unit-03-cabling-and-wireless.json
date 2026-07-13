@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Cabling and wireless.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-cabling-and-wireless-concepts-and-terminology",
+      "name": "Cabling and wireless: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/networking/lessons/03-lesson-01-cabling-and-wireless-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-cabling-and-wireless-tools-materials-and-preparation",
+      "name": "Cabling and wireless: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/networking/lessons/03-lesson-02-cabling-and-wireless-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-cabling-and-wireless-practical-procedure",
+      "name": "Cabling and wireless: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/networking/lessons/03-lesson-03-cabling-and-wireless-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-cabling-and-wireless-quality-safety-and-troubleshoot",
+      "name": "Cabling and wireless: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/networking/lessons/03-lesson-04-cabling-and-wireless-quality-safety-and-troubleshoot.json",
+      "status": "ready"
+    }
+  ]
+}

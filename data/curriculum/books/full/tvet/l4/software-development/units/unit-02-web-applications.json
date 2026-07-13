@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Web applications.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-web-applications-concepts-and-terminology",
+      "name": "Web applications: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/software-development/lessons/02-lesson-01-web-applications-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-web-applications-tools-materials-and-preparation",
+      "name": "Web applications: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/software-development/lessons/02-lesson-02-web-applications-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-web-applications-practical-procedure",
+      "name": "Web applications: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/software-development/lessons/02-lesson-03-web-applications-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-web-applications-quality-safety-and-troubleshooting",
+      "name": "Web applications: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/software-development/lessons/02-lesson-04-web-applications-quality-safety-and-troubleshooting.json",
+      "status": "ready"
+    }
+  ]
+}

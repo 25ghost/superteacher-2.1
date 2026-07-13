@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "Solar Energy",
+    "level": "RQF Level 4",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-electrical-safety",
+      "name": "Electrical safety",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l4/solar-energy/units/unit-01-electrical-safety.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-solar-resources",
+      "name": "Solar resources",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l4/solar-energy/units/unit-02-solar-resources.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-pv-components",
+      "name": "PV components",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l4/solar-energy/units/unit-03-pv-components.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-installation",
+      "name": "Installation",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l4/solar-energy/units/unit-04-installation.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-maintenance",
+      "name": "Maintenance",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l4/solar-energy/units/unit-05-maintenance.json",
+      "status": "ready"
+    }
+  ]
+}

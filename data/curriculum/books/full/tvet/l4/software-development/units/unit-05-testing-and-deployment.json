@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Testing and deployment.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-testing-and-deployment-concepts-and-terminology",
+      "name": "Testing and deployment: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/software-development/lessons/05-lesson-01-testing-and-deployment-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-testing-and-deployment-tools-materials-and-preparati",
+      "name": "Testing and deployment: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/software-development/lessons/05-lesson-02-testing-and-deployment-tools-materials-and-preparati.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-testing-and-deployment-practical-procedure",
+      "name": "Testing and deployment: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/software-development/lessons/05-lesson-03-testing-and-deployment-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-testing-and-deployment-quality-safety-and-troublesho",
+      "name": "Testing and deployment: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/software-development/lessons/05-lesson-04-testing-and-deployment-quality-safety-and-troublesho.json",
+      "status": "ready"
+    }
+  ]
+}
