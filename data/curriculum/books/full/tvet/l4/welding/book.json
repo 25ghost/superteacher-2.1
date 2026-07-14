@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "Welding",
+    "level": "RQF Level 4",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-workshop-safety",
+      "name": "Workshop safety",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l4/welding/units/unit-01-workshop-safety.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-materials",
+      "name": "Materials",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l4/welding/units/unit-02-materials.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-welding-processes",
+      "name": "Welding processes",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l4/welding/units/unit-03-welding-processes.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-fabrication",
+      "name": "Fabrication",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l4/welding/units/unit-04-fabrication.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-inspection",
+      "name": "Inspection",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l4/welding/units/unit-05-inspection.json",
+      "status": "ready"
+    }
+  ]
+}

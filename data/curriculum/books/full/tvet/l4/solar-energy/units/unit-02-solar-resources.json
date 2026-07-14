@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Solar resources.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-solar-resources-concepts-and-terminology",
+      "name": "Solar resources: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/solar-energy/lessons/02-lesson-01-solar-resources-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-solar-resources-tools-materials-and-preparation",
+      "name": "Solar resources: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/solar-energy/lessons/02-lesson-02-solar-resources-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-solar-resources-practical-procedure",
+      "name": "Solar resources: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/solar-energy/lessons/02-lesson-03-solar-resources-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-solar-resources-quality-safety-and-troubleshooting",
+      "name": "Solar resources: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/solar-energy/lessons/02-lesson-04-solar-resources-quality-safety-and-troubleshooting.json",
+      "status": "ready"
+    }
+  ]
+}

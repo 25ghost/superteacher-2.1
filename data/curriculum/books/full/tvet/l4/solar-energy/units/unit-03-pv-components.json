@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of PV components.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-pv-components-concepts-and-terminology",
+      "name": "PV components: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/solar-energy/lessons/03-lesson-01-pv-components-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-pv-components-tools-materials-and-preparation",
+      "name": "PV components: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/solar-energy/lessons/03-lesson-02-pv-components-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-pv-components-practical-procedure",
+      "name": "PV components: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/solar-energy/lessons/03-lesson-03-pv-components-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-pv-components-quality-safety-and-troubleshooting",
+      "name": "PV components: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/solar-energy/lessons/03-lesson-04-pv-components-quality-safety-and-troubleshooting.json",
+      "status": "ready"
+    }
+  ]
+}
