@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Workshop safety.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-workshop-safety-concepts-and-terminology",
+      "name": "Workshop safety: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/welding/lessons/01-lesson-01-workshop-safety-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-workshop-safety-tools-materials-and-preparation",
+      "name": "Workshop safety: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/welding/lessons/01-lesson-02-workshop-safety-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-workshop-safety-practical-procedure",
+      "name": "Workshop safety: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/welding/lessons/01-lesson-03-workshop-safety-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-workshop-safety-quality-safety-and-troubleshooting",
+      "name": "Workshop safety: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/welding/lessons/01-lesson-04-workshop-safety-quality-safety-and-troubleshooting.json",
+      "status": "ready"
+    }
+  ]
+}

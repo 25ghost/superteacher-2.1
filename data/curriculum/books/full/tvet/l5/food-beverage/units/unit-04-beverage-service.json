@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Beverage service.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-beverage-service-concepts-and-terminology",
+      "name": "Beverage service: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l5/food-beverage/lessons/04-lesson-01-beverage-service-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-beverage-service-tools-materials-and-preparation",
+      "name": "Beverage service: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l5/food-beverage/lessons/04-lesson-02-beverage-service-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-beverage-service-practical-procedure",
+      "name": "Beverage service: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l5/food-beverage/lessons/04-lesson-03-beverage-service-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-beverage-service-quality-safety-and-troubleshooting",
+      "name": "Beverage service: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l5/food-beverage/lessons/04-lesson-04-beverage-service-quality-safety-and-troubleshooting.json",
+      "status": "ready"
+    }
+  ]
+}

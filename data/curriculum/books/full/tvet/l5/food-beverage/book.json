@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "Food and Beverage Operations",
+    "level": "RQF Level 5",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-food-safety",
+      "name": "Food safety",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l5/food-beverage/units/unit-01-food-safety.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-kitchen-operations",
+      "name": "Kitchen operations",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l5/food-beverage/units/unit-02-kitchen-operations.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-food-service",
+      "name": "Food service",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l5/food-beverage/units/unit-03-food-service.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-beverage-service",
+      "name": "Beverage service",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l5/food-beverage/units/unit-04-beverage-service.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-customer-care",
+      "name": "Customer care",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l5/food-beverage/units/unit-05-customer-care.json",
+      "status": "ready"
+    }
+  ]
+}

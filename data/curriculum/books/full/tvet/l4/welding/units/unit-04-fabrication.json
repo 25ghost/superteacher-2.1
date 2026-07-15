@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Fabrication.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-fabrication-concepts-and-terminology",
+      "name": "Fabrication: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/welding/lessons/04-lesson-01-fabrication-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-fabrication-tools-materials-and-preparation",
+      "name": "Fabrication: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/welding/lessons/04-lesson-02-fabrication-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-fabrication-practical-procedure",
+      "name": "Fabrication: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/welding/lessons/04-lesson-03-fabrication-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-fabrication-quality-safety-and-troubleshooting",
+      "name": "Fabrication: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l4/welding/lessons/04-lesson-04-fabrication-quality-safety-and-troubleshooting.json",
+      "status": "ready"
+    }
+  ]
+}
