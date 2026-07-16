@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "Software Development",
+    "level": "RQF Level 5",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-programming-foundations",
+      "name": "Programming foundations",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l5/software-development/units/unit-01-programming-foundations.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-web-applications",
+      "name": "Web applications",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l5/software-development/units/unit-02-web-applications.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-databases",
+      "name": "Databases",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l5/software-development/units/unit-03-databases.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-apis",
+      "name": "APIs",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l5/software-development/units/unit-04-apis.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-testing-and-deployment",
+      "name": "Testing and deployment",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l5/software-development/units/unit-05-testing-and-deployment.json",
+      "status": "ready"
+    }
+  ]
+}
