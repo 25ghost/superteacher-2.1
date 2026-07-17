@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of APIs.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-apis-concepts-and-terminology",
+      "name": "APIs: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l5/software-development/lessons/04-lesson-01-apis-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-apis-tools-materials-and-preparation",
+      "name": "APIs: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l5/software-development/lessons/04-lesson-02-apis-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-apis-practical-procedure",
+      "name": "APIs: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l5/software-development/lessons/04-lesson-03-apis-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-apis-quality-safety-and-troubleshooting",
+      "name": "APIs: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l5/software-development/lessons/04-lesson-04-apis-quality-safety-and-troubleshooting.json",
+      "status": "ready"
+    }
+  ]
+}

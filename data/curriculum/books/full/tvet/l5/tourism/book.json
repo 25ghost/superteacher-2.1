@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "book": "Tourism",
+    "level": "RQF Level 5",
+    "unit_count": 5,
+    "loading": "Each unit manifest and lesson content file is loaded only when selected."
+  },
+  "nodes": [
+    {
+      "id": "unit-01-tourism-products",
+      "name": "Tourism products",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l5/tourism/units/unit-01-tourism-products.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-02-guiding",
+      "name": "Guiding",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l5/tourism/units/unit-02-guiding.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-03-reservations",
+      "name": "Reservations",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l5/tourism/units/unit-03-reservations.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-04-customer-service",
+      "name": "Customer service",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l5/tourism/units/unit-04-customer-service.json",
+      "status": "ready"
+    },
+    {
+      "id": "unit-05-sustainable-tourism",
+      "name": "Sustainable tourism",
+      "node_type": "unit",
+      "description": "4 on-demand lesson notes",
+      "children_ref": "books/full/tvet/l5/tourism/units/unit-05-sustainable-tourism.json",
+      "status": "ready"
+    }
+  ]
+}

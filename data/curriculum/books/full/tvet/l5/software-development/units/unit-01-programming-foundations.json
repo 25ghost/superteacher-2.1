@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Programming foundations.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-programming-foundations-concepts-and-terminology",
+      "name": "Programming foundations: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l5/software-development/lessons/01-lesson-01-programming-foundations-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-programming-foundations-tools-materials-and-preparat",
+      "name": "Programming foundations: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l5/software-development/lessons/01-lesson-02-programming-foundations-tools-materials-and-preparat.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-programming-foundations-practical-procedure",
+      "name": "Programming foundations: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l5/software-development/lessons/01-lesson-03-programming-foundations-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-programming-foundations-quality-safety-and-troublesh",
+      "name": "Programming foundations: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l5/software-development/lessons/01-lesson-04-programming-foundations-quality-safety-and-troublesh.json",
+      "status": "ready"
+    }
+  ]
+}
