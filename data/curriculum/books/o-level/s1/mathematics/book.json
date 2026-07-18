@@ -1,0 +1,6 @@
+{
+  "nodes": [
+    {"id": "unit-01", "name": "Unit 1: Sets", "node_type": "unit", "description": "Sets, Venn diagrams, relations and functions", "children_ref": "books/o-level/s1/mathematics/units/unit-01.json"},
+    {"id": "unit-02", "name": "Unit 2: Sets of numbers", "node_type": "unit", "description": "Natural, integer, rational and real number systems", "children_ref": "books/o-level/s1/mathematics/units/unit-02.json"}
+  ]
+}

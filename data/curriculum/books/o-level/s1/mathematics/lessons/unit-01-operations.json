@@ -1,0 +1,20 @@
+{
+  "content": {
+    "objectives": "Use union, intersection and complement; partition a two-set Venn diagram; apply inclusion–exclusion without double-counting.",
+    "reading": "OFFICIAL ALIGNMENT\nREB Senior 1 Mathematics, Unit 1 set operations.\n\nSUPERTEACHER DEEP EXPLANATION\nSet operations act like filters. Intersection means both rules must pass. Union means at least one rule passes. Complement reverses a rule, but only inside a stated universal set.",
+    "deep_explanation": "INTERSECTION = AND\nIf A is multiples of 2 and B is multiples of 3, A ∩ B contains multiples of 6.\n\nUNION = INCLUSIVE OR\nA ∪ B includes A-only, B-only and the overlap.\n\nCOMPLEMENT NEEDS U\nIf U={1,…,10} and A is the evens, Aᶜ={1,3,5,7,9}.\n\nWHY INCLUSION–EXCLUSION WORKS\nn(A)+n(B) counts the overlap twice, so subtract n(A∩B) once.",
+    "examples": "In a class of 48, 29 study French, 26 study Kiswahili and 8 study neither. Forty study at least one language. Therefore 40=29+26−both, so 15 study both.",
+    "practice": "1. Let U={1,…,12}, A be multiples of 2 and B multiples of 3. Find A∩B, A∪B and Aᶜ.\n2. Of 60 learners, 35 play football, 28 basketball and 12 both. How many play neither?\n3. Explain why A∩B ⊆ A∪B.",
+    "practice_answers": "1. A∩B={6,12}; A∪B={2,3,4,6,8,9,10,12}; Aᶜ={1,3,5,7,9,11}.\n2. At least one=35+28−12=51, so neither=9.\n3. Anything in both sets is certainly in at least one.",
+    "summary": "Think in disjoint regions. Add each region once. State the universal set before using a complement.",
+    "quiz": {
+      "question": "Why is n(A∩B) subtracted in the two-set union formula?",
+      "options": {"A": "It was not counted", "B": "It was counted twice", "C": "It is outside U", "D": "It is always empty"},
+      "answer": "B"
+    },
+    "checkbox_answers": "☐ I filled the overlap before the A-only and B-only regions.\n☐ My disjoint regions add to the universal total.\n☐ I did not count the overlap twice.",
+    "experiment": "Survey at least 20 classmates about two activities. Predict the overlap, draw the Venn diagram, then verify all regions sum to the sample size.",
+    "assignment": "Create consistent three-set transport data for 60 students and write three inclusion–exclusion questions with worked solutions.",
+    "diagrams": [{"type": "venn", "params": {"left": "A only", "right": "B only", "overlap": "Both"}, "caption": "Fill the overlap first to avoid double-counting."}]
+  }
+}

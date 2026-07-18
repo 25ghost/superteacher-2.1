@@ -1,0 +1,36 @@
+{
+  "nodes": [
+    {
+      "id": "software-development",
+      "name": "Software Development",
+      "node_type": "trade",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/tvet/l5/software-development/book.json"
+    },
+    {
+      "id": "networking",
+      "name": "Networking",
+      "node_type": "trade",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/tvet/l5/networking/book.json"
+    },
+    {
+      "id": "food-beverage",
+      "name": "Food and Beverage Operations",
+      "node_type": "trade",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/tvet/l5/food-beverage/book.json"
+    },
+    {
+      "id": "tourism",
+      "name": "Tourism",
+      "node_type": "trade",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/tvet/l5/tourism/book.json"
+    }
+  ]
+}

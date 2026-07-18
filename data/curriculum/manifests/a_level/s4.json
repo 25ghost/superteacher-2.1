@@ -1,0 +1,80 @@
+{
+  "nodes": [
+    {
+      "id": "core-mathematics",
+      "name": "Core Mathematics",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/a-level/s4/core-mathematics/book.json",
+      "metadata": {
+        "source_url": "https://elearning.reb.rw/pluginfile.php/44795/mod_resource/content/1/Core%20Math%20S4%20SB.pdf",
+        "syllabus_url": "https://elearning.reb.rw/pluginfile.php/38920/mod_resource/content/1/Mathematics_Syllabus.pdf"
+      }
+    },
+    {
+      "id": "physics",
+      "name": "Physics",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/a-level/s4/physics/book.json"
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/a-level/s4/chemistry/book.json"
+    },
+    {
+      "id": "biology",
+      "name": "Biology",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/a-level/s4/biology/book.json"
+    },
+    {
+      "id": "geography",
+      "name": "Geography",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/a-level/s4/geography/book.json"
+    },
+    {
+      "id": "history",
+      "name": "History",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/a-level/s4/history/book.json"
+    },
+    {
+      "id": "economics",
+      "name": "Economics",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/a-level/s4/economics/book.json"
+    },
+    {
+      "id": "literature",
+      "name": "Literature in English",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/a-level/s4/literature/book.json"
+    },
+    {
+      "id": "computer-science",
+      "name": "Computer Science",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/a-level/s4/computer-science/book.json"
+    }
+  ]
+}

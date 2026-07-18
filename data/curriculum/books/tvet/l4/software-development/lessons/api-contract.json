@@ -1,0 +1,20 @@
+{
+  "content": {
+    "objectives": "Model REST resources, define request and response contracts, validate input, and choose meaningful error statuses.",
+    "reading": "OFFICIAL ALIGNMENT\nRTB SWDBD401 Backend Application Development.\n\nAn endpoint is a promise about a resource, accepted input, outcomes and errors. URLs should name resources while HTTP methods state the operation.",
+    "deep_explanation": "RESOURCE DESIGN\nPOST /students creates a student; GET /students/42 reads one.\n\nTWO LAYERS OF VALIDATION\nSchema validation checks shape and types. Business validation checks meaning, uniqueness and allowed state transitions.\n\nERRORS ARE CONTRACTS\nUse stable status codes and safe bodies. Never expose stack traces or secrets.",
+    "examples": "POST /courses/{courseId}/enrolments can return 201 Created, 404 for an absent course, 409 for an existing enrolment, and 422 for invalid state.",
+    "practice": "1. Design create/read/update endpoints for assignments.\n2. Distinguish 400, 404, 409 and 422.\n3. Write validation rules for a student email and age.\n4. Explain why returning 200 with an error string is weak design.",
+    "practice_answers": "A defensible design uses resource nouns, appropriate methods, 201 for creation, 404 for absence, 409 for conflict and 422 for semantically invalid data.",
+    "summary": "Stable contracts separate resources, validation, business rules and safe error semantics.",
+    "quiz": {
+      "question": "Which status best represents a duplicate enrolment?",
+      "options": {"A": "200", "B": "201", "C": "409", "D": "503"},
+      "answer": "C"
+    },
+    "checkbox_answers": "☐ Every endpoint names a resource.\n☐ Success and failure statuses are documented.\n☐ Validation covers both shape and meaning.",
+    "experiment": "Build an in-memory students API with create and read routes plus tests for success, invalid input and duplicate email.",
+    "assignment": "Produce an API endpoint table for a school assignment service, including request schema and error contract.",
+    "diagrams": [{"type": "api_flow", "params": {}, "caption": "Validate at entry, enforce rules, persist deliberately, and return a stable response."}]
+  }
+}

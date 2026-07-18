@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "competence": "Design, implement, secure and test a RESTful backend service with predictable client and data contracts.",
+    "source_pages": "RTB SWDBD401 published module outcomes",
+    "estimated_minutes": 140
+  },
+  "nodes": [
+    {"id": "api-contract", "name": "Designing a stable API contract", "node_type": "lesson", "description": "Resources, validation and error semantics", "content_ref": "books/tvet/l4/software-development/lessons/api-contract.json"},
+    {"id": "security-testing", "name": "Security, persistence and testing", "node_type": "lesson", "description": "Layer identity, data access and boundary tests", "content_ref": "books/tvet/l4/software-development/lessons/security-testing.json"},
+    {"id": "operations", "name": "Operating the service safely", "node_type": "lesson", "description": "Configuration, observability and failure design", "content_ref": "books/tvet/l4/software-development/lessons/operations.json"}
+  ]
+}

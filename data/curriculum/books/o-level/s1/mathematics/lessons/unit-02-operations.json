@@ -1,0 +1,20 @@
+{
+  "content": {
+    "objectives": "Test closure under operations, apply sign rules, and estimate before exact calculation.",
+    "reading": "A set is closed under an operation when applying that operation to any two members always gives another member of the set. Integers are closed under addition and multiplication, but not division.",
+    "deep_explanation": "SIGN AS DIRECTION\nOne negative reverses direction; two negatives reverse twice.\n\nESTIMATION AS QUALITY CONTROL\n19.8×4.9 is close to 20×5=100, so an answer near 1,000 is impossible.\n\nROOTS\n√x is the non-negative principal root. Solving x²=9 produces x=±3.",
+    "examples": "5÷2 shows integers are not closed under division.\n(−4)(−3)=12, while (−4)(3)=−12.",
+    "practice": "1. Give an operation under which natural numbers are not closed.\n2. Compute −12−(−7).\n3. Estimate 49.8×2.02 before calculating.\n4. Explain the difference between √25 and solutions of x²=25.",
+    "practice_answers": "1. Subtraction or division.\n2. −5.\n3. About 100.\n4. √25=5, but x²=25 has x=5 or x=−5.",
+    "summary": "Predict the result set and size before calculating. Closure depends on both the set and operation.",
+    "quiz": {
+      "question": "Which calculation shows integers are not closed under division?",
+      "options": {"A": "−7+4", "B": "−3×8", "C": "12−20", "D": "5÷2"},
+      "answer": "D"
+    },
+    "checkbox_answers": "☐ I predicted the sign.\n☐ I estimated the size.\n☐ I identified the number set containing the result.",
+    "experiment": "Create twenty integer-operation cards. Predict sign and approximate size before calculating, then record which prediction errors reveal a misconception.",
+    "assignment": "Write a closure table for N, Z and Q under +, −, × and ÷, including a counterexample for every 'not closed' cell.",
+    "diagrams": [{"type": "cartesian", "params": {"x_label": "input", "y_label": "result"}, "caption": "Graphing sample operations can expose sign and scale errors."}]
+  }
+}

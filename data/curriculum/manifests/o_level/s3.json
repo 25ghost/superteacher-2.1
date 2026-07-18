@@ -1,0 +1,84 @@
+{
+  "nodes": [
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/o-level/s3/mathematics/book.json"
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/o-level/s3/english/book.json"
+    },
+    {
+      "id": "kinyarwanda",
+      "name": "Ikinyarwanda",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/o-level/s3/kinyarwanda/book.json"
+    },
+    {
+      "id": "physics",
+      "name": "Physics",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/o-level/s3/physics/book.json"
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/o-level/s3/chemistry/book.json"
+    },
+    {
+      "id": "biology",
+      "name": "Biology",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/o-level/s3/biology/book.json"
+    },
+    {
+      "id": "geography",
+      "name": "Geography",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/o-level/s3/geography/book.json"
+    },
+    {
+      "id": "history-citizenship",
+      "name": "History and Citizenship",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/o-level/s3/history-citizenship/book.json"
+    },
+    {
+      "id": "ict",
+      "name": "ICT",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/o-level/s3/ict/book.json"
+    },
+    {
+      "id": "entrepreneurship",
+      "name": "Entrepreneurship",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/o-level/s3/entrepreneurship/book.json"
+    }
+  ]
+}

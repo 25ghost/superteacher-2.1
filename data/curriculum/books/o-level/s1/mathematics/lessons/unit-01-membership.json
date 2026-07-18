@@ -1,0 +1,20 @@
+{
+  "content": {
+    "objectives": "By the end of this lesson you should be able to:\n• decide whether a collection is well-defined;\n• translate between statement, roster and set-builder forms;\n• justify subset relationships.",
+    "reading": "OFFICIAL ALIGNMENT\nREB Senior 1 Mathematics, Unit 1: Sets.\n\nSUPERTEACHER DEEP EXPLANATION\nA set is a membership rule, not merely a list. A useful rule gives a definite yes-or-no result for every candidate. “Students in Senior 1” is well-defined; “very clever students” is not until cleverness has a stated measure.\n\nStatement, roster and set-builder forms are three representations of the same rule. Translating between them tests whether you understand the property behind the symbols.",
+    "deep_explanation": "LAYER 1 — MEMBERSHIP\nFor A = {multiples of 3 below 15}, 12 ∈ A but 14 ∉ A.\n\nLAYER 2 — REPRESENTATION\n{2,4,6,8} = {positive even integers below 10} = {x ∈ N | x is even and x < 10}.\n\nLAYER 3 — CONTAINMENT\nA ⊆ B means every member of A is also a member of B. One counterexample is enough to disprove a proposed subset relationship.\n\nCOMMON TRAP\nOrder and repetition do not change a set. {1,2,2,3} and {3,2,1} are the same set.",
+    "examples": "Example 1\nWrite the first five positive multiples of 4 in roster form.\nSolution: {4, 8, 12, 16, 20}.\n\nExample 2\nLet A be the positive multiples of 6 and B the positive even numbers. Is A ⊆ B?\nSolution: Yes. Every multiple of 6 is divisible by 2.",
+    "practice": "1. Which is well-defined: beautiful songs, prime numbers below 30, or tall students?\n2. Write {5,10,15,20} in set-builder form.\n3. List every subset of {a,b}.\n4. Prove that multiples of 10 form a subset of multiples of 5.\n5. Give one counterexample showing that integers are not a subset of natural numbers.",
+    "practice_answers": "1. Prime numbers below 30.\n2. {x ∈ N | x is a multiple of 5 and 5 ≤ x ≤ 20}.\n3. ∅, {a}, {b}, {a,b}.\n4. 10k = 5(2k), so every multiple of 10 is a multiple of 5.\n5. −1 is an integer but not a natural number.",
+    "summary": "A set needs an objective membership rule. Equivalent representations preserve the same rule. A subset claim must hold for every member.",
+    "quiz": {
+      "question": "Which description is a well-defined set?",
+      "options": {"A": "Interesting books", "B": "Prime numbers below 30", "C": "Tall learners", "D": "Beautiful places"},
+      "answer": "B"
+    },
+    "checkbox_answers": "Check your reasoning, not only the final symbol:\n☐ Did you state the membership rule?\n☐ Did you use braces correctly?\n☐ For a subset claim, did you test every possible kind of member?",
+    "experiment": "Classify twenty classroom objects using two different objective rules. Record which objects change groups when the rule changes.",
+    "assignment": "Design a decision tree that tells a younger learner whether an object belongs to a set. Include three valid and two invalid membership rules.",
+    "diagrams": [{"type": "venn", "params": {"left": "A", "right": "B", "overlap": "A ∩ B"}, "caption": "Membership regions inside a universal set."}]
+  }
+}

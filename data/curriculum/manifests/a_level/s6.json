@@ -1,0 +1,60 @@
+{
+  "nodes": [
+    {
+      "id": "core-mathematics",
+      "name": "Core Mathematics",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/a-level/s6/core-mathematics/book.json"
+    },
+    {
+      "id": "physics",
+      "name": "Physics",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/a-level/s6/physics/book.json"
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/a-level/s6/chemistry/book.json"
+    },
+    {
+      "id": "biology",
+      "name": "Biology",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/a-level/s6/biology/book.json"
+    },
+    {
+      "id": "geography",
+      "name": "Geography",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/a-level/s6/geography/book.json"
+    },
+    {
+      "id": "history",
+      "name": "History",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/a-level/s6/history/book.json"
+    },
+    {
+      "id": "economics",
+      "name": "Economics",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/a-level/s6/economics/book.json"
+    }
+  ]
+}

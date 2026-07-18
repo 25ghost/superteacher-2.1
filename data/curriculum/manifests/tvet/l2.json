@@ -1,0 +1,44 @@
+{
+  "nodes": [
+    {
+      "id": "animal-health",
+      "name": "Animal Health",
+      "node_type": "trade",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/tvet/l2/animal-health/book.json"
+    },
+    {
+      "id": "crop-production",
+      "name": "Crop Production",
+      "node_type": "trade",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/tvet/l2/crop-production/book.json"
+    },
+    {
+      "id": "food-processing",
+      "name": "Food Processing",
+      "node_type": "trade",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/tvet/l2/food-processing/book.json"
+    },
+    {
+      "id": "basic-science",
+      "name": "Basic Science and Languages",
+      "node_type": "trade",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/tvet/l2/basic-science/book.json"
+    },
+    {
+      "id": "soft-skills",
+      "name": "Soft Skills",
+      "node_type": "trade",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/tvet/l2/soft-skills/book.json"
+    }
+  ]
+}

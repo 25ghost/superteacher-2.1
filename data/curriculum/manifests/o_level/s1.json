@@ -1,0 +1,92 @@
+{
+  "nodes": [
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/o-level/s1/mathematics/book.json",
+      "metadata": {
+        "source_url": "https://elearning.reb.rw/pluginfile.php/86880/mod_resource/content/1/Maths%20senior%201%20TG.pdf",
+        "source_kind": "Official REB teacher guide used for diagrams and visual reference",
+        "source_authority": "Rwanda Basic Education Board"
+      }
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "metadata": {
+        "source_url": "https://elearning.reb.rw/pluginfile.php/5637/mod_resource/content/1/English%20S1.pdf"
+      },
+      "children_ref": "books/full/o-level/s1/english/book.json"
+    },
+    {
+      "id": "kinyarwanda",
+      "name": "Ikinyarwanda",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/o-level/s1/kinyarwanda/book.json"
+    },
+    {
+      "id": "physics",
+      "name": "Physics",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/o-level/s1/physics/book.json"
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/o-level/s1/chemistry/book.json"
+    },
+    {
+      "id": "biology",
+      "name": "Biology",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/o-level/s1/biology/book.json"
+    },
+    {
+      "id": "geography",
+      "name": "Geography",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/o-level/s1/geography/book.json"
+    },
+    {
+      "id": "history-citizenship",
+      "name": "History and Citizenship",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/o-level/s1/history-citizenship/book.json"
+    },
+    {
+      "id": "ict",
+      "name": "ICT",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/o-level/s1/ict/book.json"
+    },
+    {
+      "id": "entrepreneurship",
+      "name": "Entrepreneurship",
+      "node_type": "subject",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/o-level/s1/entrepreneurship/book.json"
+    }
+  ]
+}

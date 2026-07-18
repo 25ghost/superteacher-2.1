@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "competence": "Use sets, Venn diagrams and relations to represent situations and solve problems involving classification and overlap.",
+    "source_pages": "REB Senior 1 Mathematics, pages 1–36",
+    "estimated_minutes": 95
+  },
+  "nodes": [
+    {"id": "membership", "name": "Set membership and representation", "node_type": "lesson", "description": "Build precise membership rules", "content_ref": "books/o-level/s1/mathematics/lessons/unit-01-membership.json"},
+    {"id": "operations", "name": "Set operations and Venn regions", "node_type": "lesson", "description": "Reason with union, intersection and complement", "content_ref": "books/o-level/s1/mathematics/lessons/unit-01-operations.json"},
+    {"id": "relations", "name": "Relations and functions", "node_type": "lesson", "description": "Control inputs, outputs and composition", "content_ref": "books/o-level/s1/mathematics/lessons/unit-01-relations.json"}
+  ]
+}

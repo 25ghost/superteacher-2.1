@@ -1,0 +1,44 @@
+{
+  "nodes": [
+    {
+      "id": "software-development",
+      "name": "Software Development",
+      "node_type": "trade",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/tvet/l3/software-development/book.json"
+    },
+    {
+      "id": "building-construction",
+      "name": "Building Construction",
+      "node_type": "trade",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/tvet/l3/building-construction/book.json"
+    },
+    {
+      "id": "automobile-technology",
+      "name": "Automobile Technology",
+      "node_type": "trade",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/tvet/l3/automobile-technology/book.json"
+    },
+    {
+      "id": "food-beverage",
+      "name": "Food and Beverage Operations",
+      "node_type": "trade",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/tvet/l3/food-beverage/book.json"
+    },
+    {
+      "id": "tourism",
+      "name": "Tourism",
+      "node_type": "trade",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/tvet/l3/tourism/book.json"
+    }
+  ]
+}

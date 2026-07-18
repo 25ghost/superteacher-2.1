@@ -1,0 +1,5 @@
+{
+  "nodes": [
+    {"id": "swdbd401", "name": "SWDBD401: Backend Application Development", "node_type": "unit", "description": "Design, build, secure and test RESTful backend services", "children_ref": "books/tvet/l4/software-development/units/swdbd401.json"}
+  ]
+}

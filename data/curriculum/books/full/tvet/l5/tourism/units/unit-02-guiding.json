@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Guiding.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-guiding-concepts-and-terminology",
+      "name": "Guiding: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l5/tourism/lessons/02-lesson-01-guiding-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-guiding-tools-materials-and-preparation",
+      "name": "Guiding: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l5/tourism/lessons/02-lesson-02-guiding-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-guiding-practical-procedure",
+      "name": "Guiding: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l5/tourism/lessons/02-lesson-03-guiding-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-guiding-quality-safety-and-troubleshooting",
+      "name": "Guiding: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l5/tourism/lessons/02-lesson-04-guiding-quality-safety-and-troubleshooting.json",
+      "status": "ready"
+    }
+  ]
+}

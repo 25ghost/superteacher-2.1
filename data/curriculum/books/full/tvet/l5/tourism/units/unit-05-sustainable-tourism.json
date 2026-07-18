@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "competence": "Build confident understanding and application of Sustainable tourism.",
+    "lesson_count": 4
+  },
+  "nodes": [
+    {
+      "id": "lesson-01-sustainable-tourism-concepts-and-terminology",
+      "name": "Sustainable tourism: concepts and terminology",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l5/tourism/lessons/05-lesson-01-sustainable-tourism-concepts-and-terminology.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-02-sustainable-tourism-tools-materials-and-preparation",
+      "name": "Sustainable tourism: tools, materials and preparation",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l5/tourism/lessons/05-lesson-02-sustainable-tourism-tools-materials-and-preparation.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-03-sustainable-tourism-practical-procedure",
+      "name": "Sustainable tourism: practical procedure",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l5/tourism/lessons/05-lesson-03-sustainable-tourism-practical-procedure.json",
+      "status": "ready"
+    },
+    {
+      "id": "lesson-04-sustainable-tourism-quality-safety-and-troubleshooti",
+      "name": "Sustainable tourism: quality, safety and troubleshooting",
+      "node_type": "lesson",
+      "description": "Notes, deep explanation, practice, experiment, assignment and CheckBox answers",
+      "content_ref": "books/full/tvet/l5/tourism/lessons/05-lesson-04-sustainable-tourism-quality-safety-and-troubleshooti.json",
+      "status": "ready"
+    }
+  ]
+}

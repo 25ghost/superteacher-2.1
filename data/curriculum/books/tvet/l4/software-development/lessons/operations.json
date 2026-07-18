@@ -1,0 +1,20 @@
+{
+  "content": {
+    "objectives": "Externalise configuration, design safe logs, add health signals, and handle dependency failure predictably.",
+    "reading": "A production backend must be observable and recoverable. Configuration, structured logs, health checks, timeouts and graceful shutdown are implementation requirements, not afterthoughts.",
+    "deep_explanation": "SECRETS\nKeep passwords and tokens outside source control.\n\nOBSERVABILITY\nLog request ID, route, status and duration without logging tokens or unnecessary personal data.\n\nFAILURE DESIGN\nUse timeouts, bounded retries with backoff, graceful shutdown and clear health signals. Retrying every failure can amplify an outage.",
+    "examples": "A database outage should produce a controlled 503 response instead of hanging requests indefinitely.\nA log may contain route, status, duration and correlation ID—but never the Authorization header.",
+    "practice": "1. Separate safe configuration from secrets.\n2. Design one readiness and one liveness check.\n3. Explain when a retry is unsafe.\n4. List four fields for a structured request log.",
+    "practice_answers": "Secrets include credentials and signing keys. Readiness checks dependencies needed to serve; liveness checks whether the process can recover. Non-idempotent operations may be unsafe to retry. Useful log fields include request ID, route, status and duration.",
+    "summary": "Operate deliberately: protect configuration, observe safely, fail fast and recover predictably.",
+    "quiz": {
+      "question": "Which value must never be written to ordinary request logs?",
+      "options": {"A": "Status code", "B": "Duration", "C": "Authorization token", "D": "Route name"},
+      "answer": "C"
+    },
+    "checkbox_answers": "☐ Secrets are outside source.\n☐ Logs avoid tokens and private data.\n☐ Every external call has a timeout.\n☐ Retries are bounded and safe.",
+    "experiment": "Simulate a database failure and verify the API returns a controlled 503, records one safe log event and recovers after the dependency returns.",
+    "assignment": "Write an operations checklist covering configuration, logs, health checks, timeouts, graceful shutdown and rollback.",
+    "diagrams": [{"type": "api_flow", "params": {}, "caption": "Operational signals surround the request path without exposing its secrets."}]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "nodes": [
+    {"id": "l2", "name": "RQF Level 2", "node_type": "sublevel", "description": "Foundation vocational programmes", "children_ref": "manifests/tvet/l2.json"},
+    {"id": "l3", "name": "RQF Level 3", "node_type": "sublevel", "description": "Technical certificate programmes", "children_ref": "manifests/tvet/l3.json"},
+    {"id": "l4", "name": "RQF Level 4", "node_type": "sublevel", "description": "Advanced technical programmes", "children_ref": "manifests/tvet/l4.json"},
+    {"id": "l5", "name": "RQF Level 5", "node_type": "sublevel", "description": "Professional technical programmes", "children_ref": "manifests/tvet/l5.json"}
+  ]
+}

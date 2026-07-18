@@ -1,0 +1,20 @@
+{
+  "content": {
+    "objectives": "Separate authentication from authorisation, parameterise data access, and test security boundaries.",
+    "reading": "Authentication establishes identity. Authorisation decides whether that identity may perform an operation on a particular resource. A valid token is not permission to edit every record.",
+    "deep_explanation": "OBJECT-LEVEL AUTHORISATION\nA learner may read their own record but not another learner’s marks.\n\nPARAMETERISED DATA ACCESS\nKeep untrusted values separate from query commands to prevent injection.\n\nBOUNDARY TESTS\nCover missing authentication, forbidden access, invalid payloads, conflicts and dependency failures—not only the happy path.",
+    "examples": "Test that user A receives 403 when trying to update user B, while an authorised administrator succeeds.\nUse query parameters or an ORM rather than concatenating request text into SQL.",
+    "practice": "1. Identify the missing control when a route validates a JWT then updates any URL user ID.\n2. Name the primary SQL-injection control.\n3. Write four negative tests for POST /assignments.\n4. Explain why password hashing alone does not secure an API.",
+    "practice_answers": "1. Object-level authorisation.\n2. Parameterised queries.\n3. Examples: missing token, forbidden role, invalid payload, duplicate record.\n4. It does not prevent broken authorisation, injection, token leaks or excessive data exposure.",
+    "summary": "Security is layered across identity, permission, validation, persistence and tests.",
+    "quiz": {
+      "question": "Which control most directly prevents SQL injection?",
+      "options": {"A": "Password hashing", "B": "Parameterized queries", "C": "CORS", "D": "Rate limiting"},
+      "answer": "B"
+    },
+    "checkbox_answers": "☐ I tested a valid user against someone else’s resource.\n☐ Database commands and untrusted values stay separate.\n☐ Negative tests assert status and safe response body.",
+    "experiment": "Add role and ownership checks to the students API. Write tests proving forbidden cross-user access fails.",
+    "assignment": "Create an authorisation matrix for student, teacher and administrator roles across five school resources.",
+    "diagrams": [{"type": "api_flow", "params": {}, "caption": "Every request crosses authentication, authorisation, validation and data boundaries."}]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "content": {
+    "objectives": "Represent relations with ordered pairs, decide whether a relation is a function, and evaluate simple composite functions.",
+    "reading": "A relation pairs inputs with outputs. A function is stricter: every allowed input has exactly one output. Several inputs may share an output, but one input may not split into two outputs.",
+    "deep_explanation": "ORDER MATTERS\n(x,y) identifies input then output; reversing the pair changes the relation.\n\nVERTICAL-LINE IDEA\nA graph is a function when no vertical line meets it more than once.\n\nCOMPOSITION IS A PIPELINE\nFor f∘g, g acts first. Its output becomes the input of f.",
+    "examples": "If g(x)=x+1 and f(x)=2x, then (f∘g)(3)=f(4)=8.\n\nThe relation {(1,a),(2,a),(3,b)} is a function because every input appears with exactly one output.",
+    "practice": "1. Decide whether {(1,2),(1,3),(2,4)} is a function.\n2. If f(x)=3x−1, find f(5).\n3. If g(x)=x² and f(x)=x+2, find (g∘f)(2) and (f∘g)(2).\n4. Explain why a circle fails the vertical-line test.",
+    "practice_answers": "1. No; input 1 has two outputs.\n2. 14.\n3. (g∘f)(2)=16; (f∘g)(2)=6.\n4. Some vertical lines meet a circle twice, giving one x two y-values.",
+    "summary": "Functions control outputs. Ordered pairs carry direction. Composition order matters.",
+    "quiz": {
+      "question": "Which condition must every function satisfy?",
+      "options": {"A": "Every output has one input", "B": "Every input has exactly one output", "C": "All outputs differ", "D": "The graph is straight"},
+      "answer": "B"
+    },
+    "checkbox_answers": "☐ I checked repeated inputs, not repeated outputs.\n☐ I applied the inner function first.\n☐ I kept ordered-pair direction visible.",
+    "experiment": "Map each learner in a group to birth month, then map each month to learners. Decide which direction is a function and explain.",
+    "assignment": "Create one real-world relation that is a function and one that is not. Represent each with a table, mapping diagram and ordered pairs.",
+    "diagrams": [{"type": "cartesian", "params": {"x_label": "input", "y_label": "output"}, "caption": "Use vertical lines to test whether an input has multiple outputs."}]
+  }
+}

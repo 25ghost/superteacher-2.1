@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "competence": "Classify and operate with natural, integer, rational and real numbers and justify where a result belongs.",
+    "source_pages": "REB Senior 1 Mathematics, pages 37–63",
+    "estimated_minutes": 85
+  },
+  "nodes": [
+    {"id": "number-systems", "name": "How number systems grow", "node_type": "lesson", "description": "From counting numbers to real numbers", "content_ref": "books/o-level/s1/mathematics/lessons/unit-02-systems.json"},
+    {"id": "operations", "name": "Operations, closure and estimation", "node_type": "lesson", "description": "Predict result types and catch errors", "content_ref": "books/o-level/s1/mathematics/lessons/unit-02-operations.json"}
+  ]
+}

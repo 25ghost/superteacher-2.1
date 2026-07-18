@@ -1,0 +1,20 @@
+{
+  "content": {
+    "objectives": "Classify natural, integer, rational, irrational and real numbers; explain the nesting of number systems.",
+    "reading": "Number systems grow when an old set cannot support a needed operation. Natural numbers count. Integers make subtraction below zero possible. Rational numbers support division into fractions. Real numbers include irrational measurements such as √2.",
+    "deep_explanation": "N ⊂ Z ⊂ Q ⊂ R.\nA terminating or recurring decimal is rational. An irrational decimal neither terminates nor repeats. Always classify a value in the smallest standard set that contains it.",
+    "examples": "0.272727…=27/99=3/11, so it is rational.\n\nSince 49<50<64, 7<√50<8; √50 is irrational.",
+    "practice": "Classify each in the smallest set: 7, −4, 2/3, 0.125, √7. Explain why recurring decimals are rational.",
+    "practice_answers": "7 natural; −4 integer; 2/3 rational; 0.125 rational; √7 irrational. A recurring decimal can be converted to a ratio of integers by place-value subtraction.",
+    "summary": "Larger sets solve limitations of smaller ones. Decimal appearance alone does not decide rationality.",
+    "quiz": {
+      "question": "What is the smallest standard set containing −7?",
+      "options": {"A": "Natural", "B": "Integer", "C": "Irrational", "D": "Non-real"},
+      "answer": "B"
+    },
+    "checkbox_answers": "☐ I chose the smallest containing set.\n☐ I checked whether a decimal terminates or repeats.\n☐ I used nearby perfect squares to locate a square root.",
+    "experiment": "Measure the side and diagonal of three square objects. Compare diagonal ÷ side and discuss why the result approximates √2.",
+    "assignment": "Build a number-system decision tree and test it on ten tricky values.",
+    "diagrams": [{"type": "cartesian", "params": {"x_label": "number line", "y_label": ""}, "caption": "Every real number has a position on the number line."}]
+  }
+}

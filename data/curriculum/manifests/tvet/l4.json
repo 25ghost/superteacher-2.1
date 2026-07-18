@@ -1,0 +1,56 @@
+{
+  "nodes": [
+    {
+      "id": "software-development",
+      "name": "Software Development",
+      "node_type": "trade",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/tvet/l4/software-development/book.json",
+      "metadata": {
+        "source_url": "https://www.elearning.rtb.gov.rw/course/view.php?id=1410",
+        "source_authority": "Rwanda TVET Board"
+      }
+    },
+    {
+      "id": "networking",
+      "name": "Networking",
+      "node_type": "trade",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/tvet/l4/networking/book.json"
+    },
+    {
+      "id": "multimedia",
+      "name": "Multimedia",
+      "node_type": "trade",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/tvet/l4/multimedia/book.json"
+    },
+    {
+      "id": "welding",
+      "name": "Welding",
+      "node_type": "trade",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/tvet/l4/welding/book.json"
+    },
+    {
+      "id": "solar-energy",
+      "name": "Solar Energy",
+      "node_type": "trade",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/tvet/l4/solar-energy/book.json"
+    },
+    {
+      "id": "industrial-electricity",
+      "name": "Industrial Electricity",
+      "node_type": "trade",
+      "description": "Study notes available — opens one lesson at a time",
+      "status": "ready",
+      "children_ref": "books/full/tvet/l4/industrial-electricity/book.json"
+    }
+  ]
+}

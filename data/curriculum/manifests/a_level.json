@@ -1,0 +1,7 @@
+{
+  "nodes": [
+    {"id": "s4", "name": "Senior 4", "node_type": "sublevel", "description": "Advanced Level first year", "children_ref": "manifests/a_level/s4.json"},
+    {"id": "s5", "name": "Senior 5", "node_type": "sublevel", "description": "Advanced Level second year", "children_ref": "manifests/a_level/s5.json"},
+    {"id": "s6", "name": "Senior 6", "node_type": "sublevel", "description": "Advanced Level final year", "children_ref": "manifests/a_level/s6.json"}
+  ]
+}
